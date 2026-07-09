@@ -11,6 +11,34 @@ type Props = CollectionEntry<'blog'>['data'] & { genre?: string };
 
 const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts } = Astro.props;
 
+const defaultProducts = [
+	{
+		title: '秋田文庫 BLACK JACK 全17巻セット（化粧箱入り）',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592.jpg?_ex=600x600',
+		price: 14960
+	},
+	{
+		title: 'マンガで世界名作 名探偵シャーロック・ホームズ',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fc6a58d7acedd376698538e15b5206cff%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F24974575%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=128x128',
+		price: 1320
+	},
+	{
+		title: '齋藤孝のドラえもん読み解きクイズ 2 国語力を伸ばす （ドラえもんのドリル・プリント・ムック）',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F4352251%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F12033400%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0928/9784092530928_1_4.jpg?_ex=128x128',
+		price: 770
+	}
+];
+
+const products = sidebarProducts && sidebarProducts.length > 0
+	? [
+			...sidebarProducts,
+			...defaultProducts.slice(sidebarProducts.length)
+		].slice(0, 3)
+	: defaultProducts;
+
 // 過去の投稿（最新記事・今見ている記事を除く10件）を取得
 const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -445,30 +473,24 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						<!-- 広告1: 特選おすすめ商品/バナー -->
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{sidebarProducts && sidebarProducts.length > 0 ? (
+							{products && products.length > 0 && (
 								<div class="sidebar-product-card">
-									{sidebarProducts[0].imageUrl && (
-										<a href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
-											<img src={sidebarProducts[0].imageUrl} alt={sidebarProducts[0].title} class="sidebar-product-image" />
+									{products[0].imageUrl && (
+										<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[0].imageUrl} alt={products[0].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
-										{sidebarProducts[0].title}
+									<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[0].title}
 									</a>
-									{sidebarProducts[0].price && (
+									{products[0].price && (
 										<div class="sidebar-product-price">
-											{sidebarProducts[0].price.toLocaleString()}円
+											{products[0].price.toLocaleString()}円
 										</div>
 									)}
-									<a class="banner-button" href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer">
+									<a class="banner-button" href={products[0].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
-								</div>
-							) : (
-								<div class="dummy-ad-box premium-ad-gradient-1">
-									<span class="ad-title">📚 夜更かしの名作棚特選</span>
-									<p class="ad-desc">夜更かしのお供にふさわしい不朽の名作全巻セット</p>
-									<a class="banner-button" href="/contact">詳細をチェックする</a>
 								</div>
 							)}
 						</div>
@@ -496,25 +518,24 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						<!-- 広告2: 汎用アフィリエイトプレースホルダー -->
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{sidebarProducts && sidebarProducts.length > 1 ? (
+							{products && products.length > 1 && (
 								<div class="sidebar-product-card">
-									{sidebarProducts[1].imageUrl && (
-										<a href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
-											<img src={sidebarProducts[1].imageUrl} alt={sidebarProducts[1].title} class="sidebar-product-image" />
+									{products[1].imageUrl && (
+										<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[1].imageUrl} alt={products[1].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
-										{sidebarProducts[1].title}
+									<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[1].title}
 									</a>
-									<a class="banner-button" href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer">
+									{products[1].price && (
+										<div class="sidebar-product-price">
+											{products[1].price.toLocaleString()}円
+										</div>
+									)}
+									<a class="banner-button" href={products[1].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
-								</div>
-							) : (
-								<div class="dummy-ad-box premium-ad-gradient-2">
-									<span class="ad-title">📖 おすすめの隠れた名作</span>
-									<p class="ad-desc">今読んでも胸が熱くなる、往年のサブカルチャー傑作漫画</p>
-									<a class="banner-button" href="/contact">キャンペーンを見る</a>
 								</div>
 							)}
 						</div>
@@ -522,25 +543,24 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						<!-- 広告3: 最下部追従広告 -->
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{sidebarProducts && sidebarProducts.length > 2 ? (
+							{products && products.length > 2 && (
 								<div class="sidebar-product-card">
-									{sidebarProducts[2].imageUrl && (
-										<a href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
-											<img src={sidebarProducts[2].imageUrl} alt={sidebarProducts[2].title} class="sidebar-product-image" />
+									{products[2].imageUrl && (
+										<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[2].imageUrl} alt={products[2].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
-										{sidebarProducts[2].title}
+									<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[2].title}
 									</a>
-									<a class="banner-button" href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer">
+									{products[2].price && (
+										<div class="sidebar-product-price">
+											{products[2].price.toLocaleString()}円
+										</div>
+									)}
+									<a class="banner-button" href={products[2].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
-								</div>
-							) : (
-								<div class="dummy-ad-box premium-ad-gradient-3">
-									<span class="ad-title">📢 会員限定お得な情報</span>
-									<p class="ad-desc">最大50%のポイント還元実施中！全巻まとめ買いチャンス</p>
-									<a class="banner-button" href="/contact">限定キャンペーンを開く</a>
 								</div>
 							)}
 						</div>
