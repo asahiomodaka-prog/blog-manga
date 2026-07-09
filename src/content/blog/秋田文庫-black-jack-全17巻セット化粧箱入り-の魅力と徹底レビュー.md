@@ -11,7 +11,7 @@ genre: ''
 
 ## 秋田文庫 BLACK JACK 全17巻セット（化粧箱入り）
 
-[![秋田文庫 BLACK JACK 全17巻セット（化粧箱入り）](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592.jpg?_ex=600x600" alt="秋田文庫 BLACK JACK 全17巻セット（化粧箱入り）" border="0" /></a>
 
 👉 [秋田文庫 BLACK JACK 全17巻セット（化粧箱入り） の詳細・ご購入はこちら](https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
@@ -36,7 +36,7 @@ genre: ''
 
 例えば、冤罪を救ってくれた恩人が事故で重傷を負った際、ブラック・ジャックは入院した病院ごと買い取り、手術した上で顔の整形まで施している。 また、「自分が生きるために人をなおすんだっ」 というセリフは、彼の生き様そのものを表しているように感じられる。彼は決して正義を信じているわけではない。 彼が信じているのは、生命そのものの神秘なのだ。
 
-[![秋田文庫 BLACK JACK 全17巻セット（化粧箱入り） 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592_2.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592_2.jpg?_ex=600x600" alt="秋田文庫 BLACK JACK 全17巻セット（化粧箱入り） 画像" border="0" /></a>
 
 ## 時を超えて読み継がれる普遍的な魅力
 
@@ -54,7 +54,7 @@ genre: ''
 
 秋田文庫版『BLACK JACK』全17巻セットをチェックする
 
-[![秋田文庫 BLACK JACK 全17巻セット（化粧箱入り） サンプル](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592_4.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592_4.jpg?_ex=600x600" alt="秋田文庫 BLACK JACK 全17巻セット（化粧箱入り） サンプル" border="0" /></a>
 
 
 ### 商品仕様・スペック
