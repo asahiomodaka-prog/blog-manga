@@ -3,7 +3,7 @@ title: '秋田文庫 BLACK JACK 全17巻セット（化粧箱入り） の魅力
 description: '※本ページはプロモーションが含まれています。    秋田文庫 BLACK JACK 全17巻セット（化粧箱入り）  [![秋田文庫 BLACK JACK 全17巻セット（化粧箱入り）](https://thumbnail.image.rak...'
 pubDate: '2026-07-06'
 heroImage: '../../assets/blog-placeholder-3.jpg'
-genre: ''
+genre: 'manga'
 ---
 
 ※本ページはプロモーションが含まれています。
