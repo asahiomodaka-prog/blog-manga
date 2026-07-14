@@ -4,6 +4,19 @@ description: '浦沢直樹『MONSTER 完全版 デジタルVer.（18）』をdmm
 pubDate: '2026-07-10'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg'
 genre: 'manga'
+sidebarProducts:
+  - title: '夏目アラタの結婚'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F902808%2Fb600dsgk41224%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk41224/b600dsgk41224pl.jpg'
+    price: 814
+  - title: '金田一少年の事件簿30th'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4185499%2Fb900bkds15254%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900bkds15254/b900bkds15254pl.jpg'
+    price: 792
+  - title: 'ないない堂 〜タヌキ和尚の禍事帖〜'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4347430%2Fb900zkds21751%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds21751/b900zkds21751pl.jpg'
+    price: 594
 ---
 
 ※本ページはプロモーションが含まれています。
