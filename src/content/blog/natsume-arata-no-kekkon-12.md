@@ -2,7 +2,7 @@
 title: 'あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験'
 description: '浦沢直樹『MONSTER 完全版 デジタルVer.（18）』をdmmで770円で。善悪の境界線を問う人間ドラマ、衝撃の最終巻がここに。天才外科医・天馬の選択が織りなす壮大なサスペンスの全貌を見届けよう。'
 pubDate: '2026-07-10'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk41224/b600dsgk41224pl.jpg'
 genre: 'manga'
 sidebarProducts:
   - title: '夏目アラタの結婚'

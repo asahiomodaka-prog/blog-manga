@@ -2,7 +2,7 @@
 title: '眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ'
 description: '手塚治虫不朽の名作『BLACK JACK』全17巻(秋田文庫)セット。命の光と闇、人間の業に迫る医療ドラマを14,960円(税込)で一気読み。楽天で購入し、青春の熱狂と深い問いを再体験しよう。'
 pubDate: '2026-07-06'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3592/9784253903592.jpg?_ex=600x600'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600asgk05343/b600asgk05343pl.jpg'
 genre: 'manga'
 sidebarProducts:
   - title: '藤子・F・不二雄大全集'

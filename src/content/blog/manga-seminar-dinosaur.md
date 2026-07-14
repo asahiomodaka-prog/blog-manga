@@ -2,7 +2,7 @@
 title: '齋藤孝のドラえもん読み解きクイズ2で深まる夜。あの頃の秘密道具に隠された日本語の奥深さ！'
 description: '齋藤孝のドラえもん読み解きクイズ2で、名作に隠された日本語の奥深さを再発見。大人こそ楽しめる知的なクイズ集が楽天で770円。懐かしのドラえもんを新たな視点で深掘りし、言葉の奥深さを体感しませんか？'
 pubDate: '2026-07-05'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0928/9784092530928_1_4.jpg?_ex=600x600'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600asgk05343/b600asgk05343pl.jpg'
 genre: 'manga'
 sidebarProducts:
   - title: '藤子・F・不二雄大全集'

@@ -2,7 +2,7 @@
 title: '忘れられない夜の熱狂！POP UP PARADE スパイク・スピーゲルに宿るビバップの魂'
 description: '「POP UP PARADE スパイク・スピーゲル カウボーイビバップ」再販情報！あのクールな賞金稼ぎのフィギュアがdmmで4,895円。手軽に飾れる人気シリーズで、スパイクをあなたの部屋へ。購入前に価格や詳細をチェック。'
 pubDate: '2026-07-12'
-heroImage: 'https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg'
+heroImage: 'https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg'
 genre: 'manga'
 sidebarProducts:
   - title: 'BP028 ヤッ太郎＆トリツックン'

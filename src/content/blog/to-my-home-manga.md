@@ -2,7 +2,7 @@
 title: '「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？'
 description: '藤子・F・不二雄『別巻 まんがゼミナール 恐竜ゼミナール』は、単なる恐竜解説ではないSF漫画。科学への探求心と、生命の倫理的境界線を問う深いメッセージを解説。2310円でDMMにて。子供から大人まで、知的好奇心と考察力を刺激する一冊の魅力。'
 pubDate: '2026-07-12'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600asgk05343/b600asgk05343pl.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg'
 genre: 'manga'
 sidebarProducts:
   - title: 'わたしのおうちへ（単話）'
