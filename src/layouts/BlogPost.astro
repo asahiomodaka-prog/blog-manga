@@ -50,7 +50,7 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 
 <html lang="ja">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} pubDate={pubDate} updatedDate={updatedDate} />
 		<style>
 			main {
 				width: 100%;
