@@ -1,5 +1,5 @@
 ---
-title: 'カウボーイビバップ POP UP PARADE スパイクが語る過去。彼の「Bang」に何を思う？'
+title: 'カウボーイビバップ POP UP PARADE スパイク造形レビュー。ラストシーンの余韻'
 description: 'POP UP PARADE スパイク・スピーゲル（カウボーイビバップ）フィギュアの魅力に迫る。宇宙を漂う賞金稼ぎのクールな姿を4895円で。dmmで購入可能。作品の世界観とフィギュアの精巧さを深掘りし、あなたのコレクションに加える価値を徹底解説。'
 pubDate: '2026-07-17'
 heroImage: 'https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg'

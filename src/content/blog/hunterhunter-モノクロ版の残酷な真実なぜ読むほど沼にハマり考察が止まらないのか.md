@@ -1,5 +1,5 @@
 ---
-title: 'HUNTER×HUNTER モノクロ版の残酷な真実。なぜ読むほど沼にハマり、考察が止まらないのか？'
+title: 'HUNTER×HUNTERキメラ蟻編の残酷な真実。なぜ読むほど心に刺さるのか'
 description: 'DMMで『HUNTER×HUNTER モノクロ版』を読むならこの記事。単なる冒険を超えた、伏線と深遠なテーマが織りなす物語を徹底解説。善悪の境界が揺らぐ世界観やキャラクターの内面に迫ります。1巻572円から、あなたも未だ見ぬハンターハンターの魅力に気づくはず。'
 pubDate: '2026-07-18'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg'
