@@ -15,10 +15,10 @@ sidebarProducts:
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg'
     price: 2200
     microCopy: '詳細を見る'
-  - title: '【デジタル限定】花咲楓香＆波崎天結＆成瀬いな写真集「変幻自在のヒロインズ！！！」'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6265922%2Fb950yshes28674%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes28674/b950yshes28674pl.jpg'
-    price: 1100
+  - title: 'BEATLESS 紅霞 1/8スケールフィギュア'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_2018062601%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.co.jp/mono/hobby/cha_2018062601/cha_2018062601pt.jpg'
+    price: 21429
     microCopy: '詳細を見る'
 ---
 
