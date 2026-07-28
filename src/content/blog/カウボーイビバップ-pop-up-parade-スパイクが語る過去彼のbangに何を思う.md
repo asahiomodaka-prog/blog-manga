@@ -55,7 +55,7 @@ SF的なガジェットや、アクロバティックな戦闘シーンは、あ
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
     <span style="align-self: flex-start; font-size: 0.65rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 9999px; background-color: #fef3c7; color: #d97706; border: 1px solid #fde68a; text-transform: uppercase; font-family: sans-serif;">
-      電子書籍 (DMM)
+      ホビー (DMM)
     </span>
     <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="font-size: 0.95rem; font-weight: 700; color: #1e293b; text-decoration: none; line-height: 1.4; display: block; margin: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
       POP UP PARADE スパイク・スピーゲル カウボーイビバップ
