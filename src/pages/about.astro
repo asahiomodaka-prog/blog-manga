@@ -1,0 +1,145 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="プロフィール・当ブログについて"
+	description="漫画・ライトノベルを愛読する管理人のプロフィールと、当ブログ『漫画のある暮らし』の発信方針についてご紹介します。"
+	pubDate={new Date('July 30 2026')}
+>
+	<div class="profile-container">
+		<section class="profile-hero">
+			<div class="profile-image-box">
+				<img src="/images/profile-manga.jpg" alt="自宅の本棚に並ぶ漫画・ライトノベル" class="hero-img" />
+				<span class="img-caption">自宅の本棚にずらりと並ぶ、愛読してきたお気に入りの漫画やライトノベルたち</span>
+			</div>
+		</section>
+
+		<section class="profile-content">
+			<h2>はじめまして、「漫画のある暮らし」管理人の僕です</h2>
+			<p>
+				当ブログ「漫画のある暮らし」にお越しいただき、ありがとうございます。<br />
+				ここは、名作漫画から知る人ぞ知る隠れた傑作、名作ライトノベルまで、幅広い物語の世界に魅せられた管理人が、おすすめ作品のレビューや見どころを解説している個人の考察・紹介ブログです。
+			</p>
+
+			<h3>漫画沼にハマったきっかけと読書へのこだわり</h3>
+			<p>
+				幼少期から少年誌・青年誌を中心に数多くの作品を読み込んできました。<br />
+				1冊の漫画が与えてくれる感動や熱量、キャラクターの生き様から学べる教訓、重厚な世界観の奥深さは、何物にも代えがたい魅力を持っています。
+			</p>
+			<p>
+				「この伏線がどう回収されたのか？」「作家の緻密な心理描写の何がすごいのか？」
+			</p>
+			<p>
+				物語の表面的な面白さだけでなく、作品の真の魅力を深く読み解き、次に読む1冊を探している読者の皆様に役立つ情報をお届けすることを大切にしています。（上の写真は自宅の本棚の一部です）
+			</p>
+
+			<h3>当ブログの発信方針とこだわり</h3>
+			<ul>
+				<li><strong>一次情報とリアルな読書体験</strong>: 実際に自分で全巻読破・購入した作品を中心に、本音のレビューと考察をお届けします。</li>
+				<li><strong>作品の魅力を深掘り</strong>: あらすじ紹介にとどまらず、キャラクターの魅力、伏線の張り方、世界観の緻密さなど多角的に分析します。</li>
+				<li><strong>多様なジャンルをカバー</strong>: 王道バトル、サスペンス、ギャグ、歴史ファンタジー、名作SFまで、幅広く面白い作品をピックアップします。</li>
+			</ul>
+
+			<h3>お気に入り作品・おすすめレビュー記事</h3>
+			<p>
+				当ブログでは、世代を超えて愛される名作から、今絶対に読むべき話題作まで多数レビューしています。<br />
+				ぜひ気になる記事から覗いてみてくださいね。
+			</p>
+
+			<div class="cta-box">
+				<a href="/archive" class="btn-archive">過去の記事一覧を見る</a>
+				<a href="/contact" class="btn-contact">お問い合わせはこちら</a>
+			</div>
+		</section>
+	</div>
+</Layout>
+
+<style>
+	.profile-container {
+		max-width: 780px;
+		margin: 0 auto;
+		line-height: 1.8;
+		color: #334155;
+	}
+	.profile-hero {
+		margin-bottom: 2.5rem;
+		text-align: center;
+	}
+	.profile-image-box {
+		display: inline-block;
+		width: 100%;
+		border-radius: 16px;
+		overflow: hidden;
+		box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+		background-color: #f8fafc;
+		border: 1px solid #e2e8f0;
+	}
+	.hero-img {
+		width: 100%;
+		height: auto;
+		max-height: 480px;
+		object-fit: cover;
+		display: block;
+	}
+	.img-caption {
+		display: block;
+		padding: 0.6rem 1rem;
+		font-size: 0.85rem;
+		color: #64748b;
+		background: #f1f5f9;
+		border-top: 1px solid #e2e8f0;
+	}
+	.profile-content h2 {
+		font-size: 1.6rem;
+		color: #1e293b;
+		border-bottom: 2px solid #8b5cf6;
+		padding-bottom: 0.5rem;
+		margin-top: 2rem;
+		margin-bottom: 1.2rem;
+	}
+	.profile-content h3 {
+		font-size: 1.25rem;
+		color: #334155;
+		margin-top: 2rem;
+		margin-bottom: 0.8rem;
+	}
+	.profile-content ul {
+		background: #f8fafc;
+		border-left: 4px solid #8b5cf6;
+		padding: 1.2rem 1.5rem 1.2rem 2.5rem;
+		border-radius: 0 8px 8px 0;
+		margin: 1.5rem 0;
+	}
+	.profile-content li {
+		margin-bottom: 0.6rem;
+	}
+	.cta-box {
+		display: flex;
+		gap: 1rem;
+		margin-top: 3rem;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	.btn-archive, .btn-contact {
+		display: inline-block;
+		padding: 0.8rem 1.8rem;
+		border-radius: 8px;
+		font-weight: 700;
+		text-decoration: none;
+		transition: transform 0.2s ease, box-shadow 0.2s ease;
+	}
+	.btn-archive {
+		background: linear-gradient(135deg, #8b5cf6, #6d28d9);
+		color: #ffffff !important;
+		box-shadow: 0 4px 12px rgba(139, 92, 246, 0.25);
+	}
+	.btn-contact {
+		background: #ffffff;
+		color: #475569 !important;
+		border: 1px solid #cbd5e1;
+	}
+	.btn-archive:hover, .btn-contact:hover {
+		transform: translateY(-2px);
+	}
+</style>
