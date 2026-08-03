@@ -48,7 +48,7 @@ sidebarProducts:
 
 この作品が発表された昭和の時代は、科学技術の発展が急速に進み、生命科学の分野でも様々な可能性が模索され始めていた時期と重なる。クローン技術や遺伝子操作といった、それまでSFの世界でしか語られなかった技術が、現実味を帯びてきた時代背景も、本作のメッセージに一層の深みを与えていると言えるだろう。だからこそ、「今読んでも全く色褪せない人間ドラマ」として、この作品は現代に生きる私たちにも強く訴えかけるものがあるのだ。科学の発展を無条件に賛美するのではなく、その影の部分にも目を向け、倫理的な問いを投げかける先生の先見性には、ただただ感服するばかりだ。
 
-![別巻 まんがゼミナール 恐竜ゼミナール](https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg)
+<img src="https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg" alt="別巻 まんがゼミナール 恐竜ゼミナール" />
 
 ## 胸を締め付ける選択と、生命への問いかけ
 
@@ -60,7 +60,7 @@ sidebarProducts:
 
 また、作品には、科学者の暴走を止めようとする、あるいはその研究に疑問を投げかけるキャラクターも登場する。彼らの存在が、物語に多角的な視点をもたらし、単純な善悪二元論に陥ることを避けている。彼らの葛藤や、それぞれの信念に基づいた行動は、読者に「もし自分がその立場だったらどうするだろうか」という問いを投げかける。藤子・F・不不二雄先生は、登場人物たちの内面の描写を通して、生命の価値とは何か、科学と倫理のバランスをどう取るべきかという、深遠なテーマを私たちに提示しているのだ。単なるキャラクターのやり取りではなく、それぞれの選択が持つ意味や、それがもたらす結果までを考えさせるような描写は、先生のストーリーテリングの巧みさを象徴している。
 
-[![別巻 まんがゼミナール 恐竜ゼミナール 画像](https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg" alt="別巻 まんがゼミナール 恐竜ゼミナール 画像" /></a>
 
 ## 時代を超えて愛される名作、しかしその奥深さに戸惑う人もいるかも
 

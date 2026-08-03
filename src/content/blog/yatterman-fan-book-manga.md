@@ -43,7 +43,7 @@ sidebarProducts:
 
 [BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)
 
-![BP028 ヤッ太郎＆トリツックン](https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg)
+<img src="https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg" alt="BP028 ヤッ太郎＆トリツックン" />
 
 ## 終わりなき戦いの哲学と社会風刺
 
@@ -75,7 +75,7 @@ sidebarProducts:
 
 このファンブック [BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)では、ヤッターマンやドロンボー一味の詳しい紹介はもちろん、彼らの魅力を凝縮した「ドロンジョギャラリー」も収録されている。各キャラクターのイラストや設定をじっくりと眺めることで、彼らがなぜこれほどまでに多くの人々を魅了し続けるのか、その理由がきっと見えてくるはずだ。
 
-[![BP028 ヤッ太郎＆トリツックン 画像](https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg" alt="BP028 ヤッ太郎＆トリツックン 画像" /></a>
 
 ## 今だからこそ再評価したい、古き良きアニメーションの醍醐味
 

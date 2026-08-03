@@ -49,7 +49,7 @@ sidebarProducts:
 
 冨樫先生は、物語を通じて「人間とは何か」という普遍的なテーマを執拗に問い続けている。ゴンが父を探す旅路は、自己のルーツを探す旅であり、同時に自身のアイデンティティを確立する過程でもある。キルアの暗殺一家からの脱却は、生まれながらに定められた運命に抗い、自己の自由を勝ち取ろうとする姿の象徴だ。クラピカの復讐は、憎しみという感情が人間にもたらす破壊と、それでもなお人間が希望を見出そうとする心の葛藤を描いている。これらのキャラクターたちの生き様を通して、僕らは自分自身の存在意義や、人生の選択について深く考えさせられる。作品の根底に流れる「人間とは、かくも複雑で、時に残酷で、それでも美しく、可能性に満ちた存在である」というメッセージは、読者の心に深く突き刺さる。それが、『HUNTER×HUNER』が単なる娯楽作品に終わらない、普遍的な価値を持つ所以なのだ。
 
-![HUNTER×HUNTER モノクロ版](https://ebook-assets.dmm.com/digital/e-book/b900zkds70858/b900zkds70858pl.jpg)
+<img src="https://ebook-assets.dmm.com/digital/e-book/b900zkds70858/b900zkds70858pl.jpg" alt="HUNTER×HUNTER モノクロ版" />
 
 ### 少年たちの葛藤と、心震える言葉の力
 
@@ -59,7 +59,7 @@ sidebarProducts:
 
 彼らの成長は、常に順風満帆ではない。挫折し、悩み、時には道を踏み外しそうになることもある。しかし、互いを信じ、支え合うことで、彼らは困難を乗り越えていく。特に、ヨークシンシティ編での幻影旅団との攻防や、キメラアント編での壮絶な戦いの中で、キャラクターたちは精神的に大きく成長し、読者もまた、彼らと共に喜び、悲しみ、怒りを感じる。彼らの放つ言葉は、時に僕らの心に深く刻まれ、人生の指針となるような重みを持っている。それぞれのキャラクターが抱える背景や信念が、彼らの行動原理となり、物語に唯一無二の深みを与えているのだ。
 
-[![HUNTER×HUNTER モノクロ版 画像](https://ebook-assets.dmm.com/digital/e-book/b900zkds70858/b900zkds70858pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56854%2Fb950yshes32626%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56854%2Fb950yshes32626%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b900zkds70858/b900zkds70858pl.jpg" alt="HUNTER×HUNTER モノクロ版 画像" /></a>
 
 ### 『HUNTER×HUNER』が響く人、響かない人
 

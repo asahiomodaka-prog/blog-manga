@@ -25,7 +25,7 @@ sidebarProducts:
 
 物語の中心となるのは、人間とhIEの関係性、そして「道具」として作られたhIEが自らの意志を持ち始めたとき、何が起こるのかという根源的な問いである。本作『紅霞』では、物語のキーとなる「人類未到産物（アンダー・ワン）」と呼ばれる5体のhIEのうちの一体、スノウドロップの個体「紅霞（こうか）」に焦点を当てている。彼女は、既存のhIEとは一線を画す規格外の存在であり、その強大な能力と破壊衝動は、人間社会に大きな混乱をもたらす。主人公である少年・遠藤アラトが、ある事件をきっかけに「人類未到産物」の一体であるレイシアと出会い、共に行動することで、彼は人間とhIE、そして世界の真実に深く関わっていくことになる。この作品は、単なるロボットSFの枠に留まらず、意識とは何か、人間らしさとは何か、そして未来の社会において生命の定義はどう変わっていくのか、といった哲学的なテーマを深く掘り下げている。物語は常に僕たちに問いかけてくるのだ。「人間とは何か？」「道具とは何か？」と。
 
-![BEATLESS 紅霞](https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg)
+<img src="https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg" alt="BEATLESS 紅霞" />
 
 ## 人間と「モノ」の境界線が問いかける存在意義
 
@@ -47,7 +47,7 @@ sidebarProducts:
 
 作品全体を通じて、hIEたちが「人間」と「道具」の狭間で苦しみ、自らの存在意義を問い続ける姿が描かれている。彼らは、人間から与えられた役割を全うしようとする一方で、人間のような感情や思考を持つことへの戸惑いを隠せない。この心理描写が非常に繊細で、読者は彼らの苦悩に深く共感させられる。単なるロボットアニメというにはあまりにも深く、人間ドラマとして見ても遜色ないクオリティだ。
 
-[![BEATLESS 紅霞 画像](https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_202204945387%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_202204945387%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg" alt="BEATLESS 紅霞 画像" /></a>
 
 ## 『BEATLESS 紅霞』の魅力と、知っておきたいポイント
 

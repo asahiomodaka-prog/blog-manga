@@ -62,7 +62,7 @@ sidebarProducts:
 
 浦沢直樹先生は、キャラクター一人ひとりに明確な「人生」と「思想」を与えている。それが、この作品をただのサスペンスに終わらせない、深い人間ドラマへと昇華させているのだ。彼らの言葉、彼らの行動、そして彼らの眼差しの一つ一つが、物語のテーマをより深く掘り下げていく。僕たちは、彼らの姿を通して、人間とは何か、善悪とは何か、そして自分自身が何者であるかを問いかけられるのだ。
 
-[![MONSTER 完全版 デジタルVer. 画像](https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg" alt="MONSTER 完全版 デジタルVer. 画像" /></a>
 
 ## 読者のリアルな声と、この作品との向き合い方
 
@@ -93,7 +93,7 @@ sidebarProducts:
 
 DMMブックスでは、[MONSTER 完全版 デジタルVer.](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api)を手に取ることができる。まずは試し読みで作品の世界観に触れてみるのも良いだろう。浦沢直樹先生の卓越した画力と、読者の心を掴んで離さないストーリーテリングの魅力は、きっとあなたを『MONSTER』の世界へと引きずり込むはずだ。最終巻の[MONSTER 完全版 デジタルVer.（18）](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api)まで一気に読み進めるのも良いし、じっくりと物語を味わいながら読み進めるのも、電子書籍ならではの楽しみ方と言える。
 
-![MONSTER 完全版 デジタルVer.](https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg)
+<img src="https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg" alt="MONSTER 完全版 デジタルVer." />
 
 ## 深夜に響く、怪物の足音
 

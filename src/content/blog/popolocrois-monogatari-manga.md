@@ -51,7 +51,7 @@ sidebarProducts:
 
 当時の社会背景を考えると、この作品が発表された時代は、まだ純粋なファンタジーや冒険譚が子供たちの心を捉えていた頃だ。しかし、その中にあって、ここまで哲学的なテーマを内包し、読者に深い問いかけをしていた『猩猩姫』は、その時代の作品群の中でも異彩を放っていたと言える。今読んでも全く色褪せない人間ドラマがそこにはある。
 
-![猩猩姫](https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00242/b889ahkdd00242pl.jpg)
+<img src="https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00242/b889ahkdd00242pl.jpg" alt="猩猩姫" />
 
 ## 心揺さぶる葛藤と絆――キャラクターたちの人間ドラマ
 
@@ -68,7 +68,7 @@ sidebarProducts:
 | 価格 | 792円 |
 | 商品名 | 猩猩姫 |
 
-[![猩猩姫 画像](https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00242/b889ahkdd00242pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00242/b889ahkdd00242pl.jpg" alt="猩猩姫 画像" /></a>
 
 ## ノスタルジーと現代的視点――読者の声と向き・不向き
 

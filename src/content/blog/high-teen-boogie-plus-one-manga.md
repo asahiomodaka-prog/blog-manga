@@ -63,7 +63,7 @@ ippatu先生の描線は、非常に特徴的だ。ハデで、どこかバカ�
 
 ippatu先生のキャラクターデザインは、登場人物の内面を巧みに表現している。猩猩姫のくるくると変わる表情、玄奘の思慮深い眼差し、ぶたくんのコミカルな動き、そして沙悟浄の内に秘めた感情が滲み出るような佇まい。それぞれのキャラクターが、その絵の線一本一本から息づいているようで、まるで彼らが目の前で生きているかのような錯覚に陥る。言葉だけでは伝えきれない心の機微が、見事な作画によって表現されているのだ。彼らの人間らしい葛藤や成長は、読者に「自分も頑張ろう」という前向きな気持ちを与えてくれる。
 
-[![猩猩姫 画像](https://ebook-assets.dmm.com/digital/e-book/b544atsmi04629/b544atsmi04629pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b544atsmi04629/b544atsmi04629pl.jpg" alt="猩猩姫 画像" /></a>
 
 ## 普遍的な面白さと向き合い方：読者のリアルな声と作品の深み
 

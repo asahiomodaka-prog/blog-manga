@@ -51,7 +51,7 @@ sidebarProducts:
 
 特に注目すべきは、ヤッ太郎とトリツックンの関係性だ。彼らは単なる主従関係ではなく、互いに支え合い、時にはぶつかり合いながらも、共に成長していく対等なパートナーだ。トリツックンは、ヤッ太郎にとって、時に頼れる兄貴分であり、時に手のかかる弟のようでもある。このような多面的な関係性は、現代社会における多様な人間関係のあり方を先取りしていたと言えるかもしれない。互いの違いを認め、尊重し合うこと。それは、まさに現代社会が直面している課題への一つの答えを提示しているようにも思える。この作品は、表面的な面白さだけでなく、その奥深さこそが、今なお多くの人々に愛され続ける所以なのだと僕は思う。
 
-![BP028 ヤッ太郎＆トリツックン](https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg)
+<img src="https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg" alt="BP028 ヤッ太郎＆トリツックン" />
 
 ## 胸に刻まれた言葉と、忘れられない絆の物語
 
@@ -65,7 +65,7 @@ sidebarProducts:
 
 これらの人間ドラマは、単なるフィクションとしてではなく、僕たちの現実世界にも通じる普遍的なテーマを扱っている。友情、努力、勝利。そして、信頼と裏切り、葛藤と成長。ヤッ太郎たちの物語は、僕たちが生きる上で直面する様々な感情や状況を鮮やかに描き出し、見る者に深く問いかける力を持っているのだ。このフィギュアは、そんな熱いドラマをいつでも思い出させてくれる、まさにタイムカプセルのような存在だ。
 
-[![BP028 ヤッ太郎＆トリツックン 画像](https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg" alt="BP028 ヤッ太郎＆トリツックン 画像" /></a>
 
 ## 普遍的な魅力と、時代が生んだ郷愁
 

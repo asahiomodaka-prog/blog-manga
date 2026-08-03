@@ -63,7 +63,7 @@ sidebarProducts:
 
 こうしたキャラクターたちの心理描写は、一つ一つのセリフや表情、行動の端々にまで細やかに描かれている。読者は、彼女たちの心の闇が深まっていく過程を、まるで間近で見ているかのように追体験する。そして、その歪んだ愛情が、どこへ向かっていくのか、ウォルカとの関係はどうなるのか、目が離せなくなる。これは、単なる恋愛感情の描写ではない。人間の心の奥底に潜む、承認欲求、依存、そして支配という、普遍的なテーマを深く掘り下げているのだ。これらのキャラクターたちの葛藤は、僕らが日常で出会う人間関係の複雑さや、感情の多様性を改めて考えさせる。
 
-[![全滅エンドを死に物狂いで回避した 画像](https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4561256%2Fb000ehftx83614%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4561256%2Fb000ehftx83614%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg" alt="全滅エンドを死に物狂いで回避した 画像" /></a>
 
 ## 賛否両論を呼ぶ深淵：向き不向きを見極める
 

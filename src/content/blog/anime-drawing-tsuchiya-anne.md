@@ -37,7 +37,7 @@ sidebarProducts:
 
 [【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api)を初めて手にした時、僕は思わず息を飲んだ。箱から取り出した瞬間に目に飛び込んできたのは、まさに画面から飛び出してきたかのようなスパイク・スピーゲルの姿だった。
 
-![POP UP PARADE スパイク・スピーゲル カウボーイビバップ](https://ebook-assets.dmm.com/digital/e-book/b000ehftx79807/b000ehftx79807pl.jpg)
+<img src="https://ebook-assets.dmm.com/digital/e-book/b000ehftx79807/b000ehftx79807pl.jpg" alt="POP UP PARADE スパイク・スピーゲル カウボーイビバップ" />
 
 POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの高さで定評があるが、今回のスパイクはそれをさらに上回る出来栄えだと断言できる。
 
@@ -77,7 +77,7 @@ POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの�
 
 もちろん、フィギュアはデリケートなものだから、直射日光が当たる場所や高温多湿な場所は避けて飾るようにしている。定期的に埃を払ってあげるのも、彼への感謝の気持ちだ。彼は僕のコレクションの一つであると同時に、僕の日常に寄り添い、僕の心を豊かにしてくれる、かけがえのない「もう一人の相棒」なのだ。
 
-[![POP UP PARADE スパイク・スピーゲル カウボーイビバップ 画像](https://ebook-assets.dmm.com/digital/e-book/b000ehftx79807/b000ehftx79807pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b000ehftx79807/b000ehftx79807pl.jpg" alt="POP UP PARADE スパイク・スピーゲル カウボーイビバップ 画像" /></a>
 
 ## 彼の生き様に共鳴するあなたへ
 

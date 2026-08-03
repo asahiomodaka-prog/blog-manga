@@ -47,7 +47,7 @@ sidebarProducts:
 
 特に印象深いのは、生命の倫理を深く考えさせるエピソードの数々だ。例えば、クローン人間や遺伝子操作といった、当時としては最先端でありながらも、倫理的な問題をはらむテーマが果敢に描かれている。手塚治虫は、科学技術の進歩がもたらす光と影を鋭い視点で描き出し、安易な進歩主義に警鐘を鳴らした。こうした哲学的でマニアックな深掘りは、僕のような漫画コレクターにとってはたまらない魅力であり、何度読み返しても新たな発見がある。
 
-![BLACK JACK (秋田文庫版) 全17巻セット](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/570/9784253172570.jpg)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/570/9784253172570.jpg" alt="BLACK JACK (秋田文庫版) 全17巻セット" />
 
 ## 葛藤を抱える魂の叫びと、心震わす名言の数々
 
@@ -59,7 +59,7 @@ sidebarProducts:
 
 他にも、ブラック・ジャックが過去の因縁と対峙するエピソードや、彼を取り巻く様々な医師や患者たちとの人間ドラマは、どれもが胸を熱くさせる。キャラクターたちの心の機微が緻密に描かれているため、彼らの苦悩や喜び、そして葛藤に深く共感することができる。昭和・平成の名作として語り継がれる理由の一つは、こうした普遍的な人間ドラマが、卓越した画力とストーリーテリングで描かれている点にあると僕は確信している。
 
-[![BLACK JACK (秋田文庫版) 全17巻セット 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/570/9784253172570.jpg)](https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e1-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e1-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/570/9784253172570.jpg" alt="BLACK JACK (秋田文庫版) 全17巻セット 画像" /></a>
 
 ## 読者の熱狂と、時代が映す作品の側面
 

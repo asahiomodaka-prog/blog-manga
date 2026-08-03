@@ -67,9 +67,9 @@ sidebarProducts:
 
 僕自身、読み進める中で、それぞれのキャラクターに感情移入し、彼らの運命に一喜一憂した。時には彼らの選択に納得がいかず、歯噛みすることもあった。しかし、それこそが、彼らが「生きている」証であり、この物語が持つ力強さなのだろう。彼らの人間臭い葛藤と、それでも失われない絆の輝きは、読者の心に深く刻み込まれるはずだ。
 
-![全滅エンドを死に物狂いで回避した](https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg)
+<img src="https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg" alt="全滅エンドを死に物狂いで回避した" />
 
-[![全滅エンドを死に物狂いで回避した 画像](https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg" alt="全滅エンドを死に物狂いで回避した 画像" /></a>
 
 ## 読者のリアルな声と、この作品を楽しむための羅針盤
 

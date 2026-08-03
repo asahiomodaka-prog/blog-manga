@@ -47,7 +47,7 @@ sidebarProducts:
 
 そして、「カルマ」という言葉が持つ意味についても深く考えさせられる。彼女が背負う「傾国のカルマ」とは、単に国を傾けるという意味ではない。それは、彼女の血筋が辿ってきた宿命であり、そして彼女がその宿命にどう向き合い、どう乗り越えていくのかという、魂の試練を意味しているように思えるのだ。彼女の選択一つ一つが、歴史の歯車を動かし、やがて来る未来を形作っていく。この作品は、一人の女性の激動の生涯を通して、人間の尊厳、そして運命に抗う強さとは何かを、静かに問いかけてくる。
 
-![傾国のカルマ](https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg)
+<img src="https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg" alt="傾国のカルマ" />
 
 ## 魂を揺さぶる女王の覚悟と人間ドラマ
 
@@ -66,7 +66,7 @@ sidebarProducts:
 | 価格 | 100円 |
 | 商品名 | 傾国のカルマ（単話） |
 
-[![傾国のカルマ 画像](https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190445%2Fs174apups00563%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190445%2Fs174apups00563%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg" alt="傾国のカルマ 画像" /></a>
 
 ## 賛否両論と読み解く上での注意点
 

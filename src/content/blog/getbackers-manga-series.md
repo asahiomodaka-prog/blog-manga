@@ -59,7 +59,7 @@ sidebarProducts:
 
 脇を固めるキャラクターたちも魅力的だ。工藤邪馬人（くどう やまて）、赤屍蔵人（あかばね くろうど）、風鳥院花月（ふうちょういん かづき）など、それぞれが強烈な個性と悲しい過去を抱え、物語に深みを与えている。彼らもまた、蛮や銀次との出会いを通じて、自らの「奪われたもの」と向き合い、それぞれの形で再生していく。登場人物一人ひとりの人生が交錯し、織りなす人間ドラマは、単なるバトル漫画の枠を超え、読者の心に深く刻まれることだろう。彼らの葛藤や成長を見守ることは、まるで自分のことのように思えてくる。
 
-[![猩猩姫 画像](https://ebook-assets.dmm.com/digital/e-book/s031ahpkj15272/s031ahpkj15272pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/s031ahpkj15272/s031ahpkj15272pl.jpg" alt="猩猩姫 画像" /></a>
 
 ## 世代を超えて愛される名作、その向き不向き
 

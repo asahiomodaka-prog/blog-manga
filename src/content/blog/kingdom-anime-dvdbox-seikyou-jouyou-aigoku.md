@@ -69,7 +69,7 @@ TVアニメ「キングダム」第4シリーズは、原作ファンにとっ�
 
 登場人物たちの言葉一つ一つに、彼らの生き様や哲学が凝縮されている。戦場の緊張感の中で発せられる叫び、仲間を鼓舞する言葉、そして敵に語りかける言葉。それらは時に僕たちの心に深く刺さり、考えさせられる。特に、乱世を生きる彼らが、それぞれの「正義」をぶつけ合う場面でのセリフは、何度も読み返したくなるほどだ。彼らの言葉から、僕たちは「生きるとは何か」「戦うとは何か」「信じるとは何か」という根源的な問いに対する答えを探ろうとするのだ。
 
-[![TVアニメ「キングダム」成キョウの変/著雍攻略戦/アイ国反乱編 DVDBOX/アニメーション 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/joshin-cddvd/cabinet/023/eyba-14302-4.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00qco51.ve2q5440.g00qco51.ve2q63f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoshin-cddvd%2F4580055363023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoshin-cddvd%2Fi%2F11065437%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qco51.ve2q5440.g00qco51.ve2q63f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoshin-cddvd%2F4580055363023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoshin-cddvd%2Fi%2F11065437%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/joshin-cddvd/cabinet/023/eyba-14302-4.jpg?_ex=600x600" alt="TVアニメ「キングダム」成キョウの変/著雍攻略戦/アイ国反乱編 DVDBOX/アニメーション 画像" /></a>
 
 ## 読者の熱狂と、向き合うべき残酷な現実
 

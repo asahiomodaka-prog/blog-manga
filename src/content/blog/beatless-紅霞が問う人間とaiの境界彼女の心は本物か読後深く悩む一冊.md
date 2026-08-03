@@ -43,7 +43,7 @@ SFというジャンルは、とかく小難しいと思われがちだけど、
 
 また、『BEATLESS』は、「道具」の定義についても深く考察している。hIEは、人間の生活を豊かにするための「道具」として生み出された。しかし、彼らが人間と同じように笑い、悲しみ、怒りを表現するようになったとき、それでも彼らを「道具」と呼び続けることができるのだろうか。この問いは、現代の僕たちがスマートフォンやAIアシスタントといったテクノロジーをどのように捉えるか、という問題にも繋がるだろう。便利さの追求の先に、僕たちは何を見出すべきなのか。この作品は、その答えを僕たち自身に委ねている。
 
-![TVアニメ「BEATLESS」オリジナルサウンドトラック](https://pics.dmm.com/mono/hobby/cha_202204945387/cha_202204945387pt.jpg)
+<img src="https://pics.dmm.com/mono/hobby/cha_202204945387/cha_202204945387pt.jpg" alt="TVアニメ「BEATLESS」オリジナルサウンドトラック" />
 
 ## 人間とhIE、心の距離が生み出す葛藤と絆
 
@@ -57,7 +57,7 @@ SFというジャンルは、とかく小難しいと思われがちだけど、
 
 この作品は、キャラクターたちの心理描写が非常に丁寧で、彼らがどのような思考を経て、ある行動に至るのかが、読者に深く伝わってくる。特に、hIEたちが人間社会の矛盾や不合理さを客観的に分析し、それに対してどのような結論を導き出すのか、その過程は非常に興味深い。彼らの視点を通して、僕たち人間が普段当たり前だと思っていることの中に、どれほどの矛盾が潜んでいるのかを再認識させられるのだ。彼らの冷徹なまでの分析は、人間の本質を鋭く抉り出す。
 
-[![TVアニメ「BEATLESS」オリジナルサウンドトラック 画像](https://pics.dmm.com/mono/hobby/cha_202204945387/cha_202204945387pt.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_269zmcz12168s%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_269zmcz12168s%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://pics.dmm.com/mono/hobby/cha_202204945387/cha_202204945387pt.jpg" alt="TVアニメ「BEATLESS」オリジナルサウンドトラック 画像" /></a>
 
 ## 古典的SFの魅力と現代に響く警告
 

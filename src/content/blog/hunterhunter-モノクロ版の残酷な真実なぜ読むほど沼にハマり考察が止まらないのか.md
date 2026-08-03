@@ -37,7 +37,7 @@ sidebarProducts:
 
 [追放された転生重騎士はゲーム知識で無双する](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api)
 
-![追放された転生重騎士はゲーム知識で無双する](https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg)
+<img src="https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg" alt="追放された転生重騎士はゲーム知識で無双する" />
 
 ## 「不遇職」の真価と、世界を欺くゲーム知識の哲学
 
@@ -55,7 +55,7 @@ sidebarProducts:
 
 また、物語が進むにつれて登場する新たな仲間たち、例えば「狩人」ケルトや「僧侶」メアベルといった面々も、それぞれの個性と背景を持ってエルマの冒険に加わる。彼らは単なる脇役ではなく、エルマの戦略に新たな選択肢をもたらし、物語に深みを与えている。彼らの間には、時に意見の食い違いや衝突もあるかもしれないが、共通の目的のために協力し、互いを信頼し合う姿は、まさに王道ファンタジーの醍醐味だ。特に、チームとしての連携が鍵となるレイドクエストでは、それぞれの役割が明確になり、キャラクターたちの魅力が最大限に引き出される。 エルマが築き上げる人間関係は、単なるゲーム攻略のツールではなく、彼自身の人間性を豊かにするかけがえのない財産なのだ。
 
-[![追放された転生重騎士はゲーム知識で無双する 画像](https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg)](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api)
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg" alt="追放された転生重騎士はゲーム知識で無双する 画像" /></a>
 
 ## 「チート」と「努力」の狭間で揺れる評価：読者の本音と作品との向き合い方
 

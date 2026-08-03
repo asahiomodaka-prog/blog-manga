@@ -43,7 +43,7 @@ sidebarProducts:
 
 物語は序盤からスリリングな展開が続き、一度見始めたら止まらない。信と嬴政の出会いから始まり、彼らを取り巻く個性豊かな仲間たち、そして立ちはだかる強大な敵。彼らが織りなす人間模様は、単なる善悪二元論では語れない複雑さと奥行きを持っている。それぞれのキャラクターが持つ信念や目的が交錯し、物語をより多層的なものにしている。この作品が、なぜこれほど多くの人々を魅了し続けるのか、その理由が凝縮されているのがこのDVDBOXだと思う。
 
-![TVアニメ「キングダム」黒羊丘の戦い DVDBOX](https://thumbnail.image.rakuten.co.jp/@0_mall/surprise-web/cabinet/imgr0642/kiba-92191.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/surprise-web/cabinet/imgr0642/kiba-92191.jpg?_ex=600x600" alt="TVアニメ「キングダム」黒羊丘の戦い DVDBOX" />
 
 ## 歴史の奔流に抗う人間ドラマ：現代に響く普遍的な問い
 
@@ -71,7 +71,7 @@ sidebarProducts:
 
 これらの言葉たちは、キャラクターたちの心の葛藤や、彼らが背負う使命の重さを僕たちに伝え、物語に深みを与えている。単なるセリフではなく、彼らの生き様そのものが凝縮された言葉だからこそ、僕たちの心に深く刻み込まれるのだ。
 
-[![TVアニメ「キングダム」黒羊丘の戦い DVDBOX 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/surprise-web/cabinet/imgr0642/kiba-92191.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17762691%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21172858%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17762691%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21172858%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/surprise-web/cabinet/imgr0642/kiba-92191.jpg?_ex=600x600" alt="TVアニメ「キングダム」黒羊丘の戦い DVDBOX 画像" /></a>
 
 ## 賛否両論を乗り越え、作品の真価を見極める
 
