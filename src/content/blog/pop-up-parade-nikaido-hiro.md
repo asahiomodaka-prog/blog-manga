@@ -114,7 +114,7 @@ sidebarProducts:
 彼の不器用な優しさ、仕事への情熱、そして桐嶋への秘めた感情が、この一体のフィギュアから確かに感じ取れる。
 僕のデスクで、彼は今日も静かに、しかし雄弁に、大人の恋の物語を語りかけてくる。
 
-![POP UP PARADE 二階堂ヒロ](https://pics.dmm.com/mono/hobby/c260705287/c260705287pt.jpg)
+<img src="https://pics.dmm.com/mono/hobby/c260705287/c260705287pt.jpg" alt="POP UP PARADE 二階堂ヒロ" />
 
 ## 読者の声と、僕が伝えたい『世界一初恋』の真髄：向き合うべきは「過去」か「今」か
 

@@ -1,6 +1,6 @@
 ---
-title: GetBackers-奪還屋-は結局何を奪還した？心を揺さぶる最終回を考察！
-description: 『GetBackers-奪還屋-』の美堂蛮と天野銀次が「奪われたもの」を取り戻す物語がDMMで配信中。スピンオフ作品「猩猩姫」は792円。特殊能力バトルや人間ドラマを通じて、過去と向き合い魂を再生させる二人の魅力を深掘りします。
+title: '『猩猩姫』異形と高貴さが交差する世界！人間の本質と業を問う傑作ダークファンタジー'
+description: '『猩猩姫』の魅力を深掘り。ippatu先生が描く、異形と高貴さが交差する世界で、人間の本質、抑圧された感情、そして力強いバトルアクションを徹底レビュー。'
 pubDate: '2026-07-28'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/s031ahpkj15272/s031ahpkj15272pl.jpg
 genre: manga

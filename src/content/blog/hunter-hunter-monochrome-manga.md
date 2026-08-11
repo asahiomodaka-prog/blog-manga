@@ -1,6 +1,6 @@
 ---
-title: 「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？
-description: 『HUNTER×HUNTER モノクロ版』をDMMで！572円で壮大な冒険の旅へ。ゴンが父を探し、仲間と挑むハンター試験は予測不能な展開と奥深い人間ドラマが魅力。普遍的な「冒険」の輝きを今こそ体験しよう。
+title: 'HUNTER×HUNTER モノクロ版の残酷な真実。なぜ読むほど心に刺さり考察が止まらないのか'
+description: '『HUNTER×HUNTER モノクロ版』をDMMで！ゴンが父を探し、仲間と挑むハンター試験は予測不能な展開と奥深い人間ドラマが魅力。不朽の冒険譚を徹底レビュー。'
 pubDate: '2026-07-31'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b900zkds70858/b900zkds70858pl.jpg
 genre: manga

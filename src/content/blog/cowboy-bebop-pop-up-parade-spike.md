@@ -1,6 +1,6 @@
 ---
-title: 『アン・シャーリー』と土屋堅一の神技作画。原画はなぜキャラクターに魂を吹き込むのか？
-description: 名作アニメ『カウボーイビバップ』の主人公「スパイク・スピーゲル」がPOP UP PARADEシリーズで登場！飾りやすいサイズと手に取りやすい価格4,895円（税込）で、クールな立ち姿を忠実に再現。DMMで予約受付中！
+title: 'カウボーイビバップ POP UP PARADE スパイク・スピーゲル造形レビュー！ビバップの魂が宿る理由'
+description: '名作アニメ『カウボーイビバップ』の主人公「スパイク・スピーゲル」がPOP UP PARADEシリーズで登場！飾りやすいサイズと手に取りやすい価格4,895円で蘇る造形美を徹底レビュー。'
 pubDate: '2026-07-20'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b000ehftx79807/b000ehftx79807pl.jpg
 genre: manga

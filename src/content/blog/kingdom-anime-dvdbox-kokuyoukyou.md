@@ -1,6 +1,6 @@
 ---
-title: 新世紀エヴァンゲリオンTV放映版DVDBOX：なぜ、私たちは心の傷を抱え続けるのか？
-description: TVアニメ「キングダム」黒羊丘の戦い DVDBOXが楽天で9,453円。春秋戦国時代の中国を舞台に、天下統一を目指す少年・信と若き王・嬴政の熱き戦いを描く。特典情報も確認して、壮大な歴史スペクタクルを堪能しよう。
+title: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX！乱世を駆け抜ける戦士たちの叙事詩'
+description: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX。春秋戦国時代の中国を舞台に、天下統一を目指す少年・信と若き王・嬴政の熱き戦いを描く。特典満載のDVDBOXを徹底解説。'
 pubDate: '2026-07-26'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/surprise-web/cabinet/imgr0642/kiba-92191.jpg?_ex=600x600
 genre: manga
@@ -30,6 +30,8 @@ sidebarProducts:
 熱い戦乱の世を駆け抜ける少年たちの物語に、再び心を奪われたい。あの興奮と感動を、今こそもう一度味わい尽くす時だ。
 
 TVアニメ『キングダム』黒羊丘の戦い DVDBOXは、そんな期待に応える究極のコレクションである。このDVD-BOXは、単なる映像作品のコレクションではない。それは、戦略と人間ドラマが織りなす壮大な歴史絵巻への再入門であり、忘れかけていた胸を打つ熱量を呼び覚ますタイムカプセルだ。高品質な映像と音声で、史実を背景に繰り広げられる人間ドラマと、大迫力の合戦シーンを心ゆくまで堪能できる。
+
+[TVアニメ「キングダム」黒羊丘の戦い DVDBOX](https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17762691%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21172858%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## 時代を駆ける戦士たちの叙事詩
 
