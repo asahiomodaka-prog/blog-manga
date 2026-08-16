@@ -3,7 +3,7 @@ title: 'HUNTER×HUNTER モノクロ版の残酷な真実。なぜ読むほど心
 description: '『HUNTER×HUNTER モノクロ版』をDMMで！ゴンが父を探し、仲間と挑むハンター試験は予測不能な展開と奥深い人間ドラマが魅力。不朽の冒険譚を徹底レビュー。'
 pubDate: '2026-07-31'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b900zkds70858/b900zkds70858pl.jpg
-genre: manga
+genre: 'バトル・アクション'
 sidebarProducts:
 - title: HUNTER×HUNTER モノクロ版
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56854%2Fb950yshes32626%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b999asqex00028/b999asqex00028pl.jpg
   price: 620
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 <!-- PR -->

@@ -3,7 +3,7 @@ title: '芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が
 description: '中条比紗也『愛蔵版 花ざかりの君たちへ』全巻セットが楽天で予約受付中！女子高生が男子校に潜入、恋と友情、成長を描く青春漫画。豪華装丁で限定ポストカードも。不朽の名作を13,200円で一気読み。再読ファンも新規読者も必見！'
 pubDate: '2026-08-13'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9633/2100014729633.jpg?_ex=600x600'
-genre: 'manga'
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: '【漫画】【中古】あしたのジョー［愛蔵版］ ＜1〜16巻完結＞ ちばてつや 【全巻セット】'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00rds21.ve2q5b9b.g00rds21.ve2q6178/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuruhon-kaitori-honpo%2F10009361%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuruhon-kaitori-honpo%2Fi%2F10009361%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0895/im260100140548.jpg?_ex=600x600'
     price: 2429
     microCopy: '詳細を見る'
+mediaType: 'comic'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -74,7 +75,7 @@ sidebarProducts:
 
 特に、瑞稀の男装姿と、時折見せる少女らしい表情のコントラストは、彼女の秘密を際立たせ、読者のドキドキ感を高める上で重要な役割を担っている。この愛蔵版で、当時と変わらない、いや、むしろ現代だからこそ感じられる深みを、ぜひ多くの人に再発見してもらいたい。
 
-![愛蔵版 花ざかりの君たちへ 全巻セット](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9633/2100014729633.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9633/2100014729633.jpg?_ex=600x600" alt="愛蔵版 花ざかりの君たちへ 全巻セット" loading="lazy" decoding="async" />
 
 ## 偽りの奥に宿る真実の輝き：主要人物たちの葛藤と成長
 

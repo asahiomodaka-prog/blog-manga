@@ -3,7 +3,7 @@ title: 「別巻 まんがゼミナール 恐竜ゼミナール」で知る、�
 description: 藤子・F・不二雄『別巻 まんがゼミナール 恐竜ゼミナール』は単なる恐竜解説ではないSF漫画。科学への探求心と生命の倫理的境界線を問う深いメッセージを解説。DMMにて2310円。子供から大人まで、知的好奇心と考察力を刺激する一冊の魅力に迫る。
 pubDate: '2026-07-12'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg
-genre: manga
+genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: 別巻 まんがゼミナール 恐竜ゼミナール
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api
@@ -17,6 +17,7 @@ sidebarProducts:
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4308574%2Fb600dsgk11866%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk11866/b600dsgk11866pl.jpg
   price: 1056
+mediaType: 'comic'
 ---
 
 <!-- PR -->

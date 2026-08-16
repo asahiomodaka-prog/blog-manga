@@ -3,7 +3,7 @@ title: '「追放された転生重騎士」が示す、不遇職が最強にな
 description: '『追放された転生重騎士はゲーム知識で無双する』は、ハズレ職と蔑まれた重騎士がゲーム知識を駆使し成り上がる痛快ファンタジー。最強ビルド構築の魅力を徹底レビュー。'
 pubDate: '2026-07-18'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg
-genre: manga
+genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: 追放された転生重騎士はゲーム知識で無双する
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b999bsqex19375/b999bsqex19375pl.jpg
   price: 589
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 <!-- PR -->

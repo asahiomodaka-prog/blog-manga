@@ -3,7 +3,7 @@ title: '『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックン
 description: '90年代の名作『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンのフィギュアを徹底レビュー。痛快ギャグとメカバトルの魅力を紐解きます。'
 pubDate: '2026-07-26'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg
-genre: manga
+genre: 'バトル・アクション'
 sidebarProducts:
 - title: BP028 ヤッ太郎＆トリツックン
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes28674/b950yshes28674pl.jpg
   price: 1100
   microCopy: 詳細を見る
+mediaType: 'figure'
 ---
 
 <!-- PR -->

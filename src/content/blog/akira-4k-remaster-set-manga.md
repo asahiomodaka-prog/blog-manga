@@ -3,7 +3,7 @@ title: 'AKIRA 4Kリマスターセットは買い？映像と音響の進化を�
 description: 'AKIRA 4Kリマスターセットの魅力とは？最高峰の映像と音響で、大友克洋作品の金字塔が鮮烈に蘇る決定版。ネオ東京の衝撃をハイクオリティで再体験。楽天で8750円、ファン必見の価値を解説します。'
 pubDate: '2026-08-15'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0091/4934569800091.jpg?_ex=600x600'
-genre: 'manga'
+genre: 'SF・ファンタジー'
 sidebarProducts:
   - title: 'AKIRA 4Kリマスターセット UltraHD《特装限定版 UHDBD※専用プレーヤーが必要です》 (初回限定) 【Blu-ray】'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0ui1.ve2q5e66.g00q0ui1.ve2q655f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fes-toys%2F10817673%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fes-toys%2Fi%2F11754502%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/neowing-r/cabinet/item_img_1377/bcqa-9.jpg?_ex=600x600'
     price: 9702
     microCopy: '詳細を見る'
+mediaType: 'anime'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -38,7 +39,7 @@ sidebarProducts:
 
 まず、その映像表現から掘り下げよう。4K（3840×2160画素）の解像度は、フルハイビジョンの実に4倍にあたる。これにより、作品の緻密な背景描写やキャラクターの表情、動きの滑らかさに驚くほどの貢献をしている。緻密な手描きアニメーションとして知られる『AKIRA』の原画が持つ情報量が、この高解像度によって余すことなく再現されているのだ。金田の赤いバイクがネオ東京の夜の街を疾走するシーンでは、路面に映り込むネオンの反射や、路肩のゴミ一つ一つまでが鮮明に描き出され、まるで自分がそこにいるかのような臨場感がある。
 
-![AKIRA 4Kリマスターセット](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0091/4934569800091.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0091/4934569800091.jpg?_ex=600x600" alt="AKIRA 4Kリマスターセット" loading="lazy" decoding="async" />
 
 HDR（ハイダイナミックレンジ）もまた、映像表現に革命をもたらしている。従来のBlu-rayでは再現しきれなかった、明るい光源や金属の質感、水面の輝きまでが、驚くほど豊かに表現されている。例えば、鉄雄が覚醒していく過程で放つ強烈な光や、崩壊していく建物の破片が光を反射する様子は、圧倒される。眩しすぎるほどの光と、それに続く深い闇のコントラストが、物語の緊迫感をより一層引き立てている。この明暗のコントラストの幅広さが、映像に奥行きと立体感を与え、スクリーンから飛び出してくるかのような錯覚さえ覚える。
 

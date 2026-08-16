@@ -3,7 +3,7 @@ title: 'POP UP PARADE SPの瞳が語る絶望。なぜあのキャラは救わ�
 description: 'POP UP PARADE SPフィギュアを徹底解説。ハイクオリティな造形が作品の世界観を忠実に再現し、コレクションに最適な逸品です。dmmで20269円。購入前に知るべき魅力を、価格や使い勝手から詳しく紹介します。'
 pubDate: '2026-08-05'
 heroImage: 'https://pics.dmm.com/mono/hobby/c260705286/c260705286pt.jpg'
-genre: 'manga'
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: 'POP UP PARADE 二階堂ヒロ L size 魔法少女ノ魔女裁判'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260705287%2F&af_id=DMMaria-999&ch=api'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://pics.dmm.com/mono/hobby/c260701451/c260701451pt.jpg'
     price: 9289
     microCopy: '詳細を見る'
+mediaType: 'figure'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

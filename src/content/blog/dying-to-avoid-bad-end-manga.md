@@ -3,7 +3,7 @@ title: 「全滅エンドを死に物狂いで回避した。パーティが病�
 description: RPGで全滅エンドを回避した代償は、仲間の「病み」だった。『全滅エンドを死に物狂いで回避した。』は、ハッピーエンドを願う転生者と、彼に歪んだ感情を抱く少女たちのダークファンタジー。価格1078円で、DMM独占の衝撃展開を体験しよう。
 pubDate: '2026-07-21'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg
-genre: manga
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4561256%2Fb000ehftx83614%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://pics.dmm.com/mono/book/comic/bkt34881320/bkt34881320pt.jpg
   price: 924
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 <!-- PR -->

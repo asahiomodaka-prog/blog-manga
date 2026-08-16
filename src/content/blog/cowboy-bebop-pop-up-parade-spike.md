@@ -3,7 +3,7 @@ title: 'カウボーイビバップ POP UP PARADE スパイク・スピーゲル
 description: '名作アニメ『カウボーイビバップ』の主人公「スパイク・スピーゲル」がPOP UP PARADEシリーズで登場！飾りやすいサイズと手に取りやすい価格4,895円で蘇る造形美を徹底レビュー。'
 pubDate: '2026-07-20'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b000ehftx79807/b000ehftx79807pl.jpg
-genre: manga
+genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: 【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg
   price: 2200
   microCopy: 詳細を見る
+mediaType: 'figure'
 ---
 
 <!-- PR -->

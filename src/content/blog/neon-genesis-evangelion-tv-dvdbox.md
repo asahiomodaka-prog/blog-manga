@@ -3,7 +3,7 @@ title: '新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象とな�
 description: '新世紀エヴァンゲリオンTV放映版DVDBOX ARCHIVES OF EVANGELION。社会現象を巻き起こしたTVアニメシリーズの魅力を徹底レビュー。'
 pubDate: '2026-08-08'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/surprise-web/cabinet/imgr0642/kiba-92191.jpg?_ex=600x600'
-genre: 'manga'
+genre: 'SF・ファンタジー'
 sidebarProducts:
   - title: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX [ (V.A.) ]'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17762691%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21172858%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3023/4580055363023.jpg?_ex=600x600'
     price: 9182
     microCopy: '詳細を見る'
+mediaType: 'anime'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

@@ -3,7 +3,7 @@ title: 歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を�
 description: 集英社 コンパクト版 学習まんが 日本の歴史 全22巻セットは、年表暗記の苦痛を解消し「生きた歴史」を体感できる傑作。大人も子供も夢中になれる、ストーリー重視の学習まんがが楽天で18,590円。その魅力を徹底解説。
 pubDate: '2026-07-09'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0369/9784023320369.jpg?_ex=600x600
-genre: manga
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: 集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2) 漫画 コミック イラスト 勉強 本 歴史 受験 日本 セット 学習
     日本史 中学 大人 まんが 子供 児童書 小学生 歴史漫画 人物 子ども 贈り物 ギフト クリスマス プレゼント お祝い
@@ -19,6 +19,7 @@ sidebarProducts:
   url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15171703%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F18818949%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6437/9784092966437_1_13.jpg?_ex=600x600
   price: 1078
+mediaType: 'comic'
 ---
 
 <!-- PR -->

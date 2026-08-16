@@ -3,7 +3,7 @@ title: 'メタリックルージュ BD-BOXは買いか？映像と音響で作�
 description: 'SFアニメ「メタリックルージュ Blu-ray BOX」で、ボンズが描く世界観を最高画質・音質で再体験。人造人間ネアンの深い哲学と迫力のアクションを、自宅で心ゆくまで堪能できる決定版コレクション。'
 pubDate: '2026-08-12'
 heroImage: 'https://pics.dmm.com/mono/movie/animation/n_820gabs2744/n_820gabs2744pt.jpg'
-genre: 'manga'
+genre: 'SF・ファンタジー'
 sidebarProducts:
   - title: 'ひそねとまそたん Blu-ray BOX 発動篇 （特装版 ブルーレイディスク）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_6161000726053%2F&af_id=DMMaria-999&ch=api'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcxa1249/n_609bcxa1249pt.jpg'
     price: 16830
     microCopy: '詳細を見る'
+mediaType: 'anime'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -34,7 +35,7 @@ sidebarProducts:
 
 ## 感覚を刺激する映像美と音響体験：BOXがもたらす新たな発見
 
-![メタリックルージュ Blu-ray BOX](https://pics.dmm.com/mono/movie/animation/n_820gabs2744/n_820gabs2744pt.jpg)
+<img src="https://pics.dmm.com/mono/movie/animation/n_820gabs2744/n_820gabs2744pt.jpg" alt="メタリックルージュ Blu-ray BOX" loading="lazy" decoding="async" />
 
 「メタリックルージュ」のBlu-ray BOXを手にしてまず感じるのは、そのパッケージデザインの洗練された美しさである。作品の世界観を凝縮したアートワークは、ケースを手に取るたびに鑑賞への期待感を高めてくれるだろう。そして肝心の中身だが、やはりBlu-rayの高画質は息をのむほどの迫力だ。
 

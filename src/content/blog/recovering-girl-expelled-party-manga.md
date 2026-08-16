@@ -3,7 +3,7 @@ title: '追放回復士の少女。なぜ彼女は最強になり、そして様
 description: '追放された回復士の少女が、最強職業に転職!? 『冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…』は、DMMブックスで165円で読める、不遇からの逆転ファンタジーです。'
 pubDate: '2026-08-02'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b163cijt236815/b163cijt236815pl.jpg'
-genre: 'manga'
+genre: 'SF・ファンタジー'
 sidebarProducts:
   - title: '全滅エンドを死に物狂いで回避した。パーティが病んだ。'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg'
     price: 902
     microCopy: '詳細を見る'
+mediaType: 'comic'
 ---
 
 <!-- PR -->

@@ -3,7 +3,7 @@ title: あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで�
 description: 浦沢直樹『MONSTER 完全版 デジタルVer.』最終18巻がdmmで770円。善悪の境界を問う人間ドラマ、天才外科医・天馬が追う壮大なサスペンスの結末を見届けよう。
 pubDate: '2026-07-10'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg
-genre: manga
+genre: 'サスペンス・ミステリー'
 sidebarProducts:
 - title: MONSTER 完全版 デジタルVer. （18）
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api
@@ -17,6 +17,7 @@ sidebarProducts:
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600asgk05343/b600asgk05343pl.jpg
   price: 880
+mediaType: 'comic'
 ---
 
 <!-- PR -->

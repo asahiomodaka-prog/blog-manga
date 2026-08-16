@@ -3,7 +3,7 @@ title: 'BP028 ヤッ太郎＆トリツックン プラモデルレビュー！�
 description: '『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」プラモデルキットを徹底レビュー。懐かしのキャラクターが手のひらサイズで蘇る愛らしい造形と魅力を解説。'
 pubDate: '2026-07-12'
 heroImage: https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg
-genre: manga
+genre: 'バトル・アクション'
 sidebarProducts:
 - title: BP028 ヤッ太郎＆トリツックン
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api
@@ -17,6 +17,7 @@ sidebarProducts:
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6265922%2Fb950yshes28674%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes28674/b950yshes28674pl.jpg
   price: 1100
+mediaType: 'figure'
 ---
 
 <!-- PR -->

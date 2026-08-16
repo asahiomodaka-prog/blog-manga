@@ -3,7 +3,7 @@ title: 猩猩姫の「業」に潜む真実。なぜ彼女はあそこまで追�
 description: DMMで話題の漫画『猩猩姫』（792円）の魅力を深掘り。ippatu先生が描く、異形と高貴さが交差する世界で、人間の本質、抑圧された感情、そして力強いバトルアクションの裏にある深い考察を解説。新解釈『西遊記』としても注目される異色作です。
 pubDate: '2026-07-15'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b900zkds70468/b900zkds70468pl.jpg
-genre: manga
+genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: GetBackers-奪還屋-（ハーパーコリンズ・ジャパン×アルト出版）
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6257803%2Fs031ahpkj15272%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350eftdb25376/b350eftdb25376pl.jpg
   price: 1320
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 <!-- PR -->

@@ -3,7 +3,7 @@ title: ポポロクロイス物語《決定版》が描く勇気と愛！大人�
 description: 愛と成長の感動RPG『ポポロクロイス物語 《決定版》』をDMMで体験。カラーページ完全再現に加え、未収録エピソードも追加。大人になった今だからこそ心に響く、ピエトロ王子の冒険を792円で楽しもう。
 pubDate: '2026-07-21'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00242/b889ahkdd00242pl.jpg
-genre: manga
+genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: 猩猩姫
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350eftdb25376/b350eftdb25376pl.jpg
   price: 1320
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 <!-- PR -->

@@ -3,7 +3,7 @@ title: 眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青�
 description: 『BLACK JACK (秋田文庫版) 全17巻セット』が14,960円で楽天に登場。手塚治虫が描く無免許医ブラック・ジャックの活躍と、命の光と闇、人間の業に迫る医療ドラマを全巻一気読み。普遍的なテーマが現代に響きます。
 pubDate: '2026-07-06'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/570/9784253172570.jpg
-genre: manga
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: BLACK JACK (秋田文庫版) 全17巻セット
   url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e1-a7a6-bdd68daad98b
@@ -17,6 +17,7 @@ sidebarProducts:
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F785735%2Fb600tsgk02132%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600tsgk02132/b600tsgk02132pl.jpg
   price: 9240
+mediaType: 'comic'
 ---
 
 <!-- PR -->

@@ -3,7 +3,7 @@ title: 'ドラえもんの最終回はなぜ賛否両論？未来と友情が問
 description: 'dmmで「ドラえもん」の漫画を楽しもう。未来の猫型ロボットとひみつ道具が織りなすSF（少し不思議）な日常は、子どもの頃の「もしも」を叶える物語。のび太の冒険と道具の魅力を解説。1冊583円から購入可能。'
 pubDate: '2026-08-06'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600qsgk00146/b600qsgk00146pl.jpg'
-genre: 'manga'
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: '藤子・F・不二雄大全集'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://pics.dmm.com/mono/hobby/c260604730/c260604730pt.jpg'
     price: 1623
     microCopy: '詳細を見る'
+mediaType: 'comic'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

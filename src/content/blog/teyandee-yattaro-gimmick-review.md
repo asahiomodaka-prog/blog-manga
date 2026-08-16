@@ -3,7 +3,7 @@ title: 'キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！�
 description: '『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」合体ギミックと造形美を徹底解説。デスクを彩るレトロアニメの至宝。'
 pubDate: '2026-07-17'
 heroImage: https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg
-genre: manga
+genre: 'バトル・アクション'
 sidebarProducts:
 - title: BP028 ヤッ太郎＆トリツックン
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://pics.dmm.co.jp/mono/hobby/cha_2018062601/cha_2018062601pt.jpg
   price: 21429
   microCopy: 詳細を見る
+mediaType: 'figure'
 ---
 
 <!-- PR -->

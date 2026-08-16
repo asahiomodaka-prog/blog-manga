@@ -3,7 +3,7 @@ title: '金色のガッシュ！！が描いた“優しさの王”。なぜあ
 description: '「金色のガッシュ！！」は、魔界の王を決める王道バトルと熱い人間ドラマが魅力の傑作。DMMブックスで読むメリットは？各巻660円からの購入方法や、清麿とガッシュの絆と成長を描く物語の深さを解説。'
 pubDate: '2026-08-10'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/k811abdbc00015/k811abdbc00015pl.jpg'
-genre: 'manga'
+genre: 'バトル・アクション'
 sidebarProducts:
   - title: '寄生獣 セイの格率'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Ddcst4wq0mzeja3s8s9pgebm9i%26season%3Dpk8x2dopthhn41b4ook583usk&af_id=DMMaria-999&ch=api'
@@ -19,6 +19,7 @@ sidebarProducts:
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg'
     price: 770
     microCopy: '詳細を見る'
+mediaType: 'comic'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

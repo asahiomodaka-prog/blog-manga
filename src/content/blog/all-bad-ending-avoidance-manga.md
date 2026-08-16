@@ -3,7 +3,7 @@ title: 全滅エンドを死に物狂いで回避したのに…読後なぜ虚�
 description: 自己犠牲で全滅エンドを回避した主人公を待ち受けるのは、激重感情を抱く仲間たちの歪んだ愛。予想外の展開が「曇らせ」異世界譚として楽しめる『全滅エンドを死に物狂いで回避した』がdmmで924円。衝撃の人間ドラマを体験しよう。
 pubDate: '2026-07-27'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b000ehftx83614/b000ehftx83614pl.jpg
-genre: manga
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://pics.dmm.com/mono/book/comic/bkt34881320/bkt34881320pt.jpg
   price: 924
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 <!-- PR -->

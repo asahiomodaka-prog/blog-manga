@@ -3,7 +3,7 @@ title: '大長編ドラえもんの絆。なぜあの別れと再会に涙が止
 description: '『大長編ドラえもん』は、子供も大人も胸熱くなる普遍的冒険活劇。友情・勇気・成長を描く壮大な物語が、DMMブックスで583円から楽しめます。現代に失われた少年心を取り戻し、新たな発見を。'
 pubDate: '2026-08-09'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600qsgk02980/b600qsgk02980pl.jpg'
-genre: 'manga'
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: '藤子・F・不二雄大全集'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://pics.dmm.com/mono/hobby/c260604730/c260604730pt.jpg'
     price: 1623
     microCopy: '詳細を見る'
+mediaType: 'comic'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

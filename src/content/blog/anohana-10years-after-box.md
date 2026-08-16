@@ -3,7 +3,7 @@ title: 'あの花10years after BOXは買い？音響・映像美と特典の再�
 description: '『あの日見た花の名前を僕達はまだ知らない。10years after BOX』がdmmに登場。高画質Blu-ray本編に加え、未公開特典映像や豪華特製パッケージで、10年後の物語を追体験。ファン必見の永久保存版コレクターズアイテムを価格22,770円で手に入れよう。'
 pubDate: '2026-08-11'
 heroImage: 'https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pt.jpg'
-genre: 'manga'
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: 'あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX （完全生産限定版 ブルーレイディスク）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx6621%2F&af_id=DMMaria-999&ch=api'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://pics.dmm.com/mono/movie/variety/n_666anzx3701/n_666anzx3701pt.jpg'
     price: 9270
     microCopy: '詳細を見る'
+mediaType: 'comic'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -57,7 +58,7 @@ Blu-rayの本編ディスクは、やはり高画質で視聴する価値が非�
 これらを深く鑑賞することで、作品の世界観やキャラクターたちの内面がより深く理解できる。
 単なるアニメのBOXではなく、作品の世界観を多角的に楽しめる、「あの花」という物語の集大成のようなアイテムである。
 
-![あの日見た花の名前を僕達はまだ知らない。10years after BOX](https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pt.jpg)
+<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pt.jpg" alt="あの日見た花の名前を僕達はまだ知らない。10years after BOX" loading="lazy" decoding="async" />
 
 ## 語り継がれる「あの夏」の物語と心に残る登場人物たち
 

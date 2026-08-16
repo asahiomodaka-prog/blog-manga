@@ -3,7 +3,7 @@ title: '「全滅エンドを死に物狂いで回避した。パーティが病
 description: '「全滅エンドを死に物狂いで回避した。パーティが病んだ。」は、絶望的な状況から全滅エンド回避を目指すダークファンタジー。歪んだ愛情の行方を徹底レビュー。'
 pubDate: '2026-07-30'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg
-genre: manga
+genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://pics.dmm.com/mono/book/comic/bkt34881320/bkt34881320pt.jpg
   price: 924
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 :::note

@@ -2,8 +2,8 @@
 title: '寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線'
 description: 'DMMで「寄生獣 セイの格率」を視聴！550円で泉新一とミギーの奇妙な共生、そして人類の運命をかけた戦いを描くSFホラーアニメの傑作。生命の問いかけに迫る衝撃作を見逃すな。'
 pubDate: '2026-08-03'
-heroImage: '../../assets/blog-placeholder-3.jpg'
-genre: 'manga'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/k811abdbc00015/k811abdbc00015pl.jpg'
+genre: 'サスペンス・ミステリー'
 sidebarProducts:
   - title: '金色のガッシュ！！'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F810119%2Fk811abdbc00015%2F&af_id=DMMaria-999&ch=api'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b213cnhbg00348/b213cnhbg00348pl.jpg'
     price: 605
     microCopy: '詳細を見る'
+mediaType: 'comic'
 ---
 
 <!-- PR -->

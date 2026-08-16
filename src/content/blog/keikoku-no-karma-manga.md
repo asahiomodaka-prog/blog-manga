@@ -3,7 +3,7 @@ title: '『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女
 description: '12世紀イングランドを舞台に、運命に抗い女王として生きた女性を描く『傾国のカルマ』。激動の時代、血筋や性別に翻弄されながらも尊厳と誇りを守り抜く物語を徹底解説。'
 pubDate: '2026-07-22'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg
-genre: manga
+genre: 'サスペンス・ミステリー'
 sidebarProducts:
 - title: 傾国のカルマ（単話）
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190445%2Fs174apups00563%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/k225bgakn04834/k225bgakn04834pl.jpg
   price: 198
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 <!-- PR -->

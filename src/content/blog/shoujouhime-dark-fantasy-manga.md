@@ -3,7 +3,7 @@ title: '『猩猩姫』異形と高貴さが交差する世界！人間の本質
 description: '『猩猩姫』の魅力を深掘り。ippatu先生が描く、異形と高貴さが交差する世界で、人間の本質、抑圧された感情、そして力強いバトルアクションを徹底レビュー。'
 pubDate: '2026-07-28'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/s031ahpkj15272/s031ahpkj15272pl.jpg
-genre: manga
+genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: 猩猩姫
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b544atsmi04629/b544atsmi04629pl.jpg
   price: 550
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 <!-- PR -->

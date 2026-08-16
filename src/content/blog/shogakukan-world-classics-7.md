@@ -2,8 +2,9 @@
 title: 小学館学習まんが世界名作館7。なぜあの結末が胸に刻まれ続けるのか？読後に残る普遍の問い
 description: 小学館学習まんが世界名作館7『ロビンソン・クルーソー』はDMMブックスで配信中。楽天では688円。無人島でのサバイバルを通し、孤独と人間の本質を問う名作。子供だけでなく、大人が今読むべき理由を解説。
 pubDate: '2026-07-05'
-heroImage: ../../assets/blog-placeholder-3.jpg
-genre: manga
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0928/9784092530928_1_4.jpg?_ex=600x600'
+genre: '不朽の名作・ヒューマン'
+mediaType: 'comic'
 ---
 
 <!-- PR -->

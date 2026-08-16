@@ -3,13 +3,14 @@ title: 'BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現
 description: '『BEATLESS 紅霞』フィギュア（DMM販売中・21,429円）。redjuice氏の描く真紅の髪とクリムゾンレッドの瞳、巨大デバイスの緻密なメカ造形を完全立体化。ファン必見のハイクオリティな逸品を徹底レビューします。'
 pubDate: '2026-07-29'
 heroImage: https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg
-genre: manga
+genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: BEATLESS 紅霞
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_202204945387%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://pics.dmm.com/mono/hobby/cha_202204945387/cha_202204945387pt.jpg
   price: 21429
   microCopy: 詳細を見る
+mediaType: 'figure'
 ---
 
 <!-- PR -->

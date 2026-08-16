@@ -3,7 +3,7 @@ title: '『猩猩姫』新解釈西遊記が描く純愛と業。なぜ胸を強
 description: '『猩猩姫』が描く新解釈西遊記の魅力。記憶をなくした少女とイケメン僧侶が紡ぐ、切なくも激しい人間ドラマを徹底考察。'
 pubDate: '2026-07-20'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b544atsmi04629/b544atsmi04629pl.jpg
-genre: manga
+genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: 猩猩姫
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api
@@ -20,6 +20,7 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350eftdb25376/b350eftdb25376pl.jpg
   price: 1320
   microCopy: 詳細を見る
+mediaType: 'comic'
 ---
 
 <!-- PR -->
