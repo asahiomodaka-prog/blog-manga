@@ -30,6 +30,37 @@ mediaType: 'comic'
 
 不遇職として追放された主人公が、前世のゲーム知識を駆使して成り上がる――。そんな逆転劇に胸を躍らせた経験があるだろうか。『追放された転生重騎士はゲーム知識で無双する』は、まさにゲーマーの夢を現実にしたような作品だ。この物語は、単なる異世界転生モノではない。かつてゲームに没頭し、隠された最強のビルドを追い求めたすべての人間に、あの頃の熱狂と、攻略の喜びを思い出させてくれる。固定観念を打ち破り、真の強さを見出す知的エンターテインメントとして、今、この作品が注目を集めている。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg" alt="「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『追放された転生重騎士はゲーム知識で無双する』は、ハズレ職と蔑まれた重騎士がゲーム知識を駆使し成り上がる痛快ファンタジー。最強ビルド構築の魅力を徹底レビュー。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 重騎士の真髄を見抜け！ 異世界で紡がれる逆転劇の序章
 
 『追放された転生重騎士はゲーム知識で無双する』は、僕らが夢見た「不遇職での成り上がり」を体現する物語だ。主人公エルマは、代々〈剣聖〉のクラスを受け継ぐ名門伯爵家の息子として生まれた。しかし、彼が15歳で授かったクラスは、この世界で「ハズレ」とまで評される〈重騎士〉だった。その結果、次期当主の座を追われ、実家からも追放されてしまう。通常なら絶望する状況だが、エルマには前世でやり込んだゲームの知識があった。この世界こそ、彼が遊び尽くしたゲームの世界。そして、そのゲームにおいて〈重騎士〉こそが、実は最強のクラスであることを彼は知っていたのだ。偏ったステータスや使い所のないスキルと周囲には認識されているが、エルマは生前のゲーム知識をフル活用し、この世界の効率的な攻略を開始する。
@@ -76,6 +107,37 @@ mediaType: 'comic'
 通勤電車のわずかな時間、あるいは寝る前のひとときに、手軽に異世界へと没入できるのが電子書籍の最大のメリットだ。特に『追放された転生重騎士はゲーム知識で無双する』のような、続きが気になって仕方なくなる作品は、電子書籍との相性が抜群に良い。物理的な保管場所に困ることなく、全巻一気読みできる利便性は、漫画コレクターにとって実用的なメリットとなる。
 
 DMMブックスなら、[追放された転生重騎士はゲーム知識で無双する](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api)を1巻792円で購入できる。この熱量を持つ作品ならば、その価値は十分にあるだろう。試し読みもできるので、まずは物語の導入部分に触れてみてほしい。エルマが「重騎士」の真の力を解放していく序盤の展開は、きっと物語の魅力に引き込まれるだろう。スマホやタブレットで手軽に読めるため、いつでもどこでも、エルマの冒険を追体験できる。仕事の休憩時間や、ちょっとした待ち時間にページをめくれば、あっという間に異世界へと引き込まれるはずだ。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg" alt="「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『追放された転生重騎士はゲーム知識で無双する』は、ハズレ職と蔑まれた重騎士がゲーム知識を駆使し成り上がる痛快ファンタジー。最強ビルド構築の魅力を徹底レビュー。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 重騎士の逆転劇、今すぐ体験してみないか
 

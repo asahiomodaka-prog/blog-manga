@@ -32,6 +32,37 @@ mediaType: 'figure'
 
 本記事では、世代を超えて愛される『ヤッターマン』の普遍的な魅力、その背景にある思想、そして作品世界をより深く楽しむための関連アイテムについて、徹底的に深掘りしていく。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg" alt="『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>90年代の名作『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンのフィギュアを徹底レビュー。痛快ギャグとメカバトルの魅力を紐解きます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%25E3%2580%258F%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%258C%25E6%2594%25BE%25E3%2581%25A490%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2583%25AD%25E3%2583%259C%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2581%25AE%25E9%25AD%2585%25E5%258A%259B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258E%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%25E3%2580%258F%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%258C%25E6%2594%25BE%25E3%2581%25A490%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2583%25AD%25E3%2583%259C%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2581%25AE%25E9%25AD%2585%25E5%258A%259B%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258E%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%25E3%2580%258F%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%258C%25E6%2594%25BE%25E3%2581%25A490%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2583%25AD%25E3%2583%259C%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2581%25AE%25E9%25AD%2585%25E5%258A%259B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 正義と悪が織りなす痛快ギャグバトルの真髄
 
 『ヤッターマン』は1977年から1979年にかけてフジテレビ系列で放送された、タツノコプロ制作のSFギャグアクションアニメだ。「タイムボカンシリーズ」の第2弾として位置づけられるが、その人気と知名度はシリーズの中でも群を抜いている。物語は、おもちゃ屋の息子であるガンちゃん（ヤッターマン1号）と、そのガールフレンドであるアイちゃん（ヤッターマン2号）が、犬型メカ「ヤッターワン」をはじめとする様々なメカを駆使して、泥棒の神様ドクロベエの指令を受けたドロンボー一味と、世界中に散らばる「ドクロストーン」を巡る争奪戦を繰り広げるというものだ。
@@ -112,6 +143,37 @@ mediaType: 'figure'
 作品の世界観をより深く楽しむためには、劇中キャラクターやメカのアイテム収集も醍醐味の一つだ。DMMでは、[BP028 ヤッ太郎＆トリツックン]をはじめとする『ヤッターマン』関連ホビーアイテムを豊富に取り揃えている。これらのアイテムは、デジタルコンテンツでは味わえない立体的な造形美と存在感で、ファンを魅了する。
 
 お気に入りのキャラクターやメカをデスクに飾ったり、コレクションケースに並べたりすることで、日々の生活の中に『ヤッターマン』の世界を創造できる。手のひらに収まるサイズ感から、細部までこだわり抜かれたハイクオリティモデルまで、様々なスケールや価格帯のアイテムが存在する。自宅のスペースや予算に合わせて、自分だけのコレクションを「ポチッとな」と始めてみるのも良いだろう。実際に手に取り、その造形を多角的に鑑賞する時間は、作品への愛着をさらに深める体験となるはずだ。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg" alt="『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>90年代の名作『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンのフィギュアを徹底レビュー。痛快ギャグとメカバトルの魅力を紐解きます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%25E3%2580%258F%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%258C%25E6%2594%25BE%25E3%2581%25A490%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2583%25AD%25E3%2583%259C%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2581%25AE%25E9%25AD%2585%25E5%258A%259B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258E%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%25E3%2580%258F%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%258C%25E6%2594%25BE%25E3%2581%25A490%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2583%25AD%25E3%2583%259C%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2581%25AE%25E9%25AD%2585%25E5%258A%259B%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258E%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%25E3%2580%258F%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%258C%25E6%2594%25BE%25E3%2581%25A490%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2583%25AD%25E3%2583%259C%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2581%25AE%25E9%25AD%2585%25E5%258A%259B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 作品の奥深さとホビーの魅力を楽しむ
 

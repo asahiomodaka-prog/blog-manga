@@ -25,6 +25,37 @@ mediaType: 'anime'
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/movie/animation/n_820gabs2744/n_820gabs2744pt.jpg" alt="メタリックルージュ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                メタリックルージュ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>SFアニメ「メタリックルージュ Blu-ray BOX」で、ボンズが描く世界観を最高画質・音質で再体験。人造人間ネアンの深い哲学と迫力のアクションを、自宅で心ゆくまで堪能できる決定版コレクション。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 灼熱のネオンに揺れる魂、再降臨。メタリックルージュBlu-ray BOXの価値
 
 「メタリックルージュ」は、SFアニメーションの金字塔を打ち立ててきたボンズが手がける意欲作だ。人類が火星へ移住し、人造人間「ネアン」と共存する世界を舞台に、深い哲学と目を見張るアクションが融合した本作は、多くの視聴者の心を捉えた。このBlu-ray BOXは、その緻密な世界観、美麗な映像、そして心を揺さぶる人間ドラマを最高画質・最高音質で再体験するための、ファンにとっての決定版コレクションである。特に、SF設定の奥深さや、キャラクターの内面に深く切り込んだ描写に魅力を感じるならば、このアイテムは作品への理解と没入感を格段に高めてくれるだろう。
@@ -99,6 +130,37 @@ mediaType: 'anime'
 | メーカー/出版社 | ギャガ・コミュニケーションズ |
 
 ---
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/movie/animation/n_820gabs2744/n_820gabs2744pt.jpg" alt="メタリックルージュ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                メタリックルージュ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>SFアニメ「メタリックルージュ Blu-ray BOX」で、ボンズが描く世界観を最高画質・音質で再体験。人造人間ネアンの深い哲学と迫力のアクションを、自宅で心ゆくまで堪能できる決定版コレクション。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 「人間」を夢見た彼女たちへ：コレクションに加える価値
 

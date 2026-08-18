@@ -29,6 +29,37 @@ mediaType: 'comic'
 
 性別や年齢を超えて多くの人々の心に響く普遍的なテーマを内包し、人間関係の機微や自己成長の物語に深い共感を覚える読者にとって、まさに必読の一作と言える。この愛蔵版は、当時の感動を再び味わいたいファンはもちろん、未読の世代が名作に出会う最高の機会となるだろう。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9633/2100014729633.jpg?_ex=600x600" alt="芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>中条比紗也『愛蔵版 花ざかりの君たちへ』全巻セットが楽天で予約受付中！女子高生が男子校に潜入、恋と友情、成長を描く青春漫画。豪華装丁で限定ポストカードも。不朽の名作を13,200円で一気読み。再読ファンも新規読者も必見！</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%258A%25A6%25E5%25B1%258B%25E7%2591%259E%25E7%25A8%2580%25E3%2581%25AE%25E5%2598%2598%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E5%25B0%258A%25E3%2581%2584%25EF%25BC%259F%25E3%2580%258C%25E8%258A%25B1%25E3%2581%2596%25E3%2581%258B%25E3%2582%258A%25E3%2581%25AE%25E5%2590%259B%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25B8%25E3%2580%258D%25E3%2581%258C%25E8%25AA%259E%25E3%2582%258B%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AE%25E9%259D%2592%25E6%2598%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00rds21.ve2q5b9b.g00rds21.ve2q6178/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuruhon-kaitori-honpo%2F10009361%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuruhon-kaitori-honpo%2Fi%2F10009361%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%258A%25A6%25E5%25B1%258B%25E7%2591%259E%25E7%25A8%2580%25E3%2581%25AE%25E5%2598%2598%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E5%25B0%258A%25E3%2581%2584%25EF%25BC%259F%25E3%2580%258C%25E8%258A%25B1%25E3%2581%2596%25E3%2581%258B%25E3%2582%258A%25E3%2581%25AE%25E5%2590%259B%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25B8%25E3%2580%258D%25E3%2581%258C%25E8%25AA%259E%25E3%2582%258B%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AE%25E9%259D%2592%25E6%2598%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 学園に舞い降りた恋と友情の奇跡！『花ざかりの君たちへ』が描く青春群像劇の魅力
 
 中条比紗也が描いた『花ざかりの君たちへ』は、少女漫画というジャンルの枠を超え、多くの読者に長く愛され続ける色褪せない名作である。
@@ -129,6 +160,37 @@ mediaType: 'comic'
 また、今回は限定絵柄ポストカード1枚が特典として付いてくるのも嬉しいポイントだ。こうした特典は、作品への愛情をさらに深め、コレクションとしての価値を一層高めてくれる。
 
 価格は13,200円と決して安価ではないが、全巻まとめて購入できる利便性、愛蔵版としての高い品質、そして限定特典を考慮すれば、十分に価値に見合った投資だと僕は確信している。予約締切日が2025年11月27日、発売日が2026年01月06日となっているため、確実な入手を望むのであれば、早めの予約が賢明な選択となるだろう。僕自身も既に手帳に日付を書き込み、この愛蔵版の発売を心待ちにしている。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9633/2100014729633.jpg?_ex=600x600" alt="芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>中条比紗也『愛蔵版 花ざかりの君たちへ』全巻セットが楽天で予約受付中！女子高生が男子校に潜入、恋と友情、成長を描く青春漫画。豪華装丁で限定ポストカードも。不朽の名作を13,200円で一気読み。再読ファンも新規読者も必見！</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%258A%25A6%25E5%25B1%258B%25E7%2591%259E%25E7%25A8%2580%25E3%2581%25AE%25E5%2598%2598%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E5%25B0%258A%25E3%2581%2584%25EF%25BC%259F%25E3%2580%258C%25E8%258A%25B1%25E3%2581%2596%25E3%2581%258B%25E3%2582%258A%25E3%2581%25AE%25E5%2590%259B%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25B8%25E3%2580%258D%25E3%2581%258C%25E8%25AA%259E%25E3%2582%258B%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AE%25E9%259D%2592%25E6%2598%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00rds21.ve2q5b9b.g00rds21.ve2q6178/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuruhon-kaitori-honpo%2F10009361%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuruhon-kaitori-honpo%2Fi%2F10009361%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%258A%25A6%25E5%25B1%258B%25E7%2591%259E%25E7%25A8%2580%25E3%2581%25AE%25E5%2598%2598%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E5%25B0%258A%25E3%2581%2584%25EF%25BC%259F%25E3%2580%258C%25E8%258A%25B1%25E3%2581%2596%25E3%2581%258B%25E3%2582%258A%25E3%2581%25AE%25E5%2590%259B%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25B8%25E3%2580%258D%25E3%2581%258C%25E8%25AA%259E%25E3%2582%258B%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AE%25E9%259D%2592%25E6%2598%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 時代を超えて響く、青春と成長の物語をいまこそ
 

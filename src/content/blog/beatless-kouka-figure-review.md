@@ -24,6 +24,37 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 
 [BEATLESS 紅霞 フィギュア](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_202204945387%2F&af_id=DMMaria-999&ch=api)
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg" alt="BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『BEATLESS 紅霞』フィギュア（DMM販売中・21,429円）。redjuice氏の描く真紅の髪とクリムゾンレッドの瞳、巨大デバイスの緻密なメカ造形を完全立体化。ファン必見のハイクオリティな逸品を徹底レビューします。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## redjuice氏の繊細なタッチを再現した造形美の真髄
 
 <img src="https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg" alt="BEATLESS 紅霞" />
@@ -76,6 +107,37 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 ### 購入時の留意点
 *   **設置スペースの確保**: 大型武装デバイスが横幅と奥行きを必要とするため、事前に棚やコレクションケースのサイズを確認し、余裕を持ったスペースを確保しておくことが重要だ。
 *   **初期投資**: 2万円を超える価格は本格的なスケールフィギュアとしては妥当なラインだが、ある程度の出費を伴うため、購入に際しては自身の予算と相談する必要がある。しかし、その細部の作り込みと密度感は、価格に見合う、あるいはそれ以上の鑑賞体験を提供するだろう。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg" alt="BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『BEATLESS 紅霞』フィギュア（DMM販売中・21,429円）。redjuice氏の描く真紅の髪とクリムゾンレッドの瞳、巨大デバイスの緻密なメカ造形を完全立体化。ファン必見のハイクオリティな逸品を徹底レビューします。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 総括：紅霞の狂気と美しさを手元に収めるコレクターズアイテム
 

@@ -31,6 +31,37 @@ mediaType: 'comic'
 
 藤子・F・不二雄先生が描き出した『ドラえもん』は、単なる児童漫画の枠を超え、私たち自身の心の奥底に眠る「もしも」を、時に優しく、時に厳しく具現化する存在です。SF（少し不思議）という独自のコンセプトで、日常に溶け込む非日常を描き出し、世代を超えて読み継がれるその普遍的な魅力について、深く掘り下げていきます。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b600qsgk00146/b600qsgk00146pl.jpg" alt="ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>dmmで「ドラえもん」の漫画を楽しもう。未来の猫型ロボットとひみつ道具が織りなすSF（少し不思議）な日常は、子どもの頃の「もしも」を叶える物語。のび太の冒険と道具の魅力を解説。1冊583円から購入可能。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## タイムマシンが運んだ、日常のSF（少し不思議）
 
 『ドラえもん』は、ご存知の通り、勉強も運動も苦手で気弱な少年、野比のび太と、22世紀の未来からやってきた猫型ロボット、ドラえもんが織りなす日常を描いたSF（少し不思議）な作品です。未来ののび太の子孫、セワシが、悲惨な未来を変えるため、ご先祖様であるのび太を助けようと、ドラえもんを送り込むところから物語は幕を開けます。
@@ -92,6 +123,37 @@ DMMブックスなら、[ドラえもん](https://al.dmm.com/?lurl=https%3A%2F%2
 DMMブックスでは、定期的にセールやキャンペーンを実施していることが多いので、そういった機会を狙えば、さらにお得に全巻を揃えることも可能です。例えば、新規登録者向けのクーポンや、特定ジャンルの割引など、賢く利用すればかなりの恩恵を受けられるでしょう。試し読み機能も充実しているので、まずは気になるエピソードや、初期の巻を少し読んでみて、その魅力を再確認してみるのも良いでしょう。私自身も、DMMブックスの試し読みを通じて、「子どもの頃には気づかなかったが、このエピソードにはこんな深い意味があったのか」と、新たな発見をすることが度々あります。
 
 電子書籍の最大の利点は、場所を取らないことです。全巻をデータで持ち歩けるというのは、まさしく現代の「ポケット」のようなものかもしれません。本棚のスペースを気にすることなく、数百冊の漫画をスマホの中に収納できるのは、多くの漫画愛好家にとって、この上ない魅力となるでしょう。画面越しに読むことに抵抗がある人もいるかもしれませんが、一度体験してみれば、その便利さにきっと驚くはずです。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b600qsgk00146/b600qsgk00146pl.jpg" alt="ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>dmmで「ドラえもん」の漫画を楽しもう。未来の猫型ロボットとひみつ道具が織りなすSF（少し不思議）な日常は、子どもの頃の「もしも」を叶える物語。のび太の冒険と道具の魅力を解説。1冊583円から購入可能。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 普遍的な物語が示す、私たちの「もしも」
 

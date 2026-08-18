@@ -30,6 +30,37 @@ mediaType: 'comic'
 
 少年時代の冒険への憧憬を、大人になった今も忘れていないだろうか。ファミコンやブラウン管テレビの向こうで繰り広げられた壮大な物語に心を揺さぶられた記憶は、きっと多くの人々の胸に刻まれているはずだ。純粋な心で世界と向き合い、困難を乗り越え、成長していく――。そんな普遍的な物語は、いつの時代も私たちを魅了する。今回は、現代に蘇った不朽のファンタジー漫画、『ポポロクロイス物語』を紹介する。あの頃の熱狂と感動を、今こそ改めて味わってみてほしい。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00242/b889ahkdd00242pl.jpg" alt="ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>愛と成長の感動RPG『ポポロクロイス物語 《決定版》』をDMMで体験。カラーページ完全再現に加え、未収録エピソードも追加。大人になった今だからこそ心に響く、ピエトロ王子の冒険を792円で楽しもう。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 純粋な瞳が映す冒険の輝き――『ポポロクロイス物語』
 
 今回紹介するのは、心優しい主人公が織りなす感動の冒険譚、『ポポロクロイス物語』だ。この作品は、かつて多くの少年少女を夢中にさせた、愛と成長の物語を再び現代に蘇らせてくれる。DMMで配信されている電子書籍版は、単なる復刻ではない。カラーページは当時の雰囲気を完全に再現し、単行本には未収録だったエピソードまで追加されているというから、往年のファンにとってはまさに待望のリリースだろう。
@@ -88,6 +119,37 @@ mediaType: 'comic'
 特にDMMの電子書籍は、『ポポロクロイス物語』のように、カラーページが再現されていたり、単行本未収録エピソードが追加されていたりと、単なるデジタル化以上の付加価値を提供してくれるのが嬉しい。作家の卓越した画力を細部まで堪能できるのは、電子書籍ならではのメリットと言えるだろう。
 
 価格は各巻792円と、手に取りやすい設定になっているのも好印象だ。まずは試し読みで作品の世界観に触れてみるのも良いだろう。DMMのサイトでは、無料の試し読みも可能だ。少しでも興味があれば、一度作品の世界に触れてみてはいかがだろうか。ピエトロ王子と共に、忘れられない冒険の旅が始まるかもしれない。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00242/b889ahkdd00242pl.jpg" alt="ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>愛と成長の感動RPG『ポポロクロイス物語 《決定版》』をDMMで体験。カラーページ完全再現に加え、未収録エピソードも追加。大人になった今だからこそ心に響く、ピエトロ王子の冒険を792円で楽しもう。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 時を超えて心に響く、普遍の物語
 

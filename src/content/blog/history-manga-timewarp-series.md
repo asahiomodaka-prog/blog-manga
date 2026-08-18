@@ -31,6 +31,37 @@ mediaType: 'comic'
 
 本来、歴史とは壮大な人間ドラマの連続である。権力争いに翻弄された者たちの悲哀、新時代を切り開こうと奮闘した者たちの情熱、そして、名もなき市井の人々が織りなす日々の営み。それらすべてが複雑に絡み合い、一つの大きな流れとなって現代に繋がっている。もし、あの頃に、彼らの生き様を肌で感じられるような「物語」として歴史に出会えていたら、自身の人生はもっと豊かになっていたであろう。そんな後悔にも似た感情を抱く筆者が今、改めて手にとっているのが、まさにその「物語」の宝庫だ。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0369/9784023320369.jpg?_ex=600x600" alt="歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を夜更けに再読するロマン！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を夜更けに再読するロマン！
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>集英社 コンパクト版 学習まんが 日本の歴史 全22巻セットは、年表暗記の苦痛を解消し「生きた歴史」を体感できる傑作。大人も子供も夢中になれる、ストーリー重視の学習まんがが楽天で18,590円。その魅力を徹底解説。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25AD%25B4%25E5%258F%25B2%25E6%25BC%25AB%25E7%2594%25BB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25A7%25E3%2580%2581%25E9%2581%258E%25E3%2581%258E%25E5%258E%25BB%25E3%2582%258A%25E3%2581%2597%25E7%2586%25B1%25E7%258B%2582%25E3%2582%2592%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%2591%25E3%2581%25AB%25E5%2586%258D%25E8%25AA%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%259E%25E3%2583%25B3%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q2zm1.ve2q5e08.g00q2zm1.ve2q6c82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooks-sanseido%2F9784082399351%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooks-sanseido%2Fi%2F10363065%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25AD%25B4%25E5%258F%25B2%25E6%25BC%25AB%25E7%2594%25BB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25A7%25E3%2580%2581%25E9%2581%258E%25E3%2581%258E%25E5%258E%25BB%25E3%2582%258A%25E3%2581%2597%25E7%2586%25B1%25E7%258B%2582%25E3%2582%2592%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%2591%25E3%2581%25AB%25E5%2586%258D%25E8%25AA%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%259E%25E3%2583%25B3%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 時を超え、息づく歴史の舞台裏へ
 
 集英社から発売されている[集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2)](https://hb.afl.rakuten.co.jp/hgc/g00q2zm1.ve2q5e08.g00q2zm1.ve2q6c82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooks-sanseido%2F9784082399351%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooks-sanseido%2Fi%2F10363065%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、単なる学習まんがという枠を超えた、まさに「生きた歴史」を体験できる優れたシリーズである。全20巻という大ボリュームに加え、別巻2冊を含めた計22冊で日本の歴史を原始時代から現代まで網羅している。
@@ -83,6 +114,37 @@ mediaType: 'comic'
 | :--- | :--- |
 | 価格 | 18,590円 |
 | 商品名 | 集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2) 漫画 コミック イラスト 勉強 本 歴史 受験 日本 セット 学習 日本史 中学 大人 まんが 子供 児童書 小学生 歴史漫画 人物 子ども 贈り物 ギフト クリスマス プレゼント お祝い |
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0369/9784023320369.jpg?_ex=600x600" alt="歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を夜更けに再読するロマン！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を夜更けに再読するロマン！
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>集英社 コンパクト版 学習まんが 日本の歴史 全22巻セットは、年表暗記の苦痛を解消し「生きた歴史」を体感できる傑作。大人も子供も夢中になれる、ストーリー重視の学習まんがが楽天で18,590円。その魅力を徹底解説。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25AD%25B4%25E5%258F%25B2%25E6%25BC%25AB%25E7%2594%25BB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25A7%25E3%2580%2581%25E9%2581%258E%25E3%2581%258E%25E5%258E%25BB%25E3%2582%258A%25E3%2581%2597%25E7%2586%25B1%25E7%258B%2582%25E3%2582%2592%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%2591%25E3%2581%25AB%25E5%2586%258D%25E8%25AA%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%259E%25E3%2583%25B3%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q2zm1.ve2q5e08.g00q2zm1.ve2q6c82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooks-sanseido%2F9784082399351%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooks-sanseido%2Fi%2F10363065%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25AD%25B4%25E5%258F%25B2%25E6%25BC%25AB%25E7%2594%25BB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25A7%25E3%2580%2581%25E9%2581%258E%25E3%2581%258E%25E5%258E%25BB%25E3%2582%258A%25E3%2581%2597%25E7%2586%25B1%25E7%258B%2582%25E3%2582%2592%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%2591%25E3%2581%25AB%25E5%2586%258D%25E8%25AA%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%259E%25E3%2583%25B3%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 電子書籍で広がる歴史探求の扉
 

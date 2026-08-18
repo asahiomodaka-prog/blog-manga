@@ -32,6 +32,37 @@ mediaType: 'comic'
 
 ippatu先生が描く異色作『猩猩姫』は、そうした80年代の精神性を鮮やかに現代に蘇らせる作品である。単なる懐古趣味に終わらず、当時の社会が抱えていた閉塞感や、若者たちのアイデンティティ模索という普遍的なテーマを、現代的な視点で再構築している点が特筆される。優等生と暴走族という対極にある存在が織りなす危うい恋愛模様は、80年代を象徴するテーマの一つだ。しかし、本作はそこに留まらず、管理社会への反抗や自己の存在意義を探る旅路を、『西遊記』という壮大な物語の枠組みの中で描いていく。読み進めるうちに、読者はページをめくる手が止まらなくなるだろう。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b544atsmi04629/b544atsmi04629pl.jpg" alt="『猩猩姫』新解釈西遊記が描く純愛と業。なぜ胸を強くえぐられるのか" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                『猩猩姫』新解釈西遊記が描く純愛と業。なぜ胸を強くえぐられるのか
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『猩猩姫』が描く新解釈西遊記の魅力。記憶をなくした少女とイケメン僧侶が紡ぐ、切なくも激しい人間ドラマを徹底考察。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E6%2596%25B0%25E8%25A7%25A3%25E9%2587%2588%25E8%25A5%25BF%25E9%2581%258A%25E8%25A8%2598%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E7%25B4%2594%25E6%2584%259B%25E3%2581%25A8%25E6%25A5%25AD%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E8%2583%25B8%25E3%2582%2592%25E5%25BC%25B7%25E3%2581%258F%25E3%2581%2588%25E3%2581%2590%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E6%2596%25B0%25E8%25A7%25A3%25E9%2587%2588%25E8%25A5%25BF%25E9%2581%258A%25E8%25A8%2598%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E7%25B4%2594%25E6%2584%259B%25E3%2581%25A8%25E6%25A5%25AD%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E8%2583%25B8%25E3%2582%2592%25E5%25BC%25B7%25E3%2581%258F%25E3%2581%2588%25E3%2581%2590%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E6%2596%25B0%25E8%25A7%25A3%25E9%2587%2588%25E8%25A5%25BF%25E9%2581%258A%25E8%25A8%2598%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E7%25B4%2594%25E6%2584%259B%25E3%2581%25A8%25E6%25A5%25AD%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E8%2583%25B8%25E3%2582%2592%25E5%25BC%25B7%25E3%2581%258F%25E3%2581%2588%25E3%2581%2590%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 記憶をなくした少女とイケメン僧侶が紡ぐ新たな「西遊記」
 
 物語は、封印されていた記憶喪失の少女が、通りすがりのイケメン僧侶によって解き放たれるところから幕を開ける。この少女こそが、本作のタイトルにもなっている「猩猩姫」だ。彼女は、僧侶から「猩猩姫」という名を与えられ、彼に一目惚れする。そして、玄奘と名乗るその僧侶と共に、西へと旅立つことになる。そう、この作品は、誰もが知る中国三大奇書の一つ『西遊記』を大胆に再構築した「新解釈西遊記」なのだ。
@@ -96,6 +127,37 @@ ippatu先生のキャラクターデザインは、登場人物の内面を巧�
 | 商品名 | 猩猩姫 |
 
 紙媒体の温かみも魅力的だが、電子書籍の利便性は、現代の忙しい私たちにとって、かけがえのないものだ。本棚にスペースがなくても、何百冊もの漫画をいつでも持ち歩ける。これは、かつて夢見たSFの世界が現実になったような、非常に有用な体験である。特に、少し昔の作品だからこそ、電子書籍で気軽にアクセスできるのは、作品との出会いのハードルを大きく下げてくれるだろう。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b544atsmi04629/b544atsmi04629pl.jpg" alt="『猩猩姫』新解釈西遊記が描く純愛と業。なぜ胸を強くえぐられるのか" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                『猩猩姫』新解釈西遊記が描く純愛と業。なぜ胸を強くえぐられるのか
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『猩猩姫』が描く新解釈西遊記の魅力。記憶をなくした少女とイケメン僧侶が紡ぐ、切なくも激しい人間ドラマを徹底考察。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E6%2596%25B0%25E8%25A7%25A3%25E9%2587%2588%25E8%25A5%25BF%25E9%2581%258A%25E8%25A8%2598%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E7%25B4%2594%25E6%2584%259B%25E3%2581%25A8%25E6%25A5%25AD%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E8%2583%25B8%25E3%2582%2592%25E5%25BC%25B7%25E3%2581%258F%25E3%2581%2588%25E3%2581%2590%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E6%2596%25B0%25E8%25A7%25A3%25E9%2587%2588%25E8%25A5%25BF%25E9%2581%258A%25E8%25A8%2598%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E7%25B4%2594%25E6%2584%259B%25E3%2581%25A8%25E6%25A5%25AD%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E8%2583%25B8%25E3%2582%2592%25E5%25BC%25B7%25E3%2581%258F%25E3%2581%2588%25E3%2581%2590%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E6%2596%25B0%25E8%25A7%25A3%25E9%2587%2588%25E8%25A5%25BF%25E9%2581%258A%25E8%25A8%2598%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E7%25B4%2594%25E6%2584%259B%25E3%2581%25A8%25E6%25A5%25AD%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E8%2583%25B8%25E3%2582%2592%25E5%25BC%25B7%25E3%2581%258F%25E3%2581%2588%25E3%2581%2590%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 『猩猩姫』が問いかける、時代を超えた「衝動」
 

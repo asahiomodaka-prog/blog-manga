@@ -32,6 +32,37 @@ mediaType: 'figure'
 
 そんなスパイクの魅力を、手のひらで堪能できるアイテムが[【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api)だ。作品中の名場面が蘇るような造形は、ファンであれば思わず手にとりたくなるだろう。本記事では、このフィギュアがいかにスパイクの、そして作品の世界観を再現しているかを深掘りし、その魅力を紹介する。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b000ehftx79807/b000ehftx79807pl.jpg" alt="カウボーイビバップ POP UP PARADE" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                カウボーイビバップ POP UP PARADE
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>名作アニメ『カウボーイビバップ』の主人公「スパイク・スピーゲル」がPOP UP PARADEシリーズで登場！飾りやすいサイズと手に取りやすい価格4,895円で蘇る造形美を徹底レビュー。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 宇宙を駆ける風来坊、その一瞬を切り取った造形美
 
 [【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api)を初めて手にした時、その再現度の高さに驚かされた。箱から取り出すと、アニメの画面から飛び出してきたかのようなスパイク・スピーゲルの姿が目に飛び込んでくる。
@@ -102,6 +133,37 @@ POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの�
 正直なところ、この価格でこのクオリティのスパイクが手に入るのは、高く評価できる。僕も最初は「POP UP PARADEでどこまで再現できるんだろう？」と半信半疑だったのだが、その出来栄えには良い意味で期待を裏切られた。
 
 彼が僕の部屋にやってきてから、僕の日常は少しだけ豊かになった気がする。ふとした瞬間に彼に目をやり、作品の世界に思いを馳せる時間は、僕にとってかけがえのないリフレッシュになっている。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b000ehftx79807/b000ehftx79807pl.jpg" alt="カウボーイビバップ POP UP PARADE" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                カウボーイビバップ POP UP PARADE
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>名作アニメ『カウボーイビバップ』の主人公「スパイク・スピーゲル」がPOP UP PARADEシリーズで登場！飾りやすいサイズと手に取りやすい価格4,895円で蘇る造形美を徹底レビュー。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## いつまでも色褪せない、宇宙の流浪者への愛を形にする
 

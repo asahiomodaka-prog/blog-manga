@@ -24,6 +24,37 @@ mediaType: 'anime'
 
 [TVアニメ「BEATLESS」オリジナルサウンドトラック](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_269zmcz12168s%2F&af_id=DMMaria-999&ch=api)
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/cd/cd_269zmcz12168s/cd_269zmcz12168spl.jpg" alt="TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>TVアニメ「BEATLESS」オリジナルサウンドトラック（DMM通販・3,300円）。作品の壮大なSF世界観とhIEたちの繊細な感情を紡ぐ珠玉の劇伴集。エレクトロニックとオーケストラが融合した楽曲の魅力を徹底解説します。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## エレクトロニックと壮大なシンフォニックが織りなす音響世界
 
 <img src="https://pics.dmm.com/mono/cd/cd_269zmcz12168s/cd_269zmcz12168spl.jpg" alt="TVアニメ「BEATLESS」オリジナルサウンドトラック" />
@@ -71,6 +102,37 @@ mediaType: 'anime'
 ### 知っておきたいポイント
 * 本商品は「CD音源（フィジカル商品）」である。CDプレーヤーやPCの光学ドライブ等での再生環境をあらかじめ確認しておきたい。
 * アニメ劇伴（BGM）を中心とした構成のため、OP/EDテーマのフルサイズ等の収録状況については、商品詳細ページで確認することをお勧めする。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/cd/cd_269zmcz12168s/cd_269zmcz12168spl.jpg" alt="TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>TVアニメ「BEATLESS」オリジナルサウンドトラック（DMM通販・3,300円）。作品の壮大なSF世界観とhIEたちの繊細な感情を紡ぐ珠玉の劇伴集。エレクトロニックとオーケストラが融合した楽曲の魅力を徹底解説します。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 総括：『BEATLESS』の世界に深くダイブできる一枚
 

@@ -25,6 +25,37 @@ mediaType: 'comic'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/570/9784253172570.jpg" alt="眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『BLACK JACK (秋田文庫版) 全17巻セット』が14,960円で楽天に登場。手塚治虫が描く無免許医ブラック・ジャックの活躍と、命の光と闇、人間の業に迫る医療ドラマを全巻一気読み。普遍的なテーマが現代に響きます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e1-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 無免許医が問いかける命の尊厳、時代を超えた傑作との再会
 
 手塚治虫が遺した不朽の名作『BLACK JACK』は、時代を超えて読み継がれる医療漫画の金字塔である。命の尊厳、医療倫理、そして人間の生と死という普遍的なテーマを深く問いかける本作は、今なお多くの読者を魅了し続けている。顔に傷を持つ天才外科医ブラック・ジャックが、法外な報酬と引き換えに命を救う姿は、少年時代の我々の心を揺さぶり、大人になった今読み返しても、新たな感動と深い洞察を与えてくれる。手塚治虫という稀代の漫画家が紡ぎ出した普遍的なメッセージは、時を超えて現代に生きる我々にも鮮烈に響き渡る。
@@ -85,6 +116,37 @@ mediaType: 'comic'
 
 『BLACK JACK (秋田文庫版) 全17巻セット』は、楽天で手軽に購入できる。青春の熱狂と深い問いを再体験したい人、そして手塚治虫の世界を改めて深く味わいたい人は、ぜひこの機会に手にとってみてほしい。
 [BLACK JACK (秋田文庫版) 全17巻セット](https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e1-a7a6-bdd68daad98b)
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/570/9784253172570.jpg" alt="眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『BLACK JACK (秋田文庫版) 全17巻セット』が14,960円で楽天に登場。手塚治虫が描く無免許医ブラック・ジャックの活躍と、命の光と闇、人間の業に迫る医療ドラマを全巻一気読み。普遍的なテーマが現代に響きます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11222447%2F&rafcid=wsc_i_is_732732a1-5b08-44e1-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 時代を超えて響く、命への問いかけ
 

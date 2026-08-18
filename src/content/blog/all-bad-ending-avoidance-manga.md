@@ -28,6 +28,37 @@ mediaType: 'comic'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b000ehftx83614/b000ehftx83614pl.jpg" alt="全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>自己犠牲で全滅エンドを回避した主人公を待ち受けるのは、激重感情を抱く仲間たちの歪んだ愛。予想外の展開が「曇らせ」異世界譚として楽しめる『全滅エンドを死に物狂いで回避した』がdmmで924円。衝撃の人間ドラマを体験しよう。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 全滅回避が招く狂気：歪んだ愛を描く異世界譚
 
 誰もが一度は「もしあの時、違う選択をしていたら」と、物語の結末に介入したいと願うものだ。特に、努力が報われず、仲間が全滅するようなバッドエンドは、読み進めるのが辛い。しかし、もしその「全滅」を回避できたとしても、本当にハッピーエンドが訪れるのだろうか。あるいは、その救済が、さらに深い歪みを生む可能性もある。
@@ -84,6 +115,37 @@ mediaType: 'comic'
 このような重厚な物語をじっくりと読み込むなら、電子書籍での読書はまさに最適だ。『[全滅エンドを死に物狂いで回避した。パーティが病んだ。](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api)』のような、心理描写が複雑で、何度も読み返したくなる作品は、物理的な本だと保管場所に困りがちだ。しかし電子書籍なら、スマートフォンやタブレット一つで、いつでもどこでも物語の世界に没頭できる。通勤電車のわずかな隙間時間でも、夜の静かな寝室でも、この歪んだ愛の物語を心ゆくまで堪能できるのは、電子書籍ならではの大きなメリットだろう。
 
 特に、この作品のように、キャラクターの表情や背景の描き込みが重要な漫画の場合、電子書籍であれば拡大表示も可能なので、作者の卓越した画力を細部まで味わうことができる。登場人物たちの心の動きが繊細に描かれた瞳の奥や、背景に込められた意味深なモチーフなど、紙媒体では見落としがちな部分も、電子書籍ならじっくりと鑑賞できる。DMMでは924円で手に入る上に、試し読みも充実しているため、まずは物語の導入部分に触れてみて、この作品が持つ独特の世界観に触れてみるのも良いだろう。きっと、数ページ読んだだけで、この物語の深淵に引き込まれるはずだ。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b000ehftx83614/b000ehftx83614pl.jpg" alt="全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>自己犠牲で全滅エンドを回避した主人公を待ち受けるのは、激重感情を抱く仲間たちの歪んだ愛。予想外の展開が「曇らせ」異世界譚として楽しめる『全滅エンドを死に物狂いで回避した』がdmmで924円。衝撃の人間ドラマを体験しよう。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 歪んだ愛の物語が問いかけるもの
 

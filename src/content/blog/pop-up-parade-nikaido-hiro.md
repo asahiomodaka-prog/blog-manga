@@ -35,6 +35,37 @@ mediaType: 'figure'
 二階堂ヒロのフィギュア詳細はこちらで確認できる。
 [POP UP PARADE 二階堂ヒロ](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260705287%2F&af_id=DMMaria-999&ch=api)
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/hobby/c260705287/c260705287pt.jpg" alt="POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『世界一初恋』POP UP PARADE 二階堂ヒロがDMMで8439円。デスクに飾るだけで日常に癒やしとときめきを与え、忘れかけていた情熱を呼び覚まします。多忙な日々を過ごすあなたへ、小さな輝きを。詳細と魅力を解説。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOP%2520UP%2520PARADE%2520%25E4%25BA%258C%25E9%259A%258E%25E5%25A0%2582%25E3%2583%2592%25E3%2583%25AD%25E3%2580%2582%25E5%25BD%25BC%25E3%2581%25AE%25E7%259E%25B3%25E3%2581%25AB%25E5%25AE%25BF%25E3%2582%258B%25E3%2580%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E8%2591%259B%25E8%2597%25A4%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPOP%2520UP%2520PARADE%2520%25E4%25BA%258C%25E9%259A%258E%25E5%25A0%2582%25E3%2583%2592%25E3%2583%25AD%25E3%2580%2582%25E5%25BD%25BC%25E3%2581%25AE%25E7%259E%25B3%25E3%2581%25AB%25E5%25AE%25BF%25E3%2582%258B%25E3%2580%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E8%2591%259B%25E8%2597%25A4%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPOP%2520UP%2520PARADE%2520%25E4%25BA%258C%25E9%259A%258E%25E5%25A0%2582%25E3%2583%2592%25E3%2583%25AD%25E3%2580%2582%25E5%25BD%25BC%25E3%2581%25AE%25E7%259E%25B3%25E3%2581%25AB%25E5%25AE%25BF%25E3%2582%258B%25E3%2580%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E8%2591%259B%25E8%2597%25A4%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## エメラルド編集部へようこそ：『世界一初恋』が紡ぐ大人の恋模様
 
 本稿で焦点を当てるのは、二階堂ヒロ。彼の出自は、中村春菊先生が描くBL漫画『世界一初恋』に登場する主要キャラクターだ。
@@ -171,6 +202,37 @@ DMMブックスなどでは、導入エピソードを気軽に確認できる�
 例えば、特定のシーンやセリフを探したい時など、検索機能を使えば瞬時に見つけ出すことができるのは、デジタルならではのメリットだ。
 作品を何度も振り返り、新たな発見をするタイプのファンにとって、この利便性は地味にありがたい。
 デジタルを活用し、エメラルド編集部のメンバーが織りなす甘く切ない恋の物語を、フィギュアと共に深く、そして何度でも味わい尽くすのも、また一興である。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/hobby/c260705287/c260705287pt.jpg" alt="POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『世界一初恋』POP UP PARADE 二階堂ヒロがDMMで8439円。デスクに飾るだけで日常に癒やしとときめきを与え、忘れかけていた情熱を呼び覚まします。多忙な日々を過ごすあなたへ、小さな輝きを。詳細と魅力を解説。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOP%2520UP%2520PARADE%2520%25E4%25BA%258C%25E9%259A%258E%25E5%25A0%2582%25E3%2583%2592%25E3%2583%25AD%25E3%2580%2582%25E5%25BD%25BC%25E3%2581%25AE%25E7%259E%25B3%25E3%2581%25AB%25E5%25AE%25BF%25E3%2582%258B%25E3%2580%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E8%2591%259B%25E8%2597%25A4%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPOP%2520UP%2520PARADE%2520%25E4%25BA%258C%25E9%259A%258E%25E5%25A0%2582%25E3%2583%2592%25E3%2583%25AD%25E3%2580%2582%25E5%25BD%25BC%25E3%2581%25AE%25E7%259E%25B3%25E3%2581%25AB%25E5%25AE%25BF%25E3%2582%258B%25E3%2580%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E8%2591%259B%25E8%2597%25A4%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPOP%2520UP%2520PARADE%2520%25E4%25BA%258C%25E9%259A%258E%25E5%25A0%2582%25E3%2583%2592%25E3%2583%25AD%25E3%2580%2582%25E5%25BD%25BC%25E3%2581%25AE%25E7%259E%25B3%25E3%2581%25AB%25E5%25AE%25BF%25E3%2582%258B%25E3%2580%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E8%2591%259B%25E8%2597%25A4%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 机の上の小さな彼が語りかけるもの
 

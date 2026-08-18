@@ -28,6 +28,37 @@ mediaType: 'figure'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg" alt="キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」合体ギミックと造形美を徹底解説。デスクを彩るレトロアニメの至宝。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## POP UP PARADE BP028 ヤッ太郎＆トリツックン レビュー！ あの頃の冒険を再び手元に
 
 かつてブラウン管の前で食い入るように見つめ、友達と放課後に熱く語り合ったヒーローたちがいる。彼らの活躍は、私たちに勇気を与え、明日への希望をもたらした。そんな記憶の片隅に鮮やかに蘇る作品のキャラクターたちが、今、手のひらサイズのフィギュアとして蘇る。本記事では、あの頃の胸騒ぎを再び呼び起こすPOP UP PARADE「BP028 ヤッ太郎＆トリツックン」の魅力を深掘りする。
@@ -88,6 +119,37 @@ POP UP PARADE BP028 ヤッ太郎＆トリツックンを手にするなら、当
 | 商品名   | BP028 ヤッ太郎＆トリツックン |
 
 私自身も、フィギュアを手にすると、過去の作品を見返したくなるものだ。あの頃は夢中で見ていたアニメも、大人になってから改めて見直すと、また違った発見がある。子供の頃には気づかなかった伏線や、登場人物たちの心の機微に触れることができ、作品への理解がより一層深まる。このフィギュアをきっかけに、アニメ『BP028 ヤッ太郎＆トリツックン』を再鑑賞すれば、きっと新たな発見に満ちているはずだ。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg" alt="キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」合体ギミックと造形美を徹底解説。デスクを彩るレトロアニメの至宝。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 手元に蘇る、色褪せない冒険の記憶
 

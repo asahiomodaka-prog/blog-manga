@@ -30,6 +30,37 @@ mediaType: 'comic'
 
 「異世界転生」や「追放系」という言葉は、私たちの中に眠る冒険心や、不遇からの逆転劇への渇望を刺激する。現実のしがらみや日常の疲れから解放され、剣と魔法の世界に没頭したい。そんな願いを叶える異世界ファンタジー作品は数多く存在するが、特に不遇な立場から逆転していく主人公の物語は、読者の心を強く捉える。今回取り上げる[冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4356736%2Fb163cijt236815%2F&af_id=DMMaria-999&ch=api)は、まさにそうした現代人の心に響く「追放系」の王道を踏まえつつ、読者の自己肯定感を高める人間ドラマを描き出した作品だ。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b163cijt236815/b163cijt236815pl.jpg" alt="追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>追放された回復士の少女が、最強職業に転職!? 『冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…』は、DMMブックスで165円で読める、不遇からの逆転ファンタジーです</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2580%2581%25E3%2581%259D%25E3%2581%2597%25E3%2581%25A6%25E6%25A7%2598%25E5%25AD%2590%25E3%2581%258C%25E3%2581%258A%25E3%2581%258B%25E3%2581%2597%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2580%2581%25E3%2581%259D%25E3%2581%2597%25E3%2581%25A6%25E6%25A7%2598%25E5%25AD%2590%25E3%2581%258C%25E3%2581%258A%25E3%2581%258B%25E3%2581%2597%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2580%2581%25E3%2581%259D%25E3%2581%2597%25E3%2581%25A6%25E6%25A7%2598%25E5%25AD%2590%25E3%2581%258C%25E3%2581%258A%25E3%2581%258B%25E3%2581%2597%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 追放からの逆転劇！ 新しい「回復士」の物語が始まる
 
 物語は、典型的な「追放系」の導入で幕を開ける。冒険者パーティーから理不尽な理由で追放された一人の回復士の少女、ルリ。パーティーリーダーから「役立たず」の烙印を押され、絶望に突き落とされた彼女を拾い上げたのは、過去に何かを抱える元冒険者、カイトだった。カイトはルリの内に秘められた真の才能を見抜き、彼女を育成していくことになる。
@@ -91,6 +122,37 @@ mediaType: 'comic'
 この作品の魅力は、単なる異世界での冒険譚に終わらず、人間関係の機微や、自己肯定感という現代的なテーマを内包している点にある。だからこそ、読み終わった後に、ふと自分自身の人生や、周りの人々との関係性について考えさせられる瞬間がある。
 
 最近、私が読んで心に残った作品の中に、[新世紀エヴァンゲリオンTV放映版DVDBOX：なぜ、私たちは心の傷を抱え続けるのか？](/blog/neon-genesis-evangelion-tv-broadcast-dvd-box/)という記事で語ったエヴァのように、キャラクターの心の傷や葛藤を描くものがあるが、この作品もまた、ルリの心の回復と成長を通じて、私たちに勇気を与えてくれる。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b163cijt236815/b163cijt236815pl.jpg" alt="追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>追放された回復士の少女が、最強職業に転職!? 『冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…』は、DMMブックスで165円で読める、不遇からの逆転ファンタジーです</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2580%2581%25E3%2581%259D%25E3%2581%2597%25E3%2581%25A6%25E6%25A7%2598%25E5%25AD%2590%25E3%2581%258C%25E3%2581%258A%25E3%2581%258B%25E3%2581%2597%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2580%2581%25E3%2581%259D%25E3%2581%2597%25E3%2581%25A6%25E6%25A7%2598%25E5%25AD%2590%25E3%2581%258C%25E3%2581%258A%25E3%2581%258B%25E3%2581%2597%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2580%2581%25E3%2581%259D%25E3%2581%2597%25E3%2581%25A6%25E6%25A7%2598%25E5%25AD%2590%25E3%2581%258C%25E3%2581%258A%25E3%2581%258B%25E3%2581%2597%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 電子書籍で味わう、手軽で奥深い異世界ファンタジー
 

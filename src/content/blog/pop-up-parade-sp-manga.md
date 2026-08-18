@@ -25,6 +25,37 @@ mediaType: 'figure'
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/hobby/c260705286/c260705286pt.jpg" alt="POP UP PARADE" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                POP UP PARADE
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>POP UP PARADE SPフィギュアを徹底解説。ハイクオリティな造形が作品の世界観を忠実に再現し、コレクションに最適な逸品です。dmmで20269円。購入前に知るべき魅力を、価格や使い勝手から詳しく紹介します。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOP%2520UP%2520PARADE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPOP%2520UP%2520PARADE%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPOP%2520UP%2520PARADE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## POP UP PARADE SP：無言の造形が喚起する、物語への誘い
 
 特定のフィギュアが、鑑賞者の心にまだ見ぬ物語の序章を鮮烈に想起させることがある。ホビーフロアで[POP UP PARADE SP](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260705286%2F&af_id=DMMaria-999&ch=api)を初めて手にした時、漫画コレクターである私には、その無言の存在から放たれる熱量が静かに響いた。パッケージを開け、精緻な造形を目の当たりにした瞬間、まるで愛読した名作漫画のひとコマが立体となって立ち現れたかのような感覚を覚えたのだ。
@@ -97,6 +128,37 @@ mediaType: 'figure'
 フィギュアが持つキャラクターの雰囲気や背景から想像を巡らせてみよう。例えば、重厚なファンタジーが好きなら、「孤独な旅人」「失われた記憶」「世界の真実」といったキーワードで作品を探すのも面白い。繊細さや内省的な雰囲気に惹かれるなら、人間ドラマや心理サスペンス系の作品も良いかもしれない。力強い眼差しから、権力への反抗や社会の不条理と戦う姿を想像するなら、ディストピアSFやポリティカル・フィクションといったジャンルに心惹かれる物語が見つかる可能性もある。多くの漫画サービスでは、冒頭数ページを無料で試し読みできるため、自分の心に響くかどうかを確かめるのが良いだろう。
 
 漫画の探し方は宝探しのようなものだ。私もフィギュアやイラストからインスピレーションを受け、その絵が持つ雰囲気やキャラクターの背景に合いそうな漫画を探し始めることがある。この「POP UP PARADE SP」も、鑑賞者にとって新たな物語の扉を開く鍵となるかもしれない。衣装のディテールからSF的な要素を感じ取ったならサイバーパンクやディストピア系の作品を、表情からヒューマンドラマの匂いを嗅ぎ取ったのなら登場人物の心の機微を丁寧に描いた作品を探すのも良い。このフィギュアをきっかけに、まだ見ぬ傑作に出会える可能性は無限大だ。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://pics.dmm.com/mono/hobby/c260705286/c260705286pt.jpg" alt="POP UP PARADE" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                POP UP PARADE
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>POP UP PARADE SPフィギュアを徹底解説。ハイクオリティな造形が作品の世界観を忠実に再現し、コレクションに最適な逸品です。dmmで20269円。購入前に知るべき魅力を、価格や使い勝手から詳しく紹介します。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOP%2520UP%2520PARADE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPOP%2520UP%2520PARADE%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPOP%2520UP%2520PARADE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## POP UP PARADE SP：物語を紡ぐフィギュアの魅力
 

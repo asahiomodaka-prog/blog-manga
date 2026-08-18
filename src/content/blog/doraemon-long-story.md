@@ -31,6 +31,37 @@ mediaType: 'comic'
 
 [大長編ドラえもん](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F590245%2Fb600qsgk02980%2F&af_id=DMMaria-999&ch=api)
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b600qsgk02980/b600qsgk02980pl.jpg" alt="大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『大長編ドラえもん』は、子供も大人も胸熱くなる普遍的冒険活劇。友情・勇気・成長を描く壮大な物語が、DMMブックスで583円から楽しめます。現代に失われた少年心を取り戻し、新たな発見を。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 日常からの脱却、未知への大冒険が呼ぶ
 
 『大長編ドラえもん』は、国民的キャラクターであるドラえもんとのび太、しずか、ジャイアン、スネ夫のお馴染み5人組が、日常を飛び出し、地球の裏側や宇宙の果て、あるいは遥か昔の時代へと旅立つ壮大な冒険物語シリーズだ。普段はひみつ道具に頼り切りで、どこか頼りないのび太たちが、未知の惑星で異星人と交流したり、深海の秘境で古代文明の謎を追ったり、さらには時空を超えて恐竜時代にタイムスリップしたりと、毎回予想もしない出来事に巻き込まれていく。
@@ -88,6 +119,37 @@ DMMブックスでは、これらの素晴らしい作品群を電子書籍で�
 | フロア | コミック |
 | 著者/作者 | 藤子・F・不二雄 |
 | ジャンル | バトル・アクション, ファンタジー, 冒険, SF |
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b600qsgk02980/b600qsgk02980pl.jpg" alt="大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『大長編ドラえもん』は、子供も大人も胸熱くなる普遍的冒険活劇。友情・勇気・成長を描く壮大な物語が、DMMブックスで583円から楽しめます。現代に失われた少年心を取り戻し、新たな発見を。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 今こそ、心の中に眠る冒険心を呼び覚ませ
 

@@ -28,6 +28,37 @@ mediaType: 'comic'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg" alt="『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>12世紀イングランドを舞台に、運命に抗い女王として生きた女性を描く『傾国のカルマ』。激動の時代、血筋や性別に翻弄されながらも尊厳と誇りを守り抜く物語を徹底解説。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 運命に抗う女王の魂：激動の12世紀イングランドを描く『傾国のカルマ』
 
 歴史ロマンに魅力を感じながらも、単なる史実のなぞりではない、深い人間ドラマや女性の力強い生き様が描かれた作品を求める読者もいるだろう。そんな層に深く刺さる一作が、12世紀イングランドを舞台に激動の時代を生き抜いた女王の生涯を描く『傾国のカルマ』だ。この漫画は、史実を背景にしつつも、血筋と性別という桎梏に抗い、自らの手で運命を切り開く一人の女性の気高き魂を鮮烈に描き出す。普遍的なテーマと圧倒的な人間ドラマで、読む者の魂を揺さぶる傑作と言える。
@@ -92,6 +123,37 @@ mediaType: 'comic'
 『傾国のカルマ』は、単話で購入することも可能である。試しに第一話だけ読んでみて、その世界観に触れてみるのも良いだろう。もしこの物語が持つ普遍的なテーマと、登場人物たちの生き様に心を奪われたなら、ぜひ全巻を通して読んでほしい。歴史の重厚なロマンと、人間の尊厳をめぐる深い物語に、心ゆくまで浸ることができるはずだ。
 
 現在、[傾国のカルマ](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190445%2Fs174apups00563%2F&af_id=DMMaria-999&ch=api)はDMMブックスで詳細を確認できる。歴史に名を刻んだ女王の物語を、この機会に体験してみてはいかがだろうか。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg" alt="『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>12世紀イングランドを舞台に、運命に抗い女王として生きた女性を描く『傾国のカルマ』。激動の時代、血筋や性別に翻弄されながらも尊厳と誇りを守り抜く物語を徹底解説。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 『傾国のカルマ』が問いかけるもの：読者の心に残る普遍のテーマ
 

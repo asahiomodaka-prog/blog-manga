@@ -32,6 +32,37 @@ mediaType: 'comic'
 
 本記事では、『GetBackers-奪還屋-』の普遍的な魅力と、スピンオフである『猩猩姫』が提示する新たな側面を深掘りする。当時を知る読者には懐かしさを、初めて作品に触れる読者にはその奥深さを伝えることを目指す。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/s031ahpkj15272/s031ahpkj15272pl.jpg" alt="『猩猩姫』異形と高貴さが交差する世界！人間の本質と業を問う傑作ダークファンタジー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                『猩猩姫』異形と高貴さが交差する世界！人間の本質と業を問う傑作ダークファンタジー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『猩猩姫』の魅力を深掘り。ippatu先生が描く、異形と高貴さが交差する世界で、人間の本質、抑圧された感情、そして力強いバトルアクションを徹底レビュー。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E7%2595%25B0%25E5%25BD%25A2%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25B4%25E3%2581%2595%25E3%2581%258C%25E4%25BA%25A4%25E5%25B7%25AE%25E3%2581%2599%25E3%2582%258B%25E4%25B8%2596%25E7%2595%258C%25EF%25BC%2581%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E3%2581%25A8%25E6%25A5%25AD%25E3%2582%2592%25E5%2595%258F%25E3%2581%2586%25E5%2582%2591%25E4%25BD%259C%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E7%2595%25B0%25E5%25BD%25A2%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25B4%25E3%2581%2595%25E3%2581%258C%25E4%25BA%25A4%25E5%25B7%25AE%25E3%2581%2599%25E3%2582%258B%25E4%25B8%2596%25E7%2595%258C%25EF%25BC%2581%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E3%2581%25A8%25E6%25A5%25AD%25E3%2582%2592%25E5%2595%258F%25E3%2581%2586%25E5%2582%2591%25E4%25BD%259C%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25B8%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E7%2595%25B0%25E5%25BD%25A2%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25B4%25E3%2581%2595%25E3%2581%258C%25E4%25BA%25A4%25E5%25B7%25AE%25E3%2581%2599%25E3%2582%258B%25E4%25B8%2596%25E7%2595%258C%25EF%25BC%2581%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E3%2581%25A8%25E6%25A5%25AD%25E3%2582%2592%25E5%2595%258F%25E3%2581%2586%25E5%2582%2591%25E4%25BD%259C%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 裏新宿を奔走する、魂の奪還屋の物語
 
 『GetBackers-奪還屋-』は、裏新宿を拠点に「奪われたもの」を取り戻すことを生業とする「奪還屋」の美堂蛮（みどう ばん）と天野銀次（あまの ぎんじ）の物語である。彼らは、依頼人の失くした物はもちろん、時には人の心や記憶、未来といった形なきものまでをも奪還していく。その過程で、二人はそれぞれの過去と向き合い、自らの魂を再生させる。
@@ -84,6 +115,37 @@ DMMブックスでは、この[『猩猩姫』](https://al.dmm.com/?lurl=https%3
 | 商品名 | 猩猩姫 |
 
 紙の書籍と違って、劣化の心配もない。また、暗い部屋でもバックライトで快適に読める点は便利だ。特に、バトルの迫力あるシーンは、大画面のタブレットで読むと、より一層魅力を感じられるだろう。初めて読む人にはもちろん、かつて夢中になった読者にとっても、電子書籍は新たな発見を与えてくれる。DMMブックスでは試し読みもできるため、まずはその世界観に触れてみるのも良いだろう。ページをめくる手が止まらなくなるかもしれない。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/s031ahpkj15272/s031ahpkj15272pl.jpg" alt="『猩猩姫』異形と高貴さが交差する世界！人間の本質と業を問う傑作ダークファンタジー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                『猩猩姫』異形と高貴さが交差する世界！人間の本質と業を問う傑作ダークファンタジー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『猩猩姫』の魅力を深掘り。ippatu先生が描く、異形と高貴さが交差する世界で、人間の本質、抑圧された感情、そして力強いバトルアクションを徹底レビュー。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E7%2595%25B0%25E5%25BD%25A2%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25B4%25E3%2581%2595%25E3%2581%258C%25E4%25BA%25A4%25E5%25B7%25AE%25E3%2581%2599%25E3%2582%258B%25E4%25B8%2596%25E7%2595%258C%25EF%25BC%2581%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E3%2581%25A8%25E6%25A5%25AD%25E3%2582%2592%25E5%2595%258F%25E3%2581%2586%25E5%2582%2591%25E4%25BD%259C%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E7%2595%25B0%25E5%25BD%25A2%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25B4%25E3%2581%2595%25E3%2581%258C%25E4%25BA%25A4%25E5%25B7%25AE%25E3%2581%2599%25E3%2582%258B%25E4%25B8%2596%25E7%2595%258C%25EF%25BC%2581%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E3%2581%25A8%25E6%25A5%25AD%25E3%2582%2592%25E5%2595%258F%25E3%2581%2586%25E5%2582%2591%25E4%25BD%259C%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25B8%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258E%25E7%258C%25A9%25E7%258C%25A9%25E5%25A7%25AB%25E3%2580%258F%25E7%2595%25B0%25E5%25BD%25A2%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25B4%25E3%2581%2595%25E3%2581%258C%25E4%25BA%25A4%25E5%25B7%25AE%25E3%2581%2599%25E3%2582%258B%25E4%25B8%2596%25E7%2595%258C%25EF%25BC%2581%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E3%2581%25A8%25E6%25A5%25AD%25E3%2582%2592%25E5%2595%258F%25E3%2581%2586%25E5%2582%2591%25E4%25BD%259C%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 『GetBackers-奪還屋-』と『猩猩姫』が描く普遍的なテーマ
 

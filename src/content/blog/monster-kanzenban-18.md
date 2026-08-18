@@ -25,6 +25,37 @@ mediaType: 'comic'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg" alt="あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>浦沢直樹『MONSTER 完全版 デジタルVer.』最終18巻がdmmで770円。善悪の境界を問う人間ドラマ、天才外科医・天馬が追う壮大なサスペンスの結末を見届けよう。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 善と悪、光と影。浦沢直樹『MONSTER』が問いかける人間の深淵
 
 人間の心の闇と光、そして善悪の境界線を深く問いかける傑作漫画、浦沢直樹の『MONSTER』。この作品は、単なるサスペンス漫画の枠を超え、読者に哲学的な思索を促す金字塔として、今なお多くの人々に読み継がれている。天才外科医テンマが、かつて救ったはずの命が「怪物」と化して自身に立ちはだかる壮絶な物語は、読者の倫理観を揺さぶり、自分自身の内面と向き合うきっかけを与えるだろう。
@@ -95,6 +126,37 @@ mediaType: 'comic'
 DMMブックスでは、[MONSTER 完全版 デジタルVer.](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api)を手に取ることができる。まずは試し読みで作品の世界観に触れてみるのも良いだろう。浦沢直樹の卓越した画力と、読者の心を掴んで離さないストーリーテリングの魅力は、きっとあなたを『MONSTER』の世界へと誘うはずだ。最終巻の[MONSTER 完全版 デジタルVer.（18）](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api)まで一気に読み進めるのも良いし、じっくりと物語を味わいながら読み進めるのも、電子書籍ならではの楽しみ方と言える。
 
 <img src="https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg" alt="MONSTER 完全版 デジタルVer." />
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg" alt="あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>浦沢直樹『MONSTER 完全版 デジタルVer.』最終18巻がdmmで770円。善悪の境界を問う人間ドラマ、天才外科医・天馬が追う壮大なサスペンスの結末を見届けよう。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 『MONSTER』が問いかける、あなた自身の倫理観
 

@@ -27,6 +27,37 @@ mediaType: 'comic'
 
 藤子・F・不二雄の『別巻 まんがゼミナール 恐竜ゼミナール』は、単なる恐竜学習漫画ではない。失われた生命を科学の力で蘇らせるという、太古のロマンと現代科学の倫理的ジレンマを深く問いかけるSF作品である。子ども向けという体裁の裏に、生命の尊厳、科学の功罪、そして人類の傲慢さといった普遍的なテーマを織り込み、読者の知的好奇心と深い考察を促す。本書は、藤子・F・不二雄作品の中でも、特に哲学的でマニアックな側面を持つ傑作として、今なお多くの読者に読み継がれている。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg" alt="「別巻 まんがゼミナール" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                「別巻 まんがゼミナール
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>藤子・F・不二雄『別巻 まんがゼミナール 恐竜ゼミナール』は単なる恐竜解説ではないSF漫画。科学への探求心と生命の倫理的境界線を問う深いメッセージを解説。DMMにて2310円。子供から大人まで、知的好奇心と考察力を刺激する一冊の魅力に迫る。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 太古のロマンと科学の光が交錯する物語の幕開け
 
 藤子・F・不二雄の『別巻 まんがゼミナール 恐竜ゼミナール』は、そのタイトルからすると、恐竜に関する知識を学べる単なる学習漫画だと思われるかもしれない。しかし、読み始めればすぐにその認識は覆される。これは、単なる恐竜図鑑ではない。科学の発展がもたらす可能性と、それに伴う倫理的な問題提起をSF的視点から描いた、深遠な物語なのだ。
@@ -87,6 +118,37 @@ mediaType: 'comic'
 DMMブックスでは、[別巻 まんがゼミナール 恐竜ゼミナール](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api)を2,310円で提供している。この価格で藤子・F・不二雄の深遠なSF世界に浸れると考えると、決して高額な投資ではない。むしろ、物理的な本棚の場所を取らずに、いつでもどこでもこの名作に触れられる利便性を考えれば、有効な選択肢の一つと言える。
 
 電子書籍の最大の利点は、保管場所を気にせず全巻一気読みできることにある。この作品は、一度読み始めたら止まらなくなる、読者の知的好奇心を強く刺激するストーリー展開だ。続きが気になった時に、すぐに次のページを開けるのは、電子書籍ならではの快適さである。夜の静かな時間に、明かりを落とした部屋で、電子書籍の画面越しに恐竜たちの息吹を感じるのも、趣深い体験となるだろう。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg" alt="「別巻 まんがゼミナール" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                「別巻 まんがゼミナール
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>藤子・F・不二雄『別巻 まんがゼミナール 恐竜ゼミナール』は単なる恐竜解説ではないSF漫画。科学への探求心と生命の倫理的境界線を問う深いメッセージを解説。DMMにて2310円。子供から大人まで、知的好奇心と考察力を刺激する一冊の魅力に迫る。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 深い思索へと誘う、時を超えた名作の価値
 
