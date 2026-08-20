@@ -2,23 +2,13 @@
 title: '追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？'
 description: '追放された回復士の少女が、最強職業に転職!? 『冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…』は、DMMブックスで165円で読める、不遇からの逆転ファンタジーです。'
 pubDate: '2026-08-02'
-heroImage: '/images/recovering-girl-expelled-party-manga.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
-  - title: '全滅エンドを死に物狂いで回避した。パーティが病んだ。'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api'
+  - title: '追放回復士の少女'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4462142%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg'
-    price: 924
-    microCopy: '詳細を見る'
-  - title: '全滅エンドを死に物狂いで回避した。パーティが病んだ。'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4561256%2Fb000ehftx83614%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000ehftx83614/b000ehftx83614pl.jpg'
-    price: 1540
-    microCopy: '詳細を見る'
-  - title: 'プリンタニア・ニッポン'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4010552%2Fb055bespr04416%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg'
-    price: 902
+    price: 730
     microCopy: '詳細を見る'
 mediaType: 'comic'
 ---

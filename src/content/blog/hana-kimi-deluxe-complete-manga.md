@@ -2,23 +2,13 @@
 title: '芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春'
 description: '中条比紗也『愛蔵版 花ざかりの君たちへ』全巻セットが楽天で予約受付中！女子高生が男子校に潜入、恋と友情、成長を描く青春漫画。豪華装丁で限定ポストカードも。不朽の名作を13,200円で一気読み。再読ファンも新規読者も必見！'
 pubDate: '2026-08-13'
-heroImage: '/images/hana-kimi-deluxe-complete-manga.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7584/9784592197584.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
-  - title: '【漫画】【中古】あしたのジョー［愛蔵版］ ＜1〜16巻完結＞ ちばてつや 【全巻セット】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rds21.ve2q5b9b.g00rds21.ve2q6178/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuruhon-kaitori-honpo%2F10009361%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuruhon-kaitori-honpo%2Fi%2F10009361%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/furuhon-kaitori-honpo/cabinet/c01-0560.jpg?_ex=600x600'
-    price: 4820
-    microCopy: '詳細を見る'
-  - title: '【愛蔵版】新世紀エヴァンゲリオン 1巻～7巻（完結） コミック全巻セット【 新品 】 エヴァ ヱヴァンゲリヲン 掟シンジ アスカ・ラングレー 綾波レイ 葛城ミサト 渚カヲル 使徒 貞本義行 カラー KADOKAWA コミック 漫画 セット 全巻 アニメ化 映画化'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q2zm1.ve2q5e08.g00q2zm1.ve2q6c82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooks-sanseido%2F9784041093689-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooks-sanseido%2Fi%2F10364580%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/books-sanseido/cabinet/books/c/eva.jpg?_ex=600x600'
-    price: 13860
-    microCopy: '詳細を見る'
-  - title: '【中古】花ざかりの君たちへ （愛蔵版） 全12巻完結（花とゆめCOMICSスペシャル） （コミック） 全巻セット'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rakq1.ve2q563f.g00rakq1.ve2q6aa9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvaboo%2Fvalaau2deb00u30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvaboo%2Fi%2F14200714%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0895/im260100140548.jpg?_ex=600x600'
-    price: 2429
+  - title: '花ざかりの君たちへ 愛蔵版'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E8%8A%B1%E3%81%96%E3%81%8B%E3%82%8A%E3%81%AE%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%B8&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7584/9784592197584.jpg'
+    price: 880
     microCopy: '詳細を見る'
 mediaType: 'comic'
 ---
@@ -39,7 +29,7 @@ mediaType: 'comic'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/furuhon-kaitori-honpo/cabinet/c01-0560.jpg?_ex=600x600" alt="芦屋瑞稀の嘘はなぜ尊い" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7584/9784592197584.jpg" alt="芦屋瑞稀の嘘はなぜ尊い" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
