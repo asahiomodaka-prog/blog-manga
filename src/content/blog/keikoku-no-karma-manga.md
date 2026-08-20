@@ -1,25 +1,15 @@
 ---
-title: '『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀'
-description: '12世紀イングランドを舞台に、運命に抗い女王として生きた女性を描く『傾国のカルマ』。激動の時代、血筋や性別に翻弄されながらも尊厳と誇りを守り抜く物語を徹底解説。'
+title: 『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀
+description: 12世紀イングランドを舞台に、運命に抗い女王として生きた女性を描く『傾国のカルマ』。激動の時代、血筋や性別に翻弄されながらも尊厳と誇りを守り抜く物語を徹底解説。
 pubDate: '2026-07-22'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/s174apups00563/s174apups00563pl.jpg'
-genre: 'サスペンス・ミステリー'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/s174apups00563/s174apups00563pl.jpg
+genre: サスペンス・ミステリー
 sidebarProducts:
   - title: '傾国のカルマ'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4252328%2Fs174apups00563%2F&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/s174apups00563/s174apups00563pl.jpg'
     microCopy: '詳細を見る'
-- title: 歴史漫画タイムワープ通史編
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6259381%2Fb478amosn06832%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b478amosn06832/b478amosn06832pl.jpg
-  price: 1320
-  microCopy: 詳細を見る
-- title: 復讐トラベラー ガクジン-GAKUJIN-【連載版】（単話）
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6168470%2Fk225bgakn04834%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/k225bgakn04834/k225bgakn04834pl.jpg
-  price: 198
-  microCopy: 詳細を見る
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

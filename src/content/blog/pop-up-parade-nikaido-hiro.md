@@ -1,25 +1,15 @@
 ---
-title: 'POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？'
-description: '『世界一初恋』POP UP PARADE 二階堂ヒロがDMMで8439円。デスクに飾るだけで日常に癒やしとときめきを与え、忘れかけていた情熱を呼び覚まします。多忙な日々を過ごすあなたへ、小さな輝きを。詳細と魅力を解説。'
+title: POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？
+description: 『世界一初恋』POP UP PARADE 二階堂ヒロがDMMで8439円。デスクに飾るだけで日常に癒やしとときめきを与え、忘れかけていた情熱を呼び覚まします。多忙な日々を過ごすあなたへ、小さな輝きを。詳細と魅力を解説。
 pubDate: '2026-08-07'
-heroImage: '/images/pop-up-parade-nikaido-hiro.jpg'
-genre: '不朽の名作・ヒューマン'
+heroImage: /images/pop-up-parade-nikaido-hiro.jpg
+genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: 'POP UP PARADE'
     url: ''
     imageUrl: '/images/pop-up-parade-nikaido-hiro.jpg'
     microCopy: '詳細を見る'
-  - title: 'POP UP PARADE SP ボイド ベルセルク'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260701451%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/hobby/c260701451/c260701451pt.jpg'
-    price: 9289
-    microCopy: '詳細を見る'
-  - title: 'POP UP PARADE SP キューティーハニー キューティーハニーNova'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260601940%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/hobby/c260601940/c260601940pt.jpg'
-    price: 14390
-    microCopy: '詳細を見る'
-mediaType: 'figure'
+mediaType: figure
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

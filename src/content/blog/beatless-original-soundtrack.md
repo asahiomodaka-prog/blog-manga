@@ -1,15 +1,15 @@
 ---
-title: 'TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー'
-description: 'TVアニメ「BEATLESS」オリジナルサウンドトラック（DMM通販・3,300円）。作品の壮大なSF世界観とhIEたちの繊細な感情を紡ぐ珠玉の劇伴集。エレクトロニックとオーケストラが融合した楽曲の魅力を徹底解説します。'
+title: TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー
+description: TVアニメ「BEATLESS」オリジナルサウンドトラック（DMM通販・3,300円）。作品の壮大なSF世界観とhIEたちの繊細な感情を紡ぐ珠玉の劇伴集。エレクトロニックとオーケストラが融合した楽曲の魅力を徹底解説します。
 pubDate: '2026-07-21'
-heroImage: 'https://pics.dmm.com/mono/cd/cd_269zmcz12168s/cd_269zmcz12168spl.jpg'
-genre: 'SF・ファンタジー'
+heroImage: https://pics.dmm.com/mono/cd/cd_269zmcz12168s/cd_269zmcz12168spl.jpg
+genre: SF・ファンタジー
 sidebarProducts:
   - title: 'TVアニメ「BEATLESS」オリジナルサウンドトラック'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dbeatless&af_id=DMMaria-999'
     imageUrl: 'https://pics.dmm.com/mono/cd/cd_269zmcz12168s/cd_269zmcz12168spl.jpg'
     microCopy: '詳細を見る'
-mediaType: 'anime'
+mediaType: anime
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

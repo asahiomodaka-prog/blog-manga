@@ -1,25 +1,15 @@
 ---
-title: 'キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証'
-description: '『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」合体ギミックと造形美を徹底解説。デスクを彩るレトロアニメの至宝。'
+title: キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証
+description: 『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」合体ギミックと造形美を徹底解説。デスクを彩るレトロアニメの至宝。
 pubDate: '2026-07-17'
-heroImage: '/images/teyandee-yattaro-gimmick-review.jpg'
-genre: 'バトル・アクション'
+heroImage: /images/teyandee-yattaro-gimmick-review.jpg
+genre: バトル・アクション
 sidebarProducts:
   - title: 'キャッ党忍伝てやんでえ'
     url: ''
     imageUrl: '/images/teyandee-yattaro-gimmick-review.jpg'
     microCopy: '詳細を見る'
-- title: タイムボカンシリーズ ヤッターマン ファンブック
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6277728%2Fb350eftdb43500%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg
-  price: 2200
-  microCopy: 詳細を見る
-- title: BEATLESS 紅霞 1/8スケールフィギュア
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_2018062601%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.co.jp/mono/hobby/cha_2018062601/cha_2018062601pt.jpg
-  price: 21429
-  microCopy: 詳細を見る
-mediaType: 'figure'
+mediaType: figure
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

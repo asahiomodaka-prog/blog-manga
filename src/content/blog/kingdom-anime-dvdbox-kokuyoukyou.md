@@ -1,25 +1,15 @@
 ---
-title: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX！乱世を駆け抜ける戦士たちの叙事詩'
-description: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX。春秋戦国時代の中国を舞台に、天下統一を目指す少年・信と若き王・嬴政の熱き戦いを描く。特典満載のDVDBOXを徹底解説。'
+title: TVアニメ「キングダム」黒羊丘の戦い DVDBOX！乱世を駆け抜ける戦士たちの叙事詩
+description: TVアニメ「キングダム」黒羊丘の戦い DVDBOX。春秋戦国時代の中国を舞台に、天下統一を目指す少年・信と若き王・嬴政の熱き戦いを描く。特典満載のDVDBOXを徹底解説。
 pubDate: '2026-07-26'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
-genre: 'バトル・アクション'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg
+genre: バトル・アクション
 sidebarProducts:
   - title: 'TVアニメ「キングダム」黒羊丘の戦い Blu-ray BOX'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dkingdom&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
     microCopy: '詳細を見る'
-  - title: 'TVアニメ「キングダム」合従軍編 Blu-ray BOX'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16682974%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20325492%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2711/4580055352713.jpg?_ex=600x600'
-    price: 26400
-    microCopy: '詳細を見る'
-  - title: 'TVアニメ「キングダム」成キョウの変 Blu-ray BOX'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17762692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21160353%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6493/4580055364938.jpg?_ex=600x600'
-    price: 26400
-    microCopy: '詳細を見る'
-mediaType: 'anime'
+mediaType: anime
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

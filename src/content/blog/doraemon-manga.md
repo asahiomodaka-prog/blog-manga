@@ -1,24 +1,15 @@
 ---
-title: 'ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの'
-description: 'dmmで「ドラえもん」の漫画を楽しもう。未来の猫型ロボットとひみつ道具が織りなすSF（少し不思議）な日常は、子どもの頃の「もしも」を叶える物語。のび太の冒険と道具の魅力を解説。1冊583円から購入可能。'
+title: ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの
+description: dmmで「ドラえもん」の漫画を楽しもう。未来の猫型ロボットとひみつ道具が織りなすSF（少し不思議）な日常は、子どもの頃の「もしも」を叶える物語。のび太の冒険と道具の魅力を解説。1冊583円から購入可能。
 pubDate: '2026-08-06'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600qsgk00146/b600qsgk00146pl.jpg'
-genre: 'manga'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b600qsgk00146/b600qsgk00146pl.jpg
+genre: manga
 sidebarProducts:
   - title: 'ドラえもん 藤子・F・不二雄大全集'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600qsgk00146/b600qsgk00146pl.jpg'
     microCopy: '詳細を見る'
-  - title: '大長編ドラえもん'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F590245%2Fb600qsgk02980%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600qsgk02980/b600qsgk02980pl.jpg'
-    price: 583
-    microCopy: '詳細を見る'
-  - title: 'UDF「藤子・F・不二雄作品」シリーズ18 鉄人'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260604730%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/hobby/c260604730/c260604730pt.jpg'
-    price: 1623
-    microCopy: '詳細を見る'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

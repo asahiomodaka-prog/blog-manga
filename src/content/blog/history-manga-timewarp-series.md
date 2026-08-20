@@ -2,23 +2,14 @@
 title: 学習まんが 日本の歴史で、過ぎ去りし熱狂を夜更けに再読するロマン！
 description: 集英社 コンパクト版 学習まんが 日本の歴史 全22巻セットは、年表暗記の苦痛を解消し「生きた歴史」を体感できる傑作。大人も子供も夢中になれる、ストーリー重視の学習まんがが楽天で18,590円。その魅力を徹底解説。
 pubDate: '2026-07-09'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/books-sanseido/cabinet/books/book/9784082399351.jpg'
-genre: '不朽の名作・ヒューマン'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/books-sanseido/cabinet/books/book/9784082399351.jpg
+genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: '集英社 コンパクト版 学習まんが 日本の歴史 全巻セット'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%AD%A6%E7%BF%92%E3%81%BE%E3%82%93%E3%81%8C%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/books-sanseido/cabinet/books/book/9784082399351.jpg'
     microCopy: '詳細を見る'
-- title: 【 小学館版 学習まんが 日本の歴史 全20巻セット 】 漫画 コミック イラスト 勉強 本 歴史 マンガ 受験 日本 セット 学習 日本史 中学
-    大人 まんが 子供 高校 教科書 児童書 小学生 歴史 漫画 歴史人 子ども 参考書 小学館 歴史マンガ お祝い プレゼント クリスマス ギフト
-  url: https://hb.afl.rakuten.co.jp/hgc/g00q2zm1.ve2q5e08.g00q2zm1.ve2q6c82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooks-sanseido%2F9784092989313%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooks-sanseido%2Fi%2F10360797%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/books-sanseido/cabinet/books/book/9784092989313_main.jpg?_ex=600x600
-  price: 19360
-- title: 日本史探偵コナン 8 戦国時代 名探偵コナン歴史まんが [ 青山 剛昌 ]
-  url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15171703%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F18818949%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6437/9784092966437_1_13.jpg?_ex=600x600
-  price: 1078
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

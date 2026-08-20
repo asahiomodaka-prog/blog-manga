@@ -1,25 +1,15 @@
 ---
-title: '「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気'
-description: '「全滅エンドを死に物狂いで回避した。パーティが病んだ。」は、絶望的な状況から全滅エンド回避を目指すダークファンタジー。歪んだ愛情の行方を徹底レビュー。'
+title: 「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気
+description: 「全滅エンドを死に物狂いで回避した。パーティが病んだ。」は、絶望的な状況から全滅エンド回避を目指すダークファンタジー。歪んだ愛情の行方を徹底レビュー。
 pubDate: '2026-07-30'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg'
-genre: '不朽の名作・ヒューマン'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg
+genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: '全滅エンドを死に物狂いで回避した。パーティが病んだ。'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4462142%2Fb000fhftx07640%2F&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg'
     microCopy: '詳細を見る'
-- title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4561256%2Fb000ehftx83614%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b000ehftx83614/b000ehftx83614pl.jpg
-  price: 1540
-  microCopy: 詳細を見る
-- title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。1
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34881320%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt34881320/bkt34881320pt.jpg
-  price: 924
-  microCopy: 詳細を見る
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

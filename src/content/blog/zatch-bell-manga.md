@@ -1,15 +1,15 @@
 ---
-title: '金色のガッシュ！！が描いた“優しさの王”。なぜあの結末に涙が止まらないのか？'
-description: '「金色のガッシュ！！」は、魔界の王を決める王道バトルと熱い人間ドラマが魅力の傑作。DMMブックスで読むメリットは？各巻660円からの購入方法や、清麿とガッシュの絆と成長を描く物語の深さを解説。'
+title: 金色のガッシュ！！が描いた“優しさの王”。なぜあの結末に涙が止まらないのか？
+description: 「金色のガッシュ！！」は、魔界の王を決める王道バトルと熱い人間ドラマが魅力の傑作。DMMブックスで読むメリットは？各巻660円からの購入方法や、清麿とガッシュの絆と成長を描く物語の深さを解説。
 pubDate: '2026-08-10'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/k811abdbc00015/k811abdbc00015pl.jpg'
-genre: 'バトル・アクション'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/k811abdbc00015/k811abdbc00015pl.jpg
+genre: バトル・アクション
 sidebarProducts:
   - title: '金色のガッシュ！！ 完全版 全巻セット'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F810119%2Fk811abdbc00015%2F&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/k811abdbc00015/k811abdbc00015pl.jpg'
     microCopy: '詳細を見る'
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -1,25 +1,15 @@
 ---
-title: '『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力'
-description: '90年代の名作『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンのフィギュアを徹底レビュー。痛快ギャグとメカバトルの魅力を紐解きます。'
+title: 『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力
+description: 90年代の名作『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンのフィギュアを徹底レビュー。痛快ギャグとメカバトルの魅力を紐解きます。
 pubDate: '2026-07-26'
-heroImage: 'https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg'
-genre: 'バトル・アクション'
+heroImage: https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg
+genre: バトル・アクション
 sidebarProducts:
   - title: 'BP028 キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン フィギュア'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3Fcid%3Dc260404805%2F&af_id=DMMaria-999'
     imageUrl: 'https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg'
     microCopy: '詳細を見る'
-- title: 【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg
-  price: 4895
-  microCopy: 詳細を見る
-- title: 【デジタル限定】花咲楓香＆波崎天結＆成瀬いな写真集「変幻自在のヒロインズ！！！」
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6265922%2Fb950yshes28674%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes28674/b950yshes28674pl.jpg
-  price: 1100
-  microCopy: 詳細を見る
-mediaType: 'figure'
+mediaType: figure
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

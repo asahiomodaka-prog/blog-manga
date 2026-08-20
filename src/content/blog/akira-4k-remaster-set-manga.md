@@ -1,25 +1,15 @@
 ---
-title: 'AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー'
-description: 'AKIRA 4Kリマスターセットの魅力とは？最高峰の映像と音響で、大友克洋作品の金字塔が鮮烈に蘇る決定版。ネオ東京の衝撃をハイクオリティで再体験。楽天で8750円、ファン必見の価値を解説します。'
+title: AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー
+description: AKIRA 4Kリマスターセットの魅力とは？最高峰の映像と音響で、大友克洋作品の金字塔が鮮烈に蘇る決定版。ネオ東京の衝撃をハイクオリティで再体験。楽天で8750円、ファン必見の価値を解説します。
 pubDate: '2026-08-15'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/673/10817673.jpg'
-genre: 'SF・ファンタジー'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/673/10817673.jpg
+genre: SF・ファンタジー
 sidebarProducts:
   - title: 'AKIRA 4Kリマスターセット'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DAKIRA%204K%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/673/10817673.jpg'
     microCopy: '詳細を見る'
-  - title: '【オリコン加盟店】特装限定版[ハ取]★特製スリーブ+特製ブックレット★特典ディスク付★10％OFF■アニメ　4K ULTRA HD Blu-ray+2Blu-ray【AKIRA 4Kリマスターセット】20/4/24発売【楽ギフ_包装選択】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pjyb1.ve2q530a.g00pjyb1.ve2q6a87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajewelry%2Fbcqa-9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajewelry%2Fi%2F10104628%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ajewelry/cabinet/cddvd23/bcqa-9.jpg?_ex=600x600'
-    price: 9702
-    microCopy: '詳細を見る'
-  - title: 'AKIRA[Blu-ray] 4Kリマスターセット [4K ULTRA HD Blu-ray & Blu-ray] [特装限定版] / アニメ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q63a1.ve2q5c21.g00q63a1.ve2q6c41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneowing-r%2Fbcqa-9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneowing-r%2Fi%2F13053695%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/neowing-r/cabinet/item_img_1377/bcqa-9.jpg?_ex=600x600'
-    price: 9702
-    microCopy: '詳細を見る'
-mediaType: 'anime'
+mediaType: anime
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

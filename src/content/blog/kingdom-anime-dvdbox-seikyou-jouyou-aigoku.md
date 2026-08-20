@@ -1,25 +1,15 @@
 ---
-title: 'TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由'
-description: 'TVアニメ「キングダム」第4シリーズDVDBOXが登場！「成キョウの変/著雍攻略戦/アイ国反乱編」全26話を収録。価格9680円で乱世の激闘を追体験。主要登場人物たちの成長と人間ドラマが凝縮された魅力的な内容です。'
+title: TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由
+description: TVアニメ「キングダム」第4シリーズDVDBOXが登場！「成キョウの変/著雍攻略戦/アイ国反乱編」全26話を収録。価格9680円で乱世の激闘を追体験。主要登場人物たちの成長と人間ドラマが凝縮された魅力的な内容です。
 pubDate: '2026-08-01'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
-genre: 'バトル・アクション'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg
+genre: バトル・アクション
 sidebarProducts:
   - title: 'TVアニメ「キングダム」成キョウの変 DVDBOX'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dkingdom&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
     microCopy: '詳細を見る'
-  - title: 'DVD / TVアニメ / 新世紀エヴァンゲリオンTV放映版DVDBOX ARCHIVES OF EVANGELION (期間限定生産版) / KIBA-92191'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qo031.ve2q517d.g00qo031.ve2q67ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsurprise-web%2Faznkiba-92191%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsurprise-web%2Fi%2F12888204%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/surprise-web/cabinet/imgr0642/kiba-92191.jpg?_ex=600x600'
-    price: 17404
-    microCopy: '詳細を見る'
-  - title: 'TVアニメ「キングダム」成キョウの変/著雍攻略戦/アイ国反乱編　DVDBOX [ 福山潤 ]'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17762692%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21172860%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3023/4580055363023.jpg?_ex=600x600'
-    price: 9092
-    microCopy: '詳細を見る'
-mediaType: 'anime'
+mediaType: anime
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

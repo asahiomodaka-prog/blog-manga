@@ -2,14 +2,14 @@
 title: ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由
 description: 愛と成長の感動RPG『ポポロクロイス物語 《決定版》』をDMMで体験。カラーページ完全再現に加え、未収録エピソードも追加。大人になった今だからこそ心に響く、ピエトロ王子の冒険を792円で楽しもう。
 pubDate: '2026-07-21'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/books-sanseido/cabinet/books/book/9784082399351.jpg'
-genre: 'SF・ファンタジー'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/books-sanseido/cabinet/books/book/9784082399351.jpg
+genre: SF・ファンタジー
 sidebarProducts:
   - title: 'ポポロクロイス物語 《決定版》'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%9D%E3%83%9D%E3%83%AD%E3%82%AF%E3%83%AD%E3%82%A4%E3%82%B9%E7%89%A9%E8%AA%9E&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/books-sanseido/cabinet/books/book/9784082399351.jpg'
     microCopy: '詳細を見る'
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -2,23 +2,14 @@
 title: 全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？
 description: 自己犠牲で全滅エンドを回避した主人公を待ち受けるのは、激重感情を抱く仲間たちの歪んだ愛。予想外の展開が「曇らせ」異世界譚として楽しめる『全滅エンドを死に物狂いで回避した』がdmmで924円。衝撃の人間ドラマを体験しよう。
 pubDate: '2026-07-27'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b000ehftx83614/b000ehftx83614pl.jpg
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg
 genre: manga
 sidebarProducts:
   - title: '全滅エンドを死に物狂いで回避した。パーティが病んだ。'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4462142%2Fb000fhftx07640%2F&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg'
     microCopy: '詳細を見る'
-- title: プリンタニア・ニッポン
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4010552%2Fb055bespr04416%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg
-  price: 902
-  microCopy: 詳細を見る
-- title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。1
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34881320%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt34881320/bkt34881320pt.jpg
-  price: 924
-  microCopy: 詳細を見る
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

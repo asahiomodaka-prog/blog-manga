@@ -1,15 +1,15 @@
 ---
-title: 'BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証'
-description: '『BEATLESS 紅霞』フィギュア（DMM販売中・21,429円）。redjuice氏の描く真紅の髪とクリムゾンレッドの瞳、巨大デバイスの緻密なメカ造形を完全立体化。ファン必見のハイクオリティな逸品を徹底レビューします。'
+title: BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証
+description: 『BEATLESS 紅霞』フィギュア（DMM販売中・21,429円）。redjuice氏の描く真紅の髪とクリムゾンレッドの瞳、巨大デバイスの緻密なメカ造形を完全立体化。ファン必見のハイクオリティな逸品を徹底レビューします。
 pubDate: '2026-07-29'
-heroImage: '/images/beatless-kouka-figure-review.jpg'
-genre: 'SF・ファンタジー'
+heroImage: /images/beatless-kouka-figure-review.jpg
+genre: SF・ファンタジー
 sidebarProducts:
   - title: 'BEATLESS'
     url: ''
     imageUrl: '/images/beatless-kouka-figure-review.jpg'
     microCopy: '詳細を見る'
-mediaType: 'figure'
+mediaType: figure
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -2,22 +2,14 @@
 title: あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験
 description: 浦沢直樹『MONSTER 完全版 デジタルVer.』最終18巻がdmmで770円。善悪の境界を問う人間ドラマ、天才外科医・天馬が追う壮大なサスペンスの結末を見届けよう。
 pubDate: '2026-07-10'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg'
-genre: 'サスペンス・ミステリー'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg
+genre: サスペンス・ミステリー
 sidebarProducts:
   - title: 'MONSTER 完全版 デジタルVer. （全巻セット）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DMONSTER%20%E5%AE%8C%E5%85%A8%E7%89%88&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg'
     microCopy: '詳細を見る'
-- title: 20世紀少年 完全版 デジタルVer.
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157736%2Fb600bsgk02711%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg
-  price: 770
-- title: BLACK JACK (秋田文庫版)
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600asgk05343/b600asgk05343pl.jpg
-  price: 880
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

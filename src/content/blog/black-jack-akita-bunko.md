@@ -2,22 +2,14 @@
 title: 眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ
 description: 『BLACK JACK (秋田文庫版) 全17巻セット』が14,960円で楽天に登場。手塚治虫が描く無免許医ブラック・ジャックの活躍と、命の光と闇、人間の業に迫る医療ドラマを全巻一気読み。普遍的なテーマが現代に響きます。
 pubDate: '2026-07-06'
-heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/570/9784253172570.jpg
-genre: '不朽の名作・ヒューマン'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/furuhon-kaitori-honpo/cabinet/c01-0560.jpg
+genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: 'ブラック・ジャック (秋田文庫版) 全17巻セット'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/furuhon-kaitori-honpo/cabinet/c01-0560.jpg'
     microCopy: '詳細を見る'
-- title: 火の鳥 全12巻セット
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600asgk05343/b600asgk05343pl.jpg
-  price: 12540
-- title: ブッダ 全12巻セット
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F785735%2Fb600tsgk02132%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600tsgk02132/b600tsgk02132pl.jpg
-  price: 9240
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

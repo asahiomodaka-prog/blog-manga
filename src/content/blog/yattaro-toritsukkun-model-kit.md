@@ -1,23 +1,15 @@
 ---
-title: 'BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー'
-description: '『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」プラモデルキットを徹底レビュー。懐かしのキャラクターが手のひらサイズで蘇る愛らしい造形と魅力を解説。'
+title: BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー
+description: 『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」プラモデルキットを徹底レビュー。懐かしのキャラクターが手のひらサイズで蘇る愛らしい造形と魅力を解説。
 pubDate: '2026-07-12'
-heroImage: '/images/yattaro-toritsukkun-model-kit.jpg'
-genre: 'バトル・アクション'
+heroImage: /images/yattaro-toritsukkun-model-kit.jpg
+genre: バトル・アクション
 sidebarProducts:
   - title: 'BP028 ヤッ太郎＆トリツックン'
     url: ''
     imageUrl: '/images/yattaro-toritsukkun-model-kit.jpg'
     microCopy: '詳細を見る'
-- title: タイムボカンシリーズ ヤッターマン ファンブック
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6277728%2Fb350eftdb43500%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg
-  price: 2200
-- title: 【デジタル限定】花咲楓香＆波崎天結＆成瀬いな写真集「変幻自在のヒロインズ！！！」
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6265922%2Fb950yshes28674%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes28674/b950yshes28674pl.jpg
-  price: 1100
-mediaType: 'figure'
+mediaType: figure
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -1,25 +1,15 @@
 ---
-title: '「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？'
-description: '『追放された転生重騎士はゲーム知識で無双する』は、ハズレ職と蔑まれた重騎士がゲーム知識を駆使し成り上がる痛快ファンタジー。最強ビルド構築の魅力を徹底レビュー。'
+title: 「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？
+description: 『追放された転生重騎士はゲーム知識で無双する』は、ハズレ職と蔑まれた重騎士がゲーム知識を駆使し成り上がる痛快ファンタジー。最強ビルド構築の魅力を徹底レビュー。
 pubDate: '2026-07-18'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds70858/b900zkds70858pl.jpg'
-genre: 'SF・ファンタジー'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b900zkds70858/b900zkds70858pl.jpg
+genre: SF・ファンタジー
 sidebarProducts:
   - title: '追放された転生重騎士はゲーム知識で無双する'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4258619%2Fb900zkds70858%2F&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds70858/b900zkds70858pl.jpg'
     microCopy: '詳細を見る'
-- title: 片田舎のおっさん、剣聖になる〜ただの田舎の剣術師範だったのに、大成した弟子たちが俺を放ってくれない件〜
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4158207%2Fb355jakta08123%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b355jakta08123/b355jakta08123pl.jpg
-  price: 880
-  microCopy: 詳細を見る
-- title: 黄泉のツガイ
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4179756%2Fb999bsqex19375%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b999bsqex19375/b999bsqex19375pl.jpg
-  price: 589
-  microCopy: 詳細を見る
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

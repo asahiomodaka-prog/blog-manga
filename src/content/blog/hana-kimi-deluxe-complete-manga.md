@@ -1,15 +1,15 @@
 ---
-title: '芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春'
-description: '中条比紗也『愛蔵版 花ざかりの君たちへ』全巻セットが楽天で予約受付中！女子高生が男子校に潜入、恋と友情、成長を描く青春漫画。豪華装丁で限定ポストカードも。不朽の名作を13,200円で一気読み。再読ファンも新規読者も必見！'
+title: 芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春
+description: 中条比紗也『愛蔵版 花ざかりの君たちへ』全巻セットが楽天で予約受付中！女子高生が男子校に潜入、恋と友情、成長を描く青春漫画。豪華装丁で限定ポストカードも。不朽の名作を13,200円で一気読み。再読ファンも新規読者も必見！
 pubDate: '2026-08-13'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7584/9784592197584.jpg'
-genre: '不朽の名作・ヒューマン'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7584/9784592197584.jpg
+genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: '花ざかりの君たちへ 愛蔵版 全巻セット'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E8%8A%B1%E3%81%96%E3%81%8B%E3%82%8A%E3%81%AE%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%B8&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7584/9784592197584.jpg'
     microCopy: '詳細を見る'
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -2,24 +2,14 @@
 title: 「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方
 description: RPGで全滅エンドを回避した代償は、仲間の「病み」だった。『全滅エンドを死に物狂いで回避した。』は、ハッピーエンドを願う転生者と、彼に歪んだ感情を抱く少女たちのダークファンタジー。価格1078円で、DMM独占の衝撃展開を体験しよう。
 pubDate: '2026-07-21'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg'
-genre: '不朽の名作・ヒューマン'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg
+genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: '全滅エンドを死に物狂いで回避した。パーティが病んだ。'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4462142%2Fb000fhftx07640%2F&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg'
     microCopy: '詳細を見る'
-- title: プリンタニア・ニッポン
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4010552%2Fb055bespr04416%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg
-  price: 902
-  microCopy: 詳細を見る
-- title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。1
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34881320%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt34881320/bkt34881320pt.jpg
-  price: 924
-  microCopy: 詳細を見る
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

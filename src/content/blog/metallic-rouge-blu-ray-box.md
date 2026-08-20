@@ -1,15 +1,15 @@
 ---
-title: 'メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー'
-description: 'SFアニメ「メタリックルージュ Blu-ray BOX」で、ボンズが描く世界観を最高画質・音質で再体験。人造人間ネアンの深い哲学と迫力のアクションを、自宅で心ゆくまで堪能できる決定版コレクション。'
+title: メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー
+description: SFアニメ「メタリックルージュ Blu-ray BOX」で、ボンズが描く世界観を最高画質・音質で再体験。人造人間ネアンの深い哲学と迫力のアクションを、自宅で心ゆくまで堪能できる決定版コレクション。
 pubDate: '2026-08-12'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
-genre: 'SF・ファンタジー'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg
+genre: SF・ファンタジー
 sidebarProducts:
   - title: 'メタリックルージュ Blu-ray BOX'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dmetallicrouge&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
     microCopy: '詳細を見る'
-mediaType: 'anime'
+mediaType: anime
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

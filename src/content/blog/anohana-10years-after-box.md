@@ -1,25 +1,15 @@
 ---
-title: 'あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！'
-description: '『あの日見た花の名前を僕達はまだ知らない。10years after BOX』がdmmに登場。高画質Blu-ray本編に加え、未公開特典映像や豪華特製パッケージで、10年後の物語を追体験。ファン必見の永久保存版コレクターズアイテムを価格22,770円で手に入れよう。'
+title: あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！
+description: 『あの日見た花の名前を僕達はまだ知らない。10years after BOX』がdmmに登場。高画質Blu-ray本編に加え、未公開特典映像や豪華特製パッケージで、10年後の物語を追体験。ファン必見の永久保存版コレクターズアイテムを価格22,770円で手に入れよう。
 pubDate: '2026-08-11'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
-genre: '不朽の名作・ヒューマン'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg
+genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: 'あの日見た花の名前を僕達はまだ知らない。 10years after BOX'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Danohana&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
     microCopy: '詳細を見る'
-  - title: 'あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX （ブルーレイディスク）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666ansx6621%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_666ansx6621/n_666ansx6621pt.jpg'
-    price: 19635
-    microCopy: '詳細を見る'
-  - title: 'ANOHANA FES.MEMORIAL BOX（ブルーレイディスク）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx3701%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/variety/n_666anzx3701/n_666anzx3701pt.jpg'
-    price: 9270
-    microCopy: '詳細を見る'
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

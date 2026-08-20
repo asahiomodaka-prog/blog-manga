@@ -1,25 +1,15 @@
 ---
-title: '新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡'
-description: '新世紀エヴァンゲリオンTV放映版DVDBOX ARCHIVES OF EVANGELION。社会現象を巻き起こしたTVアニメシリーズの魅力を徹底レビュー。'
+title: 新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡
+description: 新世紀エヴァンゲリオンTV放映版DVDBOX ARCHIVES OF EVANGELION。社会現象を巻き起こしたTVアニメシリーズの魅力を徹底レビュー。
 pubDate: '2026-08-08'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
-genre: 'SF・ファンタジー'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg
+genre: SF・ファンタジー
 sidebarProducts:
   - title: '新世紀エヴァンゲリオン TV放映版 DVD BOX ARCHIVES OF EVANGELION'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Devangelion&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
     microCopy: '詳細を見る'
-  - title: '新世紀エヴァンゲリオン Blu-ray BOX STANDARD EDITION'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15822998%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19488347%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0014/4988003855001.jpg?_ex=600x600'
-    price: 19800
-    microCopy: '詳細を見る'
-  - title: '【愛蔵版】新世紀エヴァンゲリオン 全巻セット (1-7巻)'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16538466%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20215714%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0225/2100012310225.jpg?_ex=600x600'
-    price: 13860
-    microCopy: '詳細を見る'
-mediaType: 'anime'
+mediaType: anime
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

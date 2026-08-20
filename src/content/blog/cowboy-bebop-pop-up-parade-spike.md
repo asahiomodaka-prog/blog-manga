@@ -1,25 +1,15 @@
 ---
-title: 'カウボーイビバップ POP UP PARADE スパイク・スピーゲル造形レビュー！ビバップの魂が宿る理由'
-description: '名作アニメ『カウボーイビバップ』の主人公「スパイク・スピーゲル」がPOP UP PARADEシリーズで登場！飾りやすいサイズと手に取りやすい価格4,895円で蘇る造形美を徹底レビュー。'
+title: カウボーイビバップ POP UP PARADE スパイク・スピーゲル造形レビュー！ビバップの魂が宿る理由
+description: 名作アニメ『カウボーイビバップ』の主人公「スパイク・スピーゲル」がPOP UP PARADEシリーズで登場！飾りやすいサイズと手に取りやすい価格4,895円で蘇る造形美を徹底レビュー。
 pubDate: '2026-07-20'
-heroImage: '/images/cowboy-bebop-pop-up-parade-spike.jpg'
-genre: 'SF・ファンタジー'
+heroImage: /images/cowboy-bebop-pop-up-parade-spike.jpg
+genre: SF・ファンタジー
 sidebarProducts:
   - title: 'カウボーイビバップ POP UP'
     url: ''
     imageUrl: '/images/cowboy-bebop-pop-up-parade-spike.jpg'
     microCopy: '詳細を見る'
-- title: BP028 ヤッ太郎＆トリツックン
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg
-  price: 6622
-  microCopy: 詳細を見る
-- title: タイムボカンシリーズ ヤッターマン ファンブック
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6277728%2Fb350eftdb43500%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg
-  price: 2200
-  microCopy: 詳細を見る
-mediaType: 'figure'
+mediaType: figure
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

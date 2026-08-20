@@ -1,15 +1,15 @@
 ---
-title: '寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線'
-description: 'DMMで「寄生獣 セイの格率」を視聴！550円で泉新一とミギーの奇妙な共生、そして人類の運命をかけた戦いを描くSFホラーアニメの傑作。生命の問いかけに迫る衝撃作を見逃すな。'
+title: 寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線
+description: DMMで「寄生獣 セイの格率」を視聴！550円で泉新一とミギーの奇妙な共生、そして人類の運命をかけた戦いを描くSFホラーアニメの傑作。生命の問いかけに迫る衝撃作を見逃すな。
 pubDate: '2026-08-03'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0010/2000001030010.jpg'
-genre: 'サスペンス・ミステリー'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0010/2000001030010.jpg
+genre: サスペンス・ミステリー
 sidebarProducts:
   - title: '寄生獣 セイの格率'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Ddcst4wq0mzeja3s8s9pgebm9i%26season%3Dpk8x2dopthhn41b4ook583usk&af_id=DMMaria-999'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0010/2000001030010.jpg'
     microCopy: '詳細を見る'
-mediaType: 'comic'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

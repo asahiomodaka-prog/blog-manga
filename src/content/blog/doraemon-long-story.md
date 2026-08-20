@@ -1,24 +1,15 @@
 ---
-title: '大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？'
-description: '『大長編ドラえもん』は、子供も大人も胸熱くなる普遍的冒険活劇。友情・勇気・成長を描く壮大な物語が、DMMブックスで583円から楽しめます。現代に失われた少年心を取り戻し、新たな発見を。'
+title: 大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？
+description: 『大長編ドラえもん』は、子供も大人も胸熱くなる普遍的冒険活劇。友情・勇気・成長を描く壮大な物語が、DMMブックスで583円から楽しめます。現代に失われた少年心を取り戻し、新たな発見を。
 pubDate: '2026-08-09'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600qsgk02980/b600qsgk02980pl.jpg'
-genre: 'manga'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b600qsgk02980/b600qsgk02980pl.jpg
+genre: manga
 sidebarProducts:
   - title: '大長編ドラえもん 豪華愛蔵版 全巻セット'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%A7%E9%95%B7%E7%B7%A8%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600qsgk02980/b600qsgk02980pl.jpg'
     microCopy: '詳細を見る'
-  - title: 'ドラえもん'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F562478%2Fb600qsgk00146%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600qsgk00146/b600qsgk00146pl.jpg'
-    price: 583
-    microCopy: '詳細を見る'
-  - title: 'UDF「藤子・F・不二雄作品」シリーズ18 鉄人'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260604730%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/hobby/c260604730/c260604730pt.jpg'
-    price: 1623
-    microCopy: '詳細を見る'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
