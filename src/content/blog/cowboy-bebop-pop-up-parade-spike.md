@@ -55,6 +55,15 @@ mediaType: 'figure'
 
 ## 宇宙を駆ける風来坊、その一瞬を切り取った造形美
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: カウボーイビバップ POP UP PARADE スパイク・スピーゲル造形レビュー！ビバップの魂が宿る理由 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 [【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api)を初めて手にした時、その再現度の高さに驚かされた。箱から取り出すと、アニメの画面から飛び出してきたかのようなスパイク・スピーゲルの姿が目に飛び込んでくる。
 
 <img src="/images/cowboy-bebop-pop-up-parade-spike.jpg" alt="cowboy-bebop-pop-up-parade-spike" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />

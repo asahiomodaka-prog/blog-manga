@@ -55,6 +55,15 @@ mediaType: 'anime'
 
 ## 乱世を駆け抜ける若者たちの群像劇：TVアニメ「キングダム」第4シリーズの魅力
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 [TVアニメ「キングダム」成キョウの変/著雍攻略戦/アイ国反乱編 DVDBOX/アニメーション](https://hb.afl.rakuten.co.jp/hgc/g00qco51.ve2q5440.g00qco51.ve2q63f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoshin-cddvd%2F4580055363023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoshin-cddvd%2Fi%2F11065437%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 TVアニメ「キングダム」第4シリーズは、原作の持つ深淵なドラマをアニメーションならではの迫力と臨場感で再現している。収録内容として、「成&#34780;の変」「著雍攻略戦」「&#27600;国反乱編」の全26話が収められている点は、シリーズ全体を俯瞰する上で重要な位置を占める。第3シリーズでの合従軍との激闘後、訪れたつかの間の平穏から一転、政（えい）と信（しん）の前に次なる困難が立ち塞がる展開は、視聴者の期待を高めるだろう。

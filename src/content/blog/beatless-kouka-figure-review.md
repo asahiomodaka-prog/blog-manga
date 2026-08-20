@@ -47,6 +47,15 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 
 ## redjuice氏の繊細なタッチを再現した造形美の真髄
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 <img src="/images/beatless-kouka-figure-review.jpg" alt="beatless-kouka-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 このフィギュアの造形は、redjuice氏のイラストが持つ独特の世界観を細部まで再現している。まず目を引くのは、紅霞の象徴でもある「真紅の髪」と「クリムゾンレッドの瞳」の色彩表現だ。
