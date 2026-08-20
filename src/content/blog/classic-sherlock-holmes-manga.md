@@ -23,7 +23,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dclassic%2520sherlock%2520holmes" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -116,7 +116,7 @@ mediaType: 'comic'
 | :--- | :--- |
 | 商品名 | 夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を |
 
-## 隙間時間で名推理！[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)のスマートな活用術
+## 隙間時間で名推理！[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dclassic%2520sherlock%2520holmes
 
 「この傑作を読みたいけれど、紙媒体の収納場所がない」と感じる漫画好きも少なくないだろう。紙媒体の漫画には、もちろん独特の魅力がある。ページをめくる感触、インクの匂い、本棚に並んだ時の満足感。しかし、現代の生活スタイルを考えると、電子書籍が提供してくれる利便性は、もはや無視できないものがある。特に『[夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を](https://book.dmm.com/)』のような、全巻一気読みしたくなる作品の場合、電子書籍は有効な選択肢と言える。
 
@@ -139,7 +139,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dclassic%2520sherlock%2520holmes" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -154,22 +154,10 @@ mediaType: 'comic'
 
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻電子・紙レンタル</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff !important; font-size: 0.8rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">👉 DMMコミックレンタル公式を見る ➔</a>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
 </div>
 </div>
 

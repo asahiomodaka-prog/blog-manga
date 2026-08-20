@@ -36,7 +36,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dmonster%2520kanzenban%252018" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ mediaType: 'comic'
 
 人間の心の闇と光、そして善悪の境界線を深く問いかける傑作漫画、浦沢直樹の『MONSTER』。この作品は、単なるサスペンス漫画の枠を超え、読者に哲学的な思索を促す金字塔として、今なお多くの人々に読み継がれている。天才外科医テンマが、かつて救ったはずの命が「怪物」と化して自身に立ちはだかる壮絶な物語は、読者の倫理観を揺さぶり、自分自身の内面と向き合うきっかけを与えるだろう。
 
-デジタル化が進んだ現代、この重厚な物語も[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)で手軽に楽しめるようになった。通勤中のわずかな時間や就寝前、指先ひとつで冷戦終結後のドイツを舞台にした緊迫のドラマに没入できる。普遍的なテーマと緻密なストーリー展開を持つ『MONSTER』は、時代を超えて読み返される価値のある作品だ。
+デジタル化が進んだ現代、この重厚な物語も[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dmonster%2520kanzenban%252018
 
 ## 天才外科医が追う、もう一人の“MONSTER”の影
 
@@ -153,7 +153,7 @@ DMMブックスでは、[MONSTER 完全版 デジタルVer.](https://al.dmm.com/
   <div class="widget-info">
 <h4 class="widget-title">あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dmonster%2520kanzenban%252018" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -168,22 +168,10 @@ DMMブックスでは、[MONSTER 完全版 デジタルVer.](https://al.dmm.com/
 
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻電子・紙レンタル</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff !important; font-size: 0.8rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">👉 DMMコミックレンタル公式を見る ➔</a>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
 </div>
 </div>
 

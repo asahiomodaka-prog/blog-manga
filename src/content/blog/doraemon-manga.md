@@ -44,7 +44,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -123,7 +123,7 @@ mediaType: 'comic'
 
 ## 読み継がれる名作を、現代のスタイルで楽しむ
 
-こんなにも深く、そして普遍的なテーマを内包する『ドラえもん』ですが、全巻揃えるとなると、それなりの初期費用がかかるのは正直なところです。特に漫画コレクターは、物理的なスペースも気になるところ。本棚の容量には限りがあります。そこで、私が提案したいのが[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)での読書体験です。
+こんなにも深く、そして普遍的なテーマを内包する『ドラえもん』ですが、全巻揃えるとなると、それなりの初期費用がかかるのは正直なところです。特に漫画コレクターは、物理的なスペースも気になるところ。本棚の容量には限りがあります。そこで、私が提案したいのが[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF
 
 DMMブックスなら、[ドラえもん](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F562478%2Fb600qsgk00146%2F&af_id=DMMaria-999&ch=api)を1冊583円という手頃な価格で手軽に楽しむことができます。物理的な単行本と比べて、価格面で優位性がある場合も多く、何よりもスマホやタブレット一つあれば、いつでもどこでも、あの名作に触れることができるのは、非常に便利です。私はよく、ちょっとした休憩時間や移動中に、過去のエピソードを読み返しては、あの頃のノスタルジーに浸っています。
 
@@ -152,7 +152,7 @@ DMMブックスでは、定期的にセールやキャンペーンを実施し�
   <div class="widget-info">
 <h4 class="widget-title">ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -167,22 +167,10 @@ DMMブックスでは、定期的にセールやキャンペーンを実施し�
 
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻電子・紙レンタル</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff !important; font-size: 0.8rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">👉 DMMコミックレンタル公式を見る ➔</a>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
 </div>
 </div>
 

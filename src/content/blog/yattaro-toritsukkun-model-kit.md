@@ -23,7 +23,7 @@ mediaType: 'figure'
 <!-- PR -->
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-『ヤッ太郎＆トリツックン』は、多くのファンに愛され続ける不朽の名作だ。今回紹介する[BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)の[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2)は、その愛らしい姿で、作品が持つ普遍的な魅力とノスタルジーを凝縮している。このフィギュアをデスクに飾ることは、日々の喧騒から離れ、純粋な物語の喜びに浸るための小さな入り口となるだろう。作品を知る者ならば、その名を聞くだけで胸の奥が熱くなるはずだ。未だ触れたことのない読者には、ぜひこの機会に、その魅力の一端に触れてほしい。
+『ヤッ太郎＆トリツックン』は、多くのファンに愛され続ける不朽の名作だ。今回紹介する[BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)の[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dyattaro%2520toritsukkun%2520model%2520kit
 
 ### 不朽の冒険譚が今、蘇る！BP028 ヤッ太郎＆トリツックンとの出会い
 
@@ -93,7 +93,7 @@ mediaType: 'figure'
 
 名作『ヤッ太郎＆トリツックン』を、より深く身近に感じるための素晴らしいアイテムが、今回紹介するフィギュアだ。[BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)のフィギュアをデスクの片隅に飾っておけば、ふとした瞬間に視線が向き、あの頃のワクワクした気持ちが蘇ってくるだろう。物理的なフィギュアとしてその存在を感じることは、作品への「好き」という感情を最大限に高めてくれる。
 
-価格は6,622円と、決して安価ではないかもしれない。しかし、この愛らしい姿を目の当たりにすれば、その価値を十分に感じられるはずだ。手軽に飾れる人気シリーズで、精巧に作られたフィギュアは、作品への深い愛情を形にするのにこれ以上ない方法である。ヤッ太郎の力強い表情や、トリツックンのコミカルな動き、そしてキャラクターデザインを忠実に再現した彩色など、見飽きることがない。ディテールへのこだわりは、ファンならば誰もが納得する仕上がりだろう。もし作品を深く知りたければ、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)版も活用し、タブレットやスマートフォンでいつでも物語の世界に浸ることができる。このフィギュアは、私たちの生活の中に、そっと彩りを添えてくれる、そんな存在となるだろう。
+価格は6,622円と、決して安価ではないかもしれない。しかし、この愛らしい姿を目の当たりにすれば、その価値を十分に感じられるはずだ。手軽に飾れる人気シリーズで、精巧に作られたフィギュアは、作品への深い愛情を形にするのにこれ以上ない方法である。ヤッ太郎の力強い表情や、トリツックンのコミカルな動き、そしてキャラクターデザインを忠実に再現した彩色など、見飽きることがない。ディテールへのこだわりは、ファンならば誰もが納得する仕上がりだろう。もし作品を深く知りたければ、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dyattaro%2520toritsukkun%2520model%2520kit
 
 ### 記憶に残る冒険の物語を、あなたのそばに
 
@@ -111,7 +111,7 @@ BP028 ヤッ太郎＆トリツックンのフィギュアは、単なる飾り�
   <div class="widget-info">
 <h4 class="widget-title">BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E3%2583%258E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25AB%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dyattaro%2520toritsukkun%2520model%2520kit" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -138,22 +138,10 @@ BP028 ヤッ太郎＆トリツックンのフィギュアは、単なる飾り�
 
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻電子・紙レンタル</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff !important; font-size: 0.8rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">👉 DMMコミックレンタル公式を見る ➔</a>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
 </div>
 </div>
 

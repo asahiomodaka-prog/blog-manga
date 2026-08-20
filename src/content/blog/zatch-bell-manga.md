@@ -41,7 +41,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">金色のガッシュ！！が描いた“優しさの王”。なぜあの結末に涙が止まらないのか？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25EF%25BC%2581%25EF%25BC%2581%25E3%2581%258C%25E6%258F%258F%25E3%2581%2584%25E3%2581%259F%25E2%2580%259C%25E5%2584%25AA%25E3%2581%2597%25E3%2581%2595%25E3%2581%25AE%25E7%258E%258B%25E2%2580%259D%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E7%25B5%2590%25E6%259C%25AB%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dzatch%2520bell" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -123,7 +123,7 @@ mediaType: 'comic'
 
 ## 「王」への道のりをお得に体験：賢い購入と試し読みガイド
 
-『金色のガッシュ！！』をこれから読むなら、DMMブックスでの[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)購入が利便性の点で優れている。全33巻という大ボリュームの作品だが、電子書籍であれば物理的な収納スペースを気にする必要がない。通勤通学中や移動時間など、いつでもどこでも好きな時に読み進めることができるのは、電子書籍ならではの大きなメリットだ。
+『金色のガッシュ！！』をこれから読むなら、DMMブックスでの[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dzatch%2520bell
 
 1冊660円という価格設定だが、DMMブックスでは多くの作品で試し読みが可能だ。まずは1巻を試し読みし、ガッシュと清麿の出会い、そして彼らが初めて経験する魔物同士の戦いを体験してみることをおすすめする。序盤で物語の魅力に引き込まれたなら、その勢いのまま読み進めるのが、作品の世界観に深く没入する一番の方法となるだろう。
 
@@ -143,7 +143,7 @@ DMMブックスでは定期的にセールやキャンペーンを実施して�
   <div class="widget-info">
 <h4 class="widget-title">金色のガッシュ！！が描いた“優しさの王”。なぜあの結末に涙が止まらないのか？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25EF%25BC%2581%25EF%25BC%2581%25E3%2581%258C%25E6%258F%258F%25E3%2581%2584%25E3%2581%259F%25E2%2580%259C%25E5%2584%25AA%25E3%2581%2597%25E3%2581%2595%25E3%2581%25AE%25E7%258E%258B%25E2%2580%259D%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E7%25B5%2590%25E6%259C%25AB%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dzatch%2520bell" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -158,22 +158,10 @@ DMMブックスでは定期的にセールやキャンペーンを実施して�
 
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻電子・紙レンタル</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff !important; font-size: 0.8rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">👉 DMMコミックレンタル公式を見る ➔</a>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
 </div>
 </div>
 

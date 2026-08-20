@@ -44,7 +44,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ mediaType: 'comic'
 
 これらの冒険は、単にハラハラドキドキする展開が続くだけではない。様々な試練を通じてキャラクターたちが成長していく過程が、極めて丁寧に描かれている点が特徴だ。例えば、普段は威張りん坊のジャイアンが、仲間をかばって勇敢に敵に立ち向かう姿。あるいは、いつも弱虫なのび太が、大切なものを守るために知恵と勇気を振り絞る瞬間は、何度読み返しても胸を打つ。ドラえもんのひみつ道具は、物語を彩る重要な要素だが、決して万能の解決策ではない。道具だけではどうにもならない局面にぶつかり、キャラクターたちが自らの力で問題を解決しようと奮闘するからこそ、彼らの努力や成長が際立つのである。
 
-作者である藤子・F・不二雄の描線は、シンプルながらもキャラクターの感情や情景を見事に表現している。彼の提唱する「SF（すこしふしぎ）」というテーマは、非日常の要素を日常の中に巧みに織り交ぜることで、読者の想像力を掻き立ててきた。大長編では、そのSFがスケールアップし、宇宙船が飛び交う迫力あるバトルシーンから、異世界の神秘的な風景、そして登場人物たちの繊細な表情まで、限られたページの中で読者の心を惹きつける。これはまさに熟練の筆致と言えよう。特に大長編では、その広大な世界観とキャラクターたちの心の機微が、短編とは一線を画す密度で描かれている。一歩足を踏み入れたらもう引き返せない、そんな冒険の熱気を紙や[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の中から感じ取れるのは、この作品群が持つ圧倒的な魅力だ。
+作者である藤子・F・不二雄の描線は、シンプルながらもキャラクターの感情や情景を見事に表現している。彼の提唱する「SF（すこしふしぎ）」というテーマは、非日常の要素を日常の中に巧みに織り交ぜることで、読者の想像力を掻き立ててきた。大長編では、そのSFがスケールアップし、宇宙船が飛び交う迫力あるバトルシーンから、異世界の神秘的な風景、そして登場人物たちの繊細な表情まで、限られたページの中で読者の心を惹きつける。これはまさに熟練の筆致と言えよう。特に大長編では、その広大な世界観とキャラクターたちの心の機微が、短編とは一線を画す密度で描かれている。一歩足を踏み入れたらもう引き返せない、そんな冒険の熱気を紙や[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582
 
 <img src="/images/doraemon-long-story.jpg" alt="doraemon-long-story" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
@@ -148,7 +148,7 @@ DMMブックスでは、これらの素晴らしい作品群を電子書籍で�
   <div class="widget-info">
 <h4 class="widget-title">大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -163,22 +163,10 @@ DMMブックスでは、これらの素晴らしい作品群を電子書籍で�
 
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻電子・紙レンタル</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff !important; font-size: 0.8rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">👉 DMMコミックレンタル公式を見る ➔</a>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
 </div>
 </div>
 

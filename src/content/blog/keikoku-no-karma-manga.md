@@ -39,7 +39,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dkeikoku%2520no%2520karma" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -129,7 +129,7 @@ mediaType: 'comic'
 
 ## 電子書籍で堪能する歴史の息吹と一気読みの利便性
 
-通勤電車のわずかな隙間時間や、休日のカフェでのんびりと過ごす時間。そんな日常のふとした瞬間に、遥か昔の物語に没頭できるのが、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の大きなメリットだ。この『傾国のカルマ』も、電子書籍で読むことで、その利便性を最大限に享受できる作品である。壮大な歴史ドラマを一気読みできるため、その没入感は格別だ。
+通勤電車のわずかな隙間時間や、休日のカフェでのんびりと過ごす時間。そんな日常のふとした瞬間に、遥か昔の物語に没頭できるのが、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dkeikoku%2520no%2520karma
 
 全巻を揃えるとなると、それなりの収納スペースが必要になるが、電子書籍ならその心配は無用。いつでもどこでも、スマートフォンやタブレット一つで、12世紀イングランドの宮廷を舞台にした壮大な物語の世界に飛び込むことができる。夜中にふと読み返したくなった際に、すぐに続きを読み始められるのは、電子書籍ならではの大きな魅力だ。
 
@@ -150,7 +150,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dkeikoku%2520no%2520karma" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -165,22 +165,10 @@ mediaType: 'comic'
 
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻電子・紙レンタル</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff !important; font-size: 0.8rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">👉 DMMコミックレンタル公式を見る ➔</a>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
 </div>
 </div>
 

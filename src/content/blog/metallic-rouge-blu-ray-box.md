@@ -38,7 +38,7 @@ mediaType: 'anime'
   <div class="widget-info">
 <h4 class="widget-title">メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2520BD-BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25A7%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E7%259C%259F%25E9%25AB%2584%25E3%2582%2592%25E6%258E%2598%25E3%2582%258A%25E4%25B8%258B%25E3%2581%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ mediaType: 'anime'
 </div>
 
 
-## 灼熱のネオンに揺れる魂、再降臨。メタリックルージュ[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray) BOXの価値
+## 灼熱のネオンに揺れる魂、再降臨。メタリックルージュ[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5 BOXの価値
 
 
 <div class="summary-box">
@@ -129,7 +129,7 @@ mediaType: 'anime'
 
 この価格をどう捉えるかは、人それぞれの作品への愛着度や、コレクションに対する価値観によって大きく異なるだろう。特定の作品を繰り返し見返し、細部まで掘り下げて楽しみたい、あるいは「モノ」として手元に置いておきたいと考えるコレクターにとっては、決して高すぎる金額ではない。むしろ、作品のクオリティや特典内容を考えれば、妥当な投資と感じられる可能性もある。
 
-次に、**設置場所**も考慮すべき点である。Blu-ray BOXはコンパクトに作られているとはいえ、それなりのスペースを占める。特に、他のアニメ作品のBOXや[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2)などもコレクションしている場合は、既存の棚に収まるか、新たなスペースを確保する必要があるかもしれない。パッケージデザインが洗練されているだけに、安易に積み重ねるのではなく、飾るように収納したいという欲求も出てくるものだ。
+次に、**設置場所**も考慮すべき点である。Blu-ray BOXはコンパクトに作られているとはいえ、それなりのスペースを占める。特に、他のアニメ作品のBOXや[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5
 
 また、ディスクという媒体である以上、**お手入れ**も必要となる。指紋やホコリがつかないように丁寧に扱い、直射日光が当たらず温度変化の少ない場所に保管することが、長期的にコレクションの品質を保つ上で重要である。
 
@@ -159,7 +159,7 @@ mediaType: 'anime'
   <div class="widget-info">
 <h4 class="widget-title">メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2520BD-BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25A7%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E7%259C%259F%25E9%25AB%2584%25E3%2582%2592%25E6%258E%2598%25E3%2582%258A%25E4%25B8%258B%25E3%2581%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -174,22 +174,10 @@ mediaType: 'anime'
 
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻電子・紙レンタル</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff !important; font-size: 0.8rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">👉 DMMコミックレンタル公式を見る ➔</a>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
 </div>
 </div>
 

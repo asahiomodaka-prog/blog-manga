@@ -42,7 +42,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を夜更けに再読するロマン！</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25AD%25B4%25E5%258F%25B2%25E6%25BC%25AB%25E7%2594%25BB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25A7%25E3%2580%2581%25E9%2581%258E%25E3%2581%258E%25E5%258E%25BB%25E3%2582%258A%25E3%2581%2597%25E7%2586%25B1%25E7%258B%2582%25E3%2582%2592%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%2591%25E3%2581%25AB%25E5%2586%258D%25E8%25AA%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%259E%25E3%2583%25B3%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dhistory%2520%2520timewarp%2520series" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -63,13 +63,13 @@ mediaType: 'comic'
   </ul>
 </div>
 
-集英社から発売されている[集英社 コンパクト版 学習まんが 日本の歴史 [全巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588)(全20巻+別巻2)](https://hb.afl.rakuten.co.jp/hgc/g00q2zm1.ve2q5e08.g00q2zm1.ve2q6c82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooks-sanseido%2F9784082399351%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooks-sanseido%2Fi%2F10363065%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、単なる学習まんがという枠を超えた、まさに「生きた歴史」を体験できる優れたシリーズである。全20巻という大ボリュームに加え、別巻2冊を含めた計22冊で日本の歴史を原始時代から現代まで網羅している。
+集英社から発売されている[集英社 コンパクト版 学習まんが 日本の歴史 [全巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dhistory%2520%2520timewarp%2520series
 
 このシリーズの最大の魅力は、年表を丸暗記するだけの歴史学習とは一線を画している点にある。各時代の出来事が、登場人物たちの視点を通してドラマティックに描かれることで、読者はあたかもその時代にタイムワープしたかのような感覚で歴史を追体験できる。例えば、織田信長や坂本龍馬といった歴史上の偉人たちが、単なる記号的な存在ではなく、血の通った人間として目の前に現れるのだ。彼らが何を考え、何に悩み、どのような決断を下したのか。その背景にある心情や時代背景までが丁寧に描かれているため、読者は感情移入しながら物語を読み進めることができる。
 
 作画も見事である。各巻ごとに異なる漫画家が担当しているため、それぞれの時代や登場人物の個性が際立っており、読者を飽きさせない工夫が凝らされている。絵柄はどれも美麗で、特に合戦のシーンや文化が花開いた時代の描写は見応えがある。視覚的な情報が豊富だからこそ、歴史の壮大なスケール感や、当時の人々の暮らしぶりがリアルに伝わってくるのだ。文字情報だけでは得られない臨場感がそこにはある。
 
-この「コンパクト版」というサイズも、利用者にとって利便性が高い。通常のコミックスよりも一回り小さいサイズなので、持ち運びやすく、通勤電車の中やちょっとした休憩時間にも気軽に読み進められる。筆者も[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)で全巻揃えているが、紙媒体で手元に置いておきたくなるような魅力がこのシリーズには存在する。大人になってから改めて日本の歴史を学び直したいと考えている人にとって、理想的なシリーズと言えるだろう。
+この「コンパクト版」というサイズも、利用者にとって利便性が高い。通常のコミックスよりも一回り小さいサイズなので、持ち運びやすく、通勤電車の中やちょっとした休憩時間にも気軽に読み進められる。筆者も[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dhistory%2520%2520timewarp%2520series
 
 ## 時代が語りかける人間普遍のテーマ
 
@@ -141,7 +141,7 @@ mediaType: 'comic'
   <div class="widget-info">
 <h4 class="widget-title">歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を夜更けに再読するロマン！</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25AD%25B4%25E5%258F%25B2%25E6%25BC%25AB%25E7%2594%25BB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25A7%25E3%2580%2581%25E9%2581%258E%25E3%2581%258E%25E5%258E%25BB%25E3%2582%258A%25E3%2581%2597%25E7%2586%25B1%25E7%258B%2582%25E3%2582%2592%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%2591%25E3%2581%25AB%25E5%2586%258D%25E8%25AA%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%259E%25E3%2583%25B3%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dhistory%2520%2520timewarp%2520series" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -156,22 +156,10 @@ mediaType: 'comic'
 
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻電子・紙レンタル</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff !important; font-size: 0.8rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">👉 DMMコミックレンタル公式を見る ➔</a>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
 </div>
 </div>
 
