@@ -6,7 +6,7 @@ heroImage: 'https://ebook-assets.dmm.com/digital/e-book/s174apups00563/s174apups
 genre: 'サスペンス・ミステリー'
 sidebarProducts:
   - title: '傾国のカルマ'
-    url: ''
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4252328%2Fs174apups00563%2F&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/s174apups00563/s174apups00563pl.jpg'
     microCopy: '詳細を見る'
 - title: 歴史漫画タイムワープ通史編
@@ -48,7 +48,7 @@ mediaType: 'comic'
 <a href="https://www.amazon.co.jp/s?k=%E5%82%BE%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%9E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%82%BE%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%9E%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E5%82%BE%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%9E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%82%BE%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%9E&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMブックス</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4252328%2Fs174apups00563%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで作品を見る</a>
 </div>
 </div>
 </div>
