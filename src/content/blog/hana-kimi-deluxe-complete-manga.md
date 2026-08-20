@@ -2,7 +2,7 @@
 title: '芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春'
 description: '中条比紗也『愛蔵版 花ざかりの君たちへ』全巻セットが楽天で予約受付中！女子高生が男子校に潜入、恋と友情、成長を描く青春漫画。豪華装丁で限定ポストカードも。不朽の名作を13,200円で一気読み。再読ファンも新規読者も必見！'
 pubDate: '2026-08-13'
-heroImage: '../../assets/images/hana-kimi-deluxe-complete-manga.jpg'
+heroImage: '/images/hana-kimi-deluxe-complete-manga.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: '【漫画】【中古】あしたのジョー［愛蔵版］ ＜1〜16巻完結＞ ちばてつや 【全巻セット】'

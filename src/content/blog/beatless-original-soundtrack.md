@@ -2,7 +2,7 @@
 title: 'TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー'
 description: 'TVアニメ「BEATLESS」オリジナルサウンドトラック（DMM通販・3,300円）。作品の壮大なSF世界観とhIEたちの繊細な感情を紡ぐ珠玉の劇伴集。エレクトロニックとオーケストラが融合した楽曲の魅力を徹底解説します。'
 pubDate: '2026-07-21'
-heroImage: '../../assets/images/beatless-original-soundtrack.jpg'
+heroImage: '/images/beatless-original-soundtrack.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: TVアニメ「BEATLESS」オリジナルサウンドトラック

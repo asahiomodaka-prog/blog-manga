@@ -2,7 +2,7 @@
 title: 'カウボーイビバップ POP UP PARADE スパイク・スピーゲル造形レビュー！ビバップの魂が宿る理由'
 description: '名作アニメ『カウボーイビバップ』の主人公「スパイク・スピーゲル」がPOP UP PARADEシリーズで登場！飾りやすいサイズと手に取りやすい価格4,895円で蘇る造形美を徹底レビュー。'
 pubDate: '2026-07-20'
-heroImage: '../../assets/images/cowboy-bebop-pop-up-parade-spike.jpg'
+heroImage: '/images/cowboy-bebop-pop-up-parade-spike.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: 【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ

@@ -2,7 +2,7 @@
 title: 'POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？'
 description: '『世界一初恋』POP UP PARADE 二階堂ヒロがDMMで8439円。デスクに飾るだけで日常に癒やしとときめきを与え、忘れかけていた情熱を呼び覚まします。多忙な日々を過ごすあなたへ、小さな輝きを。詳細と魅力を解説。'
 pubDate: '2026-08-07'
-heroImage: '../../assets/images/pop-up-parade-nikaido-hiro.jpg'
+heroImage: '/images/pop-up-parade-nikaido-hiro.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: 'POP UP PARADE SP アサシン/’山の翁’ Fate/Grand Order'

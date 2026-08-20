@@ -2,7 +2,7 @@
 title: '『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力'
 description: '90年代の名作『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンのフィギュアを徹底レビュー。痛快ギャグとメカバトルの魅力を紐解きます。'
 pubDate: '2026-07-26'
-heroImage: '../../assets/images/teyandee-yattaro-figure-review.jpg'
+heroImage: '/images/teyandee-yattaro-figure-review.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
 - title: BP028 ヤッ太郎＆トリツックン

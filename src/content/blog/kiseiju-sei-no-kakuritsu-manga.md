@@ -2,7 +2,7 @@
 title: '寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線'
 description: 'DMMで「寄生獣 セイの格率」を視聴！550円で泉新一とミギーの奇妙な共生、そして人類の運命をかけた戦いを描くSFホラーアニメの傑作。生命の問いかけに迫る衝撃作を見逃すな。'
 pubDate: '2026-08-03'
-heroImage: '../../assets/images/kiseiju-sei-no-kakuritsu-manga.jpg'
+heroImage: '/images/kiseiju-sei-no-kakuritsu-manga.jpg'
 genre: 'サスペンス・ミステリー'
 sidebarProducts:
   - title: '金色のガッシュ！！'

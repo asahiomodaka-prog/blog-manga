@@ -2,7 +2,7 @@
 title: '「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気'
 description: '「全滅エンドを死に物狂いで回避した。パーティが病んだ。」は、絶望的な状況から全滅エンド回避を目指すダークファンタジー。歪んだ愛情の行方を徹底レビュー。'
 pubDate: '2026-07-30'
-heroImage: '../../assets/images/bad-ending-avoidance-yande-manga.jpg'
+heroImage: '/images/bad-ending-avoidance-yande-manga.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。

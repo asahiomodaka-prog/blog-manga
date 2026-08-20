@@ -2,7 +2,7 @@
 title: 'HUNTER×HUNTER モノクロ版の残酷な真実。なぜ読むほど心に刺さり考察が止まらないのか'
 description: '『HUNTER×HUNTER モノクロ版』をDMMで！ゴンが父を探し、仲間と挑むハンター試験は予測不能な展開と奥深い人間ドラマが魅力。不朽の冒険譚を徹底レビュー。'
 pubDate: '2026-07-31'
-heroImage: '../../assets/images/hunter-hunter-monochrome-manga.jpg'
+heroImage: '/images/hunter-hunter-monochrome-manga.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
 - title: HUNTER×HUNTER モノクロ版

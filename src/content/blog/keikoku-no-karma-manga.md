@@ -2,7 +2,7 @@
 title: '『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀'
 description: '12世紀イングランドを舞台に、運命に抗い女王として生きた女性を描く『傾国のカルマ』。激動の時代、血筋や性別に翻弄されながらも尊厳と誇りを守り抜く物語を徹底解説。'
 pubDate: '2026-07-22'
-heroImage: '../../assets/images/keikoku-no-karma-manga.jpg'
+heroImage: '/images/keikoku-no-karma-manga.jpg'
 genre: 'サスペンス・ミステリー'
 sidebarProducts:
 - title: 傾国のカルマ（単話）

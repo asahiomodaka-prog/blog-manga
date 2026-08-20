@@ -2,7 +2,7 @@
 title: '追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？'
 description: '追放された回復士の少女が、最強職業に転職!? 『冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…』は、DMMブックスで165円で読める、不遇からの逆転ファンタジーです。'
 pubDate: '2026-08-02'
-heroImage: '../../assets/images/recovering-girl-expelled-party-manga.jpg'
+heroImage: '/images/recovering-girl-expelled-party-manga.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
   - title: '全滅エンドを死に物狂いで回避した。パーティが病んだ。'

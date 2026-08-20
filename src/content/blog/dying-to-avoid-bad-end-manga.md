@@ -2,7 +2,7 @@
 title: 「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方
 description: RPGで全滅エンドを回避した代償は、仲間の「病み」だった。『全滅エンドを死に物狂いで回避した。』は、ハッピーエンドを願う転生者と、彼に歪んだ感情を抱く少女たちのダークファンタジー。価格1078円で、DMM独占の衝撃展開を体験しよう。
 pubDate: '2026-07-21'
-heroImage: '../../assets/images/dying-to-avoid-bad-end-manga.jpg'
+heroImage: '/images/dying-to-avoid-bad-end-manga.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。

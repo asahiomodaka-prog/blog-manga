@@ -2,7 +2,7 @@
 title: 全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？
 description: 自己犠牲で全滅エンドを回避した主人公を待ち受けるのは、激重感情を抱く仲間たちの歪んだ愛。予想外の展開が「曇らせ」異世界譚として楽しめる『全滅エンドを死に物狂いで回避した』がdmmで924円。衝撃の人間ドラマを体験しよう。
 pubDate: '2026-07-27'
-heroImage: '../../assets/images/all-bad-ending-avoidance-manga.jpg'
+heroImage: '/images/all-bad-ending-avoidance-manga.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。

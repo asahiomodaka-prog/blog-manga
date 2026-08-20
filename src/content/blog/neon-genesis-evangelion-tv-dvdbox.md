@@ -2,7 +2,7 @@
 title: '新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡'
 description: '新世紀エヴァンゲリオンTV放映版DVDBOX ARCHIVES OF EVANGELION。社会現象を巻き起こしたTVアニメシリーズの魅力を徹底レビュー。'
 pubDate: '2026-08-08'
-heroImage: '../../assets/images/neon-genesis-evangelion-tv-dvdbox.jpg'
+heroImage: '/images/neon-genesis-evangelion-tv-dvdbox.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
   - title: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX [ (V.A.) ]'

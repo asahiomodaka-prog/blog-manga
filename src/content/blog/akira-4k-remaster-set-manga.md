@@ -2,7 +2,7 @@
 title: 'AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー'
 description: 'AKIRA 4Kリマスターセットの魅力とは？最高峰の映像と音響で、大友克洋作品の金字塔が鮮烈に蘇る決定版。ネオ東京の衝撃をハイクオリティで再体験。楽天で8750円、ファン必見の価値を解説します。'
 pubDate: '2026-08-15'
-heroImage: '../../assets/images/akira-4k-remaster-set-manga.jpg'
+heroImage: '/images/akira-4k-remaster-set-manga.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
   - title: 'AKIRA 4Kリマスターセット UltraHD《特装限定版 UHDBD※専用プレーヤーが必要です》 (初回限定) 【Blu-ray】'

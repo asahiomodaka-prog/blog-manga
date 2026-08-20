@@ -2,7 +2,7 @@
 title: 'キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証'
 description: '『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」合体ギミックと造形美を徹底解説。デスクを彩るレトロアニメの至宝。'
 pubDate: '2026-07-17'
-heroImage: '../../assets/images/teyandee-yattaro-gimmick-review.jpg'
+heroImage: '/images/teyandee-yattaro-gimmick-review.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
 - title: BP028 ヤッ太郎＆トリツックン

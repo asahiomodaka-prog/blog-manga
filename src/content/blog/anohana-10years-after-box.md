@@ -2,7 +2,7 @@
 title: 'あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！'
 description: '『あの日見た花の名前を僕達はまだ知らない。10years after BOX』がdmmに登場。高画質Blu-ray本編に加え、未公開特典映像や豪華特製パッケージで、10年後の物語を追体験。ファン必見の永久保存版コレクターズアイテムを価格22,770円で手に入れよう。'
 pubDate: '2026-08-11'
-heroImage: '../../assets/images/anohana-10years-after-box.jpg'
+heroImage: '/images/anohana-10years-after-box.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: 'あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX （完全生産限定版 ブルーレイディスク）'

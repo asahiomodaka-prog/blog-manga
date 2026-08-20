@@ -2,7 +2,7 @@
 title: '大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？'
 description: '『大長編ドラえもん』は、子供も大人も胸熱くなる普遍的冒険活劇。友情・勇気・成長を描く壮大な物語が、DMMブックスで583円から楽しめます。現代に失われた少年心を取り戻し、新たな発見を。'
 pubDate: '2026-08-09'
-heroImage: '../../assets/images/doraemon-long-story.jpg'
+heroImage: '/images/doraemon-long-story.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: '藤子・F・不二雄大全集'

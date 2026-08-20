@@ -2,7 +2,7 @@
 title: 'TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由'
 description: 'TVアニメ「キングダム」第4シリーズDVDBOXが登場！「成キョウの変/著雍攻略戦/アイ国反乱編」全26話を収録。価格9680円で乱世の激闘を追体験。主要登場人物たちの成長と人間ドラマが凝縮された魅力的な内容です。'
 pubDate: '2026-08-01'
-heroImage: '../../assets/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku.jpg'
+heroImage: '/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
   - title: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX [ (V.A.) ]'

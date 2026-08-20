@@ -2,7 +2,7 @@
 title: '「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？'
 description: '『追放された転生重騎士はゲーム知識で無双する』は、ハズレ職と蔑まれた重騎士がゲーム知識を駆使し成り上がる痛快ファンタジー。最強ビルド構築の魅力を徹底レビュー。'
 pubDate: '2026-07-18'
-heroImage: '../../assets/images/reincarnated-heavy-knight-game-knowledge.jpg'
+heroImage: '/images/reincarnated-heavy-knight-game-knowledge.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: 追放された転生重騎士はゲーム知識で無双する

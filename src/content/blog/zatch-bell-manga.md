@@ -2,7 +2,7 @@
 title: '金色のガッシュ！！が描いた“優しさの王”。なぜあの結末に涙が止まらないのか？'
 description: '「金色のガッシュ！！」は、魔界の王を決める王道バトルと熱い人間ドラマが魅力の傑作。DMMブックスで読むメリットは？各巻660円からの購入方法や、清麿とガッシュの絆と成長を描く物語の深さを解説。'
 pubDate: '2026-08-10'
-heroImage: '../../assets/images/zatch-bell-manga.jpg'
+heroImage: '/images/zatch-bell-manga.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
   - title: '寄生獣 セイの格率'

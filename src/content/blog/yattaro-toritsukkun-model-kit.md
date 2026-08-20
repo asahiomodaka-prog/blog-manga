@@ -2,7 +2,7 @@
 title: 'BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー'
 description: '『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」プラモデルキットを徹底レビュー。懐かしのキャラクターが手のひらサイズで蘇る愛らしい造形と魅力を解説。'
 pubDate: '2026-07-12'
-heroImage: '../../assets/images/yattaro-toritsukkun-model-kit.jpg'
+heroImage: '/images/yattaro-toritsukkun-model-kit.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
 - title: BP028 ヤッ太郎＆トリツックン

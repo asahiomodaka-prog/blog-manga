@@ -2,7 +2,7 @@
 title: 'ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの'
 description: 'dmmで「ドラえもん」の漫画を楽しもう。未来の猫型ロボットとひみつ道具が織りなすSF（少し不思議）な日常は、子どもの頃の「もしも」を叶える物語。のび太の冒険と道具の魅力を解説。1冊583円から購入可能。'
 pubDate: '2026-08-06'
-heroImage: '../../assets/images/doraemon-manga.jpg'
+heroImage: '/images/doraemon-manga.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: '藤子・F・不二雄大全集'

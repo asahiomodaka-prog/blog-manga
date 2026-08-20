@@ -2,7 +2,7 @@
 title: あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験
 description: 浦沢直樹『MONSTER 完全版 デジタルVer.』最終18巻がdmmで770円。善悪の境界を問う人間ドラマ、天才外科医・天馬が追う壮大なサスペンスの結末を見届けよう。
 pubDate: '2026-07-10'
-heroImage: '../../assets/images/monster-kanzenban-18.jpg'
+heroImage: '/images/monster-kanzenban-18.jpg'
 genre: 'サスペンス・ミステリー'
 sidebarProducts:
 - title: MONSTER 完全版 デジタルVer. （18）

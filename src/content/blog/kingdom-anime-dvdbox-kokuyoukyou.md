@@ -2,7 +2,7 @@
 title: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX！乱世を駆け抜ける戦士たちの叙事詩'
 description: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX。春秋戦国時代の中国を舞台に、天下統一を目指す少年・信と若き王・嬴政の熱き戦いを描く。特典満載のDVDBOXを徹底解説。'
 pubDate: '2026-07-26'
-heroImage: '../../assets/images/kingdom-anime-dvdbox-kokuyoukyou.jpg'
+heroImage: '/images/kingdom-anime-dvdbox-kokuyoukyou.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
 - title: TVアニメ「キングダム」黒羊丘の戦い DVDBOX [ (V.A.) ]

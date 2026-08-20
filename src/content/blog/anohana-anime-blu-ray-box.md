@@ -2,7 +2,7 @@
 title: 'あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証'
 description: '『あの日見た花の名前を僕達はまだ知らない。』Blu-ray BOXは、HDリマスター高画質映像とDTS-HD 5.1chサラウンドで感動を再体験。あの夏の輝きが鮮やかに蘇ります。DMMで25,245円。'
 pubDate: '2026-08-14'
-heroImage: '../../assets/images/anohana-anime-blu-ray-box.jpg'
+heroImage: '/images/anohana-anime-blu-ray-box.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
   - title: 'あの日見た花の名前を僕達はまだ知らない。10years after BOX（完全生産限定） （ブルーレイディスク）'

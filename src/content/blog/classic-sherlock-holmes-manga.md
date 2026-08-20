@@ -2,7 +2,7 @@
 title: 夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を
 description: 『マンガで世界名作 名探偵シャーロック・ホームズ』は楽天やdmmで1320円。古典が苦手でも漫画で気軽に名推理を追体験！ヴィクトリア朝ロンドンを舞台に、緻密な事件の謎を鮮やかな絵で楽しめます。夜更かししてでも読みたい一冊。
 pubDate: '2026-07-05'
-heroImage: '../../assets/images/classic-sherlock-holmes-manga.jpg'
+heroImage: '/images/classic-sherlock-holmes-manga.jpg'
 genre: 'サスペンス・ミステリー'
 mediaType: 'comic'
 ---

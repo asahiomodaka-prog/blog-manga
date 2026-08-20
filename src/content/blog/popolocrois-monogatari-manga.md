@@ -2,7 +2,7 @@
 title: ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由
 description: 愛と成長の感動RPG『ポポロクロイス物語 《決定版》』をDMMで体験。カラーページ完全再現に加え、未収録エピソードも追加。大人になった今だからこそ心に響く、ピエトロ王子の冒険を792円で楽しもう。
 pubDate: '2026-07-21'
-heroImage: '../../assets/images/popolocrois-monogatari-manga.jpg'
+heroImage: '/images/popolocrois-monogatari-manga.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
 - title: 猩猩姫

@@ -2,7 +2,7 @@
 title: 'メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー'
 description: 'SFアニメ「メタリックルージュ Blu-ray BOX」で、ボンズが描く世界観を最高画質・音質で再体験。人造人間ネアンの深い哲学と迫力のアクションを、自宅で心ゆくまで堪能できる決定版コレクション。'
 pubDate: '2026-08-12'
-heroImage: '../../assets/images/metallic-rouge-blu-ray-box.jpg'
+heroImage: '/images/metallic-rouge-blu-ray-box.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
   - title: 'ひそねとまそたん Blu-ray BOX 発動篇 （特装版 ブルーレイディスク）'
