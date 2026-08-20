@@ -2,7 +2,7 @@
 title: '「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気'
 description: '「全滅エンドを死に物狂いで回避した。パーティが病んだ。」は、絶望的な状況から全滅エンド回避を目指すダークファンタジー。歪んだ愛情の行方を徹底レビュー。'
 pubDate: '2026-07-30'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg
+heroImage: '../../assets/images/bad-ending-avoidance-yande-manga.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。
@@ -27,17 +27,23 @@ mediaType: 'comic'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg" alt="「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9" alt="「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「全滅エンドを死に物狂いで回避した。パーティが病んだ。」は、絶望的な状況から全滅エンド回避を目指すダークファンタジー。歪んだ愛情の行方を徹底レビュー。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E6%25A5%25B5%25E9%2599%2590%25E3%2581%25AE%25E6%2584%259B%25E3%2581%25A8%25E7%258B%2582%25E6%25B0%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
@@ -49,6 +55,10 @@ mediaType: 'comic'
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8C%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9%E7%8B%82%E3%81%84%E3%81%A7%E5%9B%9E%E9%81%BF%E3%81%97%E3%81%9F%E3%80%82%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%81%8C%E7%97%85%E3%82%93%E3%81%A0%E3%80%82%E3%80%8D%E6%A5%B5%E9%99%90%E3%81%AE%E6%84%9B%E3%81%A8%E7%8B%82%E6%B0%97&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
@@ -88,6 +98,20 @@ mediaType: 'comic'
 
 作者は、SF的なギミックを使いながらも、最終的には「人間の心」の奥深さを描こうとしているのだ。極限状況に追い込まれた時、人間はどこまで自分らしくいられるのか。あるいは、自分らしさを保つために、何を犠牲にするのか。そして、たとえ「病んだ」としても、彼らが生きようとするその姿自体が、存在の証明となる。この作品は、単なるエンターテイメントとして消費するだけではもったいない。読み進めるごとに、私たち自身の内面にも問いを投げかけ、深い思考へと誘ってくれる魅力に満ちた作品と評価できる。
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+    <div style="text-align: center;">
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 DMM TVで30日間無料体験してみる
+        </a>
+    </div>
+</div>
+
+
 ## 絶望の淵で光る、キャラクターたちの人間臭い葛藤と絆
 
 物語を彩るのは、全滅エンドという過酷な運命に立ち向かう、個性豊かなキャラクターたちである。彼らはそれぞれ異なる過去と目的を持ち、その複雑な人間関係が、物語に深みを与えている。特に、繰り返し訪れる絶望的な状況の中で、彼らがどのように自身の精神と向き合い、仲間との関係を築いていくのかは、本作の最大の魅力の一つと言えるだろう。
@@ -121,23 +145,29 @@ mediaType: 'comic'
 
 ## 電子書籍で味わう、全滅エンド回避の旅路
 
-これほどまでに引き込まれる作品だからこそ、全巻一気読みを推奨したい。紙媒体で揃えるのも良いが、電子書籍での購入も有力な選択肢となる。何よりも、物理的なスペースを一切取らないのは、漫画コレクターにとって大きなメリットだ。本棚の空きを気にすることなく、好きなだけ作品を収集できるのは、電子書籍ならではの利便性である。
+これほどまでに引き込まれる作品だからこそ、全巻一気読みを推奨したい。紙媒体で揃えるのも良いが、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)での購入も有力な選択肢となる。何よりも、物理的なスペースを一切取らないのは、漫画コレクターにとって大きなメリットだ。本棚の空きを気にすることなく、好きなだけ作品を収集できるのは、電子書籍ならではの利便性である。
 
 さらに、DMMブックスのような電子書籍ストアなら、[全滅エンドを死に物狂いで回避した。パーティが病んだ。](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F)のような話題作も、手軽に購入できる。通勤電車の中や、ちょっとした休憩時間など、隙間時間を見つけては、スマホやタブレットで続きを読み進めることができるのは、電子書籍の大きな利点だ。まさに、現代社会に生きる私たちにとって、名作に没頭するための最適なツールと言えるだろう。
 
 そして、何よりの魅力は、夜中に「続きが読みたい！」と衝動に駆られた時でも、すぐに購入して読み始められることだ。物語の重要な局面で中断せざるを得ない時ほど、もどかしく感じることはないだろう。電子書籍なら、そんなストレスを感じることなく、物語の世界に浸り続けることが可能である。まずは試し読みからでも、その世界観に触れてみてはいかがだろうか。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b055bespr04416/b055bespr04416pl.jpg" alt="「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9" alt="「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「全滅エンドを死に物狂いで回避した。パーティが病んだ。」は、絶望的な状況から全滅エンド回避を目指すダークファンタジー。歪んだ愛情の行方を徹底レビュー。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E6%25A5%25B5%25E9%2599%2590%25E3%2581%25AE%25E6%2584%259B%25E3%2581%25A8%25E7%258B%2582%25E6%25B0%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
@@ -149,11 +179,40 @@ mediaType: 'comic'
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8C%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9%E7%8B%82%E3%81%84%E3%81%A7%E5%9B%9E%E9%81%BF%E3%81%97%E3%81%9F%E3%80%82%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%81%8C%E7%97%85%E3%82%93%E3%81%A0%E3%80%82%E3%80%8D%E6%A5%B5%E9%99%90%E3%81%AE%E6%84%9B%E3%81%A8%E7%8B%82%E6%B0%97&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

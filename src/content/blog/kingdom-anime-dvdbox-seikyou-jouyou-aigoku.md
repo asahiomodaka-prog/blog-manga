@@ -2,7 +2,7 @@
 title: 'TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由'
 description: 'TVアニメ「キングダム」第4シリーズDVDBOXが登場！「成キョウの変/著雍攻略戦/アイ国反乱編」全26話を収録。価格9680円で乱世の激闘を追体験。主要登場人物たちの成長と人間ドラマが凝縮された魅力的な内容です。'
 pubDate: '2026-08-01'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/joshin-cddvd/cabinet/023/eyba-14302-4.jpg?_ex=600x600'
+heroImage: '../../assets/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
   - title: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX [ (V.A.) ]'
@@ -32,28 +32,38 @@ mediaType: 'anime'
 
 本DVDBOXは、原作ファンにとってもアニメで追体験する喜びが深いエピソード群が凝縮されている。収録されているのは、「成&#34780;の変／著雍攻略戦／&#27600;国反乱編」の全26話。第3シリーズで合従軍との激闘を乗り越え、束の間の平穏が訪れたのも束の間、政（えい）と信（しん）の前に新たな試練が次々と立ちはだかる。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/joshin-cddvd/cabinet/023/eyba-14302-4.jpg?_ex=600x600" alt="TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80" alt="TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>TVアニメ「キングダム」第4シリーズDVDBOXが登場！「成キョウの変/著雍攻略戦/アイ国反乱編」全26話を収録。価格9680円で乱世の激闘を追体験。主要登場人物たちの成長と人間ドラマが凝縮された魅力的な内容です。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17762691%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21172858%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DTV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%E3%80%8DDVDBOX%E3%81%AF%E8%B2%B7%E3%81%86%E3%81%B9%E3%81%8D%EF%BC%9F%E6%88%90%E3%82%AD%E3%83%A7%E3%82%A6%E3%81%9F%E3%81%A1%E3%81%AE%E9%81%8B%E5%91%BD%E3%81%AB%E6%B6%99%E3%81%97%E3%81%9F%E7%90%86%E7%94%B1&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
@@ -103,6 +113,20 @@ TVアニメ「キングダム」第4シリーズは、原作の持つ深淵な�
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qco51.ve2q5440.g00qco51.ve2q63f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoshin-cddvd%2F4580055363023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoshin-cddvd%2Fi%2F11065437%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/joshin-cddvd/cabinet/023/eyba-14302-4.jpg?_ex=600x600" alt="TVアニメ「キングダム」成キョウの変/著雍攻略戦/アイ国反乱編 DVDBOX/アニメーション 画像" /></a>
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+    <div style="text-align: center;">
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 DMM TVで30日間無料体験してみる
+        </a>
+    </div>
+</div>
+
+
 ## 読者の熱狂と、向き合うべき残酷な現実
 
 『キングダム』は、その壮大なスケールと熱いドラマで、多くの読者や視聴者を魅了し続けている。Joshin web CD/DVD楽天市場店でのレビュー評価も5.0（1件）と、購入者は作品に対して高い満足度を示している。この評価は、原作の持つ力と、それを忠実に、かつアニメーションならではの迫力で表現した制作陣の努力の賜物だ。
@@ -135,33 +159,68 @@ TVアニメ「キングダム」第4シリーズのDVDBOXは、作品の世界�
 
 TVアニメ「キングダム」第4シリーズのDVDBOXは、熱い戦いと人間ドラマを、いつでも好きな時に高品位で再体験するための、価値ある選択肢である。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/joshin-cddvd/cabinet/023/eyba-14302-4.jpg?_ex=600x600" alt="TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80" alt="TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>TVアニメ「キングダム」第4シリーズDVDBOXが登場！「成キョウの変/著雍攻略戦/アイ国反乱編」全26話を収録。価格9680円で乱世の激闘を追体験。主要登場人物たちの成長と人間ドラマが凝縮された魅力的な内容です。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17762691%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21172858%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DTV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%E3%80%8DDVDBOX%E3%81%AF%E8%B2%B7%E3%81%86%E3%81%B9%E3%81%8D%EF%BC%9F%E6%88%90%E3%82%AD%E3%83%A7%E3%82%A6%E3%81%9F%E3%81%A1%E3%81%AE%E9%81%8B%E5%91%BD%E3%81%AB%E6%B6%99%E3%81%97%E3%81%9F%E7%90%86%E7%94%B1&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

@@ -2,7 +2,7 @@
 title: 「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方
 description: RPGで全滅エンドを回避した代償は、仲間の「病み」だった。『全滅エンドを死に物狂いで回避した。』は、ハッピーエンドを願う転生者と、彼に歪んだ感情を抱く少女たちのダークファンタジー。価格1078円で、DMM独占の衝撃展開を体験しよう。
 pubDate: '2026-07-21'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg
+heroImage: '../../assets/images/dying-to-avoid-bad-end-manga.jpg'
 genre: '不朽の名作・ヒューマン'
 sidebarProducts:
 - title: 全滅エンドを死に物狂いで回避した。パーティが病んだ。
@@ -32,28 +32,38 @@ RPGで「全滅エンド」を迎えた時、プレイヤーなら誰もが「�
 
 今回紹介する漫画『全滅エンドを死に物狂いで回避した。パーティが病んだ。』は、そんなプレイヤーの「もしも」を鮮烈に描き出す。主人公の善意が、かえって仲間たちの心を蝕み、依存と狂気へと変貌させていく衝撃作だ。これは単なるファンタジーではない。ハッピーエンドを追求するあまり、人間関係が歪んでいく現代社会の縮図なのかもしれない。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg" alt="「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9" alt="「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ
+                「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>RPGで全滅エンドを回避した代償は、仲間の「病み」だった。『全滅エンドを死に物狂いで回避した。』は、ハッピーエンドを願う転生者と、彼に歪んだ感情を抱く少女たちのダークファンタジー。価格1078円で、DMM独占の衝撃展開を体験しよう。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0%25E6%2584%259B%25E6%2583%2585%25E3%2581%25AE%25E8%25A1%258C%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0%25E6%2584%259B%25E6%2583%2585%25E3%2581%25AE%25E8%25A1%258C%25E6%2596%25B9%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0%25E6%2584%259B%25E6%2583%2585%25E3%2581%25AE%25E8%25A1%258C%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8C%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9%E7%8B%82%E3%81%84%E3%81%A7%E5%9B%9E%E9%81%BF%E3%81%97%E3%81%9F%E3%80%82%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%81%8C%E7%97%85%E3%82%93%E3%81%A0%E3%80%82%E3%80%8D%E3%81%8C%E6%8F%8F%E3%81%8F%E3%80%81%E8%87%AA%E5%B7%B1%E7%8A%A0%E7%89%B2%E3%81%A8%E6%AD%AA%E3%82%93%E3%81%A0%E6%84%9B%E6%83%85%E3%81%AE%E8%A1%8C%E6%96%B9&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
@@ -109,6 +119,20 @@ RPGで「全滅エンド」を迎えた時、プレイヤーなら誰もが「�
 
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4561256%2Fb000ehftx83614%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg" alt="全滅エンドを死に物狂いで回避した 画像" /></a>
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+    <div style="text-align: center;">
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 DMM TVで30日間無料体験してみる
+        </a>
+    </div>
+</div>
+
+
 ## 賛否両論を呼ぶ深淵：向き不向きを見極める
 
 『全滅エンドを死に物狂いで回避した。パーティが病んだ。』は、その衝撃的な内容から、読者の間で様々な感想が飛び交っている。特に多いのは、「こんな展開になるとは思わなかった」「胃がキリキリするけど、読むのをやめられない」といった、心のざわつきを表現する声だ。一部の読者からは、「主人公の善意がこんな結果になるなんて、切ない」「キャラクターたちが可哀想で見ていられない」といった、登場人物たちへの共感や同情の声も聞かれる。しかし、その一方で、「このダークさがたまらない」「人間の心の闇をここまで描く作品は珍しい」と、作品の方向性を高く評価する声も多い。
@@ -128,39 +152,74 @@ RPGで「全滅エンド」を迎えた時、プレイヤーなら誰もが「�
 
 ## 電子書籍で深まる、歪んだ愛の物語
 
-こんなにも心を抉られるような物語を、筆者がどのように楽しんだか。それは、やはり電子書籍の利便性抜きには語れない。通勤電車の中、あるいは布団の中で、スマホ一つで『全滅エンドを死に物狂いで回避した。パーティが病んだ。』の世界に没頭できるのは、まさに現代ならではの贅沢だ。紙媒体だと、これほどダークな内容を公共の場で読むのは少々憚られるかもしれない。しかし、電子書籍なら人目を気にせず、作品の世界観にどっぷりと浸れる。
+こんなにも心を抉られるような物語を、筆者がどのように楽しんだか。それは、やはり[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の利便性抜きには語れない。通勤電車の中、あるいは布団の中で、スマホ一つで『全滅エンドを死に物狂いで回避した。パーティが病んだ。』の世界に没頭できるのは、まさに現代ならではの贅沢だ。紙媒体だと、これほどダークな内容を公共の場で読むのは少々憚られるかもしれない。しかし、電子書籍なら人目を気にせず、作品の世界観にどっぷりと浸れる。
 
 特に、この作品のように続きが気になって仕方がない物語は、全巻一気読みできる電子書籍が最適だ。次の巻を待つ間に、キャラクターたちの心の病が進行していく様子を忘れてしまうのはもったいない。DMMブックスなら、手軽に次の巻を購入し、すぐに読み進めることができる。一度読み始めたら止まらない、そんな中毒性のある作品だからこそ、物理的な制約なく、心の赴くままに読み進められる環境は非常に重要だ。
 
 DMMブックスでは、[全滅エンドを死に物狂いで回避した。パーティが病んだ。](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4561256%2Fb000ehftx83614%2F&af_id=DMMaria-999&ch=api)を1,078円で読むことができる。この価格で、これほどまでに奥深く、そして衝撃的な物語を体験できるのは、かなりお得だと筆者は考える。また、DMMブックスは定期的にキャンペーンやセールを実施しているので、それらを活用すれば、さらにお得に作品を楽しむことも可能だ。試し読みで作品の世界観に触れてみるのも良いだろう。読み始めると、きっとそのダークな魅力に囚われ、全巻揃えたくなるはずだ。紙の書籍のように保管場所を気にすることなく、好きな時に好きなだけ作品の世界に浸れる。この便利さは、一度体験すると手放せないものだ。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg" alt="「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9" alt="「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ
+                「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>RPGで全滅エンドを回避した代償は、仲間の「病み」だった。『全滅エンドを死に物狂いで回避した。』は、ハッピーエンドを願う転生者と、彼に歪んだ感情を抱く少女たちのダークファンタジー。価格1078円で、DMM独占の衝撃展開を体験しよう。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0%25E6%2584%259B%25E6%2583%2585%25E3%2581%25AE%25E8%25A1%258C%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0%25E6%2584%259B%25E6%2583%2585%25E3%2581%25AE%25E8%25A1%258C%25E6%2596%25B9%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2581%258C%25E7%2597%2585%25E3%2582%2593%25E3%2581%25A0%25E3%2580%2582%25E3%2580%258D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E3%2580%2581%25E8%2587%25AA%25E5%25B7%25B1%25E7%258A%25A0%25E7%2589%25B2%25E3%2581%25A8%25E6%25AD%25AA%25E3%2582%2593%25E3%2581%25A0%25E6%2584%259B%25E6%2583%2585%25E3%2581%25AE%25E8%25A1%258C%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8C%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9%E7%8B%82%E3%81%84%E3%81%A7%E5%9B%9E%E9%81%BF%E3%81%97%E3%81%9F%E3%80%82%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%81%8C%E7%97%85%E3%82%93%E3%81%A0%E3%80%82%E3%80%8D%E3%81%8C%E6%8F%8F%E3%81%8F%E3%80%81%E8%87%AA%E5%B7%B1%E7%8A%A0%E7%89%B2%E3%81%A8%E6%AD%AA%E3%82%93%E3%81%A0%E6%84%9B%E6%83%85%E3%81%AE%E8%A1%8C%E6%96%B9&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

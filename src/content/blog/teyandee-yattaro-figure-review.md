@@ -2,7 +2,7 @@
 title: '『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力'
 description: '90年代の名作『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンのフィギュアを徹底レビュー。痛快ギャグとメカバトルの魅力を紐解きます。'
 pubDate: '2026-07-26'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg
+heroImage: '../../assets/images/teyandee-yattaro-figure-review.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
 - title: BP028 ヤッ太郎＆トリツックン
@@ -32,17 +32,23 @@ mediaType: 'figure'
 
 本記事では、世代を超えて愛される『ヤッターマン』の普遍的な魅力、その背景にある思想、そして作品世界をより深く楽しむための関連アイテムについて、徹底的に深掘りしていく。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg" alt="『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8E%E3%82%AD%E3%83%A3%E3%83%83%E5%85%9A%E5%BF%8D%E4%BC%9D%E3%81%A6%E3%82%84%E3%82%93" alt="『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>90年代の名作『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンのフィギュアを徹底レビュー。痛快ギャグとメカバトルの魅力を紐解きます。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%25E3%2580%258F%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%258C%25E6%2594%25BE%25E3%2581%25A490%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2583%25AD%25E3%2583%259C%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2581%25AE%25E9%25AD%2585%25E5%258A%259B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
@@ -54,6 +60,10 @@ mediaType: 'figure'
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8E%E3%82%AD%E3%83%A3%E3%83%83%E5%85%9A%E5%BF%8D%E4%BC%9D%E3%81%A6%E3%82%84%E3%82%93%E3%81%A7%E3%81%88%E3%80%8F%E3%83%A4%E3%83%83%E5%A4%AA%E9%83%8E%EF%BC%86%E3%83%88%E3%83%AA%E3%83%84%E3%83%83%E3%82%AF%E3%83%B3%E3%81%8C%E6%94%BE%E3%81%A490%E5%B9%B4%E4%BB%A3%E3%83%AD%E3%83%9C%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AE%E9%AD%85%E5%8A%9B&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
@@ -111,6 +121,20 @@ mediaType: 'figure'
 
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg" alt="BP028 ヤッ太郎＆トリツックン 画像" /></a>
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+    <div style="text-align: center;">
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 DMM TVで30日間無料体験してみる
+        </a>
+    </div>
+</div>
+
+
 ## 今だからこそ再評価したい、古き良きアニメーションの醍醐味
 
 『ヤッターマン』は、間違いなく日本のギャグアニメ史に名を刻む名作だ。しかし、現代の視点で見ると、その演出や描写には「古さ」を感じる部分があるのも事実だ。特に、ドロンボー一味への「おしおき」描写は、現在の基準で見ると少し過激に感じる人もいるかもしれない。ワニの池に放り込まれたり、火あぶりにされたりといった描写は、当時のアニメーション表現としては一般的だったが、感受性の高い現代の子供たちには不適切だと感じる保護者もいるだろう。
@@ -144,17 +168,23 @@ mediaType: 'figure'
 
 お気に入りのキャラクターやメカをデスクに飾ったり、コレクションケースに並べたりすることで、日々の生活の中に『ヤッターマン』の世界を創造できる。手のひらに収まるサイズ感から、細部までこだわり抜かれたハイクオリティモデルまで、様々なスケールや価格帯のアイテムが存在する。自宅のスペースや予算に合わせて、自分だけのコレクションを「ポチッとな」と始めてみるのも良いだろう。実際に手に取り、その造形を多角的に鑑賞する時間は、作品への愛着をさらに深める体験となるはずだ。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b350eftdb43500/b350eftdb43500pl.jpg" alt="『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8E%E3%82%AD%E3%83%A3%E3%83%83%E5%85%9A%E5%BF%8D%E4%BC%9D%E3%81%A6%E3%82%84%E3%82%93" alt="『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>90年代の名作『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンのフィギュアを徹底レビュー。痛快ギャグとメカバトルの魅力を紐解きます。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%25E3%2580%258F%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%258C%25E6%2594%25BE%25E3%2581%25A490%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2583%25AD%25E3%2583%259C%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2581%25AE%25E9%25AD%2585%25E5%258A%259B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
@@ -166,11 +196,40 @@ mediaType: 'figure'
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8E%E3%82%AD%E3%83%A3%E3%83%83%E5%85%9A%E5%BF%8D%E4%BC%9D%E3%81%A6%E3%82%84%E3%82%93%E3%81%A7%E3%81%88%E3%80%8F%E3%83%A4%E3%83%83%E5%A4%AA%E9%83%8E%EF%BC%86%E3%83%88%E3%83%AA%E3%83%84%E3%83%83%E3%82%AF%E3%83%B3%E3%81%8C%E6%94%BE%E3%81%A490%E5%B9%B4%E4%BB%A3%E3%83%AD%E3%83%9C%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AE%E9%AD%85%E5%8A%9B&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

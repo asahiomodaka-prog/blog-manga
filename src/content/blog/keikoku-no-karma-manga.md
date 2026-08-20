@@ -2,7 +2,7 @@
 title: '『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀'
 description: '12世紀イングランドを舞台に、運命に抗い女王として生きた女性を描く『傾国のカルマ』。激動の時代、血筋や性別に翻弄されながらも尊厳と誇りを守り抜く物語を徹底解説。'
 pubDate: '2026-07-22'
-heroImage: https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg
+heroImage: '../../assets/images/keikoku-no-karma-manga.jpg'
 genre: 'サスペンス・ミステリー'
 sidebarProducts:
 - title: 傾国のカルマ（単話）
@@ -28,17 +28,23 @@ mediaType: 'comic'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg" alt="『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8E%E5%82%BE%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%9E%E3%80%8F%E3%81%8C%E6%8F%8F" alt="『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>12世紀イングランドを舞台に、運命に抗い女王として生きた女性を描く『傾国のカルマ』。激動の時代、血筋や性別に翻弄されながらも尊厳と誇りを守り抜く物語を徹底解説。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
@@ -50,6 +56,10 @@ mediaType: 'comic'
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8E%E5%82%BE%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%9E%E3%80%8F%E3%81%8C%E6%8F%8F%E3%81%8F%E6%84%9B%E6%86%8E%E5%8A%87%E3%81%AE%E6%9E%9C%E3%81%A6%EF%BC%81%E9%81%8B%E5%91%BD%E3%81%AB%E6%8A%97%E3%81%86%E5%A5%B3%E7%8E%8B%E3%81%AE%E9%AD%82%E3%81%A8%E6%BF%80%E5%8B%95%E3%81%AE12%E4%B8%96%E7%B4%80&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
@@ -87,6 +97,20 @@ mediaType: 'comic'
 
 <img src="https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg" alt="傾国のカルマ" />
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+    <div style="text-align: center;">
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 DMM TVで30日間無料体験してみる
+        </a>
+    </div>
+</div>
+
+
 ## 魂を揺さぶる女王の覚悟と人間ドラマ
 
 『傾国のカルマ』を読み進める上で、読者の心を最も強く引き込むのは、やはり主要キャラクターたちの心の葛藤と、彼らが織りなす人間関係の深さである。特に主人公の女王は、単なる理想の君主として描かれているわけではない。彼女は、王としての責任と、一人の人間としての感情の間で常に揺れ動いている。愛する者との別れ、信頼していた者からの裏切り、そして常に死と隣り合わせの権力闘争。その一つ一つが、彼女の心に深い傷を刻み、しかし同時に、彼女をより強く、より賢明な女王へと成長させていくのだ。
@@ -116,7 +140,7 @@ mediaType: 'comic'
 
 ## 電子書籍で堪能する歴史の息吹と一気読みの利便性
 
-通勤電車のわずかな隙間時間や、休日のカフェでのんびりと過ごす時間。そんな日常のふとした瞬間に、遥か昔の物語に没頭できるのが、電子書籍の大きなメリットだ。この『傾国のカルマ』も、電子書籍で読むことで、その利便性を最大限に享受できる作品である。壮大な歴史ドラマを一気読みできるため、その没入感は格別だ。
+通勤電車のわずかな隙間時間や、休日のカフェでのんびりと過ごす時間。そんな日常のふとした瞬間に、遥か昔の物語に没頭できるのが、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の大きなメリットだ。この『傾国のカルマ』も、電子書籍で読むことで、その利便性を最大限に享受できる作品である。壮大な歴史ドラマを一気読みできるため、その没入感は格別だ。
 
 全巻を揃えるとなると、それなりの収納スペースが必要になるが、電子書籍ならその心配は無用。いつでもどこでも、スマートフォンやタブレット一つで、12世紀イングランドの宮廷を舞台にした壮大な物語の世界に飛び込むことができる。夜中にふと読み返したくなった際に、すぐに続きを読み始められるのは、電子書籍ならではの大きな魅力だ。
 
@@ -124,17 +148,23 @@ mediaType: 'comic'
 
 現在、[傾国のカルマ](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190445%2Fs174apups00563%2F&af_id=DMMaria-999&ch=api)はDMMブックスで詳細を確認できる。歴史に名を刻んだ女王の物語を、この機会に体験してみてはいかがだろうか。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://ebook-assets.dmm.com/digital/e-book/b600zsgk39303/b600zsgk39303pl.jpg" alt="『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8E%E5%82%BE%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%9E%E3%80%8F%E3%81%8C%E6%8F%8F" alt="『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>12世紀イングランドを舞台に、運命に抗い女王として生きた女性を描く『傾国のカルマ』。激動の時代、血筋や性別に翻弄されながらも尊厳と誇りを守り抜く物語を徹底解説。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258E%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E%25E3%2580%258F%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E6%2584%259B%25E6%2586%258E%25E5%258A%2587%25E3%2581%25AE%25E6%259E%259C%25E3%2581%25A6%25EF%25BC%2581%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%258A%2597%25E3%2581%2586%25E5%25A5%25B3%25E7%258E%258B%25E3%2581%25AE%25E9%25AD%2582%25E3%2581%25A8%25E6%25BF%2580%25E5%258B%2595%25E3%2581%25AE12%25E4%25B8%2596%25E7%25B4%2580" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
@@ -146,11 +176,40 @@ mediaType: 'comic'
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8E%E5%82%BE%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%9E%E3%80%8F%E3%81%8C%E6%8F%8F%E3%81%8F%E6%84%9B%E6%86%8E%E5%8A%87%E3%81%AE%E6%9E%9C%E3%81%A6%EF%BC%81%E9%81%8B%E5%91%BD%E3%81%AB%E6%8A%97%E3%81%86%E5%A5%B3%E7%8E%8B%E3%81%AE%E9%AD%82%E3%81%A8%E6%BF%80%E5%8B%95%E3%81%AE12%E4%B8%96%E7%B4%80&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

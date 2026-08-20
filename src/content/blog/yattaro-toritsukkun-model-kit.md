@@ -2,7 +2,7 @@
 title: 'BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー'
 description: '『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」プラモデルキットを徹底レビュー。懐かしのキャラクターが手のひらサイズで蘇る愛らしい造形と魅力を解説。'
 pubDate: '2026-07-12'
-heroImage: https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg
+heroImage: '../../assets/images/yattaro-toritsukkun-model-kit.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
 - title: BP028 ヤッ太郎＆トリツックン
@@ -25,7 +25,7 @@ mediaType: 'figure'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
-『ヤッ太郎＆トリツックン』は、多くのファンに愛され続ける不朽の名作だ。今回紹介する[BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)のフィギュアは、その愛らしい姿で、作品が持つ普遍的な魅力とノスタルジーを凝縮している。このフィギュアをデスクに飾ることは、日々の喧騒から離れ、純粋な物語の喜びに浸るための小さな入り口となるだろう。作品を知る者ならば、その名を聞くだけで胸の奥が熱くなるはずだ。未だ触れたことのない読者には、ぜひこの機会に、その魅力の一端に触れてほしい。
+『ヤッ太郎＆トリツックン』は、多くのファンに愛され続ける不朽の名作だ。今回紹介する[BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)の[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2)は、その愛らしい姿で、作品が持つ普遍的な魅力とノスタルジーを凝縮している。このフィギュアをデスクに飾ることは、日々の喧騒から離れ、純粋な物語の喜びに浸るための小さな入り口となるだろう。作品を知る者ならば、その名を聞くだけで胸の奥が熱くなるはずだ。未だ触れたことのない読者には、ぜひこの機会に、その魅力の一端に触れてほしい。
 
 ### 不朽の冒険譚が今、蘇る！BP028 ヤッ太郎＆トリツックンとの出会い
 
@@ -86,34 +86,43 @@ mediaType: 'figure'
 
 名作『ヤッ太郎＆トリツックン』を、より深く身近に感じるための素晴らしいアイテムが、今回紹介するフィギュアだ。[BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)のフィギュアをデスクの片隅に飾っておけば、ふとした瞬間に視線が向き、あの頃のワクワクした気持ちが蘇ってくるだろう。物理的なフィギュアとしてその存在を感じることは、作品への「好き」という感情を最大限に高めてくれる。
 
-価格は6,622円と、決して安価ではないかもしれない。しかし、この愛らしい姿を目の当たりにすれば、その価値を十分に感じられるはずだ。手軽に飾れる人気シリーズで、精巧に作られたフィギュアは、作品への深い愛情を形にするのにこれ以上ない方法である。ヤッ太郎の力強い表情や、トリツックンのコミカルな動き、そしてキャラクターデザインを忠実に再現した彩色など、見飽きることがない。ディテールへのこだわりは、ファンならば誰もが納得する仕上がりだろう。もし作品を深く知りたければ、電子書籍版も活用し、タブレットやスマートフォンでいつでも物語の世界に浸ることができる。このフィギュアは、私たちの生活の中に、そっと彩りを添えてくれる、そんな存在となるだろう。
+価格は6,622円と、決して安価ではないかもしれない。しかし、この愛らしい姿を目の当たりにすれば、その価値を十分に感じられるはずだ。手軽に飾れる人気シリーズで、精巧に作られたフィギュアは、作品への深い愛情を形にするのにこれ以上ない方法である。ヤッ太郎の力強い表情や、トリツックンのコミカルな動き、そしてキャラクターデザインを忠実に再現した彩色など、見飽きることがない。ディテールへのこだわりは、ファンならば誰もが納得する仕上がりだろう。もし作品を深く知りたければ、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)版も活用し、タブレットやスマートフォンでいつでも物語の世界に浸ることができる。このフィギュアは、私たちの生活の中に、そっと彩りを添えてくれる、そんな存在となるだろう。
 
 ### 記憶に残る冒険の物語を、あなたのそばに
 
 BP028 ヤッ太郎＆トリツックンのフィギュアは、単なる飾り物ではない。作品への敬意と、キャラクターへの愛情が込められた造形は、ファンにとってまさに特別な存在となるだろう。日々の生活に彩りを添えたい、あるいは懐かしの名作を身近に感じたいと考えるならば、このフィギュアは有力な選択肢となる。手に取れば、きっとあの頃の感動が蘇り、ヤッ太郎とトリツックンが織りなす冒険の世界へと誘われるはずだ。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg" alt="BP028 ヤッ太郎＆トリツックン" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=BP028%20%E3%83%A4%E3%83%83%E5%A4%AA%E9%83%8E" alt="BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                BP028 ヤッ太郎＆トリツックン
+                BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」プラモデルキットを徹底レビュー。懐かしのキャラクターが手のひらサイズで蘇る愛らしい造形と魅力を解説。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E3%2583%258E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25AB%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E3%2583%258E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25AB%25E3%2582%25B8%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E3%2583%258E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25AB%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBP028%20%E3%83%A4%E3%83%83%E5%A4%AA%E9%83%8E%EF%BC%86%E3%83%88%E3%83%AA%E3%83%84%E3%83%83%E3%82%AF%E3%83%B3%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%EF%BC%81%E3%81%82%E3%81%AE%E9%A0%83%E3%81%AE%E7%86%B1%E7%8B%82%E3%81%A8%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%83%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
@@ -121,4 +130,42 @@ BP028 ヤッ太郎＆トリツックンのフィギュアは、単なる飾り�
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
 </div>
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+    <div style="text-align: center;">
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 DMM TVで30日間無料体験してみる
+        </a>
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
 

@@ -2,7 +2,7 @@
 title: 夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を
 description: 『マンガで世界名作 名探偵シャーロック・ホームズ』は楽天やdmmで1320円。古典が苦手でも漫画で気軽に名推理を追体験！ヴィクトリア朝ロンドンを舞台に、緻密な事件の謎を鮮やかな絵で楽しめます。夜更かししてでも読みたい一冊。
 pubDate: '2026-07-05'
-heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=600x600
+heroImage: '../../assets/images/classic-sherlock-holmes-manga.jpg'
 genre: 'サスペンス・ミステリー'
 mediaType: 'comic'
 ---
@@ -12,17 +12,23 @@ mediaType: 'comic'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=600x600" alt="夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E5%BF%85%E8%AA%AD%EF%BC%81%E3%80%8E%E3%83%9E%E3%83%B3" alt="夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『マンガで世界名作 名探偵シャーロック・ホームズ』は楽天やdmmで1320円。古典が苦手でも漫画で気軽に名推理を追体験！ヴィクトリア朝ロンドンを舞台に、緻密な事件の謎を鮮やかな絵で楽しめます。夜更かししてでも読みたい一冊。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
@@ -34,6 +40,10 @@ mediaType: 'comic'
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E5%BF%85%E8%AA%AD%EF%BC%81%E3%80%8E%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E4%B8%96%E7%95%8C%E5%90%8D%E4%BD%9C%20%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E3%80%8F%E3%81%A7%E3%80%81%E5%90%8D%E6%8E%A8%E7%90%86%E3%81%AE%E5%A4%9C%E3%82%92&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
@@ -71,6 +81,20 @@ mediaType: 'comic'
 
 さらに、ホームズのキャラクター自体にも、深い哲学的要素が隠されている。彼は卓越した知性を持つがゆえに、一般的な社会生活に馴染めず、時に奇人変人として扱われる。彼の孤独、そして唯一の友人であるワトソンとの関係性は、天才と凡人、論理と感情といった対立軸を通じて、人間の本質とは何か、友情とは何かという問いを投げかけているかのようだ。本漫画は、ホームズのそうした内面的な葛藤や、彼が事件を通じて見つめる人間の業を、繊細な筆致で描き出している。僕たちがこの作品から受け取るのは、単なる謎解きの快感だけではない。人間という存在の深淵を覗き込み、倫理観や正義とは何かを考えさせられる、そんな思索の時間を与えてくれるだろう。
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+    <div style="text-align: center;">
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 DMM TVで30日間無料体験してみる
+        </a>
+    </div>
+</div>
+
+
 ## 論理と情熱が交錯する人間ドラマ
 
 シャーロック・ホームズの物語を語る上で、外せないのが個性豊かな登場人物たち、特にホームズとワトソン博士の関係性である。この漫画版でも、彼らの心の機微や、互いへの信頼が丁寧に描かれており、多くの読者が胸を熱くする瞬間がある。
@@ -103,7 +127,7 @@ mediaType: 'comic'
 | :--- | :--- |
 | 商品名 | 夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を |
 
-## 隙間時間で名推理！電子書籍のスマートな活用術
+## 隙間時間で名推理！[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)のスマートな活用術
 
 「この傑作を読みたいけれど、紙媒体の収納場所がない」と感じる漫画好きも少なくないだろう。紙媒体の漫画には、もちろん独特の魅力がある。ページをめくる感触、インクの匂い、本棚に並んだ時の満足感。しかし、現代の生活スタイルを考えると、電子書籍が提供してくれる利便性は、もはや無視できないものがある。特に『[夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を](https://book.dmm.com/)』のような、全巻一気読みしたくなる作品の場合、電子書籍は有効な選択肢と言える。
 
@@ -113,17 +137,23 @@ mediaType: 'comic'
 
 さらに、電子書籍ストアでは、定期的にセールやポイント還元キャンペーンが開催されていることが多い。筆者もよくそういった機会を利用して、気になっていた作品をまとめ買いしている。定価1320円の本作品も、キャンペーン期間中ならさらにお得に購入できる可能性があるから、ぜひ[DMMブックス](https://book.dmm.com/)などのサイトを定期的にチェックしてみることをお勧めする。積み重なる書籍に悩まされず、スマートに、そしてお得に、不朽の名作の世界を堪能してほしい。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=600x600" alt="夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E5%BF%85%E8%AA%AD%EF%BC%81%E3%80%8E%E3%83%9E%E3%83%B3" alt="夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>『マンガで世界名作 名探偵シャーロック・ホームズ』は楽天やdmmで1320円。古典が苦手でも漫画で気軽に名推理を追体験！ヴィクトリア朝ロンドンを舞台に、緻密な事件の謎を鮮やかな絵で楽しめます。夜更かししてでも読みたい一冊。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
@@ -135,11 +165,40 @@ mediaType: 'comic'
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E5%BF%85%E8%AA%AD%EF%BC%81%E3%80%8E%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E4%B8%96%E7%95%8C%E5%90%8D%E4%BD%9C%20%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E3%80%8F%E3%81%A7%E3%80%81%E5%90%8D%E6%8E%A8%E7%90%86%E3%81%AE%E5%A4%9C%E3%82%92&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

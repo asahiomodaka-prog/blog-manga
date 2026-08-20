@@ -2,7 +2,7 @@
 title: 'メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー'
 description: 'SFアニメ「メタリックルージュ Blu-ray BOX」で、ボンズが描く世界観を最高画質・音質で再体験。人造人間ネアンの深い哲学と迫力のアクションを、自宅で心ゆくまで堪能できる決定版コレクション。'
 pubDate: '2026-08-12'
-heroImage: 'https://pics.dmm.com/mono/movie/animation/n_820gabs2744/n_820gabs2744pt.jpg'
+heroImage: '../../assets/images/metallic-rouge-blu-ray-box.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
   - title: 'ひそねとまそたん Blu-ray BOX 発動篇 （特装版 ブルーレイディスク）'
@@ -25,28 +25,38 @@ mediaType: 'anime'
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://pics.dmm.com/mono/movie/animation/n_820gabs2744/n_820gabs2744pt.jpg" alt="メタリックルージュ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20" alt="メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                メタリックルージュ
+                メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>SFアニメ「メタリックルージュ Blu-ray BOX」で、ボンズが描く世界観を最高画質・音質で再体験。人造人間ネアンの深い哲学と迫力のアクションを、自宅で心ゆくまで堪能できる決定版コレクション。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2520BD-BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25A7%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E7%259C%259F%25E9%25AB%2584%25E3%2582%2592%25E6%258E%2598%25E3%2582%258A%25E4%25B8%258B%25E3%2581%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2520BD-BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25A7%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E7%259C%259F%25E9%25AB%2584%25E3%2582%2592%25E6%258E%2598%25E3%2582%258A%25E4%25B8%258B%25E3%2581%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2520BD-BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25A7%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E7%259C%259F%25E9%25AB%2584%25E3%2582%2592%25E6%258E%2598%25E3%2582%258A%25E4%25B8%258B%25E3%2581%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20BD-BOX%E3%81%AF%E8%B2%B7%E3%81%84%E3%81%8B%EF%BC%9F%E6%98%A0%E5%83%8F%E3%81%A8%E9%9F%B3%E9%9F%BF%E3%81%A7%E4%BD%9C%E5%93%81%E3%81%AE%E7%9C%9F%E9%AB%84%E3%82%92%E6%8E%98%E3%82%8A%E4%B8%8B%E3%81%92%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
@@ -56,7 +66,7 @@ mediaType: 'anime'
 </div>
 
 
-## 灼熱のネオンに揺れる魂、再降臨。メタリックルージュBlu-ray BOXの価値
+## 灼熱のネオンに揺れる魂、再降臨。メタリックルージュ[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray) BOXの価値
 
 「メタリックルージュ」は、SFアニメーションの金字塔を打ち立ててきたボンズが手がける意欲作だ。人類が火星へ移住し、人造人間「ネアン」と共存する世界を舞台に、深い哲学と目を見張るアクションが融合した本作は、多くの視聴者の心を捉えた。このBlu-ray BOXは、その緻密な世界観、美麗な映像、そして心を揺さぶる人間ドラマを最高画質・最高音質で再体験するための、ファンにとっての決定版コレクションである。特に、SF設定の奥深さや、キャラクターの内面に深く切り込んだ描写に魅力を感じるならば、このアイテムは作品への理解と没入感を格段に高めてくれるだろう。
 
@@ -88,6 +98,20 @@ mediaType: 'anime'
 
 「メタリックルージュ」は、SFというジャンルを通じて、アイデンティティ、自由、そして生命の尊厳といった普遍的なテーマを深く掘り下げた、非常に示唆に富んだ作品である。このBlu-ray BOXで、細部まで作り込まれた映像と音響を体験することで、作品が持つメッセージをより鮮烈に感じ取ることができるだろう。
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+    <div style="text-align: center;">
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 DMM TVで30日間無料体験してみる
+        </a>
+    </div>
+</div>
+
+
 ## 手元に置くことの特別感：高画質で味わう物語の余韻
 
 「メタリックルージュ Blu-ray BOX」を所有する喜びは、単に作品を高画質で鑑賞できるというだけにとどまらない。それは、作品への深い愛着と、それをいつでも手元で確かめられるという物理メディアならではの安心感に直結する。
@@ -114,7 +138,7 @@ mediaType: 'anime'
 
 この価格をどう捉えるかは、人それぞれの作品への愛着度や、コレクションに対する価値観によって大きく異なるだろう。特定の作品を繰り返し見返し、細部まで掘り下げて楽しみたい、あるいは「モノ」として手元に置いておきたいと考えるコレクターにとっては、決して高すぎる金額ではない。むしろ、作品のクオリティや特典内容を考えれば、妥当な投資と感じられる可能性もある。
 
-次に、**設置場所**も考慮すべき点である。Blu-ray BOXはコンパクトに作られているとはいえ、それなりのスペースを占める。特に、他のアニメ作品のBOXやフィギュアなどもコレクションしている場合は、既存の棚に収まるか、新たなスペースを確保する必要があるかもしれない。パッケージデザインが洗練されているだけに、安易に積み重ねるのではなく、飾るように収納したいという欲求も出てくるものだ。
+次に、**設置場所**も考慮すべき点である。Blu-ray BOXはコンパクトに作られているとはいえ、それなりのスペースを占める。特に、他のアニメ作品のBOXや[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2)などもコレクションしている場合は、既存の棚に収まるか、新たなスペースを確保する必要があるかもしれない。パッケージデザインが洗練されているだけに、安易に積み重ねるのではなく、飾るように収納したいという欲求も出てくるものだ。
 
 また、ディスクという媒体である以上、**お手入れ**も必要となる。指紋やホコリがつかないように丁寧に扱い、直射日光が当たらず温度変化の少ない場所に保管することが、長期的にコレクションの品質を保つ上で重要である。
 
@@ -131,33 +155,68 @@ mediaType: 'anime'
 
 ---
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://pics.dmm.com/mono/movie/animation/n_820gabs2744/n_820gabs2744pt.jpg" alt="メタリックルージュ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20" alt="メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                メタリックルージュ
+                メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>SFアニメ「メタリックルージュ Blu-ray BOX」で、ボンズが描く世界観を最高画質・音質で再体験。人造人間ネアンの深い哲学と迫力のアクションを、自宅で心ゆくまで堪能できる決定版コレクション。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2520BD-BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25A7%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E7%259C%259F%25E9%25AB%2584%25E3%2582%2592%25E6%258E%2598%25E3%2582%258A%25E4%25B8%258B%25E3%2581%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2520BD-BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25A7%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E7%259C%259F%25E9%25AB%2584%25E3%2582%2592%25E6%258E%2598%25E3%2582%258A%25E4%25B8%258B%25E3%2581%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%2520BD-BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25A7%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E7%259C%259F%25E9%25AB%2584%25E3%2582%2592%25E6%258E%2598%25E3%2582%258A%25E4%25B8%258B%25E3%2581%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
+        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%20BD-BOX%E3%81%AF%E8%B2%B7%E3%81%84%E3%81%8B%EF%BC%9F%E6%98%A0%E5%83%8F%E3%81%A8%E9%9F%B3%E9%9F%BF%E3%81%A7%E4%BD%9C%E5%93%81%E3%81%AE%E7%9C%9F%E9%AB%84%E3%82%92%E6%8E%98%E3%82%8A%E4%B8%8B%E3%81%92%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
+            📘 DMMブックスで探す
+        </a>
+        
             </div>
         </div>
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 
