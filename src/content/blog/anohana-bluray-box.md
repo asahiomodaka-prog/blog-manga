@@ -2,7 +2,7 @@
 title: '『あの花 Blu-ray BOX』感動の音響と映像美！作品世界を完全再現するクオリティ'
 description: '『あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX』で感動を再体験。高精細な映像と臨場感ある音響、特典映像も充実。DMMで19635円。あの夏の記憶が鮮やかに蘇る、ファン必携のコレクターズアイテムです。'
 pubDate: '2026-08-19'
-heroImage: '/images/anohana-bluray-box.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
 genre: 'manga'
 mediaType: 'anime'
 faq:
@@ -13,10 +13,9 @@ faq:
   - question: 'Blu-ray BOXの価格が少し高く感じますが、購入する価値はありますか？'
     answer: '価格は確かに安くはありませんが、作品への思い入れや視聴スタイルによってその価値は大きく変わると考えられます。最高の画質・音質で作品を何度も楽しみたい、特典映像やブックレットを通して作品世界を深く知りたい、そして作品への愛を形として手元に置いておきたいという強い気持ちがあるなら、その価格以上の感動と満足感を得られるはずです。単なる視聴媒体としてではなく、作品があなたの心に残した大切な記憶を具現化した「コレクション」として捉えれば、十分に購入する価値は見出せるでしょう。筆者にとっては、深い愛着を持つ特別なコレクションとなっています。   </div>'
 sidebarProducts:
-  - title: 'あの日見た花の名前を僕達はまだ知らない。10years after BOX（完全生産限定） （ブルーレイディスク）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx15901%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pt.jpg'
-    price: 22770
+  - title: 'あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX'
+    url: ''
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
     microCopy: '詳細を見る'
   - title: 'あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX （完全生産限定版 ブルーレイディスク）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx6621%2F&af_id=DMMaria-999&ch=api'
@@ -46,17 +45,17 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pt.jpg" alt="感動の音響と映像美" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg" alt="あの日見た花の名前を僕達はまだ知らない。" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">感動の音響と映像美</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">あの日見た花の名前を僕達はまだ知らない。</h4>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(125px, 1fr)); gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E6%84%9F%E5%8B%95%E3%81%AE%E9%9F%B3%E9%9F%BF%E3%81%A8%E6%98%A0%E5%83%8F%E7%BE%8E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%84%9F%E5%8B%95%E3%81%AE%E9%9F%B3%E9%9F%BF%E3%81%A8%E6%98%A0%E5%83%8F%E7%BE%8E%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://shopping.yahoo.co.jp/search?p=%E6%84%9F%E5%8B%95%E3%81%AE%E9%9F%B3%E9%9F%BF%E3%81%A8%E6%98%A0%E5%83%8F%E7%BE%8E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E6%84%9F%E5%8B%95%E3%81%AE%E9%9F%B3%E9%9F%BF%E3%81%A8%E6%98%A0%E5%83%8F%E7%BE%8E&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMブックス</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%81%82%E3%81%AE%E6%97%A5%E8%A6%8B%E3%81%9F%E8%8A%B1%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E5%83%95%E9%81%94%E3%81%AF%E3%81%BE%E3%81%A0%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%80%82" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%82%E3%81%AE%E6%97%A5%E8%A6%8B%E3%81%9F%E8%8A%B1%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E5%83%95%E9%81%94%E3%81%AF%E3%81%BE%E3%81%A0%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%80%82%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E3%81%82%E3%81%AE%E6%97%A5%E8%A6%8B%E3%81%9F%E8%8A%B1%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E5%83%95%E9%81%94%E3%81%AF%E3%81%BE%E3%81%A0%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%80%82" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%81%82%E3%81%AE%E6%97%A5%E8%A6%8B%E3%81%9F%E8%8A%B1%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E5%83%95%E9%81%94%E3%81%AF%E3%81%BE%E3%81%A0%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%80%82&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMブックス</a>
 </div>
 </div>
 </div>

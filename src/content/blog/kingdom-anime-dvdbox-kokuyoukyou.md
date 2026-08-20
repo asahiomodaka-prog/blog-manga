@@ -2,13 +2,12 @@
 title: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX！乱世を駆け抜ける戦士たちの叙事詩'
 description: 'TVアニメ「キングダム」黒羊丘の戦い DVDBOX。春秋戦国時代の中国を舞台に、天下統一を目指す少年・信と若き王・嬴政の熱き戦いを描く。特典満載のDVDBOXを徹底解説。'
 pubDate: '2026-07-26'
-heroImage: '/images/kingdom-anime-dvdbox-kokuyoukyou.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
 genre: 'バトル・アクション'
 sidebarProducts:
   - title: 'TVアニメ「キングダム」黒羊丘の戦い Blu-ray BOX'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17762691%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21160352%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6486/4580055364860.jpg?_ex=600x600'
-    price: 26400
+    url: ''
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
     microCopy: '詳細を見る'
   - title: 'TVアニメ「キングダム」合従軍編 Blu-ray BOX'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16682974%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20325492%2F'
@@ -39,17 +38,17 @@ mediaType: 'anime'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6486/4580055364860.jpg?_ex=600x600" alt="TVアニメ 黒羊丘の戦い DVDBOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg" alt="TVアニメ 黒羊丘の戦い Blu-ray" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">TVアニメ 黒羊丘の戦い DVDBOX</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">TVアニメ 黒羊丘の戦い Blu-ray</h4>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(125px, 1fr)); gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=TV%E3%82%A2%E3%83%8B%E3%83%A1%20%E9%BB%92%E7%BE%8A%E4%B8%98%E3%81%AE%E6%88%A6%E3%81%84%20DVDBOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%E3%82%A2%E3%83%8B%E3%83%A1%20%E9%BB%92%E7%BE%8A%E4%B8%98%E3%81%AE%E6%88%A6%E3%81%84%20DVDBOX%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://shopping.yahoo.co.jp/search?p=TV%E3%82%A2%E3%83%8B%E3%83%A1%20%E9%BB%92%E7%BE%8A%E4%B8%98%E3%81%AE%E6%88%A6%E3%81%84%20DVDBOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DTV%E3%82%A2%E3%83%8B%E3%83%A1%20%E9%BB%92%E7%BE%8A%E4%B8%98%E3%81%AE%E6%88%A6%E3%81%84%20DVDBOX&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMブックス</a>
+<a href="https://www.amazon.co.jp/s?k=TV%E3%82%A2%E3%83%8B%E3%83%A1%20%E9%BB%92%E7%BE%8A%E4%B8%98%E3%81%AE%E6%88%A6%E3%81%84%20Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%E3%82%A2%E3%83%8B%E3%83%A1%20%E9%BB%92%E7%BE%8A%E4%B8%98%E3%81%AE%E6%88%A6%E3%81%84%20Blu-ray%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
+<a href="https://shopping.yahoo.co.jp/search?p=TV%E3%82%A2%E3%83%8B%E3%83%A1%20%E9%BB%92%E7%BE%8A%E4%B8%98%E3%81%AE%E6%88%A6%E3%81%84%20Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DTV%E3%82%A2%E3%83%8B%E3%83%A1%20%E9%BB%92%E7%BE%8A%E4%B8%98%E3%81%AE%E6%88%A6%E3%81%84%20Blu-ray&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMブックス</a>
 </div>
 </div>
 </div>

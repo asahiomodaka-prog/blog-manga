@@ -2,13 +2,12 @@
 title: '寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線'
 description: 'DMMで「寄生獣 セイの格率」を視聴！550円で泉新一とミギーの奇妙な共生、そして人類の運命をかけた戦いを描くSFホラーアニメの傑作。生命の問いかけに迫る衝撃作を見逃すな。'
 pubDate: '2026-08-03'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds00010/b900zkds00010pl.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
 genre: 'サスペンス・ミステリー'
 sidebarProducts:
   - title: '寄生獣 セイの格率'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Ddcst4wq0mzeja3s8s9pgebm9i%26season%3Dpk8x2dopthhn41b4ook583usk&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds00010/b900zkds00010pl.jpg'
-    price: 550
+    url: ''
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg'
     microCopy: '詳細を見る'
 mediaType: 'comic'
 ---
@@ -29,17 +28,17 @@ mediaType: 'comic'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/b900zkds00010/b900zkds00010pl.jpg" alt="寄生獣 セイの格率 人間とは何か" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/es-toys/cabinet/407/10878407.jpg" alt="寄生獣 セイの格率" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">寄生獣 セイの格率 人間とは何か</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">寄生獣 セイの格率</h4>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(125px, 1fr)); gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87%20%E4%BA%BA%E9%96%93%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87%20%E4%BA%BA%E9%96%93%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://shopping.yahoo.co.jp/search?p=%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87%20%E4%BA%BA%E9%96%93%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87%20%E4%BA%BA%E9%96%93%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMブックス</a>
+<a href="https://www.amazon.co.jp/s?k=%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMブックス</a>
 </div>
 </div>
 </div>

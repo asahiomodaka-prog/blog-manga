@@ -2,13 +2,13 @@
 title: 「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？
 description: 藤子・F・不二雄『別巻 まんがゼミナール 恐竜ゼミナール』は単なる恐竜解説ではないSF漫画。科学への探求心と生命の倫理的境界線を問う深いメッセージを解説。DMMにて2310円。子供から大人まで、知的好奇心と考察力を刺激する一冊の魅力に迫る。
 pubDate: '2026-07-12'
-heroImage: '/images/manga-dinosaur-seminar.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg'
 genre: 'SF・ファンタジー'
 sidebarProducts:
-- title: 別巻 まんがゼミナール 恐竜ゼミナール
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg
-  price: 2310
+  - title: '別巻 まんがゼミナール 恐竜ゼミナール'
+    url: ''
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg'
+    microCopy: '詳細を見る'
 - title: 藤子・F・不二雄SF短編＜PERFECT版＞
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F785735%2Fb600tsgk02132%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600tsgk02132/b600tsgk02132pl.jpg
@@ -36,17 +36,17 @@ mediaType: 'comic'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg" alt="「別巻 まんがゼミナール 恐竜ゼミナ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg" alt="別巻 まんがゼミナール 恐竜ゼミナール" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">「別巻 まんがゼミナール 恐竜ゼミナ</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">別巻 まんがゼミナール 恐竜ゼミナール</h4>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(125px, 1fr)); gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%80%8C%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%80%8C%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://shopping.yahoo.co.jp/search?p=%E3%80%8C%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8C%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMブックス</a>
+<a href="https://www.amazon.co.jp/s?k=%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🛒 Amazon</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMブックス</a>
 </div>
 </div>
 </div>
