@@ -2,12 +2,12 @@
 title: 眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ
 description: 『BLACK JACK (秋田文庫版) 全17巻セット』が14,960円で楽天に登場。手塚治虫が描く無免許医ブラック・ジャックの活躍と、命の光と闇、人間の業に迫る医療ドラマを全巻一気読み。普遍的なテーマが現代に響きます。
 pubDate: '2026-07-06'
-heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/furuhon-kaitori-honpo/cabinet/c01-0560.jpg
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b606atdkp00515/b606atdkp00515pl.jpg
 genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: 'ブラック・ジャック (秋田文庫版) 全17巻セット'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF&af_id=DMMaria-999'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/furuhon-kaitori-honpo/cabinet/c01-0560.jpg'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b606atdkp00515/b606atdkp00515pl.jpg'
     microCopy: '詳細を見る'
 mediaType: comic
 ---
@@ -30,7 +30,7 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/furuhon-kaitori-honpo/cabinet/c01-0560.jpg" alt="ブラック ジャック 全17巻セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b606atdkp00515/b606atdkp00515pl.jpg" alt="ブラック ジャック 全17巻セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
