@@ -2,12 +2,12 @@
 title: TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由
 description: TVアニメ「キングダム」第4シリーズDVDBOXが登場！「成キョウの変/著雍攻略戦/アイ国反乱編」全26話を収録。価格9680円で乱世の激闘を追体験。主要登場人物たちの成長と人間ドラマが凝縮された魅力的な内容です。
 pubDate: '2026-08-01'
-heroImage: 'https://pics.dmm.com/mono/movie/animation/n_645eyba14302/n_645eyba14302pt.jpg'
+heroImage: '/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku.jpg'
 genre: バトル・アクション
 sidebarProducts:
   - title: 'TVアニメ「キングダム」成キョウの変/著雍攻略戦/アイ国反乱編 DVDBOX'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyba14302%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_645eyba14302/n_645eyba14302pt.jpg'
+    imageUrl: '/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku.jpg'
     microCopy: '詳細を見る'
 mediaType: anime
 ---
@@ -28,7 +28,7 @@ mediaType: anime
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_645eyba14302/n_645eyba14302pt.jpg" alt="TVアニメ「キングダム」成キョウの変/著雍攻略戦/アイ国反乱編 DVDBOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku.jpg" alt="TVアニメ「キングダム」成キョウの変/著雍攻略戦/アイ国反乱編 DVDBOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

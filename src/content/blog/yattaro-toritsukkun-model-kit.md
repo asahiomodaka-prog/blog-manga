@@ -2,12 +2,12 @@
 title: BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー
 description: 『キャッ党忍伝てやんでえ』の「BP028 ヤッ太郎＆トリツックン」プラモデルキットを徹底レビュー。懐かしのキャラクターが手のひらサイズで蘇る愛らしい造形と魅力を解説。
 pubDate: '2026-07-12'
-heroImage: 'https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg'
+heroImage: '/images/yattaro-toritsukkun-model-kit.jpg'
 genre: バトル・アクション
 sidebarProducts:
   - title: 'BP028 キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン プラモデル・フィギュア'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg'
+    imageUrl: '/images/yattaro-toritsukkun-model-kit.jpg'
     microCopy: '詳細を見る'
 mediaType: figure
 ---
@@ -28,7 +28,7 @@ mediaType: figure
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg" alt="BP028 キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン プラモデル・フィギュア" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/yattaro-toritsukkun-model-kit.jpg" alt="BP028 キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン プラモデル・フィギュア" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

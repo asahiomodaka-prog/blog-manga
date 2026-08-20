@@ -2,12 +2,12 @@
 title: POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？
 description: 『世界一初恋』POP UP PARADE 二階堂ヒロがDMMで8439円。デスクに飾るだけで日常に癒やしとときめきを与え、忘れかけていた情熱を呼び覚まします。多忙な日々を過ごすあなたへ、小さな輝きを。詳細と魅力を解説。
 pubDate: '2026-08-07'
-heroImage: 'https://pics.dmm.com/mono/hobby/c260705287/c260705287pt.jpg'
+heroImage: '/images/pop-up-parade-nikaido-hiro.jpg'
 genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: 'POP UP PARADE 二階堂ヒロ L size 魔法少女ノ魔女裁判 完成品フィギュア'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260705287%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/hobby/c260705287/c260705287pt.jpg'
+    imageUrl: '/images/pop-up-parade-nikaido-hiro.jpg'
     microCopy: '詳細を見る'
 mediaType: figure
 ---
@@ -28,7 +28,7 @@ mediaType: figure
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/hobby/c260705287/c260705287pt.jpg" alt="POP UP PARADE 二階堂ヒロ L size 魔法少女ノ魔女裁判 完成品フィギュア" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/pop-up-parade-nikaido-hiro.jpg" alt="POP UP PARADE 二階堂ヒロ L size 魔法少女ノ魔女裁判 完成品フィギュア" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
