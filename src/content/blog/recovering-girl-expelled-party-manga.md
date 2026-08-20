@@ -37,7 +37,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/recovering-girl-expelled-party-manga-body-1.png" alt="recovering-girl-expelled-party-manga" class="widget-img" loading="lazy" />
+  <img src="/images/recovering-girl-expelled-party-manga.jpg" alt="recovering-girl-expelled-party-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？</h4>
 
@@ -67,7 +67,7 @@ mediaType: 'comic'
 
 この物語は、単なる異世界ファンタジーの枠を超えて、読者に「本当に大切なものとは何か」「自分の価値は誰が決めるのか」という問いを投げかける。社会の評価基準に囚われず、自分自身の可能性を信じること。そして、自分を信じてくれる存在の大切さ。そういった普遍的なメッセージが、異世界の冒険を通して語られている。だからこそ、この作品は単なる娯楽としてだけでなく、私たちの心に深く響くものがある。
 
-<img src="/images/recovering-girl-expelled-party-manga-body-2.jpg" alt="recovering-girl-expelled-party-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/recovering-girl-expelled-party-manga.jpg" alt="recovering-girl-expelled-party-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 特に、ルリが少しずつ自信を取り戻し、笑顔が増えていく描写は、読者の感情を揺さぶる。清露先生の描くルリの表情は本当に豊かで、彼女の心の変化が手に取るように伝わってくる。漫画だからこそ表現できるキャラクターの細かな心理描写が、物語に深みを与えている。
 
@@ -103,7 +103,7 @@ mediaType: 'comic'
 
 このようなキャラクターの心の機微を丁寧に描く作品は、読み終わった後もずっと心に残る。[ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由](/blog/popolocrois-monogatari-manga/)のように、純粋な愛や勇気がテーマの作品が好きな人には、きっと響くはずだ。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4356736%2Fb163cijt236815%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/recovering-girl-expelled-party-manga-body-3.jpg" alt="recovering-girl-expelled-party-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4356736%2Fb163cijt236815%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/recovering-girl-expelled-party-manga.jpg" alt="recovering-girl-expelled-party-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 共感を呼ぶ「追放系」の魅力と、その先にある人間ドラマ
 
@@ -136,7 +136,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/recovering-girl-expelled-party-manga-body-1.png" alt="recovering-girl-expelled-party-manga" class="widget-img" loading="lazy" />
+  <img src="/images/recovering-girl-expelled-party-manga.jpg" alt="recovering-girl-expelled-party-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？</h4>
 

@@ -41,7 +41,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/anohana-10years-after-box-body-1.png" alt="anohana-10years-after-box" class="widget-img" loading="lazy" />
+  <img src="/images/anohana-10years-after-box.jpg" alt="anohana-10years-after-box" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！</h4>
 
@@ -81,7 +81,7 @@ Blu-rayの本編ディスクは、やはり高画質で視聴する価値が非�
 これらを深く鑑賞することで、作品の世界観やキャラクターたちの内面がより深く理解できる。
 単なるアニメのBOXではなく、作品の世界観を多角的に楽しめる、「あの花」という物語の集大成のようなアイテムである。
 
-<img src="/images/anohana-10years-after-box-body-2.jpg" alt="anohana-10years-after-box" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/anohana-10years-after-box.jpg" alt="anohana-10years-after-box" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 語り継がれる「あの夏」の物語と心に残る登場人物たち
 
@@ -192,7 +192,7 @@ SNS上でも、このBOXを手に入れたファンからは同様の興奮の�
 
 
 <div class="product-widget-card">
-  <img src="/images/anohana-10years-after-box-body-1.png" alt="anohana-10years-after-box" class="widget-img" loading="lazy" />
+  <img src="/images/anohana-10years-after-box.jpg" alt="anohana-10years-after-box" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！</h4>
 

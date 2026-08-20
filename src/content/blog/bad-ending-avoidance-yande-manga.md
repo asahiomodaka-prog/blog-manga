@@ -34,7 +34,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/bad-ending-avoidance-yande-manga-body-1.png" alt="bad-ending-avoidance-yande-manga" class="widget-img" loading="lazy" />
+  <img src="/images/bad-ending-avoidance-yande-manga.jpg" alt="bad-ending-avoidance-yande-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気</h4>
 
@@ -104,9 +104,9 @@ mediaType: 'comic'
 
 それぞれのキャラクターに感情移入し、彼らの運命に一喜一憂することは、本作の持つ力強さを示す証拠だ。彼らの人間臭い葛藤と、それでも失われない絆の輝きは、読者の心に深く刻み込まれるだろう。
 
-<img src="/images/bad-ending-avoidance-yande-manga-body-2.jpg" alt="bad-ending-avoidance-yande-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/bad-ending-avoidance-yande-manga.jpg" alt="bad-ending-avoidance-yande-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/bad-ending-avoidance-yande-manga-body-3.jpg" alt="bad-ending-avoidance-yande-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/bad-ending-avoidance-yande-manga.jpg" alt="bad-ending-avoidance-yande-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 読者のリアルな声と、この作品を楽しむための羅針盤
 
@@ -140,7 +140,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/bad-ending-avoidance-yande-manga-body-1.png" alt="bad-ending-avoidance-yande-manga" class="widget-img" loading="lazy" />
+  <img src="/images/bad-ending-avoidance-yande-manga.jpg" alt="bad-ending-avoidance-yande-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「全滅エンドを死に物狂いで回避した。パーティが病んだ。」極限の愛と狂気</h4>
 

@@ -40,7 +40,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/doraemon-long-story-body-1.png" alt="doraemon-long-story" class="widget-img" loading="lazy" />
+  <img src="/images/doraemon-long-story.jpg" alt="doraemon-long-story" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？</h4>
 
@@ -62,7 +62,7 @@ mediaType: 'comic'
 
 作者である藤子・F・不二雄の描線は、シンプルながらもキャラクターの感情や情景を見事に表現している。彼の提唱する「SF（すこしふしぎ）」というテーマは、非日常の要素を日常の中に巧みに織り交ぜることで、読者の想像力を掻き立ててきた。大長編では、そのSFがスケールアップし、宇宙船が飛び交う迫力あるバトルシーンから、異世界の神秘的な風景、そして登場人物たちの繊細な表情まで、限られたページの中で読者の心を惹きつける。これはまさに熟練の筆致と言えよう。特に大長編では、その広大な世界観とキャラクターたちの心の機微が、短編とは一線を画す密度で描かれている。一歩足を踏み入れたらもう引き返せない、そんな冒険の熱気を紙や[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の中から感じ取れるのは、この作品群が持つ圧倒的な魅力だ。
 
-<img src="/images/doraemon-long-story-body-2.jpg" alt="doraemon-long-story" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/doraemon-long-story.jpg" alt="doraemon-long-story" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 時代を超えて響く、藤子・F・不二雄が描きたかった深淵なテーマ
 
@@ -135,7 +135,7 @@ DMMブックスでは、これらの素晴らしい作品群を電子書籍で�
 
 
 <div class="product-widget-card">
-  <img src="/images/doraemon-long-story-body-1.png" alt="doraemon-long-story" class="widget-img" loading="lazy" />
+  <img src="/images/doraemon-long-story.jpg" alt="doraemon-long-story" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？</h4>
 

@@ -36,7 +36,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/akira-4k-remaster-set-manga-body-1.png" alt="akira-4k-remaster-set-manga" class="widget-img" loading="lazy" />
+  <img src="/images/akira-4k-remaster-set-manga.jpg" alt="akira-4k-remaster-set-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー</h4>
 
@@ -62,7 +62,7 @@ mediaType: 'anime'
 
 まず、その映像表現から掘り下げよう。4K（3840×2160画素）の解像度は、フルハイビジョンの実に4倍にあたる。これにより、作品の緻密な背景描写やキャラクターの表情、動きの滑らかさに驚くほどの貢献をしている。緻密な手描きアニメーションとして知られる『AKIRA』の原画が持つ情報量が、この高解像度によって余すことなく再現されているのだ。金田の赤いバイクがネオ東京の夜の街を疾走するシーンでは、路面に映り込むネオンの反射や、路肩のゴミ一つ一つまでが鮮明に描き出され、まるで自分がそこにいるかのような臨場感がある。
 
-<img src="/images/akira-4k-remaster-set-manga-body-2.jpg" alt="akira-4k-remaster-set-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/akira-4k-remaster-set-manga.jpg" alt="akira-4k-remaster-set-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 HDR（ハイダイナミックレンジ）もまた、映像表現に革命をもたらしている。従来の[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray)では再現しきれなかった、明るい光源や金属の質感、水面の輝きまでが、驚くほど豊かに表現されている。例えば、鉄雄が覚醒していく過程で放つ強烈な光や、崩壊していく建物の破片が光を反射する様子は、圧倒される。眩しすぎるほどの光と、それに続く深い闇のコントラストが、物語の緊迫感をより一層引き立てている。この明暗のコントラストの幅広さが、映像に奥行きと立体感を与え、スクリーンから飛び出してくるかのような錯覚さえ覚える。
 
@@ -135,7 +135,7 @@ HDR（ハイダイナミックレンジ）もまた、映像表現に革命を�
 
 
 <div class="product-widget-card">
-  <img src="/images/akira-4k-remaster-set-manga-body-1.png" alt="akira-4k-remaster-set-manga" class="widget-img" loading="lazy" />
+  <img src="/images/akira-4k-remaster-set-manga.jpg" alt="akira-4k-remaster-set-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー</h4>
 

@@ -39,7 +39,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku-body-1.png" alt="kingdom-anime-dvdbox-seikyou-jouyou-aigoku" class="widget-img" loading="lazy" />
+  <img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku.jpg" alt="kingdom-anime-dvdbox-seikyou-jouyou-aigoku" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由</h4>
 
@@ -91,7 +91,7 @@ TVアニメ「キングダム」第4シリーズは、原作の持つ深淵な�
 
 登場人物たちの言葉一つ一つに、彼らの生き様や哲学が凝縮されている。戦場の緊張感の中で発せられる叫び、仲間を鼓舞する言葉、そして敵に語りかける言葉。それらは時に鑑賞者の心に深く刺さり、思索を促す。特に、乱世を生きる彼らが、それぞれの「正義」をぶつけ合う場面でのセリフは、何度も見返したくなるほどだ。彼らの言葉から、鑑賞者は「生きるとは何か」「戦うとは何か」「信じるとは何か」という根源的な問いに対する答えを探ろうとする。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00qco51.ve2q5440.g00qco51.ve2q63f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoshin-cddvd%2F4580055363023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoshin-cddvd%2Fi%2F11065437%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku-body-2.jpg" alt="kingdom-anime-dvdbox-seikyou-jouyou-aigoku" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qco51.ve2q5440.g00qco51.ve2q63f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoshin-cddvd%2F4580055363023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoshin-cddvd%2Fi%2F11065437%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku.jpg" alt="kingdom-anime-dvdbox-seikyou-jouyou-aigoku" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -148,7 +148,7 @@ TVアニメ「キングダム」第4シリーズのDVDBOXは、熱い戦いと�
 
 
 <div class="product-widget-card">
-  <img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku-body-1.png" alt="kingdom-anime-dvdbox-seikyou-jouyou-aigoku" class="widget-img" loading="lazy" />
+  <img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku.jpg" alt="kingdom-anime-dvdbox-seikyou-jouyou-aigoku" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由</h4>
 

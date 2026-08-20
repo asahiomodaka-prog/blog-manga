@@ -38,7 +38,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/hana-kimi-deluxe-complete-manga-body-1.png" alt="hana-kimi-deluxe-complete-manga" class="widget-img" loading="lazy" />
+  <img src="/images/hana-kimi-deluxe-complete-manga.jpg" alt="hana-kimi-deluxe-complete-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春</h4>
 
@@ -98,7 +98,7 @@ mediaType: 'comic'
 
 特に、瑞稀の男装姿と、時折見せる少女らしい表情のコントラストは、彼女の秘密を際立たせ、読者のドキドキ感を高める上で重要な役割を担っている。この愛蔵版で、当時と変わらない、いや、むしろ現代だからこそ感じられる深みを、ぜひ多くの人に再発見してもらいたい。
 
-<img src="/images/hana-kimi-deluxe-complete-manga-body-2.jpg" alt="hana-kimi-deluxe-complete-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/hana-kimi-deluxe-complete-manga.jpg" alt="hana-kimi-deluxe-complete-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -176,7 +176,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/hana-kimi-deluxe-complete-manga-body-1.png" alt="hana-kimi-deluxe-complete-manga" class="widget-img" loading="lazy" />
+  <img src="/images/hana-kimi-deluxe-complete-manga.jpg" alt="hana-kimi-deluxe-complete-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春</h4>
 

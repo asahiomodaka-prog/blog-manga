@@ -35,7 +35,7 @@ sidebarProducts:
 
 
 <div class="product-widget-card">
-  <img src="/images/anohana-bluray-box-body-1.png" alt="anohana-bluray-box" class="widget-img" loading="lazy" />
+  <img src="/images/anohana-bluray-box.jpg" alt="anohana-bluray-box" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">『あの花 Blu-ray BOX』感動の音響と映像美！作品世界を完全再現するクオリティ</h4>
 
@@ -129,7 +129,7 @@ sidebarProducts:
 
 
 <div class="product-widget-card">
-  <img src="/images/anohana-bluray-box-body-1.png" alt="anohana-bluray-box" class="widget-img" loading="lazy" />
+  <img src="/images/anohana-bluray-box.jpg" alt="anohana-bluray-box" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">『あの花 Blu-ray BOX』感動の音響と映像美！作品世界を完全再現するクオリティ</h4>
 

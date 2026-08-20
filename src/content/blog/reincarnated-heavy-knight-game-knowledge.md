@@ -37,7 +37,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/reincarnated-heavy-knight-game-knowledge-body-1.png" alt="reincarnated-heavy-knight-game-knowledge" class="widget-img" loading="lazy" />
+  <img src="/images/reincarnated-heavy-knight-game-knowledge.jpg" alt="reincarnated-heavy-knight-game-knowledge" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</h4>
 
@@ -59,7 +59,7 @@ mediaType: 'comic'
 
 [追放された転生重騎士はゲーム知識で無双する](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api)
 
-<img src="/images/reincarnated-heavy-knight-game-knowledge-body-2.jpg" alt="reincarnated-heavy-knight-game-knowledge" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/reincarnated-heavy-knight-game-knowledge.jpg" alt="reincarnated-heavy-knight-game-knowledge" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 「不遇職」の真価と、世界を欺くゲーム知識の哲学
 
@@ -77,7 +77,7 @@ mediaType: 'comic'
 
 また、物語が進むにつれて登場する新たな仲間たち、例えば「狩人」ケルトや「僧侶」メアベルといった面々も、それぞれの個性と背景を持ってエルマの冒険に加わる。彼らは単なる脇役ではなく、エルマの戦略に新たな選択肢をもたらし、物語に深みを与えている。彼らの間には、時に意見の食い違いや衝突もあるかもしれないが、共通の目的のために協力し、互いを信頼し合う姿は、まさに王道ファンタジーの醍醐味を味わわせてくれる。特に、チームとしての連携が鍵となるレイドクエストでは、それぞれの役割が明確になり、キャラクターたちの魅力が最大限に引き出される。エルマが築き上げる人間関係は、単なるゲーム攻略のツールではなく、彼自身の人間性を豊かにするかけがえのない財産なのだ。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/reincarnated-heavy-knight-game-knowledge-body-3.jpg" alt="reincarnated-heavy-knight-game-knowledge" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/reincarnated-heavy-knight-game-knowledge.jpg" alt="reincarnated-heavy-knight-game-knowledge" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -121,7 +121,7 @@ DMMブックスなら、[追放された転生重騎士はゲーム知識で無�
 
 
 <div class="product-widget-card">
-  <img src="/images/reincarnated-heavy-knight-game-knowledge-body-1.png" alt="reincarnated-heavy-knight-game-knowledge" class="widget-img" loading="lazy" />
+  <img src="/images/reincarnated-heavy-knight-game-knowledge.jpg" alt="reincarnated-heavy-knight-game-knowledge" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</h4>
 

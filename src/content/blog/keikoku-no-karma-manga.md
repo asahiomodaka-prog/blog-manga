@@ -35,7 +35,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/keikoku-no-karma-manga-body-1.png" alt="keikoku-no-karma-manga" class="widget-img" loading="lazy" />
+  <img src="/images/keikoku-no-karma-manga.jpg" alt="keikoku-no-karma-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀</h4>
 
@@ -75,7 +75,7 @@ mediaType: 'comic'
 
 そして、「カルマ」という言葉が持つ意味についても深く考察できる。彼女が背負う「傾国のカルマ」とは、単に国を傾けるという意味ではない。それは、彼女の血筋が辿ってきた宿命であり、そして彼女がその宿命にどう向き合い、どう乗り越えていくのかという、魂の試練を意味しているように思えるのだ。彼女の選択一つ一つが、歴史の歯車を動かし、やがて来る未来を形作っていく。この作品は、一人の女性の激動の生涯を通して、人間の尊厳、そして運命に抗う強さとは何かを、静かに問いかけてくる。
 
-<img src="/images/keikoku-no-karma-manga-body-2.jpg" alt="keikoku-no-karma-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/keikoku-no-karma-manga.jpg" alt="keikoku-no-karma-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -108,7 +108,7 @@ mediaType: 'comic'
 | 価格 | 100円 |
 | 商品名 | 傾国のカルマ（単話） |
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190445%2Fs174apups00563%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/keikoku-no-karma-manga-body-3.jpg" alt="keikoku-no-karma-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190445%2Fs174apups00563%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/keikoku-no-karma-manga.jpg" alt="keikoku-no-karma-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 読者の声と作品を読み解く上でのポイント
 
@@ -137,7 +137,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/keikoku-no-karma-manga-body-1.png" alt="keikoku-no-karma-manga" class="widget-img" loading="lazy" />
+  <img src="/images/keikoku-no-karma-manga.jpg" alt="keikoku-no-karma-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">『傾国のカルマ』が描く愛憎劇の果て！運命に抗う女王の魂と激動の12世紀</h4>
 

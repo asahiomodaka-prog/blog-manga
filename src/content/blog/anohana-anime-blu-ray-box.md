@@ -34,7 +34,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/anohana-anime-blu-ray-box-body-1.png" alt="anohana-anime-blu-ray-box" class="widget-img" loading="lazy" />
+  <img src="/images/anohana-anime-blu-ray-box.jpg" alt="anohana-anime-blu-ray-box" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証</h4>
 
@@ -70,7 +70,7 @@ mediaType: 'anime'
 
 特に、それぞれのキャラクターがめんまへの「執着」を乗り越え、自分自身の過去と向き合い、未来へ進もうとする姿は、何度観ても深い感動を呼び起こす。最終話のあのクライマックスシーンは、多くのアニメファンにとって忘れられない名シーンの一つと言えるだろう。めんまが最後に遺した「お願い」が叶った時、そして超平和バスターズのメンバーが、ようやく本当の意味でめんまの死を受け入れた時、観る者は彼らと共に涙し、その成長を見届ける。単なるファンタジーや青春物語ではなく、人の心の奥底にある痛みや、それを乗り越える強さ、そして友情の尊さを教えてくれる、示唆に富んだ作品だ。このBlu-ray BOXは、そんな彼らの感情の機微や、美しい背景美術を最高品質で繰り返し体験できるからこそ、ファンにとっては計り知れない価値がある。
 
-<img src="/images/anohana-anime-blu-ray-box-body-2.jpg" alt="anohana-anime-blu-ray-box" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/anohana-anime-blu-ray-box.jpg" alt="anohana-anime-blu-ray-box" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -133,7 +133,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/anohana-anime-blu-ray-box-body-1.png" alt="anohana-anime-blu-ray-box" class="widget-img" loading="lazy" />
+  <img src="/images/anohana-anime-blu-ray-box.jpg" alt="anohana-anime-blu-ray-box" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証</h4>
 

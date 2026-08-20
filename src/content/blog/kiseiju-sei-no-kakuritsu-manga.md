@@ -37,7 +37,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/kiseiju-sei-no-kakuritsu-manga-body-1.png" alt="kiseiju-sei-no-kakuritsu-manga" class="widget-img" loading="lazy" />
+  <img src="/images/kiseiju-sei-no-kakuritsu-manga.jpg" alt="kiseiju-sei-no-kakuritsu-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線</h4>
 
@@ -126,7 +126,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/kiseiju-sei-no-kakuritsu-manga-body-1.png" alt="kiseiju-sei-no-kakuritsu-manga" class="widget-img" loading="lazy" />
+  <img src="/images/kiseiju-sei-no-kakuritsu-manga.jpg" alt="kiseiju-sei-no-kakuritsu-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線</h4>
 

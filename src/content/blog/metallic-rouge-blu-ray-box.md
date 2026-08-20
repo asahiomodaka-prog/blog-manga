@@ -34,7 +34,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/metallic-rouge-blu-ray-box-body-1.png" alt="metallic-rouge-blu-ray-box" class="widget-img" loading="lazy" />
+  <img src="/images/metallic-rouge-blu-ray-box.jpg" alt="metallic-rouge-blu-ray-box" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー</h4>
 
@@ -58,7 +58,7 @@ mediaType: 'anime'
 
 ## 感覚を刺激する映像美と音響体験：BOXがもたらす新たな発見
 
-<img src="/images/metallic-rouge-blu-ray-box-body-2.jpg" alt="metallic-rouge-blu-ray-box" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/metallic-rouge-blu-ray-box.jpg" alt="metallic-rouge-blu-ray-box" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 「メタリックルージュ」のBlu-ray BOXを手にしてまず感じるのは、そのパッケージデザインの洗練された美しさである。作品の世界観を凝縮したアートワークは、ケースを手に取るたびに鑑賞への期待感を高めてくれるだろう。そして肝心の中身だが、やはりBlu-rayの高画質は息をのむほどの迫力だ。
 
@@ -146,7 +146,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/metallic-rouge-blu-ray-box-body-1.png" alt="metallic-rouge-blu-ray-box" class="widget-img" loading="lazy" />
+  <img src="/images/metallic-rouge-blu-ray-box.jpg" alt="metallic-rouge-blu-ray-box" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー</h4>
 

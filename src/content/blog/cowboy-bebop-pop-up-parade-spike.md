@@ -39,7 +39,7 @@ mediaType: 'figure'
 
 
 <div class="product-widget-card">
-  <img src="/images/cowboy-bebop-pop-up-parade-spike-body-1.png" alt="cowboy-bebop-pop-up-parade-spike" class="widget-img" loading="lazy" />
+  <img src="/images/cowboy-bebop-pop-up-parade-spike.jpg" alt="cowboy-bebop-pop-up-parade-spike" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">カウボーイビバップ POP UP PARADE</h4>
 
@@ -57,7 +57,7 @@ mediaType: 'figure'
 
 [【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api)を初めて手にした時、その再現度の高さに驚かされた。箱から取り出すと、アニメの画面から飛び出してきたかのようなスパイク・スピーゲルの姿が目に飛び込んでくる。
 
-<img src="/images/cowboy-bebop-pop-up-parade-spike-body-2.jpg" alt="cowboy-bebop-pop-up-parade-spike" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/cowboy-bebop-pop-up-parade-spike.jpg" alt="cowboy-bebop-pop-up-parade-spike" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの高さで定評があるが、今回のスパイクはその水準をさらに上回る出来栄えだ。
 
@@ -111,7 +111,7 @@ POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの�
 
 もちろん、フィギュアはデリケートなものだから、直射日光が当たる場所や高温多湿な場所は避けて飾るようにしている。定期的に埃を払ってあげるのも、彼への感謝の気持ちだ。彼は僕のコレクションの一つであると同時に、僕の日常に寄り添い、僕の心を豊かにしてくれる、かけがえのない「もう一人の相棒」だ。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/cowboy-bebop-pop-up-parade-spike-body-3.jpg" alt="cowboy-bebop-pop-up-parade-spike" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/cowboy-bebop-pop-up-parade-spike.jpg" alt="cowboy-bebop-pop-up-parade-spike" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 彼の生き様に共鳴するあなたへ
 
@@ -147,7 +147,7 @@ POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの�
 
 
 <div class="product-widget-card">
-  <img src="/images/cowboy-bebop-pop-up-parade-spike-body-1.png" alt="cowboy-bebop-pop-up-parade-spike" class="widget-img" loading="lazy" />
+  <img src="/images/cowboy-bebop-pop-up-parade-spike.jpg" alt="cowboy-bebop-pop-up-parade-spike" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">カウボーイビバップ POP UP PARADE</h4>
 

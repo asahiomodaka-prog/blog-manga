@@ -37,7 +37,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/zatch-bell-manga-body-1.png" alt="zatch-bell-manga" class="widget-img" loading="lazy" />
+  <img src="/images/zatch-bell-manga.jpg" alt="zatch-bell-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">金色のガッシュ！！が描いた“優しさの王”。なぜあの結末に涙が止まらないのか？</h4>
 
@@ -59,7 +59,7 @@ mediaType: 'comic'
 
 当初、清麿はガッシュの突飛な言動に戸惑い、強く反発する。しかし、ガッシュの純粋な心と、「優しい王様になりたい」というひたむきな夢に触れるにつれて、二人の間には次第に固い絆が芽生えていく。彼らは共に戦い、様々な仲間や強敵との出会い、そして辛い別れを経験しながら、真の強さとは何か、そして王としてのあるべき姿を模索していくことになる。一見するとシンプルなバトル漫画に見えるが、その根底には、友情、成長、そして他者への思いやりといった普遍的なテーマが深く描かれており、物語に重層的な奥行きを与えているのだ。
 
-<img src="/images/zatch-bell-manga-body-2.jpg" alt="zatch-bell-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/zatch-bell-manga.jpg" alt="zatch-bell-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 弱き者の盾となる「優しい王様」という理想
 
@@ -130,7 +130,7 @@ DMMブックスでは定期的にセールやキャンペーンを実施して�
 
 
 <div class="product-widget-card">
-  <img src="/images/zatch-bell-manga-body-1.png" alt="zatch-bell-manga" class="widget-img" loading="lazy" />
+  <img src="/images/zatch-bell-manga.jpg" alt="zatch-bell-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">金色のガッシュ！！が描いた“優しさの王”。なぜあの結末に涙が止まらないのか？</h4>
 

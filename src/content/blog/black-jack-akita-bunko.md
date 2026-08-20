@@ -32,7 +32,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/black-jack-akita-bunko-body-1.png" alt="black-jack-akita-bunko" class="widget-img" loading="lazy" />
+  <img src="/images/black-jack-akita-bunko.jpg" alt="black-jack-akita-bunko" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ</h4>
 
@@ -130,7 +130,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/black-jack-akita-bunko-body-1.png" alt="black-jack-akita-bunko" class="widget-img" loading="lazy" />
+  <img src="/images/black-jack-akita-bunko.jpg" alt="black-jack-akita-bunko" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ</h4>
 

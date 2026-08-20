@@ -38,7 +38,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/neon-genesis-evangelion-tv-dvdbox-body-1.png" alt="neon-genesis-evangelion-tv-dvdbox" class="widget-img" loading="lazy" />
+  <img src="/images/neon-genesis-evangelion-tv-dvdbox.jpg" alt="neon-genesis-evangelion-tv-dvdbox" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡</h4>
 
@@ -115,7 +115,7 @@ mediaType: 'anime'
 
 ストリーミングサービスが主流となった現代において、物理メディアとしてのDVD-BOXを購入することに、どんな意味があるのだろうか？そう思う人もいるかもしれない。だが、アニメ作品のコレクターとして、また一ファンとして言わせてもらえば、この [新世紀エヴァンゲリオンTV放映版DVDBOX ARCHIVES OF EVANGELION (期間限定生産版)TVアニメ](https://hb.afl.rakuten.co.jp/hgc/g00qo031.ve2q517d.g00qo031.ve2q67ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsurprise-web%2Faznkiba-92191%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsurprise-web%2Fi%2F12888204%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) が持つ価値は、ただ作品を視聴できるというだけではない。それは、あの頃の熱狂、あの衝撃を「手元に置いておく」ことのできる、かけがえのない体験そのものなのだ。
 
-<img src="/images/neon-genesis-evangelion-tv-dvdbox-body-2.jpg" alt="neon-genesis-evangelion-tv-dvdbox" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/neon-genesis-evangelion-tv-dvdbox.jpg" alt="neon-genesis-evangelion-tv-dvdbox" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 筆者がこの期間限定生産版のDVDBOXを手に入れた時、まず感じたのはそのパッケージの質感だった。手に取った瞬間の重み、デザインされたアートワーク。これは単なるディスクの入れ物ではなく、僕らが青春を捧げた「新世紀エヴァンゲリオン」という文化そのものを凝縮した、一つのオブジェなのだ。デジタル配信では味わえない、この所有する喜びは、筆者のようなコレクターにとっては、特別な魅力がある。
 
@@ -142,7 +142,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/neon-genesis-evangelion-tv-dvdbox-body-1.png" alt="neon-genesis-evangelion-tv-dvdbox" class="widget-img" loading="lazy" />
+  <img src="/images/neon-genesis-evangelion-tv-dvdbox.jpg" alt="neon-genesis-evangelion-tv-dvdbox" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡</h4>
 

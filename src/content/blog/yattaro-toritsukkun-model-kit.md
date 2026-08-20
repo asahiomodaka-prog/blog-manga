@@ -35,7 +35,7 @@ mediaType: 'figure'
 
 特に印象的なのは、ヤッ太郎たちの日常が、とても丁寧に描かれている点だ。彼らが住む街の風景、人々の暮らし、そしてちょっとした人間模様。それら全てが、どこか懐かしく、温かい。アニメ版も人気を博したが、原作漫画のコマ割りや線のタッチには、また違った趣がある。作者の卓越した画力は、キャラクターたちの表情一つ一つに豊かな感情を宿らせ、読者の想像力を掻き立てる。特に、アクションシーンの躍動感は圧巻で、ページをめくる手が止まらなくなる。作品全体に漂う独特の空気感は、まさに唯一無二。初めて触れる者にとっては新鮮な驚きがあり、かつて夢中になった者にとっては、あの頃の興奮が蘇る。そして、このフィギュアはその熱量を手のひらで感じさせてくれる存在だ。
 
-<img src="/images/yattaro-toritsukkun-model-kit-body-1.jpg" alt="yattaro-toritsukkun-model-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/yattaro-toritsukkun-model-kit.jpg" alt="yattaro-toritsukkun-model-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ### 時代が映し出す普遍的なテーマ：人間とテクノロジー、そして正義の在り方
 
@@ -61,7 +61,7 @@ mediaType: 'figure'
 
 特定の決定的な名シーンを挙げるのは難しいが、特に心を揺さぶるのは、ヤッ太郎が自身の未熟さを痛感し、それでも前を向こうとする瞬間の描写だ。トリツックンが彼の腕にぴたりと寄り添い、無言で彼を励ますその姿は、言葉以上の雄弁さで、彼らの深い信頼関係を物語っていた。そうした場面に触れるたびに、読者の心の中にも、ヤッ太郎のような「諦めない心」や「信じる気持ち」を芽生えさせる。この作品は、単なる冒険物語ではなく、登場人物たちの心の奥底に触れ、読者の感情を豊かにしてくれる、真の人間ドラマである。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/yattaro-toritsukkun-model-kit-body-2.jpg" alt="yattaro-toritsukkun-model-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/yattaro-toritsukkun-model-kit.jpg" alt="yattaro-toritsukkun-model-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ### 世代を超えて愛される理由と、知っておきたいポイント
 
@@ -98,7 +98,7 @@ BP028 ヤッ太郎＆トリツックンのフィギュアは、単なる飾り�
 
 
 <div class="product-widget-card">
-  <img src="/images/yattaro-toritsukkun-model-kit-body-3.png" alt="yattaro-toritsukkun-model-kit" class="widget-img" loading="lazy" />
+  <img src="/images/yattaro-toritsukkun-model-kit.jpg" alt="yattaro-toritsukkun-model-kit" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー</h4>
 

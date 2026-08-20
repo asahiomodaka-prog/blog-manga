@@ -32,7 +32,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/monster-kanzenban-18-body-1.png" alt="monster-kanzenban-18" class="widget-img" loading="lazy" />
+  <img src="/images/monster-kanzenban-18.jpg" alt="monster-kanzenban-18" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験</h4>
 
@@ -98,7 +98,7 @@ mediaType: 'comic'
 
 浦沢直樹は、キャラクター一人ひとりに明確な「人生」と「思想」を与えている。それが、この作品をただのサスペンスに終わらせない、深い人間ドラマへと昇華させているのだ。彼らの言葉、彼らの行動、そして彼らの眼差しの一つ一つが、物語のテーマをより深く掘り下げていく。僕たちは、彼らの姿を通して、人間とは何か、善悪とは何か、そして自分自身が何者であるかを問いかけられる。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/monster-kanzenban-18-body-2.jpg" alt="monster-kanzenban-18" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/monster-kanzenban-18.jpg" alt="monster-kanzenban-18" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 読者のリアルな声と、この作品との向き合い方
 
@@ -129,7 +129,7 @@ mediaType: 'comic'
 
 DMMブックスでは、[MONSTER 完全版 デジタルVer.](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api)を手に取ることができる。まずは試し読みで作品の世界観に触れてみるのも良いだろう。浦沢直樹の卓越した画力と、読者の心を掴んで離さないストーリーテリングの魅力は、きっとあなたを『MONSTER』の世界へと誘うはずだ。最終巻の[MONSTER 完全版 デジタルVer.（18）](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api)まで一気に読み進めるのも良いし、じっくりと物語を味わいながら読み進めるのも、電子書籍ならではの楽しみ方と言える。
 
-<img src="/images/monster-kanzenban-18-body-3.jpg" alt="monster-kanzenban-18" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/monster-kanzenban-18.jpg" alt="monster-kanzenban-18" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -140,7 +140,7 @@ DMMブックスでは、[MONSTER 完全版 デジタルVer.](https://al.dmm.com/
 
 
 <div class="product-widget-card">
-  <img src="/images/monster-kanzenban-18-body-1.png" alt="monster-kanzenban-18" class="widget-img" loading="lazy" />
+  <img src="/images/monster-kanzenban-18.jpg" alt="monster-kanzenban-18" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験</h4>
 

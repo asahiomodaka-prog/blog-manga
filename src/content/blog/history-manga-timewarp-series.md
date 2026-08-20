@@ -38,7 +38,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/history-manga-timewarp-series-body-1.png" alt="history-manga-timewarp-series" class="widget-img" loading="lazy" />
+  <img src="/images/history-manga-timewarp-series.jpg" alt="history-manga-timewarp-series" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を夜更けに再読するロマン！</h4>
 
@@ -64,7 +64,7 @@ mediaType: 'comic'
 
 ## 時代が語りかける人間普遍のテーマ
 
-<img src="/images/history-manga-timewarp-series-body-2.jpg" alt="history-manga-timewarp-series" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/history-manga-timewarp-series.jpg" alt="history-manga-timewarp-series" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 この[集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2)](https://hb.afl.rakuten.co.jp/hgc/g00q2zm1.ve2q5e08.g00q2zm1.ve2q6c82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooks-sanseido%2F9784082399351%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooks-sanseido%2Fi%2F10363065%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)が単なる歴史の概説に留まらないのは、その根底に流れる哲学的なテーマや、時代を超えて共通する人間の本質を深く掘り下げているからだと筆者は感じる。例えば、権力闘争の陰で犠牲になる民衆の姿、新しい文化を生み出そうとする人々の創造性、そして、外からの脅威に立ち向かう人々の連帯。これらは、どの時代においても形を変えて繰り返されてきた人間の営みであり、現代社会にも通じる普遍的なメッセージを投げかけている。
 
@@ -102,7 +102,7 @@ mediaType: 'comic'
 
 筆者が個人的に印象に残っているのは、幕末の志士たちの描写だ。彼らが命を賭して日本の未来を憂い、新しい時代を切り開こうとした姿は、まさに青春群像劇と呼ぶにふさわしい。吉田松陰の思想が、高杉晋作や久坂玄瑞といった若者たちにどのように受け継がれていったのか。そして、彼らがそれぞれの立場で日本の未来のために奮闘する姿は、我々の心に熱い何かを呼び覚ますだろう。単なる歴史の出来事を追うだけでなく、そこに生きた人々の感情の機微、友情や裏切り、そして理想と現実の間で揺れ動く心の様を丁寧に描いているからこそ、このシリーズはこれほどまでに魅力的であり続けているのだ。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00q2zm1.ve2q5e08.g00q2zm1.ve2q6c82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooks-sanseido%2F9784082399351%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooks-sanseido%2Fi%2F10363065%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/history-manga-timewarp-series-body-3.jpg" alt="history-manga-timewarp-series" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q2zm1.ve2q5e08.g00q2zm1.ve2q6c82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooks-sanseido%2F9784082399351%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooks-sanseido%2Fi%2F10363065%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/history-manga-timewarp-series.jpg" alt="history-manga-timewarp-series" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 大人も子供も楽しめる普遍性と、一歩踏み込んだ向き合い方
 
@@ -128,7 +128,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/history-manga-timewarp-series-body-1.png" alt="history-manga-timewarp-series" class="widget-img" loading="lazy" />
+  <img src="/images/history-manga-timewarp-series.jpg" alt="history-manga-timewarp-series" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を夜更けに再読するロマン！</h4>
 

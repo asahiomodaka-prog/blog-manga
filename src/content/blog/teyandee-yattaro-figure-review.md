@@ -39,7 +39,7 @@ mediaType: 'figure'
 
 
 <div class="product-widget-card">
-  <img src="/images/teyandee-yattaro-figure-review-body-1.png" alt="teyandee-yattaro-figure-review" class="widget-img" loading="lazy" />
+  <img src="/images/teyandee-yattaro-figure-review.jpg" alt="teyandee-yattaro-figure-review" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力</h4>
 
@@ -67,7 +67,7 @@ mediaType: 'figure'
 
 [BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)
 
-<img src="/images/teyandee-yattaro-figure-review-body-2.jpg" alt="teyandee-yattaro-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/teyandee-yattaro-figure-review.jpg" alt="teyandee-yattaro-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 終わりなき戦いの哲学と社会風刺
 
@@ -99,7 +99,7 @@ mediaType: 'figure'
 
 作品を彩る個性豊かなキャラクターたちは、ホビーアイテムとしてその魅力がさらに際立つ。『BP028 ヤッ太郎＆トリツックン』のようなアイテムは、劇中の印象的なシーンを彷彿とさせる造形美で、コレクターの心を掴んで離さない。各キャラクターのディテールまで再現されたアイテムを手に取ることで、彼らがなぜこれほどまでに多くの人々を魅了し続けるのか、その理由がきっと体感できるだろう。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/teyandee-yattaro-figure-review-body-3.jpg" alt="teyandee-yattaro-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/teyandee-yattaro-figure-review.jpg" alt="teyandee-yattaro-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -157,7 +157,7 @@ mediaType: 'figure'
 
 
 <div class="product-widget-card">
-  <img src="/images/teyandee-yattaro-figure-review-body-1.png" alt="teyandee-yattaro-figure-review" class="widget-img" loading="lazy" />
+  <img src="/images/teyandee-yattaro-figure-review.jpg" alt="teyandee-yattaro-figure-review" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">『キャッ党忍伝てやんでえ』ヤッ太郎＆トリツックンが放つ90年代ロボアニメの魅力</h4>
 

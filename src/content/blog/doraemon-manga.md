@@ -40,7 +40,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/doraemon-manga-body-1.png" alt="doraemon-manga" class="widget-img" loading="lazy" />
+  <img src="/images/doraemon-manga.jpg" alt="doraemon-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの</h4>
 
@@ -64,7 +64,7 @@ mediaType: 'comic'
 
 この作品の魅力は、ひみつ道具の面白さだけではありません。むしろ、ひみつ道具が引き起こす騒動を通じて、のび太とドラえもん、そしてジャイアン、スネ夫、しずかちゃんといった友人たちの間に生まれる友情、葛藤、そして成長の物語こそが、僕たちが心を掴まれる理由です。未来から来たロボットが、過去のダメな少年の日常を変えようと奮闘する。その姿は、まるで僕たちが人生で直面するであろう困難や、そこからどう立ち上がるべきかを、優しく、時には厳しく教えてくれる、親しい先輩のようにも映ります。彼らの日々の繰り返しの中に、ふとした気づきや小さな感動が散りばめられているのです。
 
-<img src="/images/doraemon-manga-body-2.jpg" alt="doraemon-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/doraemon-manga.jpg" alt="doraemon-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## SF（少し不思議）が問いかける、技術と人の心
 
@@ -139,7 +139,7 @@ DMMブックスでは、定期的にセールやキャンペーンを実施し�
 
 
 <div class="product-widget-card">
-  <img src="/images/doraemon-manga-body-1.png" alt="doraemon-manga" class="widget-img" loading="lazy" />
+  <img src="/images/doraemon-manga.jpg" alt="doraemon-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの</h4>
 

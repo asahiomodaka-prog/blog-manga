@@ -34,7 +34,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/manga-dinosaur-seminar-body-1.png" alt="manga-dinosaur-seminar" class="widget-img" loading="lazy" />
+  <img src="/images/manga-dinosaur-seminar.jpg" alt="manga-dinosaur-seminar" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？</h4>
 
@@ -70,7 +70,7 @@ mediaType: 'comic'
 
 この作品が発表された昭和の時代は、科学技術、特に生命科学の分野で急速な発展が見られ、クローン技術や遺伝子操作といった、それまでSFの世界でしか語られなかった可能性が現実味を帯び始めていた時期と重なる。生命操作の倫理が問い直され始めた当時の社会背景は、本作のメッセージに一層の深みを与えている。だからこそ、今読んでも色褪せない人間ドラマとして、この作品は現代に生きる私たちにも強く訴えかけるものがある。科学の発展を無条件に賛美するのではなく、その影の部分にも目を向け、倫理的な問いを投げかける藤子・F・不二雄の先見性には、感銘を受けるばかりだ。
 
-<img src="/images/manga-dinosaur-seminar-body-2.jpg" alt="manga-dinosaur-seminar" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/manga-dinosaur-seminar.jpg" alt="manga-dinosaur-seminar" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 重い問いを突きつける選択と、生命への問いかけ
 
@@ -82,7 +82,7 @@ mediaType: 'comic'
 
 また、作品には、科学者の暴走を止めようとする者や、その研究に疑問を投げかけるキャラクターも登場する。彼らの存在が、物語に多角的な視点をもたらし、単純な善悪二元論に陥ることを避けている。彼らの葛藤や、それぞれの信念に基づいた行動は、読者に「もし自分がその立場だったらどうするだろうか」という問いを投げかける。藤子・F・不二雄は、登場人物たちの内面の描写を通して、生命の価値とは何か、科学と倫理のバランスをどう取るべきかという、深遠なテーマを私たちに提示している。単なるキャラクターのやり取りに留まらず、それぞれの選択が持つ意味や、それがもたらす結果までを考えさせる描写は、藤子・F・不二雄のストーリーテリングの巧みさを象徴している。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/manga-dinosaur-seminar-body-3.jpg" alt="manga-dinosaur-seminar" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/manga-dinosaur-seminar.jpg" alt="manga-dinosaur-seminar" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -132,7 +132,7 @@ DMMブックスでは、[別巻 まんがゼミナール 恐竜ゼミナール](
 
 
 <div class="product-widget-card">
-  <img src="/images/manga-dinosaur-seminar-body-1.png" alt="manga-dinosaur-seminar" class="widget-img" loading="lazy" />
+  <img src="/images/manga-dinosaur-seminar.jpg" alt="manga-dinosaur-seminar" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？</h4>
 

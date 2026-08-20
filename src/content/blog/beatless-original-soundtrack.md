@@ -31,7 +31,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/beatless-original-soundtrack-body-1.png" alt="beatless-original-soundtrack" class="widget-img" loading="lazy" />
+  <img src="/images/beatless-original-soundtrack.jpg" alt="beatless-original-soundtrack" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー</h4>
 
@@ -47,7 +47,7 @@ mediaType: 'anime'
 
 ## エレクトロニックと壮大なシンフォニックが織りなす音響世界
 
-<img src="/images/beatless-original-soundtrack-body-2.jpg" alt="beatless-original-soundtrack" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/beatless-original-soundtrack.jpg" alt="beatless-original-soundtrack" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 本作のサウンドトラックの大きな魅力は、近未来のサイバーパンク感を漂わせる鋭い電子音と、重厚なオーケストレーションの融合にある。この独自のサウンドデザインは、作品の持つ二面性――すなわち、機械的で冷徹なテクノロジー社会と、その中で芽生える人間的な感情――を鮮やかに描き出している。
 
@@ -63,7 +63,7 @@ mediaType: 'anime'
 
 特に、主要なhIEたち――美しきレイシア、破壊を司る紅霞、変貌自在なスノードロップ、秩序の番人メトーデ――それぞれに与えられた音のイメージが、物語の進行とともに変化し、多層的なキャラクター造形を補強している点も注目すべきだろう。静寂と轟音のダイナミクスが綿密に計算されており、ヘッドホンでじっくりと聴き込むと、アニメ本編ではセリフの裏に隠れていた細かな音響レイヤーのこだわりに気づくことができる。これによって、物語の深層にある感情や、未来社会の冷酷なリアリティがより鮮明に感じられるのだ。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_269zmcz12168s%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/beatless-original-soundtrack-body-3.jpg" alt="beatless-original-soundtrack" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_269zmcz12168s%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/beatless-original-soundtrack.jpg" alt="beatless-original-soundtrack" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -116,7 +116,7 @@ mediaType: 'anime'
 
 
 <div class="product-widget-card">
-  <img src="/images/beatless-original-soundtrack-body-1.png" alt="beatless-original-soundtrack" class="widget-img" loading="lazy" />
+  <img src="/images/beatless-original-soundtrack.jpg" alt="beatless-original-soundtrack" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー</h4>
 

@@ -44,7 +44,7 @@ mediaType: 'figure'
 
 
 <div class="product-widget-card">
-  <img src="/images/pop-up-parade-nikaido-hiro-body-1.png" alt="pop-up-parade-nikaido-hiro" class="widget-img" loading="lazy" />
+  <img src="/images/pop-up-parade-nikaido-hiro.jpg" alt="pop-up-parade-nikaido-hiro" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？</h4>
 
@@ -138,7 +138,7 @@ mediaType: 'figure'
 彼の不器用な優しさ、仕事への情熱、そして桐嶋への秘めた感情が、この一体のフィギュアから確かに感じ取れる。
 僕のデスクで、彼は今日も静かに、しかし雄弁に、大人の恋の物語を語りかけてくる。
 
-<img src="/images/pop-up-parade-nikaido-hiro-body-2.jpg" alt="pop-up-parade-nikaido-hiro" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/pop-up-parade-nikaido-hiro.jpg" alt="pop-up-parade-nikaido-hiro" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -218,7 +218,7 @@ DMMブックスなどでは、導入エピソードを気軽に確認できる�
 
 
 <div class="product-widget-card">
-  <img src="/images/pop-up-parade-nikaido-hiro-body-1.png" alt="pop-up-parade-nikaido-hiro" class="widget-img" loading="lazy" />
+  <img src="/images/pop-up-parade-nikaido-hiro.jpg" alt="pop-up-parade-nikaido-hiro" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">POP UP PARADE 二階堂ヒロ。彼の瞳に宿る、あの頃の葛藤とは？</h4>
 

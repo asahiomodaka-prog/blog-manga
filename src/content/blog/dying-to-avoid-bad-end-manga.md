@@ -39,7 +39,7 @@ RPGで「全滅エンド」を迎えた時、プレイヤーなら誰もが「�
 
 
 <div class="product-widget-card">
-  <img src="/images/dying-to-avoid-bad-end-manga-body-1.png" alt="dying-to-avoid-bad-end-manga" class="widget-img" loading="lazy" />
+  <img src="/images/dying-to-avoid-bad-end-manga.jpg" alt="dying-to-avoid-bad-end-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方</h4>
 
@@ -97,7 +97,7 @@ RPGで「全滅エンド」を迎えた時、プレイヤーなら誰もが「�
 
 こうしたキャラクターたちの心理描写は、一つ一つのセリフや表情、行動の端々にまで細やかに描かれている。読者は、彼女たちの心の闇が深まっていく過程を、まるで間近で見ているかのように追体験する。そして、その歪んだ愛情が、どこへ向かっていくのか、ウォルカとの関係はどうなるのか、目が離せなくなる。これは、単なる恋愛感情の描写ではない。人間の心の奥底に潜む、承認欲求、依存、そして支配という、普遍的なテーマを深く掘り下げているのだ。これらのキャラクターたちの葛藤は、僕らが日常で出会う人間関係の複雑さや、感情の多様性を改めて考えさせる。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4561256%2Fb000ehftx83614%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/dying-to-avoid-bad-end-manga-body-2.jpg" alt="dying-to-avoid-bad-end-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4561256%2Fb000ehftx83614%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/dying-to-avoid-bad-end-manga.jpg" alt="dying-to-avoid-bad-end-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -147,7 +147,7 @@ DMMブックスでは、[全滅エンドを死に物狂いで回避した。パ�
 
 
 <div class="product-widget-card">
-  <img src="/images/dying-to-avoid-bad-end-manga-body-1.png" alt="dying-to-avoid-bad-end-manga" class="widget-img" loading="lazy" />
+  <img src="/images/dying-to-avoid-bad-end-manga.jpg" alt="dying-to-avoid-bad-end-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方</h4>
 

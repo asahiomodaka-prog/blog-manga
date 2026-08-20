@@ -35,7 +35,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/all-bad-ending-avoidance-manga-body-1.png" alt="all-bad-ending-avoidance-manga" class="widget-img" loading="lazy" />
+  <img src="/images/all-bad-ending-avoidance-manga.jpg" alt="all-bad-ending-avoidance-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？</h4>
 
@@ -63,7 +63,7 @@ mediaType: 'comic'
 
 登場人物たちの心理描写は極めて繊細だ。それぞれのキャラクターが抱える葛藤や、主人公への複雑な感情が、まるで生身の人間であるかのようにリアルに伝わってくる。特に、主人公を救ったことによって生じた「結果」が、彼の想像をはるかに超えるものだったという展開は、読者に強烈な印象を与えるだろう。果たして、主人公は歪んでしまった仲間たちとの関係を修復できるのか。そして、彼自身が選択した「全滅回避」という道は、本当に最善だったのか。この問いが、物語全体を覆う重厚なテーマとなっている。
 
-<img src="/images/all-bad-ending-avoidance-manga-body-2.jpg" alt="all-bad-ending-avoidance-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/all-bad-ending-avoidance-manga.jpg" alt="all-bad-ending-avoidance-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 救済の代償：倫理の変容と狂気の萌芽
 
@@ -99,7 +99,7 @@ mediaType: 'comic'
 
 そして、この物語で忘れてはならないのが、作者の卓越した画力だ。キャラクターたちの感情の機微が、繊細な表情や目の描写によって見事に表現されている。特に、仲間たちの「病んだ」感情が露わになる瞬間のゾッとするような眼差しや、主人公の疲弊しきった表情は、見る者の心に深く突き刺さる。コマ割りも非常に巧みで、心理的な緊張感が高まるシーンでは、コマを大きく使ってキャラクターの表情を強調したり、逆に細かく区切って時間の流れをゆっくりと感じさせたりと、読者の感情を巧みに揺さぶる演出が光る。これらの視覚的な要素が、物語の持つ重厚なテーマをより一層際立たせている。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/all-bad-ending-avoidance-manga-body-3.jpg" alt="all-bad-ending-avoidance-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/all-bad-ending-avoidance-manga.jpg" alt="all-bad-ending-avoidance-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 賛否両論を呼ぶ深遠な心理描写と、読む人を選ぶ物語
 
@@ -129,7 +129,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/all-bad-ending-avoidance-manga-body-1.png" alt="all-bad-ending-avoidance-manga" class="widget-img" loading="lazy" />
+  <img src="/images/all-bad-ending-avoidance-manga.jpg" alt="all-bad-ending-avoidance-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？</h4>
 

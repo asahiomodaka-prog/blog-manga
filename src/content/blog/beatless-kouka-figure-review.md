@@ -31,7 +31,7 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 
 
 <div class="product-widget-card">
-  <img src="/images/beatless-kouka-figure-review-body-1.png" alt="beatless-kouka-figure-review" class="widget-img" loading="lazy" />
+  <img src="/images/beatless-kouka-figure-review.jpg" alt="beatless-kouka-figure-review" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証</h4>
 
@@ -47,7 +47,7 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 
 ## redjuice氏の繊細なタッチを再現した造形美の真髄
 
-<img src="/images/beatless-kouka-figure-review-body-2.jpg" alt="beatless-kouka-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/beatless-kouka-figure-review.jpg" alt="beatless-kouka-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 このフィギュアの造形は、redjuice氏のイラストが持つ独特の世界観を細部まで再現している。まず目を引くのは、紅霞の象徴でもある「真紅の髪」と「クリムゾンレッドの瞳」の色彩表現だ。
 
@@ -69,7 +69,7 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 
 この立体物は、単に紅霞の姿を再現するだけでなく、彼女の複雑なキャラクター性、作品における立ち位置、そしてファンが彼女に惹かれる理由そのものを、造形として昇華していると言えるだろう。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_202204945387%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/beatless-kouka-figure-review-body-3.jpg" alt="beatless-kouka-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_202204945387%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/beatless-kouka-figure-review.jpg" alt="beatless-kouka-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -121,7 +121,7 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 
 
 <div class="product-widget-card">
-  <img src="/images/beatless-kouka-figure-review-body-1.png" alt="beatless-kouka-figure-review" class="widget-img" loading="lazy" />
+  <img src="/images/beatless-kouka-figure-review.jpg" alt="beatless-kouka-figure-review" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証</h4>
 

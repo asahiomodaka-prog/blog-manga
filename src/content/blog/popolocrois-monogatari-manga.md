@@ -37,7 +37,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/popolocrois-monogatari-manga-body-1.png" alt="popolocrois-monogatari-manga" class="widget-img" loading="lazy" />
+  <img src="/images/popolocrois-monogatari-manga.jpg" alt="popolocrois-monogatari-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由</h4>
 
@@ -73,7 +73,7 @@ mediaType: 'comic'
 
 当時の社会背景を考えると、この作品が発表された時代は、まだ純粋なファンタジーや冒険譚が子供たちの心を捉えていた頃だ。しかし、その中にあって、ここまで哲学的なテーマを内包し、読者に深い問いかけをしていた『ポポロクロイス物語』は、その時代の作品群の中でも際立った存在だったと言える。この普遍的なテーマ性は、時代を超えて読み継がれる作品の証だろう。今読んでも全く色褪せない人間ドラマがそこにはある。
 
-<img src="/images/popolocrois-monogatari-manga-body-2.jpg" alt="popolocrois-monogatari-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/popolocrois-monogatari-manga.jpg" alt="popolocrois-monogatari-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 心揺さぶる葛藤と絆――『ポポロクロイス物語』のキャラクタードラマ
 
@@ -90,7 +90,7 @@ mediaType: 'comic'
 | 価格 | 792円（各巻） |
 | 商品名 | ポポロクロイス物語 |
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/popolocrois-monogatari-manga-body-3.jpg" alt="popolocrois-monogatari-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/popolocrois-monogatari-manga.jpg" alt="popolocrois-monogatari-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -133,7 +133,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/popolocrois-monogatari-manga-body-1.png" alt="popolocrois-monogatari-manga" class="widget-img" loading="lazy" />
+  <img src="/images/popolocrois-monogatari-manga.jpg" alt="popolocrois-monogatari-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由</h4>
 

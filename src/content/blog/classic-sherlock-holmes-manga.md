@@ -19,7 +19,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/classic-sherlock-holmes-manga-body-1.png" alt="classic-sherlock-holmes-manga" class="widget-img" loading="lazy" />
+  <img src="/images/classic-sherlock-holmes-manga.jpg" alt="classic-sherlock-holmes-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を</h4>
 
@@ -47,7 +47,7 @@ mediaType: 'comic'
 
 この作品の大きな魅力は、古典の持つ重厚な雰囲気を損なうことなく、漫画ならではの視覚的な楽しさを最大限に引き出している点である。ヴィクトリア朝のロンドンの街並み、登場人物たちの服装、そして事件現場の細部に至るまで、丁寧に描かれた背景は、読者を一瞬にしてその時代へと引き込むだろう。特に、ホームズが事件の手がかりを繋ぎ合わせ、複雑な謎を解き明かす瞬間の、あの独特な「閃き」が、絵とセリフによって鮮やかに表現されているのは見事だ。活字だけでは想像に委ねるしかなかった情景が、視覚情報として提示されることで、まるで自身もホームズの推理劇を目の当たりにしているかのような臨場感が味わえる。古典に触れるきっかけとしてはもちろん、すでにホームズの世界を知る人にとっても、新たな発見や解釈の余地があるはずだ。
 
-<img src="/images/classic-sherlock-holmes-manga-body-2.jpg" alt="classic-sherlock-holmes-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/classic-sherlock-holmes-manga.jpg" alt="classic-sherlock-holmes-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 論理と倫理の狭間で輝く、人間性の深淵
 
@@ -89,7 +89,7 @@ mediaType: 'comic'
 
 彼らの関係性は、単なる主従関係でも、単なる友人関係でもない。互いの欠点を補い合い、高め合う、まさに「運命共同体」と呼ぶべきものだ。本漫画は、そんなホームズとワトソンの人間的な魅力、そして彼らが織りなす熱い友情の物語を、鮮やかな筆致で描き切っている。彼らの名言の数々も、読み終えた後も読者の心に深く残り、人生における大切な問いかけを与えてくれるだろう。
 
-<a href="https://book.dmm.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/classic-sherlock-holmes-manga-body-3.jpg" alt="classic-sherlock-holmes-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://book.dmm.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/classic-sherlock-holmes-manga.jpg" alt="classic-sherlock-holmes-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 賛否両論と、自分だけの楽しみ方を見つけるヒント
 
@@ -126,7 +126,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/classic-sherlock-holmes-manga-body-1.png" alt="classic-sherlock-holmes-manga" class="widget-img" loading="lazy" />
+  <img src="/images/classic-sherlock-holmes-manga.jpg" alt="classic-sherlock-holmes-manga" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を</h4>
 

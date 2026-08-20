@@ -100,7 +100,7 @@ mediaType: 'comic'
 
 
 <div class="product-widget-card">
-  <img src="/images/shogakukan-world-classics-7-body-1.png" alt="shogakukan-world-classics-7" class="widget-img" loading="lazy" />
+  <img src="/images/shogakukan-world-classics-7.jpg" alt="shogakukan-world-classics-7" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">小学館学習まんが世界名作館7。なぜあの結末が胸に刻まれ続けるのか？読後に残る普遍の問い</h4>
 
