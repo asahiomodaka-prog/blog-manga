@@ -30,10 +30,10 @@ mediaType: 'figure'
 
 そんなスパイクの魅力を、手のひらで堪能できるアイテムが[【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api)だ。作品中の名場面が蘇るような造形は、ファンであれば思わず手にとりたくなるだろう。本記事では、この[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2)がいかにスパイクの、そして作品の世界観を再現しているかを深掘りし、その魅力を紹介する。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -41,15 +41,15 @@ mediaType: 'figure'
 <div class="product-widget-card">
   <img src="/images/cowboy-bebop-pop-up-parade-spike-body-1.png" alt="cowboy-bebop-pop-up-parade-spike" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">カウボーイビバップ POP UP PARADE</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">カウボーイビバップ POP UP PARADE</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -85,15 +85,15 @@ POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの�
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
-    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
-    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
-    <div style="text-align: center;">
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
-            👉 DMM TVで30日間無料体験してみる
-        </a>
-    </div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+<div style="text-align: center;">
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+👉 DMM TVで30日間無料体験してみる
+</a>
+</div>
 </div>
 
 
@@ -138,10 +138,10 @@ POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの�
 
 彼が僕の部屋にやってきてから、僕の日常は少しだけ豊かになった気がする。ふとした瞬間に彼に目をやり、作品の世界に思いを馳せる時間は、僕にとってかけがえのないリフレッシュになっている。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -149,40 +149,40 @@ POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの�
 <div class="product-widget-card">
   <img src="/images/cowboy-bebop-pop-up-parade-spike-body-1.png" alt="cowboy-bebop-pop-up-parade-spike" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">カウボーイビバップ POP UP PARADE</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">カウボーイビバップ POP UP PARADE</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%2593%25E3%2583%2590%25E3%2583%2583%25E3%2583%2597%2520POP%2520UP%2520PARADE" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 <div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-        
-        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
-            <div style="display: flex; gap: 6px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-            </div>
-        </div>
-        
-        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-            <div style="display: flex; gap: 6px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-            </div>
-        </div>
-        
-    </div>
+<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+</div>
+</div>
+
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+</div>
+</div>
+
+</div>
 </div>
 
 

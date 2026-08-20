@@ -28,10 +28,10 @@ mediaType: 'comic'
 
 不遇職として追放された主人公が、前世のゲーム知識を駆使して成り上がる――。そんな逆転劇に胸を躍らせた経験があるだろうか。『追放された転生重騎士はゲーム知識で無双する』は、まさにゲーマーの夢を現実にしたような作品だ。この物語は、単なる異世界転生モノではない。かつてゲームに没頭し、隠された最強のビルドを追い求めたすべての人間に、あの頃の熱狂と、攻略の喜びを思い出させてくれる。固定観念を打ち破り、真の強さを見出す知的エンターテインメントとして、今、この作品が注目を集めている。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -39,15 +39,15 @@ mediaType: 'comic'
 <div class="product-widget-card">
   <img src="/images/reincarnated-heavy-knight-game-knowledge-body-1.png" alt="reincarnated-heavy-knight-game-knowledge" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -81,15 +81,15 @@ mediaType: 'comic'
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
-    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
-    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
-    <div style="text-align: center;">
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
-            👉 DMM TVで30日間無料体験してみる
-        </a>
-    </div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+<div style="text-align: center;">
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+👉 DMM TVで30日間無料体験してみる
+</a>
+</div>
 </div>
 
 
@@ -112,10 +112,10 @@ mediaType: 'comic'
 
 DMMブックスなら、[追放された転生重騎士はゲーム知識で無双する](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api)を1巻792円で購入できる。この熱量を持つ作品ならば、その価値は十分にあるだろう。試し読みもできるので、まずは物語の導入部分に触れてみてほしい。エルマが「重騎士」の真の力を解放していく序盤の展開は、きっと物語の魅力に引き込まれるだろう。スマホやタブレットで手軽に読めるため、いつでもどこでも、エルマの冒険を追体験できる。仕事の休憩時間や、ちょっとした待ち時間にページをめくれば、あっという間に異世界へと引き込まれるはずだ。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -123,40 +123,40 @@ DMMブックスなら、[追放された転生重騎士はゲーム知識で無�
 <div class="product-widget-card">
   <img src="/images/reincarnated-heavy-knight-game-knowledge-body-1.png" alt="reincarnated-heavy-knight-game-knowledge" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 <div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-        
-        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
-            <div style="display: flex; gap: 6px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-            </div>
-        </div>
-        
-        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-            <div style="display: flex; gap: 6px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-            </div>
-        </div>
-        
-    </div>
+<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+</div>
+</div>
+
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+</div>
+</div>
+
+</div>
 </div>
 
 

@@ -25,10 +25,10 @@ mediaType: 'comic'
 
 藤子・F・不二雄の『別巻 まんがゼミナール 恐竜ゼミナール』は、単なる恐竜学習漫画ではない。失われた生命を科学の力で蘇らせるという、太古のロマンと現代科学の倫理的ジレンマを深く問いかけるSF作品である。子ども向けという体裁の裏に、生命の尊厳、科学の功罪、そして人類の傲慢さといった普遍的なテーマを織り込み、読者の知的好奇心と深い考察を促す。本書は、藤子・F・不二雄作品の中でも、特に哲学的でマニアックな側面を持つ傑作として、今なお多くの読者に読み継がれている。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -36,15 +36,15 @@ mediaType: 'comic'
 <div class="product-widget-card">
   <img src="/images/manga-dinosaur-seminar-body-1.png" alt="manga-dinosaur-seminar" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -86,15 +86,15 @@ mediaType: 'comic'
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-    <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
-    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
-    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
-    <div style="text-align: center;">
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
-            👉 DMM TVで30日間無料体験してみる
-        </a>
-    </div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+<div style="text-align: center;">
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+👉 DMM TVで30日間無料体験してみる
+</a>
+</div>
 </div>
 
 
@@ -123,10 +123,10 @@ DMMブックスでは、[別巻 まんがゼミナール 恐竜ゼミナール](
 
 電子書籍の最大の利点は、保管場所を気にせず全巻一気読みできることにある。この作品は、一度読み始めたら止まらなくなる、読者の知的好奇心を強く刺激するストーリー展開だ。続きが気になった時に、すぐに次のページを開けるのは、電子書籍ならではの快適さである。夜の静かな時間に、明かりを落とした部屋で、電子書籍の画面越しに恐竜たちの息吹を感じるのも、趣深い体験となるだろう。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -134,40 +134,40 @@ DMMブックスでは、[別巻 まんがゼミナール 恐竜ゼミナール](
 <div class="product-widget-card">
   <img src="/images/manga-dinosaur-seminar-body-1.png" alt="manga-dinosaur-seminar" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 <div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-        
-        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
-            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
-            <div style="display: flex; gap: 6px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-            </div>
-        </div>
-        
-        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
-            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
-            <div style="display: flex; gap: 6px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-            </div>
-        </div>
-        
-    </div>
+<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅で全巻読破</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDMM%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+</div>
+</div>
+
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ全巻セット（紙のブックカバー付き）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読みたい名作コミック一覧</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+</div>
+</div>
+
+</div>
 </div>
 
 

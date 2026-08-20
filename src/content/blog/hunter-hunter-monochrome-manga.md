@@ -26,10 +26,10 @@ mediaType: 'comic'
 <!-- PR -->
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -37,15 +37,15 @@ mediaType: 'comic'
 <div class="product-widget-card">
   <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=HUNTER%C3%97HUN" alt="HUNTER×HUNTER モノクロ版の残酷な真実。なぜ読むほど心に刺さり考察が止まらないのか" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">HUNTER×HUNTER モノクロ版の残酷な真実。なぜ読むほど心に刺さり考察が止まらないのか</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHUNTER%25C3%2597HUNTER%2520%25E3%2583%25A2%25E3%2583%258E%25E3%2582%25AF%25E3%2583%25AD%25E7%2589%2588%25E3%2581%25AE%25E6%25AE%258B%25E9%2585%25B7%25E3%2581%25AA%25E7%259C%259F%25E5%25AE%259F%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E8%25AA%25AD%25E3%2582%2580%25E3%2581%25BB%25E3%2581%25A9%25E5%25BF%2583%25E3%2581%25AB%25E5%2588%25BA%25E3%2581%2595%25E3%2582%258A%25E8%2580%2583%25E5%25AF%259F%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">HUNTER×HUNTER モノクロ版の残酷な真実。なぜ読むほど心に刺さり考察が止まらないのか</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHUNTER%25C3%2597HUNTER%2520%25E3%2583%25A2%25E3%2583%258E%25E3%2582%25AF%25E3%2583%25AD%25E7%2589%2588%25E3%2581%25AE%25E6%25AE%258B%25E9%2585%25B7%25E3%2581%25AA%25E7%259C%259F%25E5%25AE%259F%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E8%25AA%25AD%25E3%2582%2580%25E3%2581%25BB%25E3%2581%25A9%25E5%25BF%2583%25E3%2581%25AB%25E5%2588%25BA%25E3%2581%2595%25E3%2582%258A%25E8%2580%2583%25E5%25AF%259F%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
