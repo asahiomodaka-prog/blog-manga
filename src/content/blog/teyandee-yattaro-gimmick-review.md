@@ -24,9 +24,7 @@ mediaType: 'figure'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -35,34 +33,16 @@ mediaType: 'figure'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%AD%E3%83%A3%E3%83%83%E5%85%9A%E5%BF%8D%E4%BC%9D%E3%81%A6%E3%82%84%E3%82%93%E3%81%A7" alt="キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%AD%E3%83%A3%E3%83%83%E5%85%9A%E5%BF%8D%E4%BC%9D%E3%81%A6%E3%82%84%E3%82%93%E3%81%A7%E3%81%88%20%E3%83%A4%E3%83%83%E5%A4%AA%E9%83%8E%EF%BC%86%E3%83%88%E3%83%AA%E3%83%84%E3%83%83%E3%82%AF%E3%83%B3%EF%BC%81%E5%90%88%E4%BD%93%E3%82%AE%E3%83%9F%E3%83%83%E3%82%AF%E3%81%A8%E9%80%A0%E5%BD%A2%E7%BE%8E%E3%82%92%E6%A4%9C%E8%A8%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/teyandee-yattaro-gimmick-review-body-1.png" alt="teyandee-yattaro-gimmick-review" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -93,7 +73,7 @@ mediaType: 'figure'
 
 特に注目すべきは、ヤッ太郎とトリツックンの関係性だ。彼らは単なる主従関係ではなく、互いに支え合い、時にはぶつかり合いながらも、共に成長していく対等なパートナーである。トリツックンは、ヤッ太郎にとって、時に頼れる兄貴分であり、時に手のかかる弟のようでもある。このような多面的な関係性は、現代社会における多様な人間関係のあり方を先取りしていたと言えるかもしれない。互いの違いを認め、尊重し合うこと。それは、まさに現代社会が直面している課題への一つの答えを提示しているようにも思える。この作品は、表面的な面白さだけでなく、その奥深さこそが、今なお多くのファンに語り継がれる所以だ。
 
-<img src="https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg" alt="BP028 ヤッ太郎＆トリツックン" />
+<img src="/images/teyandee-yattaro-gimmick-review-body-2.jpg" alt="teyandee-yattaro-gimmick-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -121,7 +101,7 @@ mediaType: 'figure'
 
 これらの人間ドラマは、単なるフィクションとしてだけでなく、現代社会にも通じる普遍的なテーマを扱っている。友情、努力、勝利。そして、信頼と裏切り、葛藤と成長。ヤッ太郎たちの物語は、私たちが生きる上で直面する様々な感情や状況を鮮やかに描き出し、見る者に深く問いかける力を持っているのだ。このフィギュアは、そんな熱いドラマをいつでも思い出させてくれる、まさにタイムカプセルのような存在である。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://pics.dmm.com/mono/hobby/c260103533/c260103533pt.jpg" alt="BP028 ヤッ太郎＆トリツックン 画像" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/teyandee-yattaro-gimmick-review-body-3.jpg" alt="teyandee-yattaro-gimmick-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 普遍的な魅力と、時代が生んだ郷愁
 
@@ -151,34 +131,16 @@ POP UP PARADE BP028 ヤッ太郎＆トリツックンを手にするなら、当
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%AD%E3%83%A3%E3%83%83%E5%85%9A%E5%BF%8D%E4%BC%9D%E3%81%A6%E3%82%84%E3%82%93%E3%81%A7" alt="キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%AD%E3%83%A3%E3%83%83%E5%85%9A%E5%BF%8D%E4%BC%9D%E3%81%A6%E3%82%84%E3%82%93%E3%81%A7%E3%81%88%20%E3%83%A4%E3%83%83%E5%A4%AA%E9%83%8E%EF%BC%86%E3%83%88%E3%83%AA%E3%83%84%E3%83%83%E3%82%AF%E3%83%B3%EF%BC%81%E5%90%88%E4%BD%93%E3%82%AE%E3%83%9F%E3%83%83%E3%82%AF%E3%81%A8%E9%80%A0%E5%BD%A2%E7%BE%8E%E3%82%92%E6%A4%9C%E8%A8%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/teyandee-yattaro-gimmick-review-body-1.png" alt="teyandee-yattaro-gimmick-review" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">キャッ党忍伝てやんでえ ヤッ太郎＆トリツックン！合体ギミックと造形美を検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E5%2585%259A%25E5%25BF%258D%25E4%25BC%259D%25E3%2581%25A6%25E3%2582%2584%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2588%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%25EF%25BC%2581%25E5%2590%2588%25E4%25BD%2593%25E3%2582%25AE%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

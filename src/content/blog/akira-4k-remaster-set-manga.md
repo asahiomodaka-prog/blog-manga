@@ -34,34 +34,16 @@ mediaType: 'anime'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=AKIRA%204K%E3%83%AA%E3%83%9E" alt="AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAKIRA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAKIRA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DAKIRA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DAKIRA%204K%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88%E3%81%AF%E8%B2%B7%E3%81%84%EF%BC%9F%E6%98%A0%E5%83%8F%E3%81%A8%E9%9F%B3%E9%9F%BF%E3%81%AE%E9%80%B2%E5%8C%96%E3%82%92%E6%9C%AC%E9%9F%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/akira-4k-remaster-set-manga-body-1.png" alt="akira-4k-remaster-set-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAKIRA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -80,7 +62,7 @@ mediaType: 'anime'
 
 まず、その映像表現から掘り下げよう。4K（3840×2160画素）の解像度は、フルハイビジョンの実に4倍にあたる。これにより、作品の緻密な背景描写やキャラクターの表情、動きの滑らかさに驚くほどの貢献をしている。緻密な手描きアニメーションとして知られる『AKIRA』の原画が持つ情報量が、この高解像度によって余すことなく再現されているのだ。金田の赤いバイクがネオ東京の夜の街を疾走するシーンでは、路面に映り込むネオンの反射や、路肩のゴミ一つ一つまでが鮮明に描き出され、まるで自分がそこにいるかのような臨場感がある。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0091/4934569800091.jpg?_ex=600x600" alt="AKIRA 4Kリマスターセット" loading="lazy" decoding="async" />
+<img src="/images/akira-4k-remaster-set-manga-body-2.jpg" alt="akira-4k-remaster-set-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 HDR（ハイダイナミックレンジ）もまた、映像表現に革命をもたらしている。従来の[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray)では再現しきれなかった、明るい光源や金属の質感、水面の輝きまでが、驚くほど豊かに表現されている。例えば、鉄雄が覚醒していく過程で放つ強烈な光や、崩壊していく建物の破片が光を反射する様子は、圧倒される。眩しすぎるほどの光と、それに続く深い闇のコントラストが、物語の緊迫感をより一層引き立てている。この明暗のコントラストの幅広さが、映像に奥行きと立体感を与え、スクリーンから飛び出してくるかのような錯覚さえ覚える。
 
@@ -151,34 +133,16 @@ HDR（ハイダイナミックレンジ）もまた、映像表現に革命を�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=AKIRA%204K%E3%83%AA%E3%83%9E" alt="AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAKIRA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAKIRA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DAKIRA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DAKIRA%204K%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88%E3%81%AF%E8%B2%B7%E3%81%84%EF%BC%9F%E6%98%A0%E5%83%8F%E3%81%A8%E9%9F%B3%E9%9F%BF%E3%81%AE%E9%80%B2%E5%8C%96%E3%82%92%E6%9C%AC%E9%9F%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/akira-4k-remaster-set-manga-body-1.png" alt="akira-4k-remaster-set-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">AKIRA 4Kリマスターセットは買い？映像と音響の進化を本音レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAKIRA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25A8%25E9%259F%25B3%25E9%259F%25BF%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

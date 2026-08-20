@@ -24,9 +24,7 @@ mediaType: 'comic'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 不遇職として追放された主人公が、前世のゲーム知識を駆使して成り上がる――。そんな逆転劇に胸を躍らせた経験があるだろうか。『追放された転生重騎士はゲーム知識で無双する』は、まさにゲーマーの夢を現実にしたような作品だ。この物語は、単なる異世界転生モノではない。かつてゲームに没頭し、隠された最強のビルドを追い求めたすべての人間に、あの頃の熱狂と、攻略の喜びを思い出させてくれる。固定観念を打ち破り、真の強さを見出す知的エンターテインメントとして、今、この作品が注目を集めている。
 
@@ -37,34 +35,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E" alt="「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8C%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%80%8D%E3%81%8C%E7%A4%BA%E3%81%99%E3%80%81%E4%B8%8D%E9%81%87%E8%81%B7%E3%81%8C%E6%9C%80%E5%BC%B7%E3%81%AB%E3%81%AA%E3%82%8B%E7%97%9B%E5%BF%AB%E3%81%95%E3%81%A8%E3%81%AF%EF%BC%9F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/reincarnated-heavy-knight-game-knowledge-body-1.png" alt="reincarnated-heavy-knight-game-knowledge" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -79,7 +59,7 @@ mediaType: 'comic'
 
 [追放された転生重騎士はゲーム知識で無双する](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api)
 
-<img src="https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg" alt="追放された転生重騎士はゲーム知識で無双する" />
+<img src="/images/reincarnated-heavy-knight-game-knowledge-body-2.jpg" alt="reincarnated-heavy-knight-game-knowledge" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 「不遇職」の真価と、世界を欺くゲーム知識の哲学
 
@@ -97,7 +77,7 @@ mediaType: 'comic'
 
 また、物語が進むにつれて登場する新たな仲間たち、例えば「狩人」ケルトや「僧侶」メアベルといった面々も、それぞれの個性と背景を持ってエルマの冒険に加わる。彼らは単なる脇役ではなく、エルマの戦略に新たな選択肢をもたらし、物語に深みを与えている。彼らの間には、時に意見の食い違いや衝突もあるかもしれないが、共通の目的のために協力し、互いを信頼し合う姿は、まさに王道ファンタジーの醍醐味を味わわせてくれる。特に、チームとしての連携が鍵となるレイドクエストでは、それぞれの役割が明確になり、キャラクターたちの魅力が最大限に引き出される。エルマが築き上げる人間関係は、単なるゲーム攻略のツールではなく、彼自身の人間性を豊かにするかけがえのない財産なのだ。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg" alt="追放された転生重騎士はゲーム知識で無双する 画像" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/reincarnated-heavy-knight-game-knowledge-body-3.jpg" alt="reincarnated-heavy-knight-game-knowledge" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -139,34 +119,16 @@ DMMブックスなら、[追放された転生重騎士はゲーム知識で無�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E" alt="「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8C%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%80%8D%E3%81%8C%E7%A4%BA%E3%81%99%E3%80%81%E4%B8%8D%E9%81%87%E8%81%B7%E3%81%8C%E6%9C%80%E5%BC%B7%E3%81%AB%E3%81%AA%E3%82%8B%E7%97%9B%E5%BF%AB%E3%81%95%E3%81%A8%E3%81%AF%EF%BC%9F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/reincarnated-heavy-knight-game-knowledge-body-1.png" alt="reincarnated-heavy-knight-game-knowledge" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2580%258D%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2580%2581%25E4%25B8%258D%25E9%2581%2587%25E8%2581%25B7%25E3%2581%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E7%2597%259B%25E5%25BF%25AB%25E3%2581%2595%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

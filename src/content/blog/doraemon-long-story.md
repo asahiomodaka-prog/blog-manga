@@ -38,34 +38,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%A4%A7%E9%95%B7%E7%B7%A8%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E7%B5%86" alt="大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%A7%E9%95%B7%E7%B7%A8%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E7%B5%86%E3%80%82%E3%81%AA%E3%81%9C%E3%81%82%E3%81%AE%E5%88%A5%E3%82%8C%E3%81%A8%E5%86%8D%E4%BC%9A%E3%81%AB%E6%B6%99%E3%81%8C%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/doraemon-long-story-body-1.png" alt="doraemon-long-story" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -80,7 +62,7 @@ mediaType: 'comic'
 
 作者である藤子・F・不二雄の描線は、シンプルながらもキャラクターの感情や情景を見事に表現している。彼の提唱する「SF（すこしふしぎ）」というテーマは、非日常の要素を日常の中に巧みに織り交ぜることで、読者の想像力を掻き立ててきた。大長編では、そのSFがスケールアップし、宇宙船が飛び交う迫力あるバトルシーンから、異世界の神秘的な風景、そして登場人物たちの繊細な表情まで、限られたページの中で読者の心を惹きつける。これはまさに熟練の筆致と言えよう。特に大長編では、その広大な世界観とキャラクターたちの心の機微が、短編とは一線を画す密度で描かれている。一歩足を踏み入れたらもう引き返せない、そんな冒険の熱気を紙や[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の中から感じ取れるのは、この作品群が持つ圧倒的な魅力だ。
 
-<img src="https://ebook-assets.dmm.com/digital/e-book/b600qsgk02980/b600qsgk02980pl.jpg" alt="大長編ドラえもん" />
+<img src="/images/doraemon-long-story-body-2.jpg" alt="doraemon-long-story" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 時代を超えて響く、藤子・F・不二雄が描きたかった深淵なテーマ
 
@@ -151,34 +133,16 @@ DMMブックスでは、これらの素晴らしい作品群を電子書籍で�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%A4%A7%E9%95%B7%E7%B7%A8%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E7%B5%86" alt="大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%A7%E9%95%B7%E7%B7%A8%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E7%B5%86%E3%80%82%E3%81%AA%E3%81%9C%E3%81%82%E3%81%AE%E5%88%A5%E3%82%8C%E3%81%A8%E5%86%8D%E4%BC%9A%E3%81%AB%E6%B6%99%E3%81%8C%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/doraemon-long-story-body-1.png" alt="doraemon-long-story" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E7%25B5%2586%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E5%2588%25A5%25E3%2582%258C%25E3%2581%25A8%25E5%2586%258D%25E4%25BC%259A%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

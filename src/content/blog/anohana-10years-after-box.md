@@ -39,34 +39,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%81%82%E3%81%AE%E8%8A%B110years" alt="あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B110years%2520after%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E9%259F%25B3%25E9%259F%25BF%25E3%2583%25BB%25E6%2598%25A0%25E5%2583%258F%25E7%25BE%258E%25E3%2581%25A8%25E7%2589%25B9%25E5%2585%25B8%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A9%2595%25E4%25BE%25A1%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B110years%2520after%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E9%259F%25B3%25E9%259F%25BF%25E3%2583%25BB%25E6%2598%25A0%25E5%2583%258F%25E7%25BE%258E%25E3%2581%25A8%25E7%2589%25B9%25E5%2585%25B8%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A9%2595%25E4%25BE%25A1%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B110years%2520after%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E9%259F%25B3%25E9%259F%25BF%25E3%2583%25BB%25E6%2598%25A0%25E5%2583%258F%25E7%25BE%258E%25E3%2581%25A8%25E7%2589%25B9%25E5%2585%25B8%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A9%2595%25E4%25BE%25A1%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%81%82%E3%81%AE%E8%8A%B110years%20after%20BOX%E3%81%AF%E8%B2%B7%E3%81%84%EF%BC%9F%E9%9F%B3%E9%9F%BF%E3%83%BB%E6%98%A0%E5%83%8F%E7%BE%8E%E3%81%A8%E7%89%B9%E5%85%B8%E3%81%AE%E5%86%8D%E7%8F%BE%E5%BA%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A9%95%E4%BE%A1%EF%BC%81&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/anohana-10years-after-box-body-1.png" alt="anohana-10years-after-box" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B110years%2520after%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E9%259F%25B3%25E9%259F%25BF%25E3%2583%25BB%25E6%2598%25A0%25E5%2583%258F%25E7%25BE%258E%25E3%2581%25A8%25E7%2589%25B9%25E5%2585%25B8%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A9%2595%25E4%25BE%25A1%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -99,7 +81,7 @@ Blu-rayの本編ディスクは、やはり高画質で視聴する価値が非�
 これらを深く鑑賞することで、作品の世界観やキャラクターたちの内面がより深く理解できる。
 単なるアニメのBOXではなく、作品の世界観を多角的に楽しめる、「あの花」という物語の集大成のようなアイテムである。
 
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pt.jpg" alt="あの日見た花の名前を僕達はまだ知らない。10years after BOX" loading="lazy" decoding="async" />
+<img src="/images/anohana-10years-after-box-body-2.jpg" alt="anohana-10years-after-box" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 語り継がれる「あの夏」の物語と心に残る登場人物たち
 
@@ -208,34 +190,16 @@ SNS上でも、このBOXを手に入れたファンからは同様の興奮の�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%81%82%E3%81%AE%E8%8A%B110years" alt="あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B110years%2520after%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E9%259F%25B3%25E9%259F%25BF%25E3%2583%25BB%25E6%2598%25A0%25E5%2583%258F%25E7%25BE%258E%25E3%2581%25A8%25E7%2589%25B9%25E5%2585%25B8%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A9%2595%25E4%25BE%25A1%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B110years%2520after%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E9%259F%25B3%25E9%259F%25BF%25E3%2583%25BB%25E6%2598%25A0%25E5%2583%258F%25E7%25BE%258E%25E3%2581%25A8%25E7%2589%25B9%25E5%2585%25B8%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A9%2595%25E4%25BE%25A1%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B110years%2520after%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E9%259F%25B3%25E9%259F%25BF%25E3%2583%25BB%25E6%2598%25A0%25E5%2583%258F%25E7%25BE%258E%25E3%2581%25A8%25E7%2589%25B9%25E5%2585%25B8%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A9%2595%25E4%25BE%25A1%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%81%82%E3%81%AE%E8%8A%B110years%20after%20BOX%E3%81%AF%E8%B2%B7%E3%81%84%EF%BC%9F%E9%9F%B3%E9%9F%BF%E3%83%BB%E6%98%A0%E5%83%8F%E7%BE%8E%E3%81%A8%E7%89%B9%E5%85%B8%E3%81%AE%E5%86%8D%E7%8F%BE%E5%BA%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A9%95%E4%BE%A1%EF%BC%81&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/anohana-10years-after-box-body-1.png" alt="anohana-10years-after-box" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B110years%2520after%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E9%259F%25B3%25E9%259F%25BF%25E3%2583%25BB%25E6%2598%25A0%25E5%2583%258F%25E7%25BE%258E%25E3%2581%25A8%25E7%2589%25B9%25E5%2585%25B8%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A9%2595%25E4%25BE%25A1%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

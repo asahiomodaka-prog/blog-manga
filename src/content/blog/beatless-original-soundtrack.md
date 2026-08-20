@@ -14,9 +14,7 @@ mediaType: 'anime'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 アニメ『BEATLESS』は、人間と高度な人工知能（hIE）が共存する近未来を舞台に、その境界線を問いかける深遠なSF作品である。緻密な設定と美麗なビジュアル、そして何よりも作品世界への深い没入感を誘う劇伴音楽が、多くのファンを魅了した。
 
@@ -31,34 +29,16 @@ mediaType: 'anime'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8CBEAT" alt="TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DTV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8CBEATLESS%E3%80%8D%E3%82%B5%E3%83%B3%E3%83%88%E3%83%A9%E3%81%AE%E5%9C%A7%E5%80%92%E7%9A%84%E6%B2%A1%E5%85%A5%E6%84%9F%EF%BC%81%E8%BF%91%E6%9C%AA%E6%9D%A5SF%E3%81%AE%E4%B8%96%E7%95%8C%E3%82%92%E5%BD%A9%E3%82%8B%E5%90%8D%E6%9B%B2%E3%82%92%E5%BE%B9%E5%BA%95%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/beatless-original-soundtrack-body-1.png" alt="beatless-original-soundtrack" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -67,7 +47,7 @@ mediaType: 'anime'
 
 ## エレクトロニックと壮大なシンフォニックが織りなす音響世界
 
-<img src="https://pics.dmm.com/mono/cd/cd_269zmcz12168s/cd_269zmcz12168spl.jpg" alt="TVアニメ「BEATLESS」オリジナルサウンドトラック" />
+<img src="/images/beatless-original-soundtrack-body-2.jpg" alt="beatless-original-soundtrack" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 本作のサウンドトラックの大きな魅力は、近未来のサイバーパンク感を漂わせる鋭い電子音と、重厚なオーケストレーションの融合にある。この独自のサウンドデザインは、作品の持つ二面性――すなわち、機械的で冷徹なテクノロジー社会と、その中で芽生える人間的な感情――を鮮やかに描き出している。
 
@@ -83,7 +63,7 @@ mediaType: 'anime'
 
 特に、主要なhIEたち――美しきレイシア、破壊を司る紅霞、変貌自在なスノードロップ、秩序の番人メトーデ――それぞれに与えられた音のイメージが、物語の進行とともに変化し、多層的なキャラクター造形を補強している点も注目すべきだろう。静寂と轟音のダイナミクスが綿密に計算されており、ヘッドホンでじっくりと聴き込むと、アニメ本編ではセリフの裏に隠れていた細かな音響レイヤーのこだわりに気づくことができる。これによって、物語の深層にある感情や、未来社会の冷酷なリアリティがより鮮明に感じられるのだ。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_269zmcz12168s%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://pics.dmm.com/mono/cd/cd_269zmcz12168s/cd_269zmcz12168spl.jpg" alt="TVアニメ「BEATLESS」オリジナルサウンドトラック 画像" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_269zmcz12168s%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/beatless-original-soundtrack-body-3.jpg" alt="beatless-original-soundtrack" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -134,34 +114,16 @@ mediaType: 'anime'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8CBEAT" alt="TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DTV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8CBEATLESS%E3%80%8D%E3%82%B5%E3%83%B3%E3%83%88%E3%83%A9%E3%81%AE%E5%9C%A7%E5%80%92%E7%9A%84%E6%B2%A1%E5%85%A5%E6%84%9F%EF%BC%81%E8%BF%91%E6%9C%AA%E6%9D%A5SF%E3%81%AE%E4%B8%96%E7%95%8C%E3%82%92%E5%BD%A9%E3%82%8B%E5%90%8D%E6%9B%B2%E3%82%92%E5%BE%B9%E5%BA%95%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/beatless-original-soundtrack-body-1.png" alt="beatless-original-soundtrack" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258CBEATLESS%25E3%2580%258D%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E6%25B2%25A1%25E5%2585%25A5%25E6%2584%259F%25EF%25BC%2581%25E8%25BF%2591%25E6%259C%25AA%25E6%259D%25A5SF%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E5%2590%258D%25E6%259B%25B2%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

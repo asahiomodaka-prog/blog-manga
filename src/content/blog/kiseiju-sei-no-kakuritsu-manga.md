@@ -24,9 +24,7 @@ mediaType: 'comic'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 寄生生物が人間に寄生し、異形の姿で社会に潜む。そんなSFホラーの皮を被りながら、生命倫理、環境問題、そして人間とは何かという根源的な問いを投げかけるのが、アニメ『寄生獣 セイの格率』だ。平凡な高校生・泉新一と、彼の右腕に寄生したミギーの奇妙な共生が織りなす物語は、観る者の価値観を揺さぶる傑作である。DMMTVで全話視聴できる今、この作品が放つ普遍的なメッセージを改めて考察する。
 
@@ -37,34 +35,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87%EF%BC%9A" alt="寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3%2520%25E3%2582%25BB%25E3%2582%25A4%25E3%2581%25AE%25E6%25A0%25BC%25E7%258E%2587%25EF%25BC%259A%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2583%259F%25E3%2582%25AE%25E3%2583%25BC%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E5%2591%25BD%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%25E7%25B7%259A" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3%2520%25E3%2582%25BB%25E3%2582%25A4%25E3%2581%25AE%25E6%25A0%25BC%25E7%258E%2587%25EF%25BC%259A%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2583%259F%25E3%2582%25AE%25E3%2583%25BC%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E5%2591%25BD%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%25E7%25B7%259A%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3%2520%25E3%2582%25BB%25E3%2582%25A4%25E3%2581%25AE%25E6%25A0%25BC%25E7%258E%2587%25EF%25BC%259A%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2583%259F%25E3%2582%25AE%25E3%2583%25BC%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E5%2591%25BD%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%25E7%25B7%259A" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87%EF%BC%9A%E4%BA%BA%E9%96%93%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F%E3%83%9F%E3%82%AE%E3%83%BC%E3%81%8C%E5%95%8F%E3%81%84%E3%81%8B%E3%81%91%E3%82%8B%E5%91%BD%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/kiseiju-sei-no-kakuritsu-manga-body-1.png" alt="kiseiju-sei-no-kakuritsu-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3%2520%25E3%2582%25BB%25E3%2582%25A4%25E3%2581%25AE%25E6%25A0%25BC%25E7%258E%2587%25EF%25BC%259A%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2583%259F%25E3%2582%25AE%25E3%2583%25BC%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E5%2591%25BD%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%25E7%25B7%259A" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -144,34 +124,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87%EF%BC%9A" alt="寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3%2520%25E3%2582%25BB%25E3%2582%25A4%25E3%2581%25AE%25E6%25A0%25BC%25E7%258E%2587%25EF%25BC%259A%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2583%259F%25E3%2582%25AE%25E3%2583%25BC%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E5%2591%25BD%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%25E7%25B7%259A" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3%2520%25E3%2582%25BB%25E3%2582%25A4%25E3%2581%25AE%25E6%25A0%25BC%25E7%258E%2587%25EF%25BC%259A%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2583%259F%25E3%2582%25AE%25E3%2583%25BC%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E5%2591%25BD%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%25E7%25B7%259A%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3%2520%25E3%2582%25BB%25E3%2582%25A4%25E3%2581%25AE%25E6%25A0%25BC%25E7%258E%2587%25EF%25BC%259A%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2583%259F%25E3%2582%25AE%25E3%2583%25BC%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E5%2591%25BD%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%25E7%25B7%259A" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%AF%84%E7%94%9F%E7%8D%A3%20%E3%82%BB%E3%82%A4%E3%81%AE%E6%A0%BC%E7%8E%87%EF%BC%9A%E4%BA%BA%E9%96%93%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F%E3%83%9F%E3%82%AE%E3%83%BC%E3%81%8C%E5%95%8F%E3%81%84%E3%81%8B%E3%81%91%E3%82%8B%E5%91%BD%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/kiseiju-sei-no-kakuritsu-manga-body-1.png" alt="kiseiju-sei-no-kakuritsu-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3%2520%25E3%2582%25BB%25E3%2582%25A4%25E3%2581%25AE%25E6%25A0%25BC%25E7%258E%2587%25EF%25BC%259A%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2583%259F%25E3%2582%25AE%25E3%2583%25BC%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E5%2591%25BD%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%25E7%25B7%259A" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

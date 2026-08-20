@@ -36,34 +36,16 @@ mediaType: 'anime'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA" alt="新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3TV%25E6%2594%25BE%25E6%2598%25A0%25E7%2589%2588DVDBOX%25EF%25BC%2581%25E7%25A4%25BE%25E4%25BC%259A%25E7%258F%25BE%25E8%25B1%25A1%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BC%259D%25E8%25AA%25AC%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E9%25AD%2582%25E3%2581%25AE%25E8%25BB%258C%25E8%25B7%25A1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3TV%25E6%2594%25BE%25E6%2598%25A0%25E7%2589%2588DVDBOX%25EF%25BC%2581%25E7%25A4%25BE%25E4%25BC%259A%25E7%258F%25BE%25E8%25B1%25A1%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BC%259D%25E8%25AA%25AC%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E9%25AD%2582%25E3%2581%25AE%25E8%25BB%258C%25E8%25B7%25A1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3TV%25E6%2594%25BE%25E6%2598%25A0%25E7%2589%2588DVDBOX%25EF%25BC%2581%25E7%25A4%25BE%25E4%25BC%259A%25E7%258F%25BE%25E8%25B1%25A1%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BC%259D%25E8%25AA%25AC%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E9%25AD%2582%25E3%2581%25AE%25E8%25BB%258C%25E8%25B7%25A1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3TV%E6%94%BE%E6%98%A0%E7%89%88DVDBOX%EF%BC%81%E7%A4%BE%E4%BC%9A%E7%8F%BE%E8%B1%A1%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E4%BC%9D%E8%AA%AC%E3%81%AE%E7%86%B1%E7%8B%82%E3%81%A8%E9%AD%82%E3%81%AE%E8%BB%8C%E8%B7%A1&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/neon-genesis-evangelion-tv-dvdbox-body-1.png" alt="neon-genesis-evangelion-tv-dvdbox" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3TV%25E6%2594%25BE%25E6%2598%25A0%25E7%2589%2588DVDBOX%25EF%25BC%2581%25E7%25A4%25BE%25E4%25BC%259A%25E7%258F%25BE%25E8%25B1%25A1%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BC%259D%25E8%25AA%25AC%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E9%25AD%2582%25E3%2581%25AE%25E8%25BB%258C%25E8%25B7%25A1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -133,7 +115,7 @@ mediaType: 'anime'
 
 ストリーミングサービスが主流となった現代において、物理メディアとしてのDVD-BOXを購入することに、どんな意味があるのだろうか？そう思う人もいるかもしれない。だが、アニメ作品のコレクターとして、また一ファンとして言わせてもらえば、この [新世紀エヴァンゲリオンTV放映版DVDBOX ARCHIVES OF EVANGELION (期間限定生産版)TVアニメ](https://hb.afl.rakuten.co.jp/hgc/g00qo031.ve2q517d.g00qo031.ve2q67ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsurprise-web%2Faznkiba-92191%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsurprise-web%2Fi%2F12888204%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) が持つ価値は、ただ作品を視聴できるというだけではない。それは、あの頃の熱狂、あの衝撃を「手元に置いておく」ことのできる、かけがえのない体験そのものなのだ。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/surprise-web/cabinet/imgr0642/kiba-92191.jpg?_ex=600x600" alt="DVD / TVアニメ /" />
+<img src="/images/neon-genesis-evangelion-tv-dvdbox-body-2.jpg" alt="neon-genesis-evangelion-tv-dvdbox" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 筆者がこの期間限定生産版のDVDBOXを手に入れた時、まず感じたのはそのパッケージの質感だった。手に取った瞬間の重み、デザインされたアートワーク。これは単なるディスクの入れ物ではなく、僕らが青春を捧げた「新世紀エヴァンゲリオン」という文化そのものを凝縮した、一つのオブジェなのだ。デジタル配信では味わえない、この所有する喜びは、筆者のようなコレクターにとっては、特別な魅力がある。
 
@@ -158,34 +140,16 @@ mediaType: 'anime'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA" alt="新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3TV%25E6%2594%25BE%25E6%2598%25A0%25E7%2589%2588DVDBOX%25EF%25BC%2581%25E7%25A4%25BE%25E4%25BC%259A%25E7%258F%25BE%25E8%25B1%25A1%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BC%259D%25E8%25AA%25AC%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E9%25AD%2582%25E3%2581%25AE%25E8%25BB%258C%25E8%25B7%25A1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3TV%25E6%2594%25BE%25E6%2598%25A0%25E7%2589%2588DVDBOX%25EF%25BC%2581%25E7%25A4%25BE%25E4%25BC%259A%25E7%258F%25BE%25E8%25B1%25A1%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BC%259D%25E8%25AA%25AC%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E9%25AD%2582%25E3%2581%25AE%25E8%25BB%258C%25E8%25B7%25A1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3TV%25E6%2594%25BE%25E6%2598%25A0%25E7%2589%2588DVDBOX%25EF%25BC%2581%25E7%25A4%25BE%25E4%25BC%259A%25E7%258F%25BE%25E8%25B1%25A1%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BC%259D%25E8%25AA%25AC%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E9%25AD%2582%25E3%2581%25AE%25E8%25BB%258C%25E8%25B7%25A1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3TV%E6%94%BE%E6%98%A0%E7%89%88DVDBOX%EF%BC%81%E7%A4%BE%E4%BC%9A%E7%8F%BE%E8%B1%A1%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E4%BC%9D%E8%AA%AC%E3%81%AE%E7%86%B1%E7%8B%82%E3%81%A8%E9%AD%82%E3%81%AE%E8%BB%8C%E8%B7%A1&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/neon-genesis-evangelion-tv-dvdbox-body-1.png" alt="neon-genesis-evangelion-tv-dvdbox" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3TV%25E6%2594%25BE%25E6%2598%25A0%25E7%2589%2588DVDBOX%25EF%25BC%2581%25E7%25A4%25BE%25E4%25BC%259A%25E7%258F%25BE%25E8%25B1%25A1%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BC%259D%25E8%25AA%25AC%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E9%25AD%2582%25E3%2581%25AE%25E8%25BB%258C%25E8%25B7%25A1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

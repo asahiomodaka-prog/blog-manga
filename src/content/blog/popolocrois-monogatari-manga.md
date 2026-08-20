@@ -24,9 +24,7 @@ mediaType: 'comic'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 少年時代の冒険への憧憬を、大人になった今も忘れていないだろうか。ファミコンやブラウン管テレビの向こうで繰り広げられた壮大な物語に心を揺さぶられた記憶は、きっと多くの人々の胸に刻まれているはずだ。純粋な心で世界と向き合い、困難を乗り越え、成長していく――。そんな普遍的な物語は、いつの時代も私たちを魅了する。今回は、現代に蘇った不朽のファンタジー漫画、『ポポロクロイス物語』を紹介する。あの頃の熱狂と感動を、今こそ改めて味わってみてほしい。
 
@@ -37,34 +35,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%9D%E3%83%9D%E3%83%AD%E3%82%AF%E3%83%AD%E3%82%A4%E3%82%B9%E7%89%A9%E8%AA%9E%E3%80%8A" alt="ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%9D%E3%83%9D%E3%83%AD%E3%82%AF%E3%83%AD%E3%82%A4%E3%82%B9%E7%89%A9%E8%AA%9E%E3%80%8A%E6%B1%BA%E5%AE%9A%E7%89%88%E3%80%8B%E3%81%8C%E6%8F%8F%E3%81%8F%E5%8B%87%E6%B0%97%E3%81%A8%E6%84%9B%EF%BC%81%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E4%BB%8A%E3%80%81%E8%83%B8%E3%82%92%E6%89%93%E3%81%A4%E7%90%86%E7%94%B1&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/popolocrois-monogatari-manga-body-1.png" alt="popolocrois-monogatari-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -93,7 +73,7 @@ mediaType: 'comic'
 
 当時の社会背景を考えると、この作品が発表された時代は、まだ純粋なファンタジーや冒険譚が子供たちの心を捉えていた頃だ。しかし、その中にあって、ここまで哲学的なテーマを内包し、読者に深い問いかけをしていた『ポポロクロイス物語』は、その時代の作品群の中でも際立った存在だったと言える。この普遍的なテーマ性は、時代を超えて読み継がれる作品の証だろう。今読んでも全く色褪せない人間ドラマがそこにはある。
 
-<img src="https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00242/b889ahkdd00242pl.jpg" alt="ポポロクロイス物語" />
+<img src="/images/popolocrois-monogatari-manga-body-2.jpg" alt="popolocrois-monogatari-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 心揺さぶる葛藤と絆――『ポポロクロイス物語』のキャラクタードラマ
 
@@ -110,7 +90,7 @@ mediaType: 'comic'
 | 価格 | 792円（各巻） |
 | 商品名 | ポポロクロイス物語 |
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b889ahkdd00242/b889ahkdd00242pl.jpg" alt="ポポロクロイス物語 画像" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6258670%2Fb900zkds70468%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/popolocrois-monogatari-manga-body-3.jpg" alt="popolocrois-monogatari-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -151,34 +131,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%9D%E3%83%9D%E3%83%AD%E3%82%AF%E3%83%AD%E3%82%A4%E3%82%B9%E7%89%A9%E8%AA%9E%E3%80%8A" alt="ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%9D%E3%83%9D%E3%83%AD%E3%82%AF%E3%83%AD%E3%82%A4%E3%82%B9%E7%89%A9%E8%AA%9E%E3%80%8A%E6%B1%BA%E5%AE%9A%E7%89%88%E3%80%8B%E3%81%8C%E6%8F%8F%E3%81%8F%E5%8B%87%E6%B0%97%E3%81%A8%E6%84%9B%EF%BC%81%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E4%BB%8A%E3%80%81%E8%83%B8%E3%82%92%E6%89%93%E3%81%A4%E7%90%86%E7%94%B1&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/popolocrois-monogatari-manga-body-1.png" alt="popolocrois-monogatari-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ポポロクロイス物語《決定版》が描く勇気と愛！大人になった今、胸を打つ理由</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%25E3%2580%258A%25E6%25B1%25BA%25E5%25AE%259A%25E7%2589%2588%25E3%2580%258B%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%25E5%258B%2587%25E6%25B0%2597%25E3%2581%25A8%25E6%2584%259B%25EF%25BC%2581%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%258A%25E3%2580%2581%25E8%2583%25B8%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

@@ -21,9 +21,7 @@ mediaType: 'figure'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 『ヤッ太郎＆トリツックン』は、多くのファンに愛され続ける不朽の名作だ。今回紹介する[BP028 ヤッ太郎＆トリツックン](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api)の[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2)は、その愛らしい姿で、作品が持つ普遍的な魅力とノスタルジーを凝縮している。このフィギュアをデスクに飾ることは、日々の喧騒から離れ、純粋な物語の喜びに浸るための小さな入り口となるだろう。作品を知る者ならば、その名を聞くだけで胸の奥が熱くなるはずだ。未だ触れたことのない読者には、ぜひこの機会に、その魅力の一端に触れてほしい。
 
@@ -37,7 +35,7 @@ mediaType: 'figure'
 
 特に印象的なのは、ヤッ太郎たちの日常が、とても丁寧に描かれている点だ。彼らが住む街の風景、人々の暮らし、そしてちょっとした人間模様。それら全てが、どこか懐かしく、温かい。アニメ版も人気を博したが、原作漫画のコマ割りや線のタッチには、また違った趣がある。作者の卓越した画力は、キャラクターたちの表情一つ一つに豊かな感情を宿らせ、読者の想像力を掻き立てる。特に、アクションシーンの躍動感は圧巻で、ページをめくる手が止まらなくなる。作品全体に漂う独特の空気感は、まさに唯一無二。初めて触れる者にとっては新鮮な驚きがあり、かつて夢中になった者にとっては、あの頃の興奮が蘇る。そして、このフィギュアはその熱量を手のひらで感じさせてくれる存在だ。
 
-<img src="https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg" alt="BP028 ヤッ太郎＆トリツックン" />
+<img src="/images/yattaro-toritsukkun-model-kit-body-1.jpg" alt="yattaro-toritsukkun-model-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ### 時代が映し出す普遍的なテーマ：人間とテクノロジー、そして正義の在り方
 
@@ -63,7 +61,7 @@ mediaType: 'figure'
 
 特定の決定的な名シーンを挙げるのは難しいが、特に心を揺さぶるのは、ヤッ太郎が自身の未熟さを痛感し、それでも前を向こうとする瞬間の描写だ。トリツックンが彼の腕にぴたりと寄り添い、無言で彼を励ますその姿は、言葉以上の雄弁さで、彼らの深い信頼関係を物語っていた。そうした場面に触れるたびに、読者の心の中にも、ヤッ太郎のような「諦めない心」や「信じる気持ち」を芽生えさせる。この作品は、単なる冒険物語ではなく、登場人物たちの心の奥底に触れ、読者の感情を豊かにしてくれる、真の人間ドラマである。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://pics.dmm.com/mono/hobby/c260404805/c260404805pt.jpg" alt="BP028 ヤッ太郎＆トリツックン 画像" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260404805%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/yattaro-toritsukkun-model-kit-body-2.jpg" alt="yattaro-toritsukkun-model-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ### 世代を超えて愛される理由と、知っておきたいポイント
 
@@ -98,34 +96,16 @@ BP028 ヤッ太郎＆トリツックンのフィギュアは、単なる飾り�
     </div>
 </div>
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=BP028%20%E3%83%A4%E3%83%83%E5%A4%AA%E9%83%8E" alt="BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E3%2583%258E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25AB%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E3%2583%258E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25AB%25E3%2582%25B8%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E3%2583%258E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25AB%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBP028%20%E3%83%A4%E3%83%83%E5%A4%AA%E9%83%8E%EF%BC%86%E3%83%88%E3%83%AA%E3%83%84%E3%83%83%E3%82%AF%E3%83%B3%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%EF%BC%81%E3%81%82%E3%81%AE%E9%A0%83%E3%81%AE%E7%86%B1%E7%8B%82%E3%81%A8%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%83%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/yattaro-toritsukkun-model-kit-body-3.png" alt="yattaro-toritsukkun-model-kit" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">BP028 ヤッ太郎＆トリツックン プラモデルレビュー！あの頃の熱狂とノスタルジー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBP028%2520%25E3%2583%25A4%25E3%2583%2583%25E5%25A4%25AA%25E9%2583%258E%25EF%25BC%2586%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2584%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25B3%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%2582%25E3%2581%25AE%25E9%25A0%2583%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2581%25A8%25E3%2583%258E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25AB%25E3%2582%25B8%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

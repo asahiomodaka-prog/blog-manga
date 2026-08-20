@@ -8,9 +8,7 @@ mediaType: 'comic'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -19,34 +17,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E5%BF%85%E8%AA%AD%EF%BC%81%E3%80%8E%E3%83%9E%E3%83%B3" alt="夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E5%BF%85%E8%AA%AD%EF%BC%81%E3%80%8E%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E4%B8%96%E7%95%8C%E5%90%8D%E4%BD%9C%20%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E3%80%8F%E3%81%A7%E3%80%81%E5%90%8D%E6%8E%A8%E7%90%86%E3%81%AE%E5%A4%9C%E3%82%92&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/classic-sherlock-holmes-manga-body-1.png" alt="classic-sherlock-holmes-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -67,7 +47,7 @@ mediaType: 'comic'
 
 この作品の大きな魅力は、古典の持つ重厚な雰囲気を損なうことなく、漫画ならではの視覚的な楽しさを最大限に引き出している点である。ヴィクトリア朝のロンドンの街並み、登場人物たちの服装、そして事件現場の細部に至るまで、丁寧に描かれた背景は、読者を一瞬にしてその時代へと引き込むだろう。特に、ホームズが事件の手がかりを繋ぎ合わせ、複雑な謎を解き明かす瞬間の、あの独特な「閃き」が、絵とセリフによって鮮やかに表現されているのは見事だ。活字だけでは想像に委ねるしかなかった情景が、視覚情報として提示されることで、まるで自身もホームズの推理劇を目の当たりにしているかのような臨場感が味わえる。古典に触れるきっかけとしてはもちろん、すでにホームズの世界を知る人にとっても、新たな発見や解釈の余地があるはずだ。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=600x600" alt="夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を" />
+<img src="/images/classic-sherlock-holmes-manga-body-2.jpg" alt="classic-sherlock-holmes-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 論理と倫理の狭間で輝く、人間性の深淵
 
@@ -109,7 +89,7 @@ mediaType: 'comic'
 
 彼らの関係性は、単なる主従関係でも、単なる友人関係でもない。互いの欠点を補い合い、高め合う、まさに「運命共同体」と呼ぶべきものだ。本漫画は、そんなホームズとワトソンの人間的な魅力、そして彼らが織りなす熱い友情の物語を、鮮やかな筆致で描き切っている。彼らの名言の数々も、読み終えた後も読者の心に深く残り、人生における大切な問いかけを与えてくれるだろう。
 
-<a href="https://book.dmm.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=600x600" alt="夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』 画像" /></a>
+<a href="https://book.dmm.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/classic-sherlock-holmes-manga-body-3.jpg" alt="classic-sherlock-holmes-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 賛否両論と、自分だけの楽しみ方を見つけるヒント
 
@@ -144,34 +124,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E5%BF%85%E8%AA%AD%EF%BC%81%E3%80%8E%E3%83%9E%E3%83%B3" alt="夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E5%BF%85%E8%AA%AD%EF%BC%81%E3%80%8E%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E4%B8%96%E7%95%8C%E5%90%8D%E4%BD%9C%20%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E3%80%8F%E3%81%A7%E3%80%81%E5%90%8D%E6%8E%A8%E7%90%86%E3%81%AE%E5%A4%9C%E3%82%92&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/classic-sherlock-holmes-manga-body-1.png" alt="classic-sherlock-holmes-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E5%25BF%2585%25E8%25AA%25AD%25EF%25BC%2581%25E3%2580%258E%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA%25E3%2580%258F%25E3%2581%25A7%25E3%2580%2581%25E5%2590%258D%25E6%258E%25A8%25E7%2590%2586%25E3%2581%25AE%25E5%25A4%259C%25E3%2582%2592" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

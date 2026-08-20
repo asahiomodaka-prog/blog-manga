@@ -24,9 +24,7 @@ mediaType: 'comic'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -35,34 +33,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9%E7%8B%82" alt="全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9%E7%8B%82%E3%81%84%E3%81%A7%E5%9B%9E%E9%81%BF%E3%81%97%E3%81%9F%E3%81%AE%E3%81%AB%E2%80%A6%E8%AA%AD%E5%BE%8C%E3%81%AA%E3%81%9C%E8%99%9A%E7%84%A1%E6%84%9F%E3%81%8C%E6%AE%8B%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/all-bad-ending-avoidance-manga-body-1.png" alt="all-bad-ending-avoidance-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -83,7 +63,7 @@ mediaType: 'comic'
 
 登場人物たちの心理描写は極めて繊細だ。それぞれのキャラクターが抱える葛藤や、主人公への複雑な感情が、まるで生身の人間であるかのようにリアルに伝わってくる。特に、主人公を救ったことによって生じた「結果」が、彼の想像をはるかに超えるものだったという展開は、読者に強烈な印象を与えるだろう。果たして、主人公は歪んでしまった仲間たちとの関係を修復できるのか。そして、彼自身が選択した「全滅回避」という道は、本当に最善だったのか。この問いが、物語全体を覆う重厚なテーマとなっている。
 
-<img src="https://ebook-assets.dmm.com/digital/e-book/b000ehftx83614/b000ehftx83614pl.jpg" alt="全滅エンドを死に物狂いで回避した" />
+<img src="/images/all-bad-ending-avoidance-manga-body-2.jpg" alt="all-bad-ending-avoidance-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 救済の代償：倫理の変容と狂気の萌芽
 
@@ -119,7 +99,7 @@ mediaType: 'comic'
 
 そして、この物語で忘れてはならないのが、作者の卓越した画力だ。キャラクターたちの感情の機微が、繊細な表情や目の描写によって見事に表現されている。特に、仲間たちの「病んだ」感情が露わになる瞬間のゾッとするような眼差しや、主人公の疲弊しきった表情は、見る者の心に深く突き刺さる。コマ割りも非常に巧みで、心理的な緊張感が高まるシーンでは、コマを大きく使ってキャラクターの表情を強調したり、逆に細かく区切って時間の流れをゆっくりと感じさせたりと、読者の感情を巧みに揺さぶる演出が光る。これらの視覚的な要素が、物語の持つ重厚なテーマをより一層際立たせている。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b000ehftx83614/b000ehftx83614pl.jpg" alt="全滅エンドを死に物狂いで回避した 画像" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/all-bad-ending-avoidance-manga-body-3.jpg" alt="all-bad-ending-avoidance-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 賛否両論を呼ぶ深遠な心理描写と、読む人を選ぶ物語
 
@@ -147,34 +127,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9%E7%8B%82" alt="全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%85%A8%E6%BB%85%E3%82%A8%E3%83%B3%E3%83%89%E3%82%92%E6%AD%BB%E3%81%AB%E7%89%A9%E7%8B%82%E3%81%84%E3%81%A7%E5%9B%9E%E9%81%BF%E3%81%97%E3%81%9F%E3%81%AE%E3%81%AB%E2%80%A6%E8%AA%AD%E5%BE%8C%E3%81%AA%E3%81%9C%E8%99%9A%E7%84%A1%E6%84%9F%E3%81%8C%E6%AE%8B%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/all-bad-ending-avoidance-manga-body-1.png" alt="all-bad-ending-avoidance-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">全滅エンドを死に物狂いで回避したのに…読後なぜ虚無感が残るのか？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25A8%25E6%25BB%2585%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E6%25AD%25BB%25E3%2581%25AB%25E7%2589%25A9%25E7%258B%2582%25E3%2581%2584%25E3%2581%25A7%25E5%259B%259E%25E9%2581%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E2%2580%25A6%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AA%25E3%2581%259C%25E8%2599%259A%25E7%2584%25A1%25E6%2584%259F%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

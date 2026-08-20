@@ -32,34 +32,16 @@ mediaType: 'anime'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%81%82%E3%81%AE%E8%8A%B1Blu-ray" alt="あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B1Blu-ray%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E9%259F%25B3%25E9%259F%25BF%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B1Blu-ray%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E9%259F%25B3%25E9%259F%25BF%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B1Blu-ray%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E9%259F%25B3%25E9%259F%25BF%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%81%82%E3%81%AE%E8%8A%B1Blu-ray%20BOX%E3%81%AF%E8%B2%B7%E3%81%84%E3%81%8B%EF%BC%9F%E7%94%BB%E8%B3%AA%E3%83%BB%E9%9F%B3%E9%9F%BF%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E5%86%8D%E7%8F%BE%E5%BA%A6%E3%82%92%E5%BE%B9%E5%BA%95%E6%A4%9C%E8%A8%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/anohana-anime-blu-ray-box-body-1.png" alt="anohana-anime-blu-ray-box" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B1Blu-ray%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E9%259F%25B3%25E9%259F%25BF%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -88,7 +70,7 @@ mediaType: 'anime'
 
 特に、それぞれのキャラクターがめんまへの「執着」を乗り越え、自分自身の過去と向き合い、未来へ進もうとする姿は、何度観ても深い感動を呼び起こす。最終話のあのクライマックスシーンは、多くのアニメファンにとって忘れられない名シーンの一つと言えるだろう。めんまが最後に遺した「お願い」が叶った時、そして超平和バスターズのメンバーが、ようやく本当の意味でめんまの死を受け入れた時、観る者は彼らと共に涙し、その成長を見届ける。単なるファンタジーや青春物語ではなく、人の心の奥底にある痛みや、それを乗り越える強さ、そして友情の尊さを教えてくれる、示唆に富んだ作品だ。このBlu-ray BOXは、そんな彼らの感情の機微や、美しい背景美術を最高品質で繰り返し体験できるからこそ、ファンにとっては計り知れない価値がある。
 
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx6621/n_666anzx6621pt.jpg" alt="あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX" loading="lazy" decoding="async" />
+<img src="/images/anohana-anime-blu-ray-box-body-2.jpg" alt="anohana-anime-blu-ray-box" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -149,34 +131,16 @@ mediaType: 'anime'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%81%82%E3%81%AE%E8%8A%B1Blu-ray" alt="あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B1Blu-ray%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E9%259F%25B3%25E9%259F%25BF%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B1Blu-ray%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E9%259F%25B3%25E9%259F%25BF%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B1Blu-ray%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E9%259F%25B3%25E9%259F%25BF%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%81%82%E3%81%AE%E8%8A%B1Blu-ray%20BOX%E3%81%AF%E8%B2%B7%E3%81%84%E3%81%8B%EF%BC%9F%E7%94%BB%E8%B3%AA%E3%83%BB%E9%9F%B3%E9%9F%BF%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E5%86%8D%E7%8F%BE%E5%BA%A6%E3%82%92%E5%BE%B9%E5%BA%95%E6%A4%9C%E8%A8%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/anohana-anime-blu-ray-box-body-1.png" alt="anohana-anime-blu-ray-box" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E8%258A%25B1Blu-ray%2520BOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25E3%2581%258B%25EF%25BC%259F%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E9%259F%25B3%25E9%259F%25BF%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

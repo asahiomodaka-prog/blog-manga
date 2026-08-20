@@ -24,9 +24,7 @@ mediaType: 'anime'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 歴史の授業で習った「春秋戦国時代」が、血湧き肉躍るドラマとして蘇る。一介の身分から天下統一を目指す若者たちの熱き物語『キングダム』は、現代を生きる私たちにも計り知れない勇気と示唆を与える。この壮大な歴史群像劇を、TVアニメ「キングダム」第4シリーズのDVDBOXで存分に味わってほしい。
 
@@ -39,34 +37,16 @@ mediaType: 'anime'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80" alt="TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DTV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%E3%80%8DDVDBOX%E3%81%AF%E8%B2%B7%E3%81%86%E3%81%B9%E3%81%8D%EF%BC%9F%E6%88%90%E3%82%AD%E3%83%A7%E3%82%A6%E3%81%9F%E3%81%A1%E3%81%AE%E9%81%8B%E5%91%BD%E3%81%AB%E6%B6%99%E3%81%97%E3%81%9F%E7%90%86%E7%94%B1&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku-body-1.png" alt="kingdom-anime-dvdbox-seikyou-jouyou-aigoku" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -93,7 +73,7 @@ TVアニメ「キングダム」第4シリーズは、原作の持つ深淵な�
 
 「著雍攻略戦」では、戦場のリアリティと、そこで生きる人々の葛藤が描かれる。兵士たちは、なぜ戦うのか。家族のため、国のため、あるいはただ生き残るため。それぞれの思惑が交錯し、一瞬の判断が命運を分ける。原泰久先生の卓越した画力は、この苛烈な戦場を克明に描き出す。兵士たちの表情、血飛沫、土煙、そして勝利の歓声と敗北の絶叫。それらが一体となって、読者の五感に訴えかける。特に、密集した兵士たちの描写や、一騎打ちの迫力は、漫画表現の醍醐味を存分に味わえる。
 
-そして、「&#27600;国反乱編」で焦点となるのは、嬴政の「法治国家」という理想の実現への道程だ。法とは何か、正義とは何か、そして国家とは誰のためにあるのか。これらの問いは、現代の政治や社会を考える上でも非常に重要なテーマとなる。権力者がいかにして民を導き、国家を治めていくのか。その過程で生じるであろう摩擦や苦悩が、繊細な心理描写とともに描かれている。特に、呂不韋（りょふい）をはじめとする秦の重臣たちの思惑が複雑に絡み合い、単純な勧善懲悪では語れない、人間社会の闇の部分も垣間見える。彼らがそれぞれの立場から繰り広げる知略の戦いは、まさに息をのむ展開だ。権力者の座を巡る争いという点では、[猩猩姫の「業」に潜む真実。なぜ彼女はあそこまで追い詰められたのか？](/blog/猩猩姫の業に潜む真実なぜ彼女はあそこまで追い詰められたのか/)といった記事も参考になるかもしれない。
+そして、「&#27600;国反乱編」で焦点となるのは、嬴政の「法治国家」という理想の実現への道程だ。法とは何か、正義とは何か、そして国家とは誰のためにあるのか。これらの問いは、現代の政治や社会を考える上でも非常に重要なテーマとなる。権力者がいかにして民を導き、国家を治めていくのか。その過程で生じるであろう摩擦や苦悩が、繊細な心理描写とともに描かれている。特に、呂不韋（りょふい）をはじめとする秦の重臣たちの思惑が複雑に絡み合い、単純な勧善懲悪では語れない、人間社会の闇の部分も垣間見える。彼らがそれぞれの立場から繰り広げる知略の戦いは、まさに息をのむ展開だ。権力者の座を巡る争いという点では、猩猩姫の「業」に潜む真実。なぜ彼女はあそこまで追い詰められたのか？といった記事も参考になるかもしれない。
 
 『キングダム』は、歴史の表舞台に立つ英雄だけでなく、その陰で支える人々、あるいは敵として立ちはだかる人々にも光を当てる。彼ら一人ひとりの人生が、壮大な物語の厚みと深みを形作っている。これが、単なるアクション漫画に終わらない、歴史群像劇としての『キングダム』の真髄と言えるだろう。
 
@@ -107,11 +87,11 @@ TVアニメ「キングダム」第4シリーズは、原作の持つ深淵な�
 
 また、敵役として登場する成&#34780;も、このシリーズでは新たな一面を見せる。彼は、嬴政とは異なる形で「秦」を憂い、彼なりの理想を追い求める。その信念が、時に暴走へと繋がるが、彼の内面には、どこか悲哀にも似た感情が秘められている。彼の最後の言葉は、読者の心に複雑な感情を残す。単純な悪役として切り捨てられない、多面的なキャラクター造形は、『キングダム』の物語に深みを与えている。
 
-飛信隊の面々もまた、それぞれの持ち場で成長を見せる。羌&#34780;（きょうかい）の寡黙な強さ、河了貂（かりょうてん）の知略、そして古参の隊員たちの献身的な支え。彼らが信と共に戦い、苦楽を共にすることで生まれる「絆」は、この物語の核だ。仲間との信頼関係、互いを信じ、助け合う姿は、現代社会においても忘れられがちな「チームワーク」の重要性を教えてくれる。僕が個人的に好きなのは、劣勢に立たされた時でも決して諦めない飛信隊の底力だ。その姿を見ていると、[GetBackers-奪還屋-は結局何を奪還した？心を揺さぶる最終回を考察！](/blog/getbackers-manga-series/)で描かれるような、絶体絶命の状況からの逆転劇に比肩する熱量を感じさせる。
+飛信隊の面々もまた、それぞれの持ち場で成長を見せる。羌&#34780;（きょうかい）の寡黙な強さ、河了貂（かりょうてん）の知略、そして古参の隊員たちの献身的な支え。彼らが信と共に戦い、苦楽を共にすることで生まれる「絆」は、この物語の核だ。仲間との信頼関係、互いを信じ、助け合う姿は、現代社会においても忘れられがちな「チームワーク」の重要性を教えてくれる。僕が個人的に好きなのは、劣勢に立たされた時でも決して諦めない飛信隊の底力だ。その姿を見ていると、GetBackers-奪還屋-は結局何を奪還した？心を揺さぶる最終回を考察！で描かれるような、絶体絶命の状況からの逆転劇に比肩する熱量を感じさせる。
 
 登場人物たちの言葉一つ一つに、彼らの生き様や哲学が凝縮されている。戦場の緊張感の中で発せられる叫び、仲間を鼓舞する言葉、そして敵に語りかける言葉。それらは時に鑑賞者の心に深く刺さり、思索を促す。特に、乱世を生きる彼らが、それぞれの「正義」をぶつけ合う場面でのセリフは、何度も見返したくなるほどだ。彼らの言葉から、鑑賞者は「生きるとは何か」「戦うとは何か」「信じるとは何か」という根源的な問いに対する答えを探ろうとする。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00qco51.ve2q5440.g00qco51.ve2q63f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoshin-cddvd%2F4580055363023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoshin-cddvd%2Fi%2F11065437%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/joshin-cddvd/cabinet/023/eyba-14302-4.jpg?_ex=600x600" alt="TVアニメ「キングダム」成キョウの変/著雍攻略戦/アイ国反乱編 DVDBOX/アニメーション 画像" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qco51.ve2q5440.g00qco51.ve2q63f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjoshin-cddvd%2F4580055363023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjoshin-cddvd%2Fi%2F11065437%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku-body-2.jpg" alt="kingdom-anime-dvdbox-seikyou-jouyou-aigoku" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -166,34 +146,16 @@ TVアニメ「キングダム」第4シリーズのDVDBOXは、熱い戦いと�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80" alt="TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DTV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%E3%80%8DDVDBOX%E3%81%AF%E8%B2%B7%E3%81%86%E3%81%B9%E3%81%8D%EF%BC%9F%E6%88%90%E3%82%AD%E3%83%A7%E3%82%A6%E3%81%9F%E3%81%A1%E3%81%AE%E9%81%8B%E5%91%BD%E3%81%AB%E6%B6%99%E3%81%97%E3%81%9F%E7%90%86%E7%94%B1&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/kingdom-anime-dvdbox-seikyou-jouyou-aigoku-body-1.png" alt="kingdom-anime-dvdbox-seikyou-jouyou-aigoku" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DTV%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0%25E3%2580%258DDVDBOX%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%25E6%2588%2590%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E9%2581%258B%25E5%2591%25BD%25E3%2581%25AB%25E6%25B6%2599%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

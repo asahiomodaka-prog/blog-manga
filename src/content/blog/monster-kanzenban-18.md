@@ -21,9 +21,7 @@ mediaType: 'comic'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -32,34 +30,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%81%82%E3%81%AE%E5%A4%9C%E3%81%AE%E8%A1%9D%E6%92%83%E3%81%8C%E5%86%8D%E3%81%B3%E2%80%A6" alt="あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%81%82%E3%81%AE%E5%A4%9C%E3%81%AE%E8%A1%9D%E6%92%83%E3%81%8C%E5%86%8D%E3%81%B3%E2%80%A6%EF%BC%81%E3%80%8EMONSTER%20%E5%AE%8C%E5%85%A8%E7%89%88%E3%80%8F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%A7%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E3%81%AE%E5%82%91%E4%BD%9C%E3%82%92%E8%BF%BD%E4%BD%93%E9%A8%93&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/monster-kanzenban-18-body-1.png" alt="monster-kanzenban-18" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -118,7 +98,7 @@ mediaType: 'comic'
 
 浦沢直樹は、キャラクター一人ひとりに明確な「人生」と「思想」を与えている。それが、この作品をただのサスペンスに終わらせない、深い人間ドラマへと昇華させているのだ。彼らの言葉、彼らの行動、そして彼らの眼差しの一つ一つが、物語のテーマをより深く掘り下げていく。僕たちは、彼らの姿を通して、人間とは何か、善悪とは何か、そして自分自身が何者であるかを問いかけられる。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg" alt="MONSTER 完全版 デジタルVer. 画像" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/monster-kanzenban-18-body-2.jpg" alt="monster-kanzenban-18" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 読者のリアルな声と、この作品との向き合い方
 
@@ -149,7 +129,7 @@ mediaType: 'comic'
 
 DMMブックスでは、[MONSTER 完全版 デジタルVer.](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api)を手に取ることができる。まずは試し読みで作品の世界観に触れてみるのも良いだろう。浦沢直樹の卓越した画力と、読者の心を掴んで離さないストーリーテリングの魅力は、きっとあなたを『MONSTER』の世界へと誘うはずだ。最終巻の[MONSTER 完全版 デジタルVer.（18）](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157737%2Fb600bsgk02712%2F&af_id=DMMaria-999&ch=api)まで一気に読み進めるのも良いし、じっくりと物語を味わいながら読み進めるのも、電子書籍ならではの楽しみ方と言える。
 
-<img src="https://ebook-assets.dmm.com/digital/e-book/b600bsgk02712/b600bsgk02712pl.jpg" alt="MONSTER 完全版 デジタルVer." />
+<img src="/images/monster-kanzenban-18-body-3.jpg" alt="monster-kanzenban-18" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -158,34 +138,16 @@ DMMブックスでは、[MONSTER 完全版 デジタルVer.](https://al.dmm.com/
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%81%82%E3%81%AE%E5%A4%9C%E3%81%AE%E8%A1%9D%E6%92%83%E3%81%8C%E5%86%8D%E3%81%B3%E2%80%A6" alt="あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%81%82%E3%81%AE%E5%A4%9C%E3%81%AE%E8%A1%9D%E6%92%83%E3%81%8C%E5%86%8D%E3%81%B3%E2%80%A6%EF%BC%81%E3%80%8EMONSTER%20%E5%AE%8C%E5%85%A8%E7%89%88%E3%80%8F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%A7%E5%A4%9C%E6%9B%B4%E3%81%8B%E3%81%97%E3%81%AE%E5%82%91%E4%BD%9C%E3%82%92%E8%BF%BD%E4%BD%93%E9%A8%93&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/monster-kanzenban-18-body-1.png" alt="monster-kanzenban-18" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">あの夜の衝撃が再び…！『MONSTER 完全版』デジタルで夜更かしの傑作を追体験</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E5%25A4%259C%25E3%2581%25AE%25E8%25A1%259D%25E6%2592%2583%25E3%2581%258C%25E5%2586%258D%25E3%2581%25B3%25E2%2580%25A6%25EF%25BC%2581%25E3%2580%258EMONSTER%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%258F%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2581%25A7%25E5%25A4%259C%25E6%259B%25B4%25E3%2581%258B%25E3%2581%2597%25E3%2581%25AE%25E5%2582%2591%25E4%25BD%259C%25E3%2582%2592%25E8%25BF%25BD%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

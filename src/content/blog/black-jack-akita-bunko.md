@@ -21,9 +21,7 @@ mediaType: 'comic'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -32,34 +30,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%E5%A4%9C%E3%82%92%E3%80%8CBLA" alt="眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%E5%A4%9C%E3%82%92%E3%80%8CBLACK%20JACK%E3%80%8D%E5%85%A817%E5%B7%BB%E3%81%A7%EF%BC%81%E7%A7%8B%E7%94%B0%E6%96%87%E5%BA%AB%E3%81%8C%E8%AA%98%E3%81%86%E9%9D%92%E6%98%A5%E3%81%AE%E7%86%B1%E7%8B%82%E3%83%89%E3%83%A9%E3%83%9E&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/black-jack-akita-bunko-body-1.png" alt="black-jack-akita-bunko" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -148,34 +128,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%E5%A4%9C%E3%82%92%E3%80%8CBLA" alt="眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%E5%A4%9C%E3%82%92%E3%80%8CBLACK%20JACK%E3%80%8D%E5%85%A817%E5%B7%BB%E3%81%A7%EF%BC%81%E7%A7%8B%E7%94%B0%E6%96%87%E5%BA%AB%E3%81%8C%E8%AA%98%E3%81%86%E9%9D%92%E6%98%A5%E3%81%AE%E7%86%B1%E7%8B%82%E3%83%89%E3%83%A9%E3%83%9E&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/black-jack-akita-bunko-body-1.png" alt="black-jack-akita-bunko" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">眠れない夜を「BLACK JACK」全17巻で！秋田文庫が誘う青春の熱狂ドラマ</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%259C%25A0%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%25A4%259C%25E3%2582%2592%25E3%2580%258CBLACK%2520JACK%25E3%2580%258D%25E5%2585%25A817%25E5%25B7%25BB%25E3%2581%25A7%25EF%25BC%2581%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%25E3%2581%258C%25E8%25AA%2598%25E3%2581%2586%25E9%259D%2592%25E6%2598%25A5%25E3%2581%25AE%25E7%2586%25B1%25E7%258B%2582%25E3%2583%2589%25E3%2583%25A9%25E3%2583%259E" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

@@ -8,9 +8,7 @@ mediaType: 'comic'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 大人になった今、子供の頃に読んだきり、記憶の片隅に眠るあの名作を、新たな視点で深く味わい直したいと感じることはないだろうか。そんな読者の知的好奇心を満たす一冊が、[小学館学習まんが世界名作館7](https://book.dmm.com/)に収録されたダニエル・デフォーの不朽の傑作『ロビンソン・クルーソー』だ。
 
@@ -100,34 +98,16 @@ mediaType: 'comic'
     </div>
 </div>
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%B0%8F%E5%AD%A6%E9%A4%A8%E5%AD%A6%E7%BF%92%E3%81%BE%E3%82%93%E3%81%8C%E4%B8%96%E7%95%8C" alt="小学館学習まんが世界名作館7。なぜあの結末が胸に刻まれ続けるのか？読後に残る普遍の問い" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                小学館学習まんが世界名作館7。なぜあの結末が胸に刻まれ続けるのか？読後に残る普遍の問い
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A87%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E7%25B5%2590%25E6%259C%25AB%25E3%2581%258C%25E8%2583%25B8%25E3%2581%25AB%25E5%2588%25BB%25E3%2581%25BE%25E3%2582%258C%25E7%25B6%259A%25E3%2581%2591%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AB%25E6%25AE%258B%25E3%2582%258B%25E6%2599%25AE%25E9%2581%258D%25E3%2581%25AE%25E5%2595%258F%25E3%2581%2584" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A87%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E7%25B5%2590%25E6%259C%25AB%25E3%2581%258C%25E8%2583%25B8%25E3%2581%25AB%25E5%2588%25BB%25E3%2581%25BE%25E3%2582%258C%25E7%25B6%259A%25E3%2581%2591%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AB%25E6%25AE%258B%25E3%2582%258B%25E6%2599%25AE%25E9%2581%258D%25E3%2581%25AE%25E5%2595%258F%25E3%2581%2584%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A87%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E7%25B5%2590%25E6%259C%25AB%25E3%2581%258C%25E8%2583%25B8%25E3%2581%25AB%25E5%2588%25BB%25E3%2581%25BE%25E3%2582%258C%25E7%25B6%259A%25E3%2581%2591%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AB%25E6%25AE%258B%25E3%2582%258B%25E6%2599%25AE%25E9%2581%258D%25E3%2581%25AE%25E5%2595%258F%25E3%2581%2584" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%B0%8F%E5%AD%A6%E9%A4%A8%E5%AD%A6%E7%BF%92%E3%81%BE%E3%82%93%E3%81%8C%E4%B8%96%E7%95%8C%E5%90%8D%E4%BD%9C%E9%A4%A87%E3%80%82%E3%81%AA%E3%81%9C%E3%81%82%E3%81%AE%E7%B5%90%E6%9C%AB%E3%81%8C%E8%83%B8%E3%81%AB%E5%88%BB%E3%81%BE%E3%82%8C%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%E8%AA%AD%E5%BE%8C%E3%81%AB%E6%AE%8B%E3%82%8B%E6%99%AE%E9%81%8D%E3%81%AE%E5%95%8F%E3%81%84&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/shogakukan-world-classics-7-body-1.png" alt="shogakukan-world-classics-7" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">小学館学習まんが世界名作館7。なぜあの結末が胸に刻まれ続けるのか？読後に残る普遍の問い</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A87%25E3%2580%2582%25E3%2581%25AA%25E3%2581%259C%25E3%2581%2582%25E3%2581%25AE%25E7%25B5%2590%25E6%259C%25AB%25E3%2581%258C%25E8%2583%25B8%25E3%2581%25AB%25E5%2588%25BB%25E3%2581%25BE%25E3%2582%258C%25E7%25B6%259A%25E3%2581%2591%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E8%25AA%25AD%25E5%25BE%258C%25E3%2581%25AB%25E6%25AE%258B%25E3%2582%258B%25E6%2599%25AE%25E9%2581%258D%25E3%2581%25AE%25E5%2595%258F%25E3%2581%2584" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

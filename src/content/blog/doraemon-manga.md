@@ -38,34 +38,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF" alt="ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF%E3%81%AA%E3%81%9C%E8%B3%9B%E5%90%A6%E4%B8%A1%E8%AB%96%EF%BC%9F%E6%9C%AA%E6%9D%A5%E3%81%A8%E5%8F%8B%E6%83%85%E3%81%8C%E5%95%8F%E3%81%84%E3%81%8B%E3%81%91%E3%82%8B%E3%82%82%E3%81%AE&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/doraemon-manga-body-1.png" alt="doraemon-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -82,7 +64,7 @@ mediaType: 'comic'
 
 この作品の魅力は、ひみつ道具の面白さだけではありません。むしろ、ひみつ道具が引き起こす騒動を通じて、のび太とドラえもん、そしてジャイアン、スネ夫、しずかちゃんといった友人たちの間に生まれる友情、葛藤、そして成長の物語こそが、僕たちが心を掴まれる理由です。未来から来たロボットが、過去のダメな少年の日常を変えようと奮闘する。その姿は、まるで僕たちが人生で直面するであろう困難や、そこからどう立ち上がるべきかを、優しく、時には厳しく教えてくれる、親しい先輩のようにも映ります。彼らの日々の繰り返しの中に、ふとした気づきや小さな感動が散りばめられているのです。
 
-<img src="https://ebook-assets.dmm.com/digital/e-book/b600qsgk00146/b600qsgk00146pl.jpg" alt="ドラえもん" />
+<img src="/images/doraemon-manga-body-2.jpg" alt="doraemon-manga" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## SF（少し不思議）が問いかける、技術と人の心
 
@@ -155,34 +137,16 @@ DMMブックスでは、定期的にセールやキャンペーンを実施し�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF" alt="ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF%E3%81%AA%E3%81%9C%E8%B3%9B%E5%90%A6%E4%B8%A1%E8%AB%96%EF%BC%9F%E6%9C%AA%E6%9D%A5%E3%81%A8%E5%8F%8B%E6%83%85%E3%81%8C%E5%95%8F%E3%81%84%E3%81%8B%E3%81%91%E3%82%8B%E3%82%82%E3%81%AE&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/doraemon-manga-body-1.png" alt="doraemon-manga" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593%25E3%2581%25AE%25E6%259C%2580%25E7%25B5%2582%25E5%259B%259E%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25B3%259B%25E5%2590%25A6%25E4%25B8%25A1%25E8%25AB%2596%25EF%25BC%259F%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25A8%25E5%258F%258B%25E6%2583%2585%25E3%2581%258C%25E5%2595%258F%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2582%2582%25E3%2581%25AE" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

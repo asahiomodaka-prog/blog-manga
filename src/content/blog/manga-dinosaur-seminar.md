@@ -21,9 +21,7 @@ mediaType: 'comic'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 藤子・F・不二雄の『別巻 まんがゼミナール 恐竜ゼミナール』は、単なる恐竜学習漫画ではない。失われた生命を科学の力で蘇らせるという、太古のロマンと現代科学の倫理的ジレンマを深く問いかけるSF作品である。子ども向けという体裁の裏に、生命の尊厳、科学の功罪、そして人類の傲慢さといった普遍的なテーマを織り込み、読者の知的好奇心と深い考察を促す。本書は、藤子・F・不二雄作品の中でも、特に哲学的でマニアックな側面を持つ傑作として、今なお多くの読者に読み継がれている。
 
@@ -34,34 +32,16 @@ mediaType: 'comic'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A" alt="「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8C%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%E3%80%8D%E3%81%A7%E7%9F%A5%E3%82%8B%E3%80%81%E3%81%AA%E3%81%9C%E5%B7%A8%E5%A4%A7%E7%94%9F%E7%89%A9%E3%81%AF%E5%BF%BD%E7%84%B6%E3%81%A8%E5%A7%BF%E3%82%92%E6%B6%88%E3%81%97%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%9F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/manga-dinosaur-seminar-body-1.png" alt="manga-dinosaur-seminar" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -90,7 +70,7 @@ mediaType: 'comic'
 
 この作品が発表された昭和の時代は、科学技術、特に生命科学の分野で急速な発展が見られ、クローン技術や遺伝子操作といった、それまでSFの世界でしか語られなかった可能性が現実味を帯び始めていた時期と重なる。生命操作の倫理が問い直され始めた当時の社会背景は、本作のメッセージに一層の深みを与えている。だからこそ、今読んでも色褪せない人間ドラマとして、この作品は現代に生きる私たちにも強く訴えかけるものがある。科学の発展を無条件に賛美するのではなく、その影の部分にも目を向け、倫理的な問いを投げかける藤子・F・不二雄の先見性には、感銘を受けるばかりだ。
 
-<img src="https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg" alt="別巻 まんがゼミナール 恐竜ゼミナール" />
+<img src="/images/manga-dinosaur-seminar-body-2.jpg" alt="manga-dinosaur-seminar" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 重い問いを突きつける選択と、生命への問いかけ
 
@@ -102,7 +82,7 @@ mediaType: 'comic'
 
 また、作品には、科学者の暴走を止めようとする者や、その研究に疑問を投げかけるキャラクターも登場する。彼らの存在が、物語に多角的な視点をもたらし、単純な善悪二元論に陥ることを避けている。彼らの葛藤や、それぞれの信念に基づいた行動は、読者に「もし自分がその立場だったらどうするだろうか」という問いを投げかける。藤子・F・不二雄は、登場人物たちの内面の描写を通して、生命の価値とは何か、科学と倫理のバランスをどう取るべきかという、深遠なテーマを私たちに提示している。単なるキャラクターのやり取りに留まらず、それぞれの選択が持つ意味や、それがもたらす結果までを考えさせる描写は、藤子・F・不二雄のストーリーテリングの巧みさを象徴している。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://ebook-assets.dmm.com/digital/e-book/k747abrks02699/k747abrks02699pl.jpg" alt="別巻 まんがゼミナール 恐竜ゼミナール 画像" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4114538%2Fb600asgk05343%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/manga-dinosaur-seminar-body-3.jpg" alt="manga-dinosaur-seminar" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -150,34 +130,16 @@ DMMブックスでは、[別巻 まんがゼミナール 恐竜ゼミナール](
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A" alt="「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%80%8C%E5%88%A5%E5%B7%BB%20%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%20%E6%81%90%E7%AB%9C%E3%82%BC%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB%E3%80%8D%E3%81%A7%E7%9F%A5%E3%82%8B%E3%80%81%E3%81%AA%E3%81%9C%E5%B7%A8%E5%A4%A7%E7%94%9F%E7%89%A9%E3%81%AF%E5%BF%BD%E7%84%B6%E3%81%A8%E5%A7%BF%E3%82%92%E6%B6%88%E3%81%97%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%9F&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/manga-dinosaur-seminar-body-1.png" alt="manga-dinosaur-seminar" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%2520%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25A7%25E7%259F%25A5%25E3%2582%258B%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E5%25B7%25A8%25E5%25A4%25A7%25E7%2594%259F%25E7%2589%25A9%25E3%2581%25AF%25E5%25BF%25BD%25E7%2584%25B6%25E3%2581%25A8%25E5%25A7%25BF%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

@@ -14,9 +14,7 @@ mediaType: 'figure'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」。圧倒的な破壊力と狂気を秘めた彼女の姿を、高精細な[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2)として手元に置きたいと考えるファンにとって、この立体化は一つの到達点といえるだろう。
 
@@ -31,34 +29,16 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=BEATLESS%20%E7%B4%85" alt="BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBEATLESS%20%E7%B4%85%E9%9C%9E%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%81%AE%E5%9C%A7%E5%80%92%E7%9A%84%E5%AD%98%E5%9C%A8%E6%84%9F%EF%BC%81%E9%80%A0%E5%BD%A2%E7%BE%8E%E3%81%A8%E5%86%8D%E7%8F%BE%E5%BA%A6%E3%82%92%E5%BE%B9%E5%BA%95%E6%A4%9C%E8%A8%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/beatless-kouka-figure-review-body-1.png" alt="beatless-kouka-figure-review" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -67,7 +47,7 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 
 ## redjuice氏の繊細なタッチを再現した造形美の真髄
 
-<img src="https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg" alt="BEATLESS 紅霞" />
+<img src="/images/beatless-kouka-figure-review-body-2.jpg" alt="beatless-kouka-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 このフィギュアの造形は、redjuice氏のイラストが持つ独特の世界観を細部まで再現している。まず目を引くのは、紅霞の象徴でもある「真紅の髪」と「クリムゾンレッドの瞳」の色彩表現だ。
 
@@ -89,7 +69,7 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 
 この立体物は、単に紅霞の姿を再現するだけでなく、彼女の複雑なキャラクター性、作品における立ち位置、そしてファンが彼女に惹かれる理由そのものを、造形として昇華していると言えるだろう。
 
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_202204945387%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="https://pics.dmm.com/mono/hobby/cha_202009271219/cha_202009271219pt.jpg" alt="BEATLESS 紅霞 画像" /></a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_202204945387%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/beatless-kouka-figure-review-body-3.jpg" alt="beatless-kouka-figure-review" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -139,34 +119,16 @@ SF小説の金字塔『BEATLESS』に登場するhIE「紅霞（こうか）」�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=BEATLESS%20%E7%B4%85" alt="BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-        <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DBEATLESS%20%E7%B4%85%E9%9C%9E%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%81%AE%E5%9C%A7%E5%80%92%E7%9A%84%E5%AD%98%E5%9C%A8%E6%84%9F%EF%BC%81%E9%80%A0%E5%BD%A2%E7%BE%8E%E3%81%A8%E5%86%8D%E7%8F%BE%E5%BA%A6%E3%82%92%E5%BE%B9%E5%BA%95%E6%A4%9C%E8%A8%BC&af_id=beelzebub-001" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(50% - 6px); min-width: 130px; padding: 10px 12px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(24,119,242,0.25); display: inline-block;">
-            📘 DMMブックスで探す
-        </a>
-        
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/beatless-kouka-figure-review-body-1.png" alt="beatless-kouka-figure-review" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AE%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E5%25AD%2598%25E5%259C%25A8%25E6%2584%259F%25EF%25BC%2581%25E9%2580%25A0%25E5%25BD%25A2%25E7%25BE%258E%25E3%2581%25A8%25E5%2586%258D%25E7%258F%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
