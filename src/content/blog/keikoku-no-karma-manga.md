@@ -14,7 +14,7 @@ mediaType: comic
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-数ある漫画・アニメ作品の中でも、長年にわたって熱狂的な支持を集め続ける名作には、時代を超えて人々を惹きつける圧倒的な魅力が存在する。本稿では、多くのファンを魅了し続ける「**『傾国のカルマ』が描く愛憎劇の果て**」の世界観、映像美・作画の凄み、そして今こそ手に入れるべき理由について徹底解説する。
+12世紀イングランド。血筋と性別が運命を決定づける時代に、不屈の精神で抗い女王として生きた女性の物語がここにある。『傾国のカルマ』は、愛憎渦巻く激動の時代を舞台に、誇りを胸に困難を乗り越える主人公の魂を力強く描き出す。その生き様は、現代を生きる我々にも深い感動と勇気を与え、自らの運命と向き合う力をくれるだろう。壮大な歴史ロマンと人間ドラマの真髄を体験せよ。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>

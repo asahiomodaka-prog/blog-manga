@@ -14,7 +14,7 @@ mediaType: comic
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-数ある漫画・アニメ作品の中でも、長年にわたって熱狂的な支持を集め続ける名作には、時代を超えて人々を惹きつける圧倒的な魅力が存在する。本稿では、多くのファンを魅了し続ける「**金色のガッシュ**」の世界観、映像美・作画の凄み、そして今こそ手に入れるべき理由について徹底解説する。
+金色のガッシュ！！」は、単なる王道バトル漫画ではない。“優しさの王”を目指すガッシュと清麿が紡ぐ、熱い絆と胸を揺さぶる成長の物語だ。なぜその結末が読者の涙腺を破壊し、心の奥底に深く刻まれるのか。その感動の深さと、色褪せない傑作の真髄を今こそ知るべきだ。DMMブックスなら各巻660円から、この不朽の名作を存分に読み返し、改めてその魅力に触れることができるだろう。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>

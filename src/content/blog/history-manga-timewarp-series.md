@@ -14,7 +14,7 @@ mediaType: comic
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-数ある漫画・アニメ作品の中でも、長年にわたって熱狂的な支持を集め続ける名作には、時代を超えて人々を惹きつける圧倒的な魅力が存在する。本稿では、多くのファンを魅了し続ける「**歴史漫画タイムワープシリーズで、過ぎ去りし熱狂を夜更けに**」の世界観、映像美・作画の凄み、そして今こそ手に入れるべき理由について徹底解説する。
+歴史の年号暗記は苦痛であり、出来事をただの羅列としか捉えられない。集英社 コンパクト版 学習まんが 日本の歴史は、その常識を覆す傑作だ。歴史上の人物が躍動し、まるで大河ドラマのように物語が展開される。子供はもちろん、かつて歴史に挫折した大人こそ、夜更けに耽読するロマンを知るべきだ。「生きた歴史」の熱狂を再び体感し、知的好奇心を満たすだろう。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>

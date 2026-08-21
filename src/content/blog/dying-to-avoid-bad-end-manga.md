@@ -14,7 +14,7 @@ mediaType: comic
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-数ある漫画・アニメ作品の中でも、長年にわたって熱狂的な支持を集め続ける名作には、時代を超えて人々を惹きつける圧倒的な魅力が存在する。本稿では、多くのファンを魅了し続ける「**「全滅エンドを死に物狂いで回避した。パーティが病んだ。」**」の世界観、映像美・作画の凄み、そして今こそ手に入れるべき理由について徹底解説する。
+RPGで全滅エンドを回避した代償は、仲間たちの「病み」だった。『全滅エンドを死に物狂いで回避した。』は、安易なハッピーエンドを許さない。自己犠牲の先に転生者が手にするのは、彼に歪んだ愛情を抱く少女たちの狂気的な執着だ。理想を追求する者の目論見が、倫理観を揺さぶるダークファンタジーへと変貌していく展開は、一般的な物語に飽きた読者に衝撃を与えるだろう。DMM独占の衝撃展開が待つ。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
