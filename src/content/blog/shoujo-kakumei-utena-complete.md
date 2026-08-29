@@ -62,7 +62,7 @@ faq:
 
 このコンプリートボックスを手にすれば、そんな深く、どこまでも広がるウテナの世界に、いつでも好きな時に飛び込めるのだ。
 
-<img src="https://pics.dmm.com/mono/movie/animation/n_653kixa90766/n_653kixa90766pt.jpg" alt="少女革命ウテナ Complete" loading="lazy" decoding="async" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_653kixa90766/n_653kixa90766pl.jpg" alt="少女革命ウテナ Complete" loading="lazy" decoding="async" />
 
 ## 僕のコレクション棚に輝く「革命」の証と、ファンの熱狂
 

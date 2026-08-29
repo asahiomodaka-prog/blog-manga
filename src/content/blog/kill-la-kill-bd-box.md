@@ -23,7 +23,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx12651/n_666anzx12651pt.jpg" alt="キルラキル Blu-ray Disc BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx12651/n_666anzx12651pl.jpg" alt="キルラキル Blu-ray Disc BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -50,7 +50,7 @@ faq:
 
 そして、このBD BOXには、TV未放送のOVA「さよならをもう一度」も収録されている。本編のその後を描くファン必見のエピソードであり、これもまた高画質・高音質で楽しめるのは嬉しい限りである。さらに、ノンクレジットのOP/ED映像集、PV集、そして膨大な量の設定資料を網羅した特製ブックレットまで付属する。ブックレットは、キャラクターデザインの細部から、美術設定、中島かずき氏による脚本の裏話まで、作品の制作過程における情熱とこだわりが詰まっている。これを読み解くことで、映像だけでは分からなかったキャラクターの心理や、ストーリーの背景にある意図を深く理解できる。まさに、キルラキルという作品を「所有する」ことの喜びを最大限に感じさせてくれるパッケージなのだ。同価格帯の他のアニメBD BOXと比較しても、これほどまでに充実した内容と、作品へのリスペクトが感じられる作りはそう多くはない。バラで揃える手間と費用を考慮すれば、このBOXは最適な選択肢の一つだと確信する。
 
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx12651/n_666anzx12651pt.jpg" alt="キルラキル Blu-ray Disc BOX" loading="lazy" decoding="async" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx12651/n_666anzx12651pl.jpg" alt="キルラキル Blu-ray Disc BOX" loading="lazy" decoding="async" />
 
 ## 熱狂と哲学が織りなす『キルラキル』の真髄
 
@@ -138,7 +138,7 @@ BDを再生し、大画面で作品を見返す体験もまた格別である。
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx12651/n_666anzx12651pt.jpg" alt="キルラキル Blu-ray Disc BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx12651/n_666anzx12651pl.jpg" alt="キルラキル Blu-ray Disc BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

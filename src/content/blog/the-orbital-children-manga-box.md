@@ -15,12 +15,12 @@ faq:
 sidebarProducts:
   - title: '電脳コイル Blu-ray BOX（特装限定版） （ブルーレイディスク）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcxa1839%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcxa1839/n_609bcxa1839pt.jpg'
+    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcxa1839/n_609bcxa1839pl.jpg'
     price: 16830
     microCopy: '詳細を見る'
   - title: '電脳コイル Blu-ray Disc Box （ブルーレイディスク）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcxa0377%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcxa0377/n_609bcxa0377pt.jpg'
+    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcxa0377/n_609bcxa0377pl.jpg'
     price: 34595
     microCopy: '詳細を見る'
 ---
@@ -36,7 +36,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pt.jpg" alt="地球外少年少女 Collectors BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg" alt="地球外少年少女 Collectors BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">地球外少年少女 Collectors BOX</h4>
@@ -72,7 +72,7 @@ sidebarProducts:
 
 作品全体を貫くのは、人類が未来に向けてどう進化していくべきか、という根源的な問いだ。情報があふれる現代において、何が真実で、何を信じるべきなのか。「地球外少年少女」は、視覚的な美しさと共に、知的な刺激と深い考察の余地を与えてくれる、まさに思考を深めるSF作品と言えるだろう。このコレクターズBOXは、その深いテーマを、最高の映像と音響で何度でも再確認できる機会を提供する。
 
-<img src="https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pt.jpg" alt="地球外少年少女 Collectors BOX" loading="lazy" decoding="async" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg" alt="地球外少年少女 Collectors BOX" loading="lazy" decoding="async" />
 
 ## 部屋に飾る存在感とファンが語る作品への愛着
 
@@ -129,7 +129,7 @@ SF作品として、アニメーション作品として、長期にわたって
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pt.jpg" alt="地球外少年少女 Collectors BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg" alt="地球外少年少女 Collectors BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">地球外少年少女 Collectors BOX</h4>

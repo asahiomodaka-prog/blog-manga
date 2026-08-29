@@ -21,7 +21,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx13641/n_666anzx13641pt.jpg" alt="四月は君の嘘 Blu-ray Disc BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx13641/n_666anzx13641pl.jpg" alt="四月は君の嘘 Blu-ray Disc BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -69,7 +69,7 @@ faq:
 
 ファンコミュニティでも、このBlu-ray BOXに対する評価は非常に高い。多くのファンが、その映像と音響のクオリティ、そして特典内容の充実ぶりに満足している。「何度見ても泣ける」「あの感動が蘇る」といった声は、まさに私自身の体験と重なるものだ。また、特典として収録されているブックレットも、作品世界をさらに深く理解するための貴重な資料となる。キャラクター設定画や美術設定、制作スタッフやキャストのインタビュー、そして原作者の新川直司先生からのメッセージなど、ファンにとっては見逃せない内容ばかりだ。これらの資料を読み込むことで、アニメ制作の裏側や、キャラクターたちの知られざる側面を知ることができ、作品への愛着がさらに深まる。
 
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx13641/n_666anzx13641pt.jpg" alt="四月は君の嘘 Blu-ray Disc BOX" loading="lazy" decoding="async" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx13641/n_666anzx13641pl.jpg" alt="四月は君の嘘 Blu-ray Disc BOX" loading="lazy" decoding="async" />
 
 一度アニメを視聴している場合、何度も見返すかどうかが購入の決め手になるだろう。しかし、『四月は君の嘘』という作品を深く愛する者として、このBOXは手元に置いておきたいと考える。物理的なメディアとして所持していること自体が、大きな喜びであり、作品への敬意の表れでもある。いつでも好きな時に、最高の環境で作品に触れられる安心感は、ストリーミングサービスでは得られない特別なものだ。
 
@@ -135,7 +135,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx13641/n_666anzx13641pt.jpg" alt="四月は君の嘘 Blu-ray Disc BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx13641/n_666anzx13641pl.jpg" alt="四月は君の嘘 Blu-ray Disc BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
