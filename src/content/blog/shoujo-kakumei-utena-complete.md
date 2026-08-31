@@ -14,6 +14,7 @@ faq:
     answer: '事前知識は一切不要だ。むしろ、まっさらな状態で作品の世界に飛び込むことで、ウテナが持つ独自の演出や哲学的な問いかけを、より新鮮な驚きとともに体験できるだろう。物語は一見難解に感じられるかもしれないが、その象徴的な表現や多層的なテーマは、観れば観るほど深みが増すのがこの作品の魅力だ。Complete BOXであれば、何度も繰り返し視聴し、特典資料で考察を深めることができるため、初心者にとっても最適な入門編となるだろう。'
 ---
 
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「少女革命ウテナ Complete」は、単なるアニメ作品の[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray)/DVDボックスではない。これは、アニメ史に名を刻む傑作の深層を体験するための決定版と言えるだろう。もしウテナの名前は知っているものの、どこから鑑賞を始めれば良いか迷っているなら、このComplete BOXこそが最適な選択肢となる。圧倒的な映像美、哲学的とも評される深遠なストーリー、そして心を揺さぶるキャラクターたちが織りなす世界が、このパッケージ一つで余すことなく手に入るからだ。
@@ -25,8 +26,6 @@ faq:
 [少女革命ウテナ Complete](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_653kixa90766%2F&af_id=DMMaria-999&ch=api)
 
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">少女革命ウテナ Complete</h4>
-
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">は“</h4>
 
 ## 映像体験を革新するコンプリートBOXのこだわり
 
@@ -98,8 +97,6 @@ A3: 事前知識は一切不要だ。むしろ、まっさらな状態で作品�
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
 
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
-
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">は“</h4>
 
 <a href="https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>

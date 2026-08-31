@@ -25,6 +25,7 @@ sidebarProducts:
     microCopy: '詳細を見る'
 ---
 
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 ## 宇宙への夢とテクノロジーが詰まった「地球外少年少女 Collectors BOX」が提供する体験価値
