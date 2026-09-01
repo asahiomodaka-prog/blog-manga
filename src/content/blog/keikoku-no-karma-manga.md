@@ -13,6 +13,8 @@ mediaType: comic
 ---
 
 
+
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 12世紀イングランド。血筋と性別が運命を決定づける時代に、不屈の精神で抗い女王として生きた女性の物語がここにある。『傾国のカルマ』は、愛憎渦巻く激動の時代を舞台に、誇りを胸に困難を乗り越える主人公の魂を力強く描き出す。その生き様は、現代を生きる我々にも深い感動と勇気を与え、自らの運命と向き合う力をくれるだろう。壮大な歴史ロマンと人間ドラマの真髄を体験せよ。
@@ -29,7 +31,7 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/s174apups00563/s174apups00563pl.jpg" alt="傾国のカルマ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://al.dmm.com/?lurl=https%3A%2F%2Febook-assets.dmm.com%2Fdigital%2Fe-book%2Fs174apups00563%2Fs174apups00563pl.jpg&af_id=DMMaria-999" alt="傾国のカルマ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

@@ -13,6 +13,8 @@ mediaType: comic
 ---
 
 
+
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 金色のガッシュ！！」は、単なる王道バトル漫画ではない。“優しさの王”を目指すガッシュと清麿が紡ぐ、熱い絆と胸を揺さぶる成長の物語だ。なぜその結末が読者の涙腺を破壊し、心の奥底に深く刻まれるのか。その感動の深さと、色褪せない傑作の真髄を今こそ知るべきだ。DMMブックスなら各巻660円から、この不朽の名作を存分に読み返し、改めてその魅力に触れることができるだろう。
@@ -29,7 +31,7 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/k811abdbc00015/k811abdbc00015pl.jpg" alt="金色のガッシュ 完全版 全巻セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://al.dmm.com/?lurl=https%3A%2F%2Febook-assets.dmm.com%2Fdigital%2Fe-book%2Fk811abdbc00015%2Fk811abdbc00015pl.jpg&af_id=DMMaria-999" alt="金色のガッシュ 完全版 全巻セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -62,7 +64,7 @@ mediaType: comic
 
 1. **迫力のバトル＆ドラマ**: 緊迫感あふれるカメラワークと劇伴音楽が完璧に融合。
 2. **キャラクターの成長と信念**: 逆境に立ち向かう主人公たちの姿が熱い勇気を与えてくれる。
-3. **コレクションとしての価値**: 紙の[全巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588)や高画質[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlu-ray) BOXは、手元に置いておく価値の高い逸品。
+3. **コレクションとしての価値**: 紙の[全巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588)や高画質[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588) BOXは、手元に置いておく価値の高い逸品。
 
 ## 初めて触れる方へ：おすすめの楽しみ方と鑑賞ガイド
 

@@ -13,6 +13,8 @@ mediaType: comic
 ---
 
 
+
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 古典の名作『シャーロック・ホームズ』に興味はあっても、活字の多さに尻込みしてしまう経験はないか。その悩みは、『マンガで世界名作 名探偵シャーロック・ホームズ』が解決する。本書は、ヴィクトリア朝ロンドンの緻密な事件の謎を、鮮やかな絵で存分に堪能できる一冊だ。ホームズの冴えわたる洞察力と推理の過程を、まるでその場にいるかのように追体験できるだろう。夜の静寂の中、ページをめくる手が止まらない、まさにそんな読書体験がここにある。
@@ -29,7 +31,7 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/s573awujz00021/s573awujz00021pl.jpg" alt="マンガで世界名作 名探偵シャーロック ホームズ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://al.dmm.com/?lurl=https%3A%2F%2Febook-assets.dmm.com%2Fdigital%2Fe-book%2Fs573awujz00021%2Fs573awujz00021pl.jpg&af_id=DMMaria-999" alt="マンガで世界名作 名探偵シャーロック ホームズ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -62,7 +64,7 @@ mediaType: comic
 
 1. **迫力のバトル＆ドラマ**: 緊迫感あふれるカメラワークと劇伴音楽が完璧に融合。
 2. **キャラクターの成長と信念**: 逆境に立ち向かう主人公たちの姿が熱い勇気を与えてくれる。
-3. **コレクションとしての価値**: 紙の[全巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588)や高画質[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlu-ray) BOXは、手元に置いておく価値の高い逸品。
+3. **コレクションとしての価値**: 紙の[全巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%2520%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA)や高画質[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%2520%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA) BOXは、手元に置いておく価値の高い逸品。
 
 ## 初めて触れる方へ：おすすめの楽しみ方と鑑賞ガイド
 

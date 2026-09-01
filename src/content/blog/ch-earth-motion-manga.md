@@ -15,6 +15,8 @@ faq:
 ---
 
 
+
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 『チ。-地球の運動について-』豪華版は、地動説という真理を追い求めた人々の命がけの戦いを描く歴史SF漫画の、特別なコレクションアイテムである。その熱量と緻密なストーリーテリングは、読者の知的好奇心を深く揺さぶり、思考の奥深くまで誘うだろう。この豪華版は、作品の持つ重厚な魅力を単なる「本」の枠を超え、「知の器」として物理的に具現化した逸品だ。作品への深い敬意と愛を持つファンにとって、これほど所有欲を掻き立てられるコレクションは稀有な存在となる。
@@ -24,7 +26,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/book/comic/bkt34685830/bkt34685830pl.jpg" alt="チ 地球の運動について 全巻セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://al.dmm.com/?lurl=https%3A%2F%2Fpics.dmm.com%2Fmono%2Fbook%2Fcomic%2Fbkt34685830%2Fbkt34685830pl.jpg&af_id=DMMaria-999" alt="チ 地球の運動について 全巻セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -57,7 +59,7 @@ faq:
 
 これが単なる漫画ではなく、人類の知の歴史の一端を垣間見せる哲学書のような趣を帯びるのは、豪華版の物理的な作り込みが大きく寄与しているからだ。作品が持つ重層的なテーマと、それを支える圧倒的な画力、そして物語の骨格をなす論理的な構成。これら全てが、豪華版というパッケージによって一層研ぎ澄まされ、所有者の知的好奇心を刺激し続ける構造を持つ。
 
-<img src="https://pics.dmm.com/mono/book/comic/bkt34685830/bkt34685830pl.jpg" alt="チ 地球の運動について 全巻セット" loading="lazy" decoding="async" />
+<img src="https://al.dmm.com/?lurl=https%3A%2F%2Fpics.dmm.com%2Fmono%2Fbook%2Fcomic%2Fbkt34685830%2Fbkt34685830pl.jpg&af_id=DMMaria-999" alt="チ 地球の運動について 全巻セット" loading="lazy" decoding="async" />
 
 ## 時代を超えて受け継がれる「真理」の重み
 
@@ -79,7 +81,7 @@ faq:
 
 ファンからの評判を見ても、やはりこの作品が持つ「思想的な深さ」を評価する声が圧倒的に多い。多くの読者が、読み終えた後もそのテーマについて深く考えさせられ、歴史や科学、哲学への興味を抱くようになったと語っている。豪華版という形で手元に置くことは、そうした作品の「深み」を物理的に手元に留めておきたいという、ファン共通の強い願望の表れだ。これは単なる「漫画」として消費されるのではなく、何度も読み返し、その都度新たな発見をするような、知的な対話の対象となる一冊となるだろう。
 
-豪華版だからこその「触れる喜び」も大きい。ページを一枚一枚めくるたびに、上質な紙が指先に触れる感覚、めくるたびに微かに香るインクの匂い、そして厳選された印刷によって際立つ魚豊氏の筆致。これらは、[電子書籍](https://www.amazon.co.jp/s?k=%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D)では決して味わえない、五感を刺激する読書体験を提供する。特に、科学的な考察の図版や、宇宙の壮大さを描いた見開きページなどは、その美しさと迫力が物理的な書籍だからこそ最大限に引き出される。部屋に飾られた豪華版は、視覚だけでなく、触覚や嗅覚にも訴えかけることで、所有者の「知的好奇心の拠点」として機能するはずだ。それは、ファンにとってかけがえのない所有体験となるだろう。
+豪華版だからこその「触れる喜び」も大きい。ページを一枚一枚めくるたびに、上質な紙が指先に触れる感覚、めくるたびに微かに香るインクの匂い、そして厳選された印刷によって際立つ魚豊氏の筆致。これらは、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2581%2520%25E5%259C%25B0%25E7%2590%2583%25E3%2581%25AE%25E9%2581%258B%25E5%258B%2595%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588)では決して味わえない、五感を刺激する読書体験を提供する。特に、科学的な考察の図版や、宇宙の壮大さを描いた見開きページなどは、その美しさと迫力が物理的な書籍だからこそ最大限に引き出される。部屋に飾られた豪華版は、視覚だけでなく、触覚や嗅覚にも訴えかけることで、所有者の「知的好奇心の拠点」として機能するはずだ。それは、ファンにとってかけがえのない所有体験となるだろう。
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
@@ -136,7 +138,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/book/comic/bkt34685830/bkt34685830pl.jpg" alt="チ 地球の運動について 全巻セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://al.dmm.com/?lurl=https%3A%2F%2Fpics.dmm.com%2Fmono%2Fbook%2Fcomic%2Fbkt34685830%2Fbkt34685830pl.jpg&af_id=DMMaria-999" alt="チ 地球の運動について 全巻セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -169,8 +171,8 @@ faq:
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ 全巻セット（まとめ買い）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読破したい人気名作コミック全巻一覧</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2581%2520%25E5%259C%25B0%25E7%2590%2583%25E3%2581%25AE%25E9%2581%258B%25E5%258B%2595%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%20%E5%9C%B0%E7%90%83%E3%81%AE%E9%81%8B%E5%8B%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>
 </div>

@@ -13,6 +13,8 @@ mediaType: comic
 ---
 
 
+
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 追放された不遇の回復士が、なぜ最強職業へと華麗に転身できたのか。そして、その過程で彼女の「様子がおかしい」とは一体どういうことなのか。「冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…」は、理不尽を跳ね返す爽快な逆転劇と、読者の想像を超えるキャラクターの魅力が詰まったファンタジーだ。
@@ -29,7 +31,7 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/b163cijt224118/b163cijt224118pl.jpg" alt="冒険者パーティーを追放された回復士の少女を拾って育" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://al.dmm.com/?lurl=https%3A%2F%2Febook-assets.dmm.com%2Fdigital%2Fe-book%2Fb163cijt224118%2Fb163cijt224118pl.jpg&af_id=DMMaria-999" alt="冒険者パーティーを追放された回復士の少女を拾って育" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -62,7 +64,7 @@ mediaType: comic
 
 1. **迫力のバトル＆ドラマ**: 緊迫感あふれるカメラワークと劇伴音楽が完璧に融合。
 2. **キャラクターの成長と信念**: 逆境に立ち向かう主人公たちの姿が熱い勇気を与えてくれる。
-3. **コレクションとしての価値**: 紙の[全巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588)や高画質[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlu-ray) BOXは、手元に置いておく価値の高い逸品。
+3. **コレクションとしての価値**: 紙の[全巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2586%2592%25E9%2599%25BA%25E8%2580%2585%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%2592%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2582%2592%25E6%258B%25BE%25E3%2581%25A3%25E3%2581%25A6%25E8%2582%25B2)や高画質[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2586%2592%25E9%2599%25BA%25E8%2580%2585%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%2592%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2582%2592%25E6%258B%25BE%25E3%2581%25A3%25E3%2581%25A6%25E8%2582%25B2) BOXは、手元に置いておく価値の高い逸品。
 
 ## 初めて触れる方へ：おすすめの楽しみ方と鑑賞ガイド
 

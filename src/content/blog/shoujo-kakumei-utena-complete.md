@@ -15,9 +15,11 @@ faq:
 ---
 
 
+
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-「少女革命ウテナ Complete」は、単なるアニメ作品の[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray)/DVDボックスではない。これは、アニメ史に名を刻む傑作の深層を体験するための決定版と言えるだろう。もしウテナの名前は知っているものの、どこから鑑賞を始めれば良いか迷っているなら、このComplete BOXこそが最適な選択肢となる。圧倒的な映像美、哲学的とも評される深遠なストーリー、そして心を揺さぶるキャラクターたちが織りなす世界が、このパッケージ一つで余すことなく手に入るからだ。
+「少女革命ウテナ Complete」は、単なるアニメ作品の[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%2591%25E5%25A5%25B3%25E9%259D%25A9%25E5%2591%25BD%25E3%2582%25A6%25E3%2583%2586%25E3%2583%258A%2520Complete%2520Blu-ray%2520BOX)/DVDボックスではない。これは、アニメ史に名を刻む傑作の深層を体験するための決定版と言えるだろう。もしウテナの名前は知っているものの、どこから鑑賞を始めれば良いか迷っているなら、このComplete BOXこそが最適な選択肢となる。圧倒的な映像美、哲学的とも評される深遠なストーリー、そして心を揺さぶるキャラクターたちが織りなす世界が、このパッケージ一つで余すことなく手に入るからだ。
 
 この作品は、観るたびに新たな発見がある。その複雑なテーマ、独自の演出、そして象徴的な表現は、一度見ただけでは決して理解しきれないほどだ。だからこそ、いつでも何度でも、最高の環境で作品と向き合えるこのComplete BOXの価値は計り知れない。
 
@@ -61,7 +63,7 @@ faq:
 
 このコンプリートボックスを手にすれば、そんな深く、どこまでも広がるウテナの世界に、いつでも好きな時に飛び込めるのだ。
 
-<img src="https://pics.dmm.com/mono/movie/animation/n_653kixa90766/n_653kixa90766pl.jpg" alt="少女革命ウテナ Complete" loading="lazy" decoding="async" />
+<img src="https://al.dmm.com/?lurl=https%3A%2F%2Fpics.dmm.com%2Fmono%2Fmovie%2Fanimation%2Fn_653kixa90766%2Fn_653kixa90766pl.jpg&af_id=DMMaria-999" alt="少女革命ウテナ Complete" loading="lazy" decoding="async" />
 
 ## 僕のコレクション棚に輝く「革命」の証と、ファンの熱狂
 
@@ -98,5 +100,5 @@ A3: 事前知識は一切不要だ。むしろ、まっさらな状態で作品�
 
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
 
-<a href="https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%2591%25E5%25A5%25B3%25E9%259D%25A9%25E5%2591%25BD%25E3%2582%25A6%25E3%2583%2586%25E3%2583%258A%2520Complete%2520Blu-ray%2520BOX" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B0%91%E5%A5%B3%E9%9D%A9%E5%91%BD%E3%82%A6%E3%83%86%E3%83%8A%20Complete%20Blu-ray%20BOX%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
