@@ -16,33 +16,42 @@ faq:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-## 不朽の名作と古典の融合：現代を生き抜くための智慧
-
-現代社会は複雑で、日々の仕事や人間関係で多くの悩みを抱える人は少なくない。そんな時、ビジネス書を読んでも頭に入ってこない、もっと心に響く言葉が欲しいと感じることはないだろうか。この『時代を超える スラムダンク論語』は、そうした読者にとって、まさに目から鱗が落ちるような一冊になるだろう。不朽の名作『スラムダンク』の熱いストーリーと、二千年以上読み継がれる古典『論語』の教えを掛け合わせることで、現代のリーダーシップ、人間関係、自己成長に必要な普遍的な智慧を、誰にでも分かりやすく、そして深く心に刻み込む構成になっている。特に、組織運営やチームビルディングに課題を感じているビジネスパーソンや、自身のキャリアに迷いを感じている若手層には、その構造的な分析が深く刺さるはずだ。
-
-[時代を超える スラムダンク論語](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4297619%2Fs284asnph00157%2F&af_id=DMMaria-999&ch=api)
+<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
+<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #1e3a8a; line-height: 1.65;">
+<li style="margin-bottom: 6px;"><strong>作品の魅力</strong>: 緻密に練られた重厚な世界観と、時代を超えて胸を打つキャラクタードラマが最大の武器。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 一気読み・一気見必至の骨太な名作をじっくり堪能したい方や、永久保存版として手元に揃えたいファン。</li>
+<li><strong>お得な楽しみ方</strong>: 全巻まとめ買いや、アニメ版の30日間無料見放題（DMM TV等）を組み合わせた鑑賞がおすすめ。</li>
+</ul>
+</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/s284asnph00157/s284asnph00157pl.jpg" alt="時代を超える スラムダンク論語" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/slam-dunk-analects.jpg" alt="スラムダンク論語の賢い読み方" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">時代を超える スラムダンク論語</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">スラムダンク論語の賢い読み方</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2599%2582%25E4%25BB%25A3%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2582%258B%2520%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E%25E3%2581%25AE%25E8%25B3%25A2%25E3%2581%2584%25E8%25AA%25AD%25E3%2581%25BF%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%99%82%E4%BB%A3%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B%20%E3%82%B9%E3%83%A9%E3%83%A0%E3%83%80%E3%83%B3%E3%82%AF%E8%AB%96%E8%AA%9E%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2599%2582%25E4%25BB%25A3%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2582%258B%2520%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4297619%2Fs284asnph00157%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%A9%E3%83%A0%E3%83%80%E3%83%B3%E3%82%AF%E8%AB%96%E8%AA%9E%E3%81%AE%E8%B3%A2%E3%81%84%E8%AA%AD%E3%81%BF%E6%96%B9%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E%25E3%2581%25AE%25E8%25B3%25A2%25E3%2581%2584%25E8%25AA%25AD%25E3%2581%25BF%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%B9%E3%83%A9%E3%83%A0%E3%83%80%E3%83%B3%E3%82%AF%E8%AB%96%E8%AA%9E%E3%81%AE%E8%B3%A2%E3%81%84%E8%AA%AD%E3%81%BF%E6%96%B9&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
+
+## 不朽の名作と古典の融合：現代を生き抜くための智慧
+
+現代社会は複雑で、日々の仕事や人間関係で多くの悩みを抱える人は少なくない。そんな時、ビジネス書を読んでも頭に入ってこない、もっと心に響く言葉が欲しいと感じることはないだろうか。この『時代を超える スラムダンク論語』は、そうした読者にとって、まさに目から鱗が落ちるような一冊になるだろう。不朽の名作『スラムダンク』の熱いストーリーと、二千年以上読み継がれる古典『論語』の教えを掛け合わせることで、現代のリーダーシップ、人間関係、自己成長に必要な普遍的な智慧を、誰にでも分かりやすく、そして深く心に刻み込む構成になっている。特に、組織運営やチームビルディングに課題を感じているビジネスパーソンや、自身のキャリアに迷いを感じている若手層には、その構造的な分析が深く刺さるはずだ。
+
+[時代を超える スラムダンク論語](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4297619%2Fs284asnph00157%2F&af_id=DMMaria-999&ch=api)
 
 ## 『スラムダンク論語』が紐解く人間成長の普遍的構造
 
@@ -66,6 +75,18 @@ faq:
 
 <img src="https://ebook-assets.dmm.com/digital/e-book/s284asnph00157/s284asnph00157pl.jpg" alt="時代を超える スラムダンク論語" loading="lazy" decoding="async" />
 
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+<div style="text-align: center;">
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+👉 DMM TVで30日間無料体験してみる
+</a>
+</div>
+</div>
+
 ## 湘北メンバーが体現する「仁義」と「修養」の精神
 
 『スラムダンク論語』では、湘北バスケ部の主要メンバー一人ひとりの人間性が、『論語』の教えに照らして深く考察されている。彼らが抱える心の葛藤や、仲間との間に築き上げる人間関係が、いかに普遍的な倫理観に基づいているかが浮き彫りになる。
@@ -79,18 +100,6 @@ faq:
 そして、挫折を経験し、一度は道を外れた三井寿の再起の物語は、読者の胸を最も熱くするパートの一つだろう。「安西先生……!!バスケがしたいです……」という彼の名言は、単なる後悔の言葉ではない。それは、自身の過ちを認め、再び正しい道に戻ろうとする「義」の表明であり、自身の欲望と戦い、修養を積み直そうとする強い意志の表れだ。彼の復活は、何度失敗しても立ち上がり、努力を続けることの尊さを私たちに教えてくれる。
 
 本書は、これらのキャラクターたちが織りなす人間ドラマを、単なるスポーツ漫画としてではなく、人生の指針となる『論語』の視点から再解釈することで、読者に深い感動と学びを提供してくれる。彼らの心の葛藤や、互いを認め合う過程は、現代社会で私たちが必要とする「仁義」と「修養」の精神を鮮やかに描き出しているのだ。
-
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
-<div style="text-align: center;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-👉 DMM TVで30日間無料体験してみる
-</a>
-</div>
-</div>
 
 ## 読者の声に見る本書の価値と、意外な落とし穴
 
@@ -114,18 +123,18 @@ faq:
 | 著者/作者 | 遠越段 |
 | ジャンル | 人間関係・自己啓発 |
 
-本書の価格は1,650円（税込）であり、単行本のビジネス書としては標準的な価格帯だ。電子書籍サービスDMMブックスで提供されており、このプラットフォームを活用することで、手軽にアクセスできるメリットがある。
+本書の価格は1,650円（税込）であり、単行本のビジネス書としては標準的な価格帯だ。[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)サービスDMMブックスで提供されており、このプラットフォームを活用することで、手軽にアクセスできるメリットがある。
 
 **お得で失敗しない購読手順:**
 
 1.  **DMMブックスのアカウント作成と初回購入特典の確認:**
     DMMブックスでは、新規ユーザー向けに初回購入時に大幅な割引が適用されるキャンペーンを定期的に実施している場合が多い。例えば、購入額の70%ポイント還元など、非常にお得なプロモーションを見逃さないように、購入前に必ずキャンペーン情報をチェックすることをおすすめする。この特典を上手く活用すれば、実質的な購入費用を大幅に抑えることが可能だ。
 2.  **試し読みの活用:**
-    DMMブックスには多くの電子書籍で試し読み機能が用意されている。この本も例外ではないだろう。購入前に数ページを読んでみて、著者の文体や論語とスラムダンクの紐付け方が自分に合っているかを確認することは、購入後のミスマッチを防ぐ上で非常に重要だ。特に、先に述べたように、原作『スラムダンク』への理解度が読書の満足度に影響するため、試し読みでその感覚を掴むのが賢明だ。
+    DMMブックスには多くの[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)で試し読み機能が用意されている。この本も例外ではないだろう。購入前に数ページを読んでみて、著者の文体や論語とスラムダンクの紐付け方が自分に合っているかを確認することは、購入後のミスマッチを防ぐ上で非常に重要だ。特に、先に述べたように、原作『スラムダンク』への理解度が読書の満足度に影響するため、試し読みでその感覚を掴むのが賢明だ。
 3.  **『スラムダンク』原作との併読:**
-    もし可能であれば、本書を読む前、または本書と並行して『スラムダンク』の漫画原作を読み返すことを強く推奨する。作中で引用される名シーンやキャラクターの感情の機微を、鮮明な記憶で保つことで、本書の解説がより深く心に響く。電子書籍としてDMMブックスでも『スラムダンク』原作は手に入るため、環境が整っていれば、両方をデジタルで持ち歩き、行き来しながら読むという贅沢な読書体験も可能だ。紙媒体のようにかさばることなく、いつでもどこでもこの二つの傑作の世界に浸れるのは、電子書籍の大きな強みと言える。
+    もし可能であれば、本書を読む前、または本書と並行して『スラムダンク』の漫画原作を読み返すことを強く推奨する。作中で引用される名シーンやキャラクターの感情の機微を、鮮明な記憶で保つことで、本書の解説がより深く心に響く。[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)としてDMMブックスでも『スラムダンク』原作は手に入るため、環境が整っていれば、両方をデジタルで持ち歩き、行き来しながら読むという贅沢な読書体験も可能だ。紙媒体のようにかさばることなく、いつでもどこでもこの二つの傑作の世界に浸れるのは、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の大きな強みと言える。
 
-本書は一冊完結のビジネス書であり、続刊の心配はない。そのため、一度購入すれば追加費用なしで、繰り返しその智慧に触れることができる。自己啓発書として、何度も読み返すことで新たな発見があるタイプの本なので、電子書籍として手元に置いておくことは非常に実用的な選択だ。
+本書は一冊完結のビジネス書であり、続刊の心配はない。そのため、一度購入すれば追加費用なしで、繰り返しその智慧に触れることができる。自己啓発書として、何度も読み返すことで新たな発見があるタイプの本なので、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)として手元に置いておくことは非常に実用的な選択だ。
 
 [時代を超える スラムダンク論語](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4297619%2Fs284asnph00157%2F&af_id=DMMaria-999&ch=api)
 
@@ -138,18 +147,18 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/s284asnph00157/s284asnph00157pl.jpg" alt="時代を超える スラムダンク論語" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/slam-dunk-analects.jpg" alt="スラムダンク論語の賢い読み方" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">時代を超える スラムダンク論語</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">スラムダンク論語の賢い読み方</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2599%2582%25E4%25BB%25A3%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2582%258B%2520%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E%25E3%2581%25AE%25E8%25B3%25A2%25E3%2581%2584%25E8%25AA%25AD%25E3%2581%25BF%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%99%82%E4%BB%A3%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B%20%E3%82%B9%E3%83%A9%E3%83%A0%E3%83%80%E3%83%B3%E3%82%AF%E8%AB%96%E8%AA%9E%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2599%2582%25E4%25BB%25A3%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2582%258B%2520%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4297619%2Fs284asnph00157%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%A9%E3%83%A0%E3%83%80%E3%83%B3%E3%82%AF%E8%AB%96%E8%AA%9E%E3%81%AE%E8%B3%A2%E3%81%84%E8%AA%AD%E3%81%BF%E6%96%B9%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E%25E3%2581%25AE%25E8%25B3%25A2%25E3%2581%2584%25E8%25AA%25AD%25E3%2581%25BF%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%B9%E3%83%A9%E3%83%A0%E3%83%80%E3%83%B3%E3%82%AF%E8%AB%96%E8%AA%9E%E3%81%AE%E8%B3%A2%E3%81%84%E8%AA%AD%E3%81%BF%E6%96%B9&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
 </div>
 </div>
 </div>

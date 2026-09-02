@@ -12,9 +12,6 @@ sidebarProducts:
 mediaType: comic
 ---
 
-
-
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 追放された不遇の回復士が、なぜ最強職業へと華麗に転身できたのか。そして、その過程で彼女の「様子がおかしい」とは一体どういうことなのか。「冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…」は、理不尽を跳ね返す爽快な逆転劇と、読者の想像を超えるキャラクターの魅力が詰まったファンタジーだ。
@@ -31,18 +28,18 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://al.dmm.com/?lurl=https%3A%2F%2Febook-assets.dmm.com%2Fdigital%2Fe-book%2Fb163cijt224118%2Fb163cijt224118pl.jpg&af_id=DMMaria-999" alt="冒険者パーティーを追放された回復士の少女を拾って育" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/recovering-girl-expelled-party-manga.jpg" alt="追放回復士の少女 なぜ彼女は最強になり" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">冒険者パーティーを追放された回復士の少女を拾って育</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>冒険者パーティーを追放された回復士の少女を拾って育成したら、まさかの最強職業に転職！？（コミック版） review and specs.</p>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">追放回復士の少女 なぜ彼女は最強になり</h4>
+
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2586%2592%25E9%2599%25BA%25E8%2580%2585%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%2592%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2582%2592%25E6%258B%25BE%25E3%2581%25A3%25E3%2581%25A6%25E8%2582%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%2520%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%86%92%E9%99%BA%E8%80%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%92%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E5%9B%9E%E5%BE%A9%E5%A3%AB%E3%81%AE%E5%B0%91%E5%A5%B3%E3%82%92%E6%8B%BE%E3%81%A3%E3%81%A6%E8%82%B2%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2586%2592%25E9%2599%25BA%25E8%2580%2585%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%2592%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2582%2592%25E6%258B%25BE%25E3%2581%25A3%25E3%2581%25A6%25E8%2582%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4356745%2Fb163cijt224118%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%BF%BD%E6%94%BE%E5%9B%9E%E5%BE%A9%E5%A3%AB%E3%81%AE%E5%B0%91%E5%A5%B3%20%E3%81%AA%E3%81%9C%E5%BD%BC%E5%A5%B3%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%AB%E3%81%AA%E3%82%8A%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%2520%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E8%BF%BD%E6%94%BE%E5%9B%9E%E5%BE%A9%E5%A3%AB%E3%81%AE%E5%B0%91%E5%A5%B3%20%E3%81%AA%E3%81%9C%E5%BD%BC%E5%A5%B3%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%AB%E3%81%AA%E3%82%8A&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
 </div>
 </div>
 </div>
@@ -66,12 +63,67 @@ mediaType: comic
 2. **キャラクターの成長と信念**: 逆境に立ち向かう主人公たちの姿が熱い勇気を与えてくれる。
 3. **コレクションとしての価値**: 紙の[全巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2586%2592%25E9%2599%25BA%25E8%2580%2585%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%2592%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2582%2592%25E6%258B%25BE%25E3%2581%25A3%25E3%2581%25A6%25E8%2582%25B2)や高画質[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2586%2592%25E9%2599%25BA%25E8%2580%2585%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%2592%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2582%2592%25E6%258B%25BE%25E3%2581%25A3%25E3%2581%25A6%25E8%2582%25B2) BOXは、手元に置いておく価値の高い逸品。
 
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
+<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
+<div style="text-align: center;">
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+👉 DMM TVで30日間無料体験してみる
+</a>
+</div>
+</div>
+
 ## 初めて触れる方へ：おすすめの楽しみ方と鑑賞ガイド
 
 本作を存分に堪能するためには、以下の楽しみ方がおすすめである。
 
 * **一気読み・まとめ見**: 物語のテンポが良いため、週末や連休にまとめて鑑賞することで、没入感が何倍にも跳ね上がる。
 * **特典コンテンツのチェック**: 設定資料集やオーディオコメンタリーなど、公式特典と合わせて楽しむことで世界観への理解が深まる。
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="/images/recovering-girl-expelled-party-manga.jpg" alt="追放回復士の少女 なぜ彼女は最強になり" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">追放回復士の少女 なぜ彼女は最強になり</h4>
+
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%2520%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%BF%BD%E6%94%BE%E5%9B%9E%E5%BE%A9%E5%A3%AB%E3%81%AE%E5%B0%91%E5%A5%B3%20%E3%81%AA%E3%81%9C%E5%BD%BC%E5%A5%B3%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%AB%E3%81%AA%E3%82%8A%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%25BF%25BD%25E6%2594%25BE%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%2520%25E3%2581%25AA%25E3%2581%259C%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AF%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E8%BF%BD%E6%94%BE%E5%9B%9E%E5%BE%A9%E5%A3%AB%E3%81%AE%E5%B0%91%E5%A5%B3%20%E3%81%AA%E3%81%9C%E5%BD%BC%E5%A5%B3%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%AB%E3%81%AA%E3%82%8A&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">📚 併せてチェックしたい関連作品・サービス</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">DMMコミックレンタル（1冊115円でまとめ読み）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">重い本を持たずに自宅へ届く！1冊115円〜の宅配レンタル</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Frental.dmm.com%2Fcomic%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">📘 DMMでレンタルする</a>
+</div>
+</div>
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ 全巻セット（まとめ買い）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読破したい人気名作コミック全巻一覧</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+</div>
+</div>
+</div>
+</div>
 
 ## 総括：時代を超えて語り継がれる永久保存版の傑作
 
