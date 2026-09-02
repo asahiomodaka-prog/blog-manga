@@ -16,9 +16,9 @@ faq:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-『ベルセルク』の原画に宿る三浦建太郎の筆致を、間近で感じたいと願うファンは多いだろう。その願いを叶える[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2)は、まさに作品の真髄を伝える一冊だ。
+『ベルセルク』の原画に宿る三浦建太郎の筆致を、間近で感じたいと願うファンは多いだろう。その願いを叶える[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2)は、まさに作品の真髄を伝える一冊だ。
 
-一般的な[画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2)が完成されたイラストを中心に構成されるのに対し、本書は「大ベルセルク展」で展示された原画を核に、三浦の創作の軌跡を文字通り追体験できる。緻密なペン入れの跡、修正の痕跡、そして圧倒的な迫力で迫る大判のカラー・モノクロ原稿は、鑑賞者を物語の深淵へと誘う。
+一般的な[画集](https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2)が完成されたイラストを中心に構成されるのに対し、本書は「大ベルセルク展」で展示された原画を核に、三浦の創作の軌跡を文字通り追体験できる。緻密なペン入れの跡、修正の痕跡、そして圧倒的な迫力で迫る大判のカラー・モノクロ原稿は、鑑賞者を物語の深淵へと誘う。
 
 コミックスを何度も読み込み、キャラクターたちの運命に心を揺さぶられてきた読者にこそ、この図録の真価は伝わるだろう。
 
@@ -41,10 +41,10 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">大ベルセルク展 公式図録</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
 </div>
 </div>
@@ -55,7 +55,7 @@ faq:
 
 ## 『ベルセルク』原画で辿る狂戦士の旅路
 
-この[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2)は、三浦建太郎の代表作『ベルセルク』の壮大な世界観を凝縮した公式アートブックだ。単なるイラスト集とは異なり、2020年から日本各地で開催された「大ベルセルク展」で実際に展示された原画を中心に構成されている点が、他の追随を許さない独自性を持つ。
+この[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2)は、三浦建太郎の代表作『ベルセルク』の壮大な世界観を凝縮した公式アートブックだ。単なるイラスト集とは異なり、2020年から日本各地で開催された「大ベルセルク展」で実際に展示された原画を中心に構成されている点が、他の追随を許さない独自性を持つ。
 
 A4変形判の大型サイズ、そして400ページを超える圧倒的なボリュームで、連載30年以上にわたる『ベルセルク』の軌跡とキャラクターの魅力が網羅されている。
 
@@ -135,7 +135,7 @@ A4変形判の大型サイズ、そして400ページを超える圧倒的なボ
 
 ## 原画集だからこその価値と、考慮すべき点
 
-[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2)の口コミや評判を見ると、その圧倒的な内容に多くの賛辞が寄せられている。多くのファンが「展覧会に行けなかったが、これで追体験できた」「原画の迫力がすごかった」「三浦の執念を感じる」といった感想を述べている。
+[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2)の口コミや評判を見ると、その圧倒的な内容に多くの賛辞が寄せられている。多くのファンが「展覧会に行けなかったが、これで追体験できた」「原画の迫力がすごかった」「三浦の執念を感じる」といった感想を述べている。
 
 400ページ超えというボリュームと、A4変形判の大型サイズで、隅々まで描き込まれた原画を存分に鑑賞できる点は、まさにファン垂涎の魅力だ。価格は3,960円と、一般的なコミックス数冊分に相当するが、その内容の濃さと資料的価値を考えれば、妥当な価格設定と言える。
 
@@ -147,11 +147,11 @@ A4変形判の大型サイズ、そして400ページを超える圧倒的なボ
 
 頻繁に開いて鑑賞する性質上、角が傷んだり、背表紙が割れたりする可能性も考慮に入れる必要があるだろう。
 
-そして最も重要なのは、あくまでこれは「原[画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%2520%25E7%2594%25BB%25E9%259B%2586)」であり、物語の全編を読めるコミックスではないという点だ。当然ながらセリフは基本的に掲載されておらず、展示された原画のビジュアルがメインとなる。
+そして最も重要なのは、あくまでこれは「原[画集](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86%20%E7%94%BB%E9%9B%86)」であり、物語の全編を読めるコミックスではないという点だ。当然ながらセリフは基本的に掲載されておらず、展示された原画のビジュアルがメインとなる。
 
 そのため、『ベルセルク』を未読の人が最初に手にするべき一冊ではない。物語のあらすじや、登場人物の関係性を深く理解している、熱心な愛読者が、作品への理解をさらに深めるためのガイドブックとして活用するのが最も理想的な使い方だと言える。
 
-私のように、すでにコミックスを何度も読み返し、キャラクターたちの言葉や行動の背景にある感情を熟知している人間にとっては、この原[画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%2520%25E7%2594%25BB%25E9%259B%2586)から得られる情報は計り知れないものがある。だが、その前提がなければ、図録の真価を十分に味わうことは難しいだろう。
+私のように、すでにコミックスを何度も読み返し、キャラクターたちの言葉や行動の背景にある感情を熟知している人間にとっては、この原[画集](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86%20%E7%94%BB%E9%9B%86)から得られる情報は計り知れないものがある。だが、その前提がなければ、図録の真価を十分に味わうことは難しいだろう。
 
 | 項目 | 詳細 |
 | :--- | :--- |
@@ -162,7 +162,7 @@ A4変形判の大型サイズ、そして400ページを超える圧倒的なボ
 
 ## 『ベルセルク』を原画で味わう贅沢：その独自性と価値
 
-『ベルセルク』の関連書籍は数多く出版されているが、この[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2)は、その中でも「原画」に特化している点で独自の価値を持つ。一般的な[画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%2520%25E7%2594%25BB%25E9%259B%2586)が、完成されたイラストの美しさを楽しむものだとすれば、本書は三浦建太郎の「創作の息吹」そのものを体感するためのものと言える。
+『ベルセルク』の関連書籍は数多く出版されているが、この[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2)は、その中でも「原画」に特化している点で独自の価値を持つ。一般的な[画集](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86%20%E7%94%BB%E9%9B%86)が、完成されたイラストの美しさを楽しむものだとすれば、本書は三浦建太郎の「創作の息吹」そのものを体感するためのものと言える。
 
 たとえば、過去に出版された『ベルセルク』のイラスト集も確かに素晴らしいが、それらは基本的にカラーイラストが中心で、モノクロの生原稿がこれだけのボリュームで掲載されることはなかった。また、単行本に収録されている漫画のページは、印刷の都合上、どうしても原画の持つ繊細な線のニュアンスや、インクの濃淡が損なわれてしまう。
 
@@ -176,11 +176,11 @@ A4変形判の大型サイズ、そして400ページを超える圧倒的なボ
 
 ## 三浦建太郎の魂が宿る一冊：今、原画に触れる意味
 
-[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2)は、『ベルセルク』という作品、そして三浦建太郎の芸術に敬意を払う全ての人にとって、その真髄を伝える一冊となるだろう。単行本やアニメ、[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2)を通じて作品に触れてきたファンであればあるほど、この原[画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%2520%25E7%2594%25BB%25E9%259B%2586)が持つ意味は大きい。
+[大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2)は、『ベルセルク』という作品、そして三浦建太郎の芸術に敬意を払う全ての人にとって、その真髄を伝える一冊となるだろう。単行本やアニメ、[フィギュア](https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2)を通じて作品に触れてきたファンであればあるほど、この原[画集](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86%20%E7%94%BB%E9%9B%86)が持つ意味は大きい。
 
 それは、三浦の生の筆致から、作品に込められた並々ならぬ情熱、繊細かつ圧倒的な画力、そして物語の深遠なるテーマを、新たな視点と深い理解で再発見する機会となる。
 
-高価であり、重く場所を取ることは事実だ。しかし、これほどのクオリティと情報量を持つ原[画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%2520%25E7%2594%25BB%25E9%259B%2586)が、今後再版される保証はない。
+高価であり、重く場所を取ることは事実だ。しかし、これほどのクオリティと情報量を持つ原[画集](https://www.amazon.co.jp/s?k=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86%20%E7%94%BB%E9%9B%86)が、今後再版される保証はない。
 
 三浦がこの世を去り、作品の偉大さが改めて認識されている今だからこそ、彼の創作の源泉に触れる意味は計り知れない。自宅でじっくりとページをめくり、一枚一枚の原画に込められた魂の叫びを、静かに感じ取ってみるのも良いだろう。
 
@@ -196,10 +196,10 @@ A4変形判の大型サイズ、そして400ページを超える圧倒的なボ
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">大ベルセルク展 公式図録</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%25A7%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%25E5%25B1%2595%2520%25E5%2585%25AC%25E5%25BC%258F%25E5%259B%25B3%25E9%258C%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
 </div>
 </div>
@@ -222,7 +222,7 @@ A4変形判の大型サイズ、そして400ページを超える圧倒的なボ
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ 全巻セット（まとめ買い）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読破したい人気名作コミック全巻一覧</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>

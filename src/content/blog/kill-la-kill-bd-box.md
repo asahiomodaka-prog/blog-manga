@@ -39,10 +39,10 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">キルラキル Blu-ray BOX</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25AD%25E3%2583%25AB%2520Blu-ray%2520BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25AD%25E3%2583%25AB%2520Blu-ray%2520BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
 </div>
 </div>
@@ -53,7 +53,7 @@ faq:
 
 ## 『キルラキル』BD-BOXで蘇る鮮烈なビジュアルと音響体験
 
-『キルラキル [Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25AD%25E3%2583%25AB%2520Blu-ray%2520Disc%2520BOX) Disc BOX』の最大の魅力は、その高品質な映像と音響にある。私はこの作品をTV放送や配信サービスでも幾度となく鑑賞してきたが、BD BOXで体験するそれは、一段と優れた品質をもたらす。
+『キルラキル [Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20Disc%20BOX) Disc BOX』の最大の魅力は、その高品質な映像と音響にある。私はこの作品をTV放送や配信サービスでも幾度となく鑑賞してきたが、BD BOXで体験するそれは、一段と優れた品質をもたらす。
 
 高画質化された映像は、TV放送時に感じた勢いや躍動感を損なうことなく、細部の描写までを鮮明に映し出す。キャラクターの表情の微細な変化、背景の緻密な描き込み、そして何よりもトリガー特有のケレン味溢れるアクションシーンの躍動感が、より一層際立って見えるのだ。
 
@@ -107,7 +107,7 @@ faq:
 
 ## 部屋に広がる熱狂と、ファンを繋ぐ絆の証
 
-この『キルラキル [Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray) Disc BOX』を実際に手にした時、私の部屋に作品の世界観が深く息づく感覚を覚えた。ボックス自体が持つ存在感は想像以上で、本棚の一角に収めた時、他のBDや書籍とは一線を画すオーラを放っている。
+この『キルラキル [Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) Disc BOX』を実際に手にした時、私の部屋に作品の世界観が深く息づく感覚を覚えた。ボックス自体が持つ存在感は想像以上で、本棚の一角に収めた時、他のBDや書籍とは一線を画すオーラを放っている。
 
 特製ブックレットを手に取り、ページをめくるたびに、キャラクターデザインの初期案や美術設定画、そして中島かずき氏のコメントを読み込むことで、作品への理解が深まるだけでなく、作り手の情熱が私のもとへと直接伝わってくるような感覚に陥る。これは、物理的なアイテムを所有することの最大の喜びの一つだ。
 
@@ -119,7 +119,7 @@ BDを再生し、大画面で作品を見返す体験もまた格別である。
 
 私がSNSで交流しているファン仲間も、このBD BOXへの評価は非常に高い。多くの人が「改めて作品の素晴らしさを再認識した」「特典映像が充実していて大満足」「高画質で見るキルラキルは最高」といった感想を共有している。
 
-中には、「このBOXを手に入れてから、週末ごとに全話見直すのが習慣になった」という声もあり、私も全く同意見だ。私の知り合いのコレクターの中には、このBD BOXと関連グッズ（[フィギュア](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25AD%25E3%2583%25AB%2520Blu-ray%2520Disc%2520BOX)や設定資料集など）を並べて『キルラキル』専用のディスプレイコーナーを設けている人もいるほどである。
+中には、「このBOXを手に入れてから、週末ごとに全話見直すのが習慣になった」という声もあり、私も全く同意見だ。私の知り合いのコレクターの中には、このBD BOXと関連グッズ（[フィギュア](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20Disc%20BOX)や設定資料集など）を並べて『キルラキル』専用のディスプレイコーナーを設けている人もいるほどである。
 
 このBD BOXは、単なる映像ソフトというだけでなく、ファン同士が作品への愛を共有し、語り合うための「絆の証」としての側面も持つと感じる。手元にこのBOXがあることで、いつでも最高の状態で作品の世界に浸れるという安心感は、ファンにとって何物にも代えがたい喜びである。
 
@@ -151,11 +151,11 @@ BDを再生し、大画面で作品を見返す体験もまた格別である。
 一方、購入・設置時の客観的な注意点もいくつか挙げておく。
 
 *   **BD再生環境の確認:**
-    この商品は[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray) Discであるため、[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray) Discプレイヤーが必須だ。DVDプレイヤーでは再生できないため、事前に再生環境が整っているか確認が必要となる。
+    この商品は[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) Discであるため、[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) Discプレイヤーが必須だ。DVDプレイヤーでは再生できないため、事前に再生環境が整っているか確認が必要となる。
 *   **収納スペースの確保:**
     一般的なBDケースよりもサイズが大きいため、本棚や収納スペースに余裕があるか確認しておくと良い。私の部屋でも、他のBD BOXと並べるためにスペースを整理した経験がある。
 *   **特典内容の確認:**
-    すでにバラ売りの[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray) Discを持っている場合、一部特典映像が重複する可能性もある。BD BOXならではの限定特典や、OVA、ブックレットの内容が、自身の求めるものと合致するか事前に確認すると、後悔のない買い物ができるだろう。
+    すでにバラ売りの[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) Discを持っている場合、一部特典映像が重複する可能性もある。BD BOXならではの限定特典や、OVA、ブックレットの内容が、自身の求めるものと合致するか事前に確認すると、後悔のない買い物ができるだろう。
 
 ### スペック情報
 
@@ -163,7 +163,7 @@ BDを再生し、大画面で作品を見返す体験もまた格別である。
 | :--------- | :------- |
 | 価格       | 27,720円 |
 | サービス   | 通販     |
-| フロア     | DVD・[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray) |
+| フロア     | DVD・[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) |
 | is_hobby   | True     |
 | 著者/作者  | 中島かずき |
 | メーカー/出版社 | ソニーミュージック |
@@ -210,10 +210,10 @@ BDを再生し、大画面で作品を見返す体験もまた格別である。
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">キルラキル Blu-ray BOX</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25AD%25E3%2583%25AB%2520Blu-ray%2520BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25AD%25E3%2583%25AB%2520Blu-ray%2520BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
 </div>
 </div>
@@ -236,7 +236,7 @@ BDを再生し、大画面で作品を見返す体験もまた格別である。
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ 全巻セット（まとめ買い）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読破したい人気名作コミック全巻一覧</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%2520%25E5%2585%25A8%25E5%25B7%25BB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>
