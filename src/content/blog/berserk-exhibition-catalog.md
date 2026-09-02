@@ -93,7 +93,7 @@ A4変形判の大型サイズ、そして400ページを超える圧倒的なボ
 
 これは単なる作品鑑賞に留まらず、芸術家としての三浦建太郎という存在を深く考察するための、非常に重要な資料となるだろう。
 
-![大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION](None)
+<div style="text-align: center; margin: 28px 0;"><img src="https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg" alt="大ベルセルク展 公式図録 BERSERK ORIGINAL EXHIBITION" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## 業を背負う者たちの魂の叫び：ガッツ、グリフィス、キャスカが織りなす人間ドラマの原画表現
 

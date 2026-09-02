@@ -2,7 +2,7 @@
 title: '『宇宙兄弟』全巻読了後。あなたの日常に「諦めない」という選択肢が増える'
 description: '宇宙兄弟 全巻セット（小山宙哉/講談社）で、宇宙飛行士を目指す兄弟のリアルな挑戦と深い絆を体験。挫折と成長を描く緻密な心理描写は必読。全巻30,745円で、壮大な物語を一気読みし、Amazonでカタルシスを味わおう。'
 pubDate: '2026-08-31'
-heroImage: '/images/space-brothers-manga-set.png'
+heroImage: '/images/space-brothers-manga-set.jpg'
 genre: 'manga'
 mediaType: 'comic'
 faq:
@@ -34,7 +34,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/space-brothers-manga-set.png" alt="宇宙兄弟" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/space-brothers-manga-set.jpg" alt="宇宙兄弟" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -89,7 +89,7 @@ faq:
 
 私はこの漫画を読むたびに、地球という星の美しさと、そこに生きる私たち自身の可能性について、深く考えさせられる。科学的なリアリティと、普遍的な人間ドラマ、そして未来への希望が、これほどまでに高い次元で融合している作品は、『宇宙兄弟』以外にそう多くはないだろう。
 
-![宇宙兄弟 全巻セット 小山宙哉 講談社](None)
+<div style="text-align: center; margin: 28px 0;"><img src="/images/space-brothers-manga-set.jpg" alt="宇宙兄弟 全巻セット 小山宙哉 講談社" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## ムッタとヒビト、それぞれの胸に刻まれた「心の名言」
 
@@ -194,7 +194,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/space-brothers-manga-set.png" alt="宇宙兄弟" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/space-brothers-manga-set.jpg" alt="宇宙兄弟" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
