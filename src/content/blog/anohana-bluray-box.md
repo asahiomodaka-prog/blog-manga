@@ -14,7 +14,11 @@ mediaType: anime
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-あの夏の感動を、最高のクオリティで再び味わいたいと願う者にとって、『あの日見た花の名前を僕達はまだ知らない。 [Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray) BOX』はまさに究極の選択肢だ。高精細な映像と臨場感あふれる音響が、めんまやじんたんたちの息遣い、秩父の美しい風景、そして心の機微を鮮やかに蘇らせるだろう。単なるアニメの再視聴ではなく、作品世界へ深く没入し、新たな発見すらもたらす。特典映像も充実しており、これは「あの花」ファンなら絶対に手に入れるべきコレクターズアイテムだ。
+あの夏の感動を、最高のクオリティで再び味わいたいと願う者にとって、『あの日見た花の名前を僕達はまだ知らない。 [Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray) BOX』はまさに究極の選択肢だ。
+
+高精細な映像と臨場感あふれる音響が、めんまやじんたんたちの息遣い、秩父の美しい風景、そして心の機微を鮮やかに蘇らせるだろう。単なるアニメの再視聴ではなく、作品世界へ深く没入し、新たな発見すらもたらす。
+
+特典映像も充実しており、これは「あの花」ファンなら絶対に手に入れるべきコレクターズアイテムだ。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
@@ -52,7 +56,7 @@ mediaType: anime
 本作を存分に堪能するためには、以下の楽しみ方がおすすめである。
 
 * **一気読み・まとめ見**: 物語のテンポが良いため、週末や連休にまとめて鑑賞することで、没入感が何倍にも跳ね上がる。
-* **特典コンテンツのチェック**: 設定資料集やオーディオコメンタリーなど、公式特典と合わせて楽しむことで世界観への理解が深まる。
+* **特典コンテンツのチェック**: 作者のあとがきや設定資料、巻末の特典イラストと合わせて楽しむことで世界観への理解が深まる。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
