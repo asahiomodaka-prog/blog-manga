@@ -16,7 +16,7 @@ faq:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-『四月は君の嘘』の感動を、最高の映像と音響で再体験したいと考えるなら、「四月は君の嘘 [Blu-ray](https://www.amazon.co.jp/s?k=%E5%9B%9B%E6%9C%88%E3%81%AF%E5%90%9B%E3%81%AE%E5%98%98%20Blu-ray%20Disc%20BOX) Disc BOX」がその期待に応えるだろう。単なる映像作品のコレクションに留まらず、作品世界への深い没入を可能にする本商品は、物語を愛し、高品位なクオリティで繰り返し楽しみたいファンにとって、価値ある選択肢となる。
+『四月は君の嘘』の感動を、最高の映像と音響で再体験したいと考えるなら、「四月は君の嘘 Blu-ray Disc BOX」がその期待に応えるだろう。単なる映像作品のコレクションに留まらず、作品世界への深い没入を可能にする本商品は、物語を愛し、高品位なクオリティで繰り返し楽しみたいファンにとって、価値ある選択肢となる。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
@@ -37,7 +37,6 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">四月は君の嘘 BD BOX</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E5%9B%9B%E6%9C%88%E3%81%AF%E5%90%9B%E3%81%AE%E5%98%98%20BD%20BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%9B%9B%E6%9C%88%E3%81%AF%E5%90%9B%E3%81%AE%E5%98%98%20BD%20BOX%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E5%9B%9B%E6%9C%88%E3%81%AF%E5%90%9B%E3%81%AE%E5%98%98%20BD%20BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -51,14 +50,14 @@ faq:
 
 ## 青春のきらめきを閉じ込めた珠玉のボックス
 
-「四月は君の嘘 [Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) Disc BOX」を手に取った時、まず目を奪われるのはその美しいパッケージデザインだ。作品の世界観を凝縮した描き下ろしイラストは、有馬公生と宮園かをりの織りなす青春のきらめきと切なさを静かに物語っている。
+「四月は君の嘘 Blu-ray Disc BOX」を手に取った時、まず目を奪われるのはその美しいパッケージデザインだ。作品の世界観を凝縮した描き下ろしイラストは、有馬公生と宮園かをりの織りなす青春のきらめきと切なさを静かに物語っている。
 
 透明感のある色彩と繊細なタッチは、物語が持つ感情のグラデーションを見事に表現しており、まさに作品の魅力を凝縮したアートワークと言える。この外装だけでも、作品への深い愛情とこだわりが伝わってくる。
 
 ディスクをプレイヤーにセットし、再生ボタンを押した瞬間に、その真価は明らかになる。
 まず映像クオリティの高さに驚かされるだろう。
 
-[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) Disc BOXのために丁寧にリマスターされた映像は、TV放送時よりもはるかに鮮明で、豊かな色彩表現が際立っている。リマスターとは、マスターテープからデジタルデータに変換する際、色味やコントラスト、輝度などを最適化し、ノイズを除去する作業だ。
+Blu-ray Disc BOXのために丁寧にリマスターされた映像は、TV放送時よりもはるかに鮮明で、豊かな色彩表現が際立っている。リマスターとは、マスターテープからデジタルデータに変換する際、色味やコントラスト、輝度などを最適化し、ノイズを除去する作業だ。
 
 これにより、春の光が差し込む音楽室の柔らかな描写、桜並木のピンク、かをりのバイオリンが奏でる音色の躍動感を表すエフェクト、そして公生が指を滑らせる鍵盤の動き一つ一つまでが、まるでその場で息づいているかのようにリアルに、そして美しく映し出される。細部までこだわり抜かれた背景美術や、キャラクターたちの繊細な表情の変化も、高精細な映像によってより鮮明に伝わるため、彼らの感情の機微をこれまで以上に深く感じ取ることができる。
 
@@ -86,7 +85,7 @@ faq:
 
 公生が、かをりとの出会いを通じて、もう一度ピアノと向き合い、自らの内面と対峙していく過程は、胸に迫ると同時に、強く心を揺さぶる希望を与えてくれる。
 
-この[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) BOXで作品を見返すと、公生とかをりの間に交わされる視線や、演奏中のわずかな表情の変化までが、高精細な映像によってより鮮明に伝わってくる。特に、二人の演奏シーンは圧巻で、互いに音をぶつけ合い、時に寄り添い、感情を共有していく様子は、まさに魂が共鳴し合うようだ。
+このBlu-ray BOXで作品を見返すと、公生とかをりの間に交わされる視線や、演奏中のわずかな表情の変化までが、高精細な映像によってより鮮明に伝わってくる。特に、二人の演奏シーンは圧巻で、互いに音をぶつけ合い、時に寄り添い、感情を共有していく様子は、まさに魂が共鳴し合うようだ。
 
 アニメーションならではの表現力で、音符がまるで生命を得たかのように画面を舞い、彼らの感情を視覚的に訴えかける。ピアノの低音とバイオリンの高音が織りなすハーモニーは、二人の関係性の変化、心の距離の縮まりを表しているようで、何度も涙腺を刺激されたものだ。
 
@@ -96,11 +95,11 @@ faq:
 
 ## 部屋に灯る「嘘」の輝きとファンたちの共感
 
-「四月は君の嘘 [Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) Disc BOX」を自室の本棚に飾ってみると、その存在感は想像以上だ。シックでありながらも作品の象徴的な要素が散りばめられたデザインは、部屋のインテリアとしても遜色ない。
+「四月は君の嘘 Blu-ray Disc BOX」を自室の本棚に飾ってみると、その存在感は想像以上だ。シックでありながらも作品の象徴的な要素が散りばめられたデザインは、部屋のインテリアとしても遜色ない。
 
-私のお気に入りの漫画や[画集](https://www.amazon.co.jp/s?k=%E5%9B%9B%E6%9C%88%E3%81%AF%E5%90%9B%E3%81%AE%E5%98%98%20Blu-ray%20Disc%20BOX)が並ぶ一角に置いているのだが、見るたびに作品の感動が蘇ってくる。特に、仕事で疲れて帰ってきた夜、ふとこのBOXに目をやると、作品から受け取った温かさや希望が、心に静かに灯るのを感じる。
+私のお気に入りの漫画や画集が並ぶ一角に置いているのだが、見るたびに作品の感動が蘇ってくる。特に、仕事で疲れて帰ってきた夜、ふとこのBOXに目をやると、作品から受け取った温かさや希望が、心に静かに灯るのを感じる。
 
-この[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray) BOXは、単に作品をコレクションするだけでなく、再視聴するたびに新たな発見があるのが嬉しい。例えば、以前は気付かなかった背景の細かな描写や、キャラクターの表情に宿る一瞬の陰りなど、高画質だからこそ見える情報がある。
+このBlu-ray BOXは、単に作品をコレクションするだけでなく、再視聴するたびに新たな発見があるのが嬉しい。例えば、以前は気付かなかった背景の細かな描写や、キャラクターの表情に宿る一瞬の陰りなど、高画質だからこそ見える情報がある。
 
 そして、何度聴いても色褪せることのないクラシック音楽の数々は、作業中のBGMとしても素晴らしい。特に、集中したい時に流すと、作品の持つ繊細な空気感が部屋に満ち、気分が落ち着くのを感じる。
 
@@ -213,7 +212,6 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">四月は君の嘘 BD BOX</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E5%9B%9B%E6%9C%88%E3%81%AF%E5%90%9B%E3%81%AE%E5%98%98%20BD%20BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%9B%9B%E6%9C%88%E3%81%AF%E5%90%9B%E3%81%AE%E5%98%98%20BD%20BOX%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E5%9B%9B%E6%9C%88%E3%81%AF%E5%90%9B%E3%81%AE%E5%98%98%20BD%20BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -239,7 +237,6 @@ faq:
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ 全巻セット（まとめ買い）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読破したい人気名作コミック全巻一覧</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>

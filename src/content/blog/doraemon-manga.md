@@ -41,7 +41,6 @@ mediaType: comic
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ドラえもんの最終回はなぜ賛否両論</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF%E3%81%AA%E3%81%9C%E8%B3%9B%E5%90%A6%E4%B8%A1%E8%AB%96" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF%E3%81%AA%E3%81%9C%E8%B3%9B%E5%90%A6%E4%B8%A1%E8%AB%96%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF%E3%81%AA%E3%81%9C%E8%B3%9B%E5%90%A6%E4%B8%A1%E8%AB%96" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -57,7 +56,7 @@ mediaType: comic
 
 こんなにも深く、そして普遍的なテーマを内包する「ドラえもん」だが、全巻揃えるとなると、それなりの初期費用がかかるのは正直なところだ。特に僕のような漫画コレクターは、物理的なスペースも気になるところ。
 
-本棚の容量には限界がある。そこで僕がおすすめしたいのが、[電子書籍](https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%20%E8%97%A4%E5%AD%90%20F%20%E4%B8%8D%E4%BA%8C%E9%9B%84%E5%A4%A7%E5%85%A8%E9%9B%86)での読書体験だ。
+本棚の容量には限界がある。そこで僕がおすすめしたいのが、電子書籍での読書体験だ。
 
 DMMブックスなら、[ドラえもん](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F562478%2Fb600qsgk00146%2F&af_id=DMMaria-999&ch=api)を1冊583円という手頃な価格で手軽に楽しむことができる。物理的な単行本と比べて、価格面で優位性がある場合も多いし、何よりもスマホやタブレット一つあれば、いつでもどこでも、あの名作に触れることができるのは、地味にありがたい。
 
@@ -75,7 +74,7 @@ DMMブックスでは、定期的にセールやキャンペーンを実施し�
 
 試し読み機能も充実しているので、まずは気になるエピソードや、初期の巻を少し読んでみて、その魅力を再確認してみるのも良い。僕自身、DMMブックスの試し読みで、「あの頃は気づかなかったけれど、このエピソード、こんなに深かったのか！」と再発見することがよくある。
 
-[電子書籍](https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%20%E8%97%A4%E5%AD%90%20F%20%E4%B8%8D%E4%BA%8C%E9%9B%84%E5%A4%A7%E5%85%A8%E9%9B%86)の最大の利点は、場所を取らないことだ。全巻をデータで持ち歩けるというのは、まさしく現代の「ポケット」のようなものかもしれない。
+電子書籍の最大の利点は、場所を取らないことだ。全巻をデータで持ち歩けるというのは、まさしく現代の「ポケット」のようなものかもしれない。
 
 本棚のスペースを気にすることなく、数百冊の漫画をスマホの中に収納できるのは、僕のようなコレクターにはたまらない魅力だ。画面越しに読むことに抵抗がある人もいるかもしれないが、一度体験してみれば、その便利さにきっと驚くだろう。
 
@@ -89,7 +88,6 @@ DMMブックスでは、定期的にセールやキャンペーンを実施し�
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ドラえもんの最終回はなぜ賛否両論</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF%E3%81%AA%E3%81%9C%E8%B3%9B%E5%90%A6%E4%B8%A1%E8%AB%96" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF%E3%81%AA%E3%81%9C%E8%B3%9B%E5%90%A6%E4%B8%A1%E8%AB%96%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%9C%80%E7%B5%82%E5%9B%9E%E3%81%AF%E3%81%AA%E3%81%9C%E8%B3%9B%E5%90%A6%E4%B8%A1%E8%AB%96" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -115,7 +113,6 @@ DMMブックスでは、定期的にセールやキャンペーンを実施し�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ 全巻セット（まとめ買い）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読破したい人気名作コミック全巻一覧</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>

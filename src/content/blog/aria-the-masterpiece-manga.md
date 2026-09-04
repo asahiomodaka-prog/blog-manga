@@ -51,7 +51,6 @@ sidebarProducts:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ARIA完全版 なぜ心が浄化される</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=ARIA%E5%AE%8C%E5%85%A8%E7%89%88%20%E3%81%AA%E3%81%9C%E5%BF%83%E3%81%8C%E6%B5%84%E5%8C%96%E3%81%95%E3%82%8C%E3%82%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FARIA%E5%AE%8C%E5%85%A8%E7%89%88%20%E3%81%AA%E3%81%9C%E5%BF%83%E3%81%8C%E6%B5%84%E5%8C%96%E3%81%95%E3%82%8C%E3%82%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=ARIA%E5%AE%8C%E5%85%A8%E7%89%88%20%E3%81%AA%E3%81%9C%E5%BF%83%E3%81%8C%E6%B5%84%E5%8C%96%E3%81%95%E3%82%8C%E3%82%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -189,7 +188,7 @@ sidebarProducts:
 
 DMMブックスでの購入は、様々なキャンペーンやポイント還元を賢く活用できるため、非常にお得だ。新規会員登録時の割引クーポンや、定期的に開催されるセールなどを利用すれば、通常価格よりも安価に手に入れることができる場合もある。
 
-また、DMMブックスは[電子書籍](https://www.amazon.co.jp/s?k=ARIA%20The%20MASTERPIECE%20%E5%AE%8C%E5%85%A8%E7%89%88%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88)サービスなので、購入後はすぐに読み始めることができ、どこでも手軽に『ARIA』の世界に浸れるのが大きな利点だ。紙媒体とは異なり、置き場所に困ることもない。
+また、DMMブックスは電子書籍サービスなので、購入後はすぐに読み始めることができ、どこでも手軽に『ARIA』の世界に浸れるのが大きな利点だ。紙媒体とは異なり、置き場所に困ることもない。
 
 さらに、DMMブックスでは多くの作品で試し読みが可能なので、まずは数ページから無料で読んでみて、その世界観や絵柄が自分の好みに合うかどうかを確かめるのが良いだろう。物語の入り口となる最初の数ページを読むだけでも、『ARIA』独特の穏やかな空気感を肌で感じられるはずだ。
 
@@ -219,7 +218,6 @@ DMMブックスのサービスを活用し、この素晴らしい物語を隅�
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ARIA完全版 なぜ心が浄化される</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=ARIA%E5%AE%8C%E5%85%A8%E7%89%88%20%E3%81%AA%E3%81%9C%E5%BF%83%E3%81%8C%E6%B5%84%E5%8C%96%E3%81%95%E3%82%8C%E3%82%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FARIA%E5%AE%8C%E5%85%A8%E7%89%88%20%E3%81%AA%E3%81%9C%E5%BF%83%E3%81%8C%E6%B5%84%E5%8C%96%E3%81%95%E3%82%8C%E3%82%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=ARIA%E5%AE%8C%E5%85%A8%E7%89%88%20%E3%81%AA%E3%81%9C%E5%BF%83%E3%81%8C%E6%B5%84%E5%8C%96%E3%81%95%E3%82%8C%E3%82%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -245,7 +243,6 @@ DMMブックスのサービスを活用し、この素晴らしい物語を隅�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ 全巻セット（まとめ買い）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読破したい人気名作コミック全巻一覧</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>
@@ -266,4 +263,4 @@ A2: 『ARIA』は日常系の中でも特に穏やかな作風で、劇的な事
 **Q3: 完全版と通常版がありますが、どちらで読むべきですか？**
 A3: 初めて読む方にも、既に読んだことのある方にも、断然[ARIA完全版 ［ARIA The MASTERPIECE］](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4064246%2Fb132amggd06130%2F&af_id=DMMaria-999&ch=api)をおすすめする。完全版は大判サイズで、天野こずえ先生の緻密な描線やカラーイラストの美しさを存分に味わえるほか、加筆修正や新たな描き下ろし要素も含まれているため、より作品世界を深く堪能できる。
 
-DMMブックスなどの[電子書籍](https://www.amazon.co.jp/s?k=%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D)であれば、紙媒体とは異なり置き場所に困ることもないので、完全版で読むことを検討してみてほしい。
+DMMブックスなどの電子書籍であれば、紙媒体とは異なり置き場所に困ることもないので、完全版で読むことを検討してみてほしい。

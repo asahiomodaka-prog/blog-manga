@@ -46,7 +46,6 @@ sidebarProducts:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">地球外少年少女 Collectors BOX 全</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20Collectors%20BOX%20%E5%85%A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20Collectors%20BOX%20%E5%85%A8%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20Collectors%20BOX%20%E5%85%A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -72,13 +71,13 @@ sidebarProducts:
 
 厚みのあるしっかりとした作りで、棚に並べた時に確かな存在感を放つことは、コレクターにとって重要な要素だ。手に取った時の重みと、マットな質感からは、単なる映像商品ではなく、一つの「作品」としての価値が伝わってくる。
 
-そして、本命である[Blu-ray](https://www.amazon.co.jp/s?k=%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20Collectors%20BOX)ディスクに収められた映像と音響のクオリティは、まさに圧倒的だ。磯光雄監督作品の特徴ともいえる、情報量の多い緻密な作画は、[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray)の高精細な映像によって最大限に引き出される。
+そして、本命であるBlu-rayディスクに収められた映像と音響のクオリティは、まさに圧倒的だ。磯光雄監督作品の特徴ともいえる、情報量の多い緻密な作画は、Blu-rayの高精細な映像によって最大限に引き出される。
 
 宇宙空間の広がり、月面都市のサイバーパンクな雰囲気、キャラクターたちの表情の細かな機微に至るまで、劇場で味わった感動がそのまま家庭のスクリーンに再現される。
 
 特に、監督がこだわったとされる色彩設計は、デジタルマスターリングによってさらに鮮明になり、漆黒の宇宙に浮かぶ微細な光、サイバー空間の鮮やかなグリッド、そして未来的な建築物の冷たい質感までが、まるで肉眼で捉えられるかのように感じられる。一瞬たりとも見逃せない情報量の多さは、一時停止を多用して細部まで確認したくなる衝動に駆られるほどだ。
 
-細かく描き込まれたメカニズムや背景、キャラクターの衣装デザイン一つ一つに込められた意味を探るのも、[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray)鑑賞の大きな醍醐味と言える。
+細かく描き込まれたメカニズムや背景、キャラクターの衣装デザイン一つ一つに込められた意味を探るのも、Blu-ray鑑賞の大きな醍醐味と言える。
 
 音響面でも、本BOXは妥協を許さない。5.1chサラウンドに対応しており、宇宙ステーション内の環境音、AIの音声、そして迫力あるアクションシーンの爆発音や金属の軋む音などが、前後左右から響き渡り、鑑賞者を作品世界へと深く誘い込む。
 
@@ -138,7 +137,6 @@ sidebarProducts:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">地球外少年少女 Collectors BOX 全</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20Collectors%20BOX%20%E5%85%A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20Collectors%20BOX%20%E5%85%A8%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20Collectors%20BOX%20%E5%85%A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -164,7 +162,6 @@ sidebarProducts:
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">名作マンガ 全巻セット（まとめ買い）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">一気に読破したい人気名作コミック全巻一覧</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%20%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>
@@ -173,7 +170,7 @@ sidebarProducts:
 
 ## 部屋に飾る存在感とファンが語る作品への愛着
 
-「地球外少年少女 Collectors BOX」を手にし、書棚に並べた時、その存在感に改めて感銘を受けた。通常の[Blu-ray](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%8B%E3%83%A1%20Blu-ray)ケースよりも一回り大きく、厚みのあるしっかりとしたデザインは、単なる映像ディスクの入れ物ではない、アートピースとしての風格を漂わせる。
+「地球外少年少女 Collectors BOX」を手にし、書棚に並べた時、その存在感に改めて感銘を受けた。通常のBlu-rayケースよりも一回り大きく、厚みのあるしっかりとしたデザインは、単なる映像ディスクの入れ物ではない、アートピースとしての風格を漂わせる。
 
 表紙のアートワークは、鑑賞者の目を引くだけでなく、訪れる友人たちとの会話のきっかけにもなるだろう。部屋に飾ることで、いつでも作品の世界観に触れることができる。
 
