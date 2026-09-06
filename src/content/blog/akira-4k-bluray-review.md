@@ -18,7 +18,7 @@ faq:
 
 僕は年間数百冊の漫画を読み漁り、そのストーリーや描線に熱い情熱を注いでいる。中でも、大友克洋の『Akira』は別格だ。
 
-その決定版とも言える[Akira](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api)の4K Ultra HD Blu-rayは、単なるアニメ映画のパッケージではない。過去の映像体験を根本から覆し、作品本来のポテンシャルを最大限に引き出した逸品と言える。
+その決定版とも言える[AKIRA 4Kリマスターセット](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api)の4K Ultra HD Blu-rayは、単なるアニメ映画のパッケージではない。過去の映像体験を根本から覆し、作品本来のポテンシャルを最大限に引き出した逸品と言える。
 
 この4K版は、原作ファンはもちろん、まだ『Akira』に触れたことがない映像作品愛好家にも自信を持って勧められる。圧倒的な情報量で描かれたネオ東京を、これまで以上の臨場感で堪能できるのだ。一度手に入れれば、その映像美と音響に魅了され、繰り返し視聴したくなること間違いなしだろう。
 
@@ -34,16 +34,16 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="Akira" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="AKIRA 4Kリマスターセット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Akira</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">AKIRA 4Kリマスターセット (4K ULTRA HD Blu-ray)</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAkira%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DAkira" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAKIRA%204K%20Blu-ray%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DAKIRA%25204K%2520Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMホビー</a>
 </div>
 </div>
@@ -68,7 +68,7 @@ faq:
 
 劇中で奏でられる芸能山城組の音楽は、最新のフォーマットで再構築され、より立体的な広がりを感じさせる。金田のバイクのエンジン音や、サイバーパンクな都市の喧騒は、まるで自分がその場にいるかのような臨場感だ。
 
-<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="Akira" loading="lazy" decoding="async" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="AKIRA 4Kリマスターセット" loading="lazy" decoding="async" />
 
 僕は特に、金田がバイクで疾走するシーンの音響に驚いた。エンジンの振動がシート越しに伝わってくるような迫力で、その没入感は従来のバージョンとは一線を画す。
 
@@ -96,7 +96,7 @@ faq:
 
 ## 空間を支配するパッケージデザインとファンの評価
 
-[Akira](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api)の4K Ultra HD Blu-rayは、コレクターズアイテムとしての所有欲も満たしてくれる。パッケージデザインは、作品の持つ重厚な世界観を忠実に表現しており、棚に飾った時の存在感は格別だ。
+[AKIRA 4Kリマスターセット](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api)の4K Ultra HD Blu-rayは、コレクターズアイテムとしての所有欲も満たしてくれる。パッケージデザインは、作品の持つ重厚な世界観を忠実に表現しており、棚に飾った時の存在感は格別だ。
 
 僕の書棚でも、ひときわ目を引く存在となっている。
 
@@ -124,7 +124,7 @@ SNSや映画レビューサイトでは、4K版を視聴したファンからの
 
 『Akira』の4K Ultra HD Blu-rayは、一度手にすれば、その価値を長く感じられる作品だ。単なる視聴体験だけでなく、パッケージを所有すること自体が喜びとなる。僕のような熱心なコレクターにとっては、書棚に並べるだけで満足感が得られる貴重なアイテムだ。
 
-この[Akira](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api)の4K版は、時代を超えて語り継がれるべきアニメーション映画の金字塔を、最も忠実な形で未来へ継承する役割も担っている。高画質・高音質で作品の世界に没入したい、という人にこのコレクションは強く響くはずだ。
+この[AKIRA 4Kリマスターセット](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api)の4K版は、時代を超えて語り継がれるべきアニメーション映画の金字塔を、最も忠実な形で未来へ継承する役割も担っている。高画質・高音質で作品の世界に没入したい、という人にこのコレクションは強く響くはずだ。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
@@ -138,16 +138,16 @@ SNSや映画レビューサイトでは、4K版を視聴したファンからの
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="Akira" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg" alt="AKIRA 4Kリマスターセット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Akira</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">AKIRA 4Kリマスターセット (4K ULTRA HD Blu-ray)</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAkira%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DAkira" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAKIRA%204K%20Blu-ray%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DAKIRA%25204K%2520Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMホビー</a>
 </div>
 </div>
