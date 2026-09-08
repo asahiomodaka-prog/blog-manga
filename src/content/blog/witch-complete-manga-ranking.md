@@ -12,22 +12,6 @@ faq:
     answer: '『魔女』は全2巻で完結している短編集だ。一話完結形式の物語が複数収録されており、それぞれの物語が「魔女」という共通のテーマで繋がっている。'
   - question: '電子書籍と紙書籍、どちらがおすすめですか？'
     answer: 'コレクション性や所有感を重視し、五十嵐大介氏の緻密な画をじっくり鑑賞したいなら紙書籍がおすすめだ。一方、手軽にどこでも読みたい、保管場所を気にせず読書を楽しみたいなら電子書籍が良いだろう。ライフスタイルや読書習慣に合わせて選ぶのが賢明だ。'
-sidebarProducts:
-  - title: '魔女'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F104057%2Fb600psgk02937%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600psgk02937/b600psgk02937pl.jpg'
-    price: 759
-    microCopy: '詳細を見る'
-  - title: '魔女 第2集'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk251_2508796%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07142533/bkt07142533pl.jpg'
-    price: 691
-    microCopy: '詳細を見る'
-  - title: '魔女 第1集'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk243_2422435%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07129566/bkt07129566pl.jpg'
-    price: 691
-    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -70,8 +54,7 @@ sidebarProducts:
 | is_hobby | True |
 | 著者/作者 | 五十嵐大介 |
 | メーカー/出版社 | 小学館 |
-👉 [魔女 第1集 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk243_2422435%2F&af_id=DMMaria-999&ch=api)
-
+👉 魔女 第1集 の販売ページをチェックする
 | 項目 | 詳細 |
 | :--- | :--- |
 | 価格 | 691円 |
@@ -80,15 +63,14 @@ sidebarProducts:
 | is_hobby | True |
 | 著者/作者 | 五十嵐大介 |
 | メーカー/出版社 | 小学館 |
-👉 [魔女 第2集 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk251_2508796%2F&af_id=DMMaria-999&ch=api)
+👉 魔女 第2集 の販売ページをチェックする
+### 第2位：五十嵐大介『魔女』電子書籍版
 
-### 第2位：五十嵐大介『魔女』DMMブックス版
-
-手軽に五十嵐大介の「魔女」を読みたいなら、DMMブックスの電子書籍版がおすすめだ。スマホやタブレット、PCがあれば、場所を選ばずに作品世界に没頭できる。急な空き時間や移動中など、隙間時間を活用して読書を楽しみたい人にうってつけの選択肢だろう。
+手軽に五十嵐大介の「魔女」を読みたいなら、主要電子書籍ストアの電子書籍版がおすすめだ。スマホやタブレット、PCがあれば、場所を選ばずに作品世界に没頭できる。急な空き時間や移動中など、隙間時間を活用して読書を楽しみたい人にうってつけの選択肢だろう。
 
 特に、五十嵐大介の緻密な描写は電子書籍の高解像度ディスプレイとも相性が良い。拡大表示で細部までじっくり鑑賞できるのも、電子書籍ならではのメリットだ。
 
-ただし、このDMMブックス版が短編集「魔女」の全容を収録した一冊なのか、それとも第一集にあたるものなのかは、購入前に確認が必要になる。
+ただし、この電子書籍版が短編集「魔女」の全容を収録した一冊なのか、それとも第一集にあたるものなのかは、購入前に確認が必要になる。
 
 #### メリット
 
@@ -109,12 +91,11 @@ sidebarProducts:
 | 項目 | 詳細 |
 | :--- | :--- |
 | 価格 | 759円 |
-| サービス | DMMブックス |
+| サービス | 主要電子書籍ストア |
 | フロア | コミック |
 | 著者/作者 | 五十嵐大介 |
 | ジャンル | ファンタジー, ホラー・都市伝説 |
-👉 [魔女 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F104057%2Fb600psgk02937%2F&af_id=DMMaria-999&ch=api)
-
+👉 魔女 の販売ページをチェックする
 ### 第3位：五十嵐大介『魔女』紙書籍 第1集 または 第2集（単巻）
 
 「いきなり全巻揃えるのはちょっと…」「まずは五十嵐大介作品の雰囲気を知りたい」という人には、紙書籍の単巻購入も選択肢の一つになるだろう。特に、第1集だけでも五十嵐大介作品の持つ独特の世界観や画力に触れることはできる。
@@ -144,8 +125,7 @@ sidebarProducts:
 | is_hobby | True |
 | 著者/作者 | 五十嵐大介 |
 | メーカー/出版社 | 小学館 |
-👉 [魔女 第1集 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk243_2422435%2F&af_id=DMMaria-999&ch=api)
-
+👉 魔女 第1集 の販売ページをチェックする
 | 項目 | 詳細 |
 | :--- | :--- |
 | 価格 | 691円 |
@@ -154,8 +134,7 @@ sidebarProducts:
 | is_hobby | True |
 | 著者/作者 | 五十嵐大介 |
 | メーカー/出版社 | 小学館 |
-👉 [魔女 第2集 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk251_2508796%2F&af_id=DMMaria-999&ch=api)
-
+👉 魔女 第2集 の販売ページをチェックする
 ## よくある質問
 
 **Q1: 『魔女』はどんなジャンルの漫画ですか？**
