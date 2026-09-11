@@ -128,7 +128,7 @@ faq:
 
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
 
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるオンライン配信ポイント500ptプレゼント中。</p>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるポイント500ptプレゼント中。</p>
 
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">少女革命ウテナ Complete</h4>
 
@@ -179,6 +179,6 @@ A3: 事前知識は一切不要だ。むしろ、まっさらな状態で作品�
 
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
 
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるオンライン配信ポイント500ptプレゼント中。</p>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるポイント500ptプレゼント中。</p>
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B0%91%E5%A5%B3%E9%9D%A9%E5%91%BD%E3%82%A6%E3%83%86%E3%83%8A%20Complete%20Blu-ray%20BOX%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>

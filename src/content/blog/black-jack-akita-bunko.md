@@ -9,10 +9,6 @@ mediaType: comic
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
-
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #1e3a8a; line-height: 1.65;">
