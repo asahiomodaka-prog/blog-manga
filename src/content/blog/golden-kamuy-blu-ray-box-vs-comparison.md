@@ -17,17 +17,21 @@ faq:
 sidebarProducts:
   - title: 'ゴールデンカムイ'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3D6jagsipmxe6eka76nupynqwi7%26season%3Dprgzurpoxxv9ih459kzitgr6s&af_id=DMMaria-999&ch=api'
+    imageUrl: '/images/golden-kamuy-blu-ray-box-vs-comparison.jpg'
     price: 550
     microCopy: '詳細を見る'
   - title: 'ゴールデンカムイ'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3D6jagsipmxe6eka76nupynqwi7%26season%3Dd8cp1nd1aecs7b151zb9abngz&af_id=DMMaria-999&ch=api'
+    imageUrl: '/images/golden-kamuy-blu-ray-box-vs-comparison.jpg'
     price: 550
     microCopy: '詳細を見る'
   - title: 'ゴールデンカムイ'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3D6jagsipmxe6eka76nupynqwi7%26season%3Do1pyfmdifqqfqdhdj1grf8jkb&af_id=DMMaria-999&ch=api'
+    imageUrl: '/images/golden-kamuy-blu-ray-box-vs-comparison.jpg'
     price: 550
     microCopy: '詳細を見る'
 ---
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 『ゴールデンカムイ』は、明治時代後期の北海道を舞台に、金塊を巡る生存競争とアイヌ文化の探求が描かれる唯一無二の作品だ。野田サトル先生が紡ぐ壮大な物語は、コミックとアニメという異なる形で多くのファンを魅了している。

@@ -32,12 +32,18 @@ const defaultProducts = [
 	}
 ];
 
-const products = sidebarProducts && sidebarProducts.length > 0
+const rawProducts = sidebarProducts && sidebarProducts.length > 0
 	? [
 			...sidebarProducts,
 			...defaultProducts.slice(sidebarProducts.length)
 		].slice(0, 3)
 	: defaultProducts;
+
+// 各商品に imageUrl が未指定の場合は heroImage または defaultProducts でフォールバック
+const products = rawProducts.map((p, idx) => ({
+	...p,
+	imageUrl: p.imageUrl || (idx === 0 ? heroImage : defaultProducts[idx % defaultProducts.length]?.imageUrl)
+}));
 
 // 過去の投稿（最新記事・今見ている記事を除く10件）を取得
 const allPosts = (await getCollection('blog')).sort(
