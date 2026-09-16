@@ -13,10 +13,10 @@ faq:
   - question: 'DVD版との違いは何か？ Blu-ray BOXを購入するメリットは何か？'
     answer: 'DVD版と比べ、Blu-ray BOXは圧倒的に高画質・高音質で作品を鑑賞できるのが最大のメリットである。映像はフルHD（1920x1080）となり、色彩の表現力や細部の描写が格段に向上している。音響もよりクリアで臨場感が増している。また、特典映像や設定資料の充実度もBlu-ray BOXならではの魅力で、作品をより深く理解し、コレクションとして長く楽しむための決定版と言える。物理メディアとして手元に置いておける安心感も大きい。'
 sidebarProducts:
-  - title: '地球外少年少女 Collectors BOX （ブルーレイディスク）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyxa14027%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg'
-    price: 21780
+  - title: '電脳コイル ビジュアルコレクション 設定資料集'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%9B%BB%E8%84%B3%E3%82%B3%E3%82%A4%E3%83%AB%20%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%2F'
+    imageUrl: '/images/denno-coil-bluray-box.jpg'
+    price: 4180
     microCopy: '詳細を見る'
   - title: '電脳コイル Blu-ray Disc Box （ブルーレイディスク）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcxa0377%2F&af_id=DMMaria-999&ch=api'
@@ -34,9 +34,9 @@ sidebarProducts:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #1e3a8a; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>作品の魅力</strong>: 緻密に練られた重厚な世界観と、時代を超えて胸を打つキャラクタードラマが最大の武器。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 一気読み・一気見必至の骨太な名作をじっくり堪能したい方や、永久保存版として手元に揃えたいファン。</li>
-<li><strong>お得な楽しみ方</strong>: 全巻まとめ買いや、アニメ版の30日間無料見放題（DMM TV等）を組み合わせた鑑賞がおすすめ。</li>
+<li style="margin-bottom: 6px;"><strong>商品の魅力</strong>: 原作の魅力を余すところなく立体化し、細部まで徹底的にこだわった造形美と再現度。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 好きなキャラクターへの愛を形にし、デスクや部屋に飾って鑑賞を楽しみたいファン。</li>
+<li><strong>購入前の注意点</strong>: 飾るための設置スペース（高さ・奥行き）と、直射日光・ホコリを避ける展示環境をチェック。</li>
 </ul>
 </div>
 

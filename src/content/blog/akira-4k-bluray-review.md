@@ -22,15 +22,6 @@ faq:
 
 この4K版は、原作ファンはもちろん、まだ『Akira』に触れたことがない映像作品愛好家にも自信を持って勧められる。圧倒的な情報量で描かれたネオ東京を、これまで以上の臨場感で堪能できるのだ。一度手に入れれば、その映像美と音響に魅了され、繰り返し視聴したくなること間違いなしだろう。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #1e3a8a; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>作品の魅力</strong>: 緻密に練られた重厚な世界観と、時代を超えて胸を打つキャラクタードラマが最大の武器。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 伏線回収や骨太な名作を一気読みしたい方や、永久保存版として手元に揃えたいファン。</li>
-<li><strong>お得な楽しみ方</strong>: 電子書籍ストアの初回クーポンや試し読み、全巻セットの割引を活用した購入がおすすめ。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -126,15 +117,6 @@ SNSや映画レビューサイトでは、4K版を視聴したファンからの
 『Akira』の4K Ultra HD Blu-rayは、一度手にすれば、その価値を長く感じられる作品だ。単なる視聴体験だけでなく、パッケージを所有すること自体が喜びとなる。僕のような熱心なコレクターにとっては、書棚に並べるだけで満足感が得られる貴重なアイテムだ。
 
 この[AKIRA 4Kリマスターセット](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api)の4K版は、時代を超えて語り継がれるべきアニメーション映画の金字塔を、最も忠実な形で未来へ継承する役割も担っている。高画質・高音質で作品の世界に没入したい、という人にこのコレクションは強く響くはずだ。
-
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #1e3a8a; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>作品の魅力</strong>: 緻密に練られた重厚な世界観と、時代を超えて胸を打つキャラクタードラマが最大の武器。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 伏線回収や骨太な名作を一気読みしたい方や、永久保存版として手元に揃えたいファン。</li>
-<li><strong>お得な楽しみ方</strong>: 電子書籍ストアの初回クーポンや試し読み、全巻セットの割引を活用した購入がおすすめ。</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">

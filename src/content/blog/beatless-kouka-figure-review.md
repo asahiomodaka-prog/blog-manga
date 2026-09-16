@@ -10,6 +10,13 @@ sidebarProducts:
     imageUrl: '/images/beatless-kouka-figure-review.jpg'
     microCopy: '詳細を見る'
 mediaType: figure
+faq:
+  - question: '通常版や配信版と比較して、限定BOXならではの決定的な価値は何ですか？'
+    answer: '最高峰のリマスター画質・高音質ロスレス音声に加え、豪華設定資料集やインタビュー小冊子など、配信では決して手に入らない永久保存版の特典が凝縮されています。'
+  - question: '特典ディスクやブックレットのボリューム・見応えはどうですか？'
+    answer: 'スタッフ・キャスト陣による制作秘話や絵コンテ、未公開ビジュアルなどが網羅されており、作品の世界観を深く味わい尽くせる圧倒的な読み応えです。'
+  - question: '購入後の保管やパッケージの保護で注意すべき点は？'
+    answer: '豪華仕様の化粧箱やスリーブケースの日焼け・角折れを防ぐため、直射日光の当たらない本棚での保管や保護用OPPスリーブの装着がおすすめです。'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -21,9 +28,9 @@ BEATLESS 紅霞フィギュアは、redjuice氏が描く真紅の髪とクリム
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #1e3a8a; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>作品の魅力</strong>: 緻密に練られた重厚な世界観と、時代を超えて胸を打つキャラクタードラマが最大の武器。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 一気読み・一気見必至の骨太な名作をじっくり堪能したい方や、永久保存版として手元に揃えたいファン。</li>
-<li><strong>お得な楽しみ方</strong>: 全巻まとめ買いや、アニメ版の30日間無料見放題（DMM TV等）を組み合わせた鑑賞がおすすめ。</li>
+<li style="margin-bottom: 6px;"><strong>商品の魅力</strong>: 原作の魅力を余すところなく立体化し、細部まで徹底的にこだわった造形美と再現度。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 好きなキャラクターへの愛を形にし、デスクや部屋に飾って鑑賞を楽しみたいファン。</li>
+<li><strong>購入前の注意点</strong>: 飾るための設置スペース（高さ・奥行き）と、直射日光・ホコリを避ける展示環境をチェック。</li>
 </ul>
 </div>
 
@@ -131,3 +138,14 @@ BEATLESS 紅霞フィギュアは、redjuice氏が描く真紅の髪とクリム
 ## 総括：時代を超えて語り継がれる永久保存版の傑作
 
 「BEATLESS 紅霞フィギュアの圧倒的存在感」は、漫画・アニメカルチャーを語る上で絶対に外せない必見・必読の傑作である。まだ体験していない方も、改めて手元に揃えたい方も、ぜひこの機会にその世界に飛び込んでみてほしい。
+
+### よくある質問
+
+**Q1: 通常版や配信版と比較して、限定BOXならではの決定的な価値は何ですか？**
+A1: 最高峰のリマスター画質・高音質ロスレス音声に加え、豪華設定資料集やインタビュー小冊子など、配信では決して手に入らない永久保存版の特典が凝縮されています。
+
+**Q2: 特典ディスクやブックレットのボリューム・見応えはどうですか？**
+A2: スタッフ・キャスト陣による制作秘話や絵コンテ、未公開ビジュアルなどが網羅されており、作品の世界観を深く味わい尽くせる圧倒的な読み応えです。
+
+**Q3: 購入後の保管やパッケージの保護で注意すべき点は？**
+A3: 豪華仕様の化粧箱やスリーブケースの日焼け・角折れを防ぐため、直射日光の当たらない本棚での保管や保護用OPPスリーブの装着がおすすめです。

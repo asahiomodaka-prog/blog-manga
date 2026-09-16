@@ -13,15 +13,15 @@ faq:
   - question: 'コレクターズBOXは場所を取ると聞きましたが、収納やディスプレイで気をつけることはありますか？'
     answer: 'コレクターズBOXは通常のBlu-rayケースよりも大きめなので、ある程度の収納スペースが必要となる。奥行きと高さのある本棚の一角を確保する、あるいは専用のディスプレイ棚を用意するなどの検討が必要だろう。パッケージデザインが美しいので、見栄えの良い場所にディスプレイするのもおすすめだ。直射日光や湿気はパッケージやディスクの劣化の原因になるため、避けるのが賢明である。定期的にホコリを拭き取るなど、丁寧な手入れをすることで、購入時の状態を長く保ち、コレクションとしての価値を維持できるだろう。'
 sidebarProducts:
-  - title: '電脳コイル Blu-ray BOX（特装限定版） （ブルーレイディスク）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcxa1839%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcxa1839/n_609bcxa1839pl.jpg'
-    price: 16830
+  - title: '地球外少年少女 Collectors BOX 前編・後編 特装限定版'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyxa14027%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg'
+    price: 21780
     microCopy: '詳細を見る'
-  - title: '電脳コイル Blu-ray Disc Box （ブルーレイディスク）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcxa0377%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcxa0377/n_609bcxa0377pl.jpg'
-    price: 34595
+  - title: '地球外少年少女 公式設定資料集 磯光雄の世界'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%2F'
+    imageUrl: '/images/the-orbital-children-manga-box.jpg'
+    price: 3850
     microCopy: '詳細を見る'
 ---
 
@@ -30,9 +30,9 @@ sidebarProducts:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #1e3a8a; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>作品の魅力</strong>: 緻密に練られた重厚な世界観と、時代を超えて胸を打つキャラクタードラマが最大の武器。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 一気読み・一気見必至の骨太な名作をじっくり堪能したい方や、永久保存版として手元に揃えたいファン。</li>
-<li><strong>お得な楽しみ方</strong>: 全巻まとめ買いや、アニメ版の30日間無料見放題（DMM TV等）を組み合わせた鑑賞がおすすめ。</li>
+<li style="margin-bottom: 6px;"><strong>作品の魅力</strong>: 『地球外少年少女 Collectors BOX 全』ならではの引き込まれるストーリー展開と、心に残るキャラクター描写。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 没入感のある名作を一気読みしたい方や、じっくり手元に揃えて読み返したいファン。</li>
+<li><strong>お得な楽しみ方</strong>: 電子書籍ストアの無料試し読みや初回割引クーポンを活用した賢い購読がおすすめ。</li>
 </ul>
 </div>
 
@@ -189,3 +189,14 @@ SNSやアニメ関連のフォーラムを見ても、「地球外少年少女 C
 特に、作品の伏線や緻密な設定について語り合うファンコミュニティでは、BOXに収録されている設定資料やインタビューが、さらに深い考察を促す材料になっているようだ。ファンたちは、このBOXを通じて、作品に対する愛情を共有し、新たな発見を分かち合っている。
 
 所有すること自体が、作品コミュニティの一員であることの証であり、同じ価値観を持つ仲間との繋がりを感じさせる。このBOXは、ファンにとって、作品世界へのゲートであり、同時に愛着の象徴なのだ。
+
+### よくある質問
+
+**Q1: コレクターズBOXの価格が高いと感じるのですが、それに見合う価値はありますか？**
+A1: 21,780円という価格は確かに高額だが、本BOXは単なる本編ディスクだけでなく、豪華な特典ディスク（メイキングやインタビューなど）、設定資料が満載のブックレット、そして美麗な特製パッケージが付属する。作品の世界観を深く理解し、最高の画質と音質で鑑賞するための要素が凝縮されており、ファンにとっては価格以上の満足感と長期的な鑑賞価値を提供するだろう。物理メディアとして作品を「所有する」喜びも大きい。
+
+**Q2: ストリーミング配信でも作品を見られるのですが、あえてBlu-ray BOXを購入するメリットは何ですか？**
+A2: ストリーミング配信は手軽だが、Blu-ray BOXには多くのメリットがある。まず、映像と音質のクオリティが段違いだ。Blu-rayは非圧縮に近い高画質・高音質で、磯監督作品の緻密な作画や音響へのこだわりを最大限に引き出す。また、特典ディスクやブックレットは配信にはない情報源で、作品の制作背景や設定を深く掘り下げることが可能だ。さらに、配信終了のリスクがなく、安定した環境でいつでも鑑賞できる永続性、そして物理的なコレクターズアイテムとして所有する喜びは、ストリーミングでは得られない大きな魅力と言える。
+
+**Q3: コレクターズBOXは場所を取ると聞きましたが、収納やディスプレイで気をつけることはありますか？**
+A3: コレクターズBOXは通常のBlu-rayケースよりも大きめなので、ある程度の収納スペースが必要となる。奥行きと高さのある本棚の一角を確保する、あるいは専用のディスプレイ棚を用意するなどの検討が必要だろう。パッケージデザインが美しいので、見栄えの良い場所にディスプレイするのもおすすめだ。直射日光や湿気はパッケージやディスクの劣化の原因になるため、避けるのが賢明である。定期的にホコリを拭き取るなど、丁寧な手入れをすることで、購入時の状態を長く保ち、コレクションとしての価値を維持できるだろう。
