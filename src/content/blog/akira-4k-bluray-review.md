@@ -86,7 +86,7 @@ faq:
 </div>
 </div>
 
-## 空間を支配するパッケージデザインとファンの評価
+## 魅力的なパッケージデザインと作品の客観的評価
 
 [AKIRA 4Kリマスターセット](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa9%2F&af_id=DMMaria-999&ch=api)の4K Ultra HD Blu-rayは、コレクターズアイテムとしての所有欲も満たしてくれる。パッケージデザインは、作品の持つ重厚な世界観を忠実に表現しており、棚に飾った時の存在感は格別だ。
 

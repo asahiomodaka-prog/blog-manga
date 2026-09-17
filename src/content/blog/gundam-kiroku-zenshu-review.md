@@ -2,7 +2,7 @@
 title: 'ガンダム創造の原点へ没入！KADOKAWA記録全集の深層レビュー'
 description: '初代『機動戦士ガンダム』の制作過程を詳細に記録したKADOKAWA記録全集。膨大な資料から作品の深淵を探り、日常に知的な刺激をもたらす魅力と、ファンのための深い考察を徹底レビュー。'
 pubDate: '2026-09-11'
-heroImage: '/images/gundam-kiroku-zenshu-review.png'
+heroImage: '/images/safe-manga-artbook-collection.png'
 genre: 'manga'
 mediaType: 'figure'
 tags:
@@ -27,7 +27,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/gundam-kiroku-zenshu-review.png" alt="KADOKAWA 機動戦士ガンダム 記録全集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/safe-manga-artbook-collection.png" alt="KADOKAWA 機動戦士ガンダム 記録全集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -67,7 +67,7 @@ faq:
 
 特に、戦闘シーンのスピード感やキャラクターの感情の機微が、絵コンテの段階でいかに緻密に設計されていたかを知ると、改めて感動を覚える。
 
-<div style="text-align: center; margin: 28px 0;"><img src="/images/gundam-kiroku-zenshu-review.png" alt="KADOKAWA 機動戦士ガンダム 記録全集" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="/images/safe-manga-artbook-collection.png" alt="KADOKAWA 機動戦士ガンダム 記録全集" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## 原画に宿る情熱と、作品を形作る思想の断片
 
@@ -137,7 +137,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/gundam-kiroku-zenshu-review.png" alt="KADOKAWA 機動戦士ガンダム 記録全集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/safe-manga-artbook-collection.png" alt="KADOKAWA 機動戦士ガンダム 記録全集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
