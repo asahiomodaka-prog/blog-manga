@@ -13,7 +13,7 @@ faq:
   - question: '4K対応テレビがないと楽しめませんか？'
     answer: '最適な映像体験を得るには4K対応テレビと4K Ultra HD Blu-rayプレーヤーが必須です。しかし、一般的なBlu-rayプレーヤーでも再生は可能で、その場合は従来のBlu-rayと同等の画質になります。 将来的に4K環境を導入する予定があるなら、先にディスクを購入しておくのも良いでしょう。'
   - question: '特典映像や音声コメンタリーは収録されていますか？'
-    answer: 'はい、本商品には巻末の特典イラストや作者コメントや劇場予告編などの特典映像も収録されています。作品の裏側を知ることで、さらに深く『王立宇宙軍 オネアミスの翼』の世界観を楽しむことができます。 詳細は[王立宇宙軍 オネアミスの翼](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn609bcqa16%2F&afid=DMMaria-999&ch=api)の商品ページで確認してください。'
+    answer: 'はい、本商品には巻末の特典イラストや作者コメントや劇場予告編などの特典映像も収録されています。作品の裏側を知ることで、さらに深く『王立宇宙軍 オネアミスの翼』の世界観を楽しむことができます。 詳細は[王立宇宙軍 オネアミスの翼](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn609bcqa16%2F&af_id=DMMaria-999&ch=api)の商品ページで確認してください。'
 sidebarProducts:
   - title: '王立宇宙軍 オネアミスの翼 4Kリマスターメモリアルボックス（4K ULTRA HD＋2ブルーレイ）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa16%2F&af_id=DMMaria-999&ch=api'
@@ -23,7 +23,7 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-アニメ史に燦然と輝く名作『王立宇宙軍 オネアミスの翼』が、4K Ultra HD [Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray)でその真価を問う時が来た。単なるリマスターではない。
+アニメ史に燦然と輝く名作『王立宇宙軍 オネアミスの翼』が、4K Ultra HD [Blu-ray](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray)でその真価を問う時が来た。単なるリマスターではない。
 
 このディスクは、作品に込められた圧倒的な熱量と、細部に宿る魂を再発見させてくれる決定版だ。かつて劇場で、またはVHSやLD、DVD、そして旧版[Blu-ray](/blog/denno-coil-bluray-box/)でこの作品に触れたすべての人に、新たな視点と深い感動をもたらすだろう。
 

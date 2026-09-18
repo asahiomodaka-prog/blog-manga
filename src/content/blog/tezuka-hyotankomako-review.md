@@ -13,7 +13,7 @@ faq:
   - question: '手塚治虫作品は初めてだけど、この作品から入っても大丈夫？'
     answer: '問題ありません。『ひょうたん駒子』はギャグ・コメディなので、気軽に読み始められるでしょう。手塚治虫の多岐にわたる作品群の入り口として、その幅広い才能の一端に触れることができます。'
   - question: 'どんなテーマが隠されている？ただのギャグ漫画？'
-    answer: '単なるギャグ漫画として楽しめるのはもちろんですが、その裏には社会風刺や人間ドラマといった手塚治虫作品共通のテーマが隠されています。異形なヒロインを通じて、多様性や人間関係のあり方について考えさせる深みも持っています。 [ひょうたん駒子 手塚治虫文庫全集](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F598544%2Fb900okds04330%2F&afid=DMMaria-999&ch=api)'
+    answer: '単なるギャグ漫画として楽しめるのはもちろんですが、その裏には社会風刺や人間ドラマといった手塚治虫作品共通のテーマが隠されています。異形なヒロインを通じて、多様性や人間関係のあり方について考えさせる深みも持っています。 [ひょうたん駒子 手塚治虫文庫全集](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F598544%2Fb900okds04330%2F&af_id=DMMaria-999&ch=api)'
 sidebarProducts:
   - title: '鳥人大系 手塚治虫文庫全集'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F573618%2Fb900okds01812%2F&af_id=DMMaria-999&ch=api'
@@ -110,7 +110,7 @@ sidebarProducts:
 
 ## 失敗しない読書ガイドと電子書籍の活用術
 
-『ひょうたん駒子』はDMMブックスで990円で購入できる手塚治虫文庫全集の一冊だ。[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)なので、場所を選ばずに手軽に読めるのが嬉しい。
+『ひょうたん駒子』はDMMブックスで990円で購入できる手塚治虫文庫全集の一冊だ。[電子書籍](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)なので、場所を選ばずに手軽に読めるのが嬉しい。
 
 初めて手塚作品に触れる人や、いきなり購入するのは不安という人は、まずはDMMブックスの試し読みを活用してみるといい。冒頭部分を読んで、そのギャグセンスや絵柄が自分の好みに合うかを確認できる。
 

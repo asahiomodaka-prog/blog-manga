@@ -13,7 +13,7 @@ faq:
   - question: 'ストーリーは難しい？ 予備知識は必要？'
     answer: '複雑な設定が魅力だけど、作中で丁寧に説明されているから予備知識は不要だ。読み進めるうちに世界の全貌が徐々に見えてくる構造になっている。'
   - question: '試し読みはできる？'
-    answer: 'DMMブックスで試し読みができるから、まずは冒頭を読んで世界観に触れてみるのがおすすめだ。物語の雰囲気や文章を実際に体験できるよ。 [楽園殺し](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&afid=DMMaria-999&ch=api)'
+    answer: 'DMMブックスで試し読みができるから、まずは冒頭を読んで世界観に触れてみるのがおすすめだ。物語の雰囲気や文章を実際に体験できるよ。 [楽園殺し](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&af_id=DMMaria-999&ch=api)'
 sidebarProducts:
   - title: '楽園殺し'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&af_id=DMMaria-999&ch=api'
@@ -103,7 +103,7 @@ sidebarProducts:
 
 ## 賢く読破するための購読ガイド
 
-『楽園殺し』は現在、DMMブックスで配信されている。[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の利点は、いつでもどこでも手軽に読み始められることだ。
+『楽園殺し』は現在、DMMブックスで配信されている。[電子書籍](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の利点は、いつでもどこでも手軽に読み始められることだ。
 
 | 項目 | 詳細 |
 | :--- | :--- |

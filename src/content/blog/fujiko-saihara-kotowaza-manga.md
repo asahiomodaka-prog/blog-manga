@@ -122,7 +122,7 @@ sidebarProducts:
 
 ## お得に手軽にことわざを楽しむ読書ガイド
 
-この作品は、全1巻完結の[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)としてDMMブックスで販売されている。そのため、全巻を揃えるという概念がなく、1冊購入すればすぐに読み始められるのが嬉しい。
+この作品は、全1巻完結の[電子書籍](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)としてDMMブックスで販売されている。そのため、全巻を揃えるという概念がなく、1冊購入すればすぐに読み始められるのが嬉しい。
 
 価格は1,100円だ。
 
