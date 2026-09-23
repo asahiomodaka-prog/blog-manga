@@ -82,7 +82,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 
@@ -103,7 +102,7 @@ SNSや映画レビューサイトでは、4K版を視聴したファンからの
 また、価格が9,270円という点も、購入を検討する上で考慮すべきだろう。手軽に買える値段ではないため、ある程度の投資は必要だ。しかし、この価格は単なるメディアの代金ではなく、『Akira』という傑作を最高の環境で永続的に鑑賞できる権利だと考えれば、決して高くはないと僕は思う。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 9,270円 |
 | サービス | 通販 |
 | フロア | DVD・Blu-ray |

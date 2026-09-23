@@ -112,7 +112,6 @@ OVA版「ロードス島戦記」は、日本のファンタジー作品に計�
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 
@@ -139,7 +138,7 @@ SNSなどを見ても、「当時の感動が蘇った」「こんなに綺麗�
 僕自身も、当時ぼやけていた炎の描写や、キャラクターの細かな表情が鮮明になったことで、物語への没入感が格段に増したと感じている。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 11,220円 |
 | サービス | 通販 |
 | フロア | DVD・[Blu-ray](/blog/denno-coil-bluray-box/) |

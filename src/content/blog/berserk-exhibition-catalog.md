@@ -129,7 +129,6 @@ A4変形判の大型サイズ、そして400ページを超える圧倒的なボ
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 
@@ -154,7 +153,7 @@ A4変形判の大型サイズ、そして400ページを超える圧倒的なボ
 私のように、すでにコミックスを何度も読み返し、キャラクターたちの言葉や行動の背景にある感情を熟知している人間にとっては、この原画集から得られる情報は計り知れないものがある。だが、その前提がなければ、図録の真価を十分に味わうことは難しいだろう。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 3,960円 |
 | メーカー | 白泉社 |
 | 型番/仕様 | A4変形判、400ページ超、並製本 |

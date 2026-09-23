@@ -134,7 +134,6 @@ Blu-ray BOXならではの特典も見逃せない。収録されている設定
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 
@@ -162,7 +161,7 @@ Blu-ray BOXならではの特典も見逃せない。収録されている設定
 また、一般的なディスクケースよりは少し厚みがあるので、コレクションとして本棚に収納するスペースを事前に確認しておくと安心である。パッケージのアートワークも美しいので、直射日光が当たる場所や湿気の多い場所を避け、ホコリ対策をして保管すれば、長くコレクションとして楽しめるだろう。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 16,830円 |
 | サービス | 通販 |
 | フロア | DVD・Blu-ray |

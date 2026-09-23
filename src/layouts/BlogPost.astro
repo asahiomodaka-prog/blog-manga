@@ -1485,6 +1485,21 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							</section>
 						)}
 
+						<!-- E-E-A-T 編集部ポリシー・検証基準カード -->
+						<section class="eeat-policy-card" style="margin: 2.5rem 0; padding: 1.5rem 1.75rem; background: #eff6ff; border: 1.5px solid #bfdbfe; border-radius: 14px; font-size: 0.85rem; color: #1e3a8a; line-height: 1.65; box-shadow: 0 2px 8px rgba(30,58,138,0.02);">
+							<div style="font-weight: 800; font-size: 0.95rem; color: #1e40af; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+								<span>🛡️</span> 漫画・アニメ専門エディター検証ポリシーとE-E-A-T基準
+							</div>
+							<p style="margin: 0 0 0.5rem 0;">
+								当メディアでは、歴代の名作漫画から最新リマスターBlu-rayまで熟知した専門エディターが、画質・音質・限定特典・電子版の閲覧性を客観的かつ情熱的に検証・評価しています。
+							</p>
+							<ul style="margin: 0; padding-left: 1.25rem; font-size: 0.82rem; color: #2563eb;">
+								<li>完全版・愛蔵版の装丁仕様、カラー原稿収録状況、特典ブックレット等の徹底調査</li>
+								<li>DMMブックス、Kindle、楽天等の電子・紙版の価格および在庫のリアルタイム同期</li>
+								<li>ネタバレに配慮しつつ、作劇意図や時代背景を掘り下げた信頼性の高いレビューを提供</li>
+							</ul>
+						</section>
+
 						<!-- モバイル用関連商品表示セクション -->
 						<div class="mobile-related-products">
 							<h3 class="mobile-section-title">この記事のおすすめ関連商品</h3>
@@ -1628,6 +1643,19 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					</div>
 				</aside>
 			</article>
+
+			<!-- スマホ専用フローティング・クイックバー -->
+			<div class="mobile-quick-bar" id="mobile-quick-bar" style="position: fixed; bottom: 20px; right: 16px; display: none; z-index: 99; flex-direction: column; gap: 8px;">
+				<button id="quick-toc-btn" style="background: rgba(255,255,255,0.95); color: #1e3a8a; border: 1.5px solid #bfdbfe; border-radius: 9999px; padding: 8px 14px; font-size: 0.78rem; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.1); cursor: pointer; display: flex; align-items: center; gap: 4px; backdrop-filter: blur(4px);">
+					<span>📋</span> 目次
+				</button>
+				<button id="quick-deal-btn" style="background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff; border: none; border-radius: 9999px; padding: 8px 14px; font-size: 0.78rem; font-weight: 700; box-shadow: 0 4px 12px rgba(255,153,0,0.3); cursor: pointer; display: flex; align-items: center; gap: 4px;">
+					<span>🛒</span> 最安値
+				</button>
+				<button id="quick-top-btn" style="background: rgba(255,255,255,0.9); color: #64748b; border: 1px solid #e2e8f0; border-radius: 9999px; width: 36px; height: 36px; align-self: flex-end; font-size: 0.85rem; font-weight: 700; box-shadow: 0 2px 8px rgba(0,0,0,0.06); cursor: pointer; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(4px);">
+					▲
+				</button>
+			</div>
 		</main>
 		<Footer />
 		<script is:inline>
@@ -1836,6 +1864,36 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						})
 						.catch(() => {});
 				} catch (e) {}
+
+				// スマホ専用クイックバーの表示制御とスクロールジャンプ
+				const quickBar = document.getElementById('mobile-quick-bar');
+				if (quickBar && window.innerWidth <= 768) {
+					window.addEventListener('scroll', () => {
+						if (window.scrollY > 350) {
+							quickBar.style.display = 'flex';
+						} else {
+							quickBar.style.display = 'none';
+						}
+					}, { passive: true });
+
+					document.getElementById('quick-toc-btn')?.addEventListener('click', () => {
+						const toc = document.querySelector('.toc-container');
+						if (toc) {
+							const details = toc.querySelector('.toc-details');
+							if (details) details.setAttribute('open', '');
+							toc.scrollIntoView({ behavior: 'smooth' });
+						}
+					});
+
+					document.getElementById('quick-deal-btn')?.addEventListener('click', () => {
+						const deal = document.querySelector('.affiliate-product-card, .comparison-table-wrapper');
+						if (deal) deal.scrollIntoView({ behavior: 'smooth' });
+					});
+
+					document.getElementById('quick-top-btn')?.addEventListener('click', () => {
+						window.scrollTo({ top: 0, behavior: 'smooth' });
+					});
+				}
 			});
 		</script>
 	</body>

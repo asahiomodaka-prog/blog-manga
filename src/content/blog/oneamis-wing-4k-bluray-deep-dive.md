@@ -19,7 +19,8 @@ sidebarProducts:
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa16%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa16/n_609bcqa16pl.jpg'
     price: 11968
-    microCopy: '詳細を見る'---
+    microCopy: '詳細を見る'
+---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -64,7 +65,7 @@ sidebarProducts:
 このBlu-rayは、日本アニメーションの歴史における重要な一里塚を、物理的な形で未来へと語り継ぐ象徴とも言えるだろう。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 11,968円 |
 | サービス | 通販 |
 | フロア | DVD・Blu-ray |
@@ -139,7 +140,6 @@ A3: はい、本商品には巻末の特典イラストや作者コメントや�
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 

@@ -88,7 +88,6 @@ sidebarProducts:
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 
@@ -101,7 +100,7 @@ sidebarProducts:
 一方で、最新のトレンドを追ったギャグや、緻密な伏線回収を期待する読者には、少し物足りなく感じるかもしれない。良くも悪くも時代を感じさせる絵柄や演出は、読み手を選ぶ可能性がある。しかし、その素朴さこそが、この作品の持ち味だと僕は思う。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 990円 |
 | サービス | DMMブックス |
 | フロア | コミック |

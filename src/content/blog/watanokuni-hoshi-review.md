@@ -77,7 +77,7 @@ DMMTVでは、この感動的な作品をわずか550円で視聴できる。古
 DMMTVのレンタル作品は、購入後30日間の視聴期間があり、初回再生から48時間は何度でも再生可能だ。週末の夜や、少し気分転換したい時にぴったりの選択肢となる。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 550円 |
 | サービス | DMMTV |
 | フロア | DMMTV |
@@ -134,7 +134,6 @@ A3: 発表が古い作品ですが、そのテーマは普遍的であり、絵�
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 

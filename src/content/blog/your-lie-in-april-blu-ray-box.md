@@ -126,7 +126,6 @@ Blu-ray Disc BOXのために丁寧にリマスターされた映像は、TV放�
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 
@@ -155,7 +154,7 @@ Blu-ray Disc BOXのために丁寧にリマスターされた映像は、TV放�
 最後に、Blu-ray Discを再生するための**プレイヤーが必要**になる点は当然だが、念のため確認しておきたい。最近はPCやゲーム機で再生できるものも多いが、本格的なAV環境で楽しむなら、専用のBlu-rayプレイヤーを導入するのも一つの手だ。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 27,720円 |
 | サービス | 通販 |
 | フロア | DVD・Blu-ray |

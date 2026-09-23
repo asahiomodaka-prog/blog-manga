@@ -78,7 +78,6 @@ panpanya作品の大きな魅力は、その徹底的に練り上げられた描
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 
@@ -99,7 +98,7 @@ panpanya作品は、その唯一無二の魅力がある一方で、万人受け
 価格については、単巻で1,430円と一般的なコミックよりやや高めだが、そのクオリティを考えれば妥当だと僕は思う。緻密な作画、独特な世界観、そして読後に長く残る余韻は、価格以上の価値を提供するだろう。これは読み捨てにするのではなく、何度も手元で読み返す「鑑賞品」に近い。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 1,430円 |
 | サービス | 通販 |
 | フロア | 本・コミック |

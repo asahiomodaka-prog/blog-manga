@@ -121,7 +121,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 
@@ -157,7 +156,7 @@ faq:
 1冊あたりに換算すると約715円で、単巻で購入するのとほぼ変わらない価格設定だが、最新巻までを一気に手に入れられる利便性は大きい。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 30,745円 |
 | メーカー | 講談社 |
 | 型番/仕様 | コミック 1-43巻セット (モーニングKC) |

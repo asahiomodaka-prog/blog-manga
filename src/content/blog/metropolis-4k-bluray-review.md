@@ -13,7 +13,8 @@ faq:
   - question: '子供と一緒に見ても大丈夫でしょうか？'
     answer: '『メトロポリス』は普遍的なテーマを扱っていますが、一部にSF特有の破壊描写や社会の格差を描いた場面が含まれます。小さいお子さんには理解が難しいテーマや、少しシリアスな展開もあるため、対象年齢としては小学校高学年以上、または親御さんと一緒にテーマについて話し合いながら視聴することをおすすめします。'
   - question: '昔の作品だと映像が古く感じないか心配です。'
-    answer: 'その心配はいりません。 本作は2001年の作品ですが、元々緻密に作り込まれたセル画アニメーションが特徴です。今回の4Kリマスター化により、元のフィルムが持つ情報量を最大限に引き出し、色彩の鮮やかさや細部の描写が飛躍的に向上しています。 最新のアニメとは異なるセル画特有の質感はありますが、それが作品の持つレトロフューチャーな雰囲気を一層際立たせ、全く古さを感じさせない圧倒的な映像体験を提供します。'---
+    answer: 'その心配はいりません。 本作は2001年の作品ですが、元々緻密に作り込まれたセル画アニメーションが特徴です。今回の4Kリマスター化により、元のフィルムが持つ情報量を最大限に引き出し、色彩の鮮やかさや細部の描写が飛躍的に向上しています。 最新のアニメとは異なるセル画特有の質感はありますが、それが作品の持つレトロフューチャーな雰囲気を一層際立たせ、全く古さを感じさせない圧倒的な映像体験を提供します。'
+---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -51,7 +52,7 @@ faq:
 
 この奇跡的なコラボレーションが、未来の社会構造やAIとの共存、そして人間のエゴという重いテーマを、観る者にストレートに投げかけてくるのだ。
 
-[メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K%2520ULTRA%2520HD%2520Blu-ray)
+[メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K)
 
 ## 最高の視聴環境を整えるまでのちょっとした壁
 
@@ -74,7 +75,7 @@ faq:
 僕は書斎のディスク棚の一番目立つ場所に飾っているが、その存在感は圧倒的だ。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 6,780円 |
 | メーカー | 東宝 |
 | 型番/仕様 | TBR32070D / 4K ULTRA HD Blu-ray + Blu-ray Disc (2枚組) |
@@ -92,7 +93,7 @@ SFアニメの金字塔と呼ぶに相応しい、美術品のような所有感
 
 SF作品の壮大な世界観を愛する人、社会に対する深い問いかけを求める人に、このコレクションは強く響くだろう。自分の書斎に置き、いつでもその世界に浸れる喜びは格別だ。
 
-[メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K%2520ULTRA%2520HD%2520Blu-ray)
+[メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K)
 
 ## よくある質問
 
@@ -137,11 +138,11 @@ A3: その心配はいりません。
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K%2520ULTRA%2520HD%2520Blu-ray%2520%2526%2520Blu-ray%2520Disc" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%204K%20ULTRA%20HD%20Blu-ray%20%26%20Blu-ray%20Disc%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K%2520ULTRA%2520HD%2520Blu-ray%2520%2526%2520Blu-ray%2520Disc" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%204K%20ULTRA%20HD%20Blu-ray%20%26%20Blu-ray%20Disc&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（無料試し読み）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%204K%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%204K&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（無料試し読み）</a>
 </div>
 </div>
 </div>
@@ -157,7 +158,6 @@ A3: その心配はいりません。
 <div style="text-align: center;">
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
 </div>
 </div>
 
