@@ -12,6 +12,12 @@ faq:
     answer: '初めて『キルラキル』を見る方には、まず配信サービスなどで作品の世界観やストーリーを体験してみることをおすすめします。このBD BOXは、作品にすでに深い愛着を持つファンが、最高のクオリティで作品を再鑑賞したり、特典資料を通じてさらに深く作品世界に没入したりするためのコレクターズアイテムとしての側面が強いからです。しかし、「どうせ見るなら最高の環境で」「一度で良いから物理的に作品を所有したい」と考える方であれば、初見でも満足できる内容であることは間違いありません。'
   - question: 'BD BOXは収納スペースをどのくらい取りますか？'
     answer: '一般的なBlu-ray Discケースよりも厚みがあり、幅も広いため、それなりの収納スペースを必要とします。具体的なサイズは商品によって異なりますが、通常の単巻BD数枚分に相当すると考えてください。私の経験上、他のBD BOXと並べて置くスペースを事前に確認しておくと、スムーズにコレクションに加えることができます。存在感は抜群なので、お気に入りの場所に飾って楽しむのも良いでしょう。'
+sidebarProducts:
+  - title: 'キルラキル Blu-ray BOX'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX&af_id=DMMaria-999'
+    imageUrl: '/images/kill-la-kill-bd-box.jpg'
+    price: 27720
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -44,6 +50,7 @@ faq:
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25AD%25E3%2583%25AB%2520Blu-ray%2520BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -154,7 +161,7 @@ BDを再生し、大画面で作品を見返す体験もまた格別である。
 *   **収納スペースの確保:**
     一般的なBDケースよりもサイズが大きいため、本棚や収納スペースに余裕があるか確認しておくと良い。私の部屋でも、他のBD BOXと並べるためにスペースを整理した経験がある。
 *   **特典内容の確認:**
-    すでにバラ売りのBlu-ray Discを持っている場合、一部特典映像が重複する可能性もある。BD BOXならではの限定特典や、OVA、ブックレットの内容が、自身の求めるものと合致するか事前に確認すると、後悔のない買い物ができるだろう。
+    すでにバラ売りのBlu-ray Discを持っている場合、一部特典映像が重複する可能性もある。BD BOXならではの[限定特典](https://px.a8.net/svt/ejp?a8mat=4B8BWQ+53YYPE+4AHY+5ZU29)や、OVA、ブックレットの内容が、自身の求めるものと合致するか事前に確認すると、後悔のない買い物ができるだろう。
 
 ### スペック情報
 
@@ -214,6 +221,7 @@ BDを再生し、大画面で作品を見返す体験もまた格別である。
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25AD%25E3%2583%25AB%2520Blu-ray%2520BOX" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB%20Blu-ray%20BOX&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（試し読み無料）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
