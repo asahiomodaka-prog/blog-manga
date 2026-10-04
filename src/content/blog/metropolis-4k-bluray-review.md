@@ -2,7 +2,7 @@
 title: 'メトロポリス4K UHD：SFアニメの金字塔を今、再体験する価値'
 description: '手塚治虫原作、りんたろう監督、大友克洋コンセプトワークのSFアニメ映画『メトロポリス』の4K UHD Blu-ray版を徹底レビュー。未経験者も納得の映像美と普遍的テーマを深掘りする。'
 pubDate: '2026-09-19'
-heroImage: '/images/metropolis-4k-bluray-review.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/2262/0001234795l.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'anime'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%204K&af_id=DMMaria-999'
-    imageUrl: '/images/metropolis-4k-bluray-review.png'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/2262/0001234795l.jpg?_ex=600x600'
     price: 0
     microCopy: '詳細を見る'
 ---
@@ -70,7 +70,7 @@ sidebarProducts:
 
 僕が初めて4Kディスクを再生した時、テレビ側のHDR設定が初期状態のままで、暗部の階調が潰れて見えた。画面設定をマニュアルで調整し、ようやく本来の映像美が発揮されたのだ。
 
-<div style="text-align: center; margin: 28px 0;"><img src="/images/metropolis-4k-bluray-review.png" alt="メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/2262/0001234795l.jpg?_ex=600x600" alt="メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 初期費用や設定の手間はかかるが、これは作品の魅力を最大限に引き出すための「投資」だと捉えて欲しい。もし4K環境が整っていなくても、付属のBlu-ray Discで十分高画質な映像を楽しめる点は、購入へのハードルを下げてくれるだろう。
 
@@ -130,7 +130,7 @@ A3: その心配はいりません。
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/metropolis-4k-bluray-review.png" alt="メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/2262/0001234795l.jpg?_ex=600x600" alt="メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

@@ -1,35 +1,39 @@
 ---
-title: '漫画の「面白さ」を深掘りする脚本術！220円で得られる思考の羅針盤'
-description: '漫画の脚本術を深掘りする「マンガ学部の脚本概論」を徹底レビュー。なぜその物語が読者の心に響くのか、その根源的なロジックと設計思想を解説。他の指南書では得られない、作者さそうあきらの深い洞察を紹介。'
+title: 漫画の「面白さ」を深掘りする脚本術！220円で得られる思考の羅針盤
+description: 漫画の脚本術を深掘りする「マンガ学部の脚本概論」を徹底レビュー。なぜその物語が読者の心に響くのか、その根源的なロジックと設計思想を解説。他の指南書では得られない、作者さそうあきらの深い洞察を紹介。
 pubDate: '2026-10-02'
-heroImage: '/images/manga-script-guide-review.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: /images/manga-script-guide-review.jpg
+genre: manga
+mediaType: comic
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: '初心者でも理解できる内容か？'
-    answer: 'はい、基本的なストーリーの構成やキャラクターの作り方から解説しているため、漫画制作初心者でも理解しやすい。ただし、より深いレベルで物語を思考するための内容なので、読み進めるにはある程度の集中力と意欲が必要になるだろう。'
-  - question: 'どんなジャンルの漫画にも応用できるか？'
-    answer: '本書で語られる脚本の原則や物語の構造、キャラクター心理の分析は、特定のジャンルに限定されず、幅広い漫画作品に応用可能だ。普遍的な「面白い物語」の核を学ぶことができるため、ファンタジー、恋愛、日常系など、あらゆるジャンルでその知識を活かせるはずだ。'
-  - question: '他の脚本指南書との決定的な違いは何か？'
-    answer: '他の多くの脚本指南書が映画や小説といったメディアに汎用的な理論を語るのに対し、本書は「漫画」という媒体に特化している点が大きな違いだ。コマ割り、視線誘導、絵と文字の相乗効果といった漫画ならではの表現方法と脚本の関係性に深く踏み込んでいるため、より実践的で漫画制作に直結する知見が得られるだろう。'
+- question: 初心者でも理解できる内容か？
+  answer: はい、基本的なストーリーの構成やキャラクターの作り方から解説しているため、漫画制作初心者でも理解しやすい。ただし、より深いレベルで物語を思考するための内容なので、読み進めるにはある程度の集中力と意欲が必要になるだろう。
+- question: どんなジャンルの漫画にも応用できるか？
+  answer: 本書で語られる脚本の原則や物語の構造、キャラクター心理の分析は、特定のジャンルに限定されず、幅広い漫画作品に応用可能だ。普遍的な「面白い物語」の核を学ぶことができるため、ファンタジー、恋愛、日常系など、あらゆるジャンルでその知識を活かせるはずだ。
+- question: 他の脚本指南書との決定的な違いは何か？
+  answer: 他の多くの脚本指南書が映画や小説といったメディアに汎用的な理論を語るのに対し、本書は「漫画」という媒体に特化している点が大きな違いだ。コマ割り、視線誘導、絵と文字の相乗効果といった漫画ならではの表現方法と脚本の関係性に深く踏み込んでいるため、より実践的で漫画制作に直結する知見が得られるだろう。
 sidebarProducts:
-  - title: '漫画家を志すすべての人へ マンガ学部の脚本概論（単話）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F941082%2Fb350dftdb07551%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b350dftdb07551/b350dftdb07551pl.jpg'
-    price: 220
-    microCopy: '詳細を見る'
-  - title: 'バリ島物語 〜神秘の島の王国、その壮麗なる愛と死〜'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F666022%2Fb350dftdb01877%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b350dftdb01877/b350dftdb01877pl.jpg'
-    price: 880
-    microCopy: '詳細を見る'
-  - title: 'バリ島物語 〜神秘の島の王国、その壮麗なる愛と死〜（単話）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F613374%2Fb350dftdb01162%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b350dftdb01162/b350dftdb01162pl.jpg'
-    price: 110
-    microCopy: '詳細を見る'
+- title: 漫画家を志すすべての人へ マンガ学部の脚本概論（単話）
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F941082%2Fb350dftdb07551%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350dftdb07551/b350dftdb07551pl.jpg
+  price: 220
+  microCopy: 詳細を見る
+- title: バリ島物語 〜神秘の島の王国、その壮麗なる愛と死〜
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F666022%2Fb350dftdb01877%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350dftdb01877/b350dftdb01877pl.jpg
+  price: 880
+  microCopy: 詳細を見る
+- title: バリ島物語 〜神秘の島の王国、その壮麗なる愛と死〜（単話）
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F613374%2Fb350dftdb01162%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350dftdb01162/b350dftdb01162pl.jpg
+  price: 110
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b350dftdb07551/b350dftdb07551pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b350dftdb01877/b350dftdb01877pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b350dftdb01162/b350dftdb01162pl.jpg
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 

@@ -1,35 +1,39 @@
 ---
-title: 'オノ・ナツメ『つらつらわらじ 特別編』：静かな時代劇の魅力とコスパを深掘り'
-description: 'オノ・ナツメ『つらつらわらじ 特別編』の魅力を深掘り。静謐な時代劇のストーリーと、110円で味わえる深い人間ドラマ、コストパフォーマンスに優れた読書体験を解説する。'
+title: オノ・ナツメ『つらつらわらじ 特別編』：静かな時代劇の魅力とコスパを深掘り
+description: オノ・ナツメ『つらつらわらじ 特別編』の魅力を深掘り。静謐な時代劇のストーリーと、110円で味わえる深い人間ドラマ、コストパフォーマンスに優れた読書体験を解説する。
 pubDate: '2026-09-15'
-heroImage: '/images/ononatsume-tsuratsura-waraji.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: /images/ononatsume-tsuratsura-waraji.jpg
+genre: manga
+mediaType: comic
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: '『つらつらわらじ 特別編』は本編を読んでいなくても楽しめる？'
-    answer: '特別編は独立した短編なので、本編を読んでいなくても問題なく楽しめます。これをきっかけに本編に興味を持つ人も多いでしょう。'
-  - question: 'オノ・ナツメ作品は初めてだけど、この作品から入っても大丈夫？'
-    answer: 'オノ・ナツメさんの絵柄や作風が好きな人にとっては非常に良い導入になります。登場人物の心情描写が深く、静かな作品世界を体験できるでしょう。'
-  - question: '電子書籍で読むメリットは何？'
-    answer: 'DMMブックスなら購入後すぐに読めますし、物理的な収納スペースも不要です。特に110円という価格なので、手軽に試せるのが最大のメリットですね。'
+- question: 『つらつらわらじ 特別編』は本編を読んでいなくても楽しめる？
+  answer: 特別編は独立した短編なので、本編を読んでいなくても問題なく楽しめます。これをきっかけに本編に興味を持つ人も多いでしょう。
+- question: オノ・ナツメ作品は初めてだけど、この作品から入っても大丈夫？
+  answer: オノ・ナツメさんの絵柄や作風が好きな人にとっては非常に良い導入になります。登場人物の心情描写が深く、静かな作品世界を体験できるでしょう。
+- question: 電子書籍で読むメリットは何？
+  answer: DMMブックスなら購入後すぐに読めますし、物理的な収納スペースも不要です。特に110円という価格なので、手軽に試せるのが最大のメリットですね。
 sidebarProducts:
-  - title: 'つらつらわらじ 特別編（単話）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F883982%2Fb900ukds03376%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900ukds03376/b900ukds03376pl.jpg'
-    price: 110
-    microCopy: '詳細を見る'
-  - title: 'つらつらわらじ'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F113780%2Fb900lkds02599%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900lkds02599/b900lkds02599pl.jpg'
-    price: 792
-    microCopy: '詳細を見る'
-  - title: 'つらつらわらじ 備前熊田家参勤絵巻 5'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07295393%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07295393/bkt07295393pl.jpg'
-    price: 723
-    microCopy: '詳細を見る'
+- title: つらつらわらじ 特別編（単話）
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F883982%2Fb900ukds03376%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900ukds03376/b900ukds03376pl.jpg
+  price: 110
+  microCopy: 詳細を見る
+- title: つらつらわらじ
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F113780%2Fb900lkds02599%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900lkds02599/b900lkds02599pl.jpg
+  price: 792
+  microCopy: 詳細を見る
+- title: つらつらわらじ 備前熊田家参勤絵巻 5
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07295393%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07295393/bkt07295393pl.jpg
+  price: 723
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b900ukds03376/b900ukds03376pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b900lkds02599/b900lkds02599pl.jpg
+- https://pics.dmm.com/mono/book/comic/bkt07295393/bkt07295393pl.jpg
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 

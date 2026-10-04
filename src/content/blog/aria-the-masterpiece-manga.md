@@ -1,35 +1,38 @@
 ---
-title: 'ARIA完全版、なぜ心が浄化される？日常に疲れたあなたへ贈る決定版'
-description: '日常に安らぎを。漫画『ARIA完全版 ［ARIA The MASTERPIECE］』は、水の惑星でウンディーネを目指す少女たちの穏やかな日常を描き、深い感動と心の充足を与えます。DMMで2200円。現代社会の喧騒に疲れた心を癒し、人生を見つめ直すきっかけを求める大人に。'
+title: ARIA完全版、なぜ心が浄化される？日常に疲れたあなたへ贈る決定版
+description: 日常に安らぎを。漫画『ARIA完全版 ［ARIA The MASTERPIECE］』は、水の惑星でウンディーネを目指す少女たちの穏やかな日常を描き、深い感動と心の充足を与えます。DMMで2200円。現代社会の喧騒に疲れた心を癒し、人生を見つめ直すきっかけを求める大人に。
 pubDate: '2026-08-27'
-heroImage: '/images/aria-the-masterpiece-manga.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: /images/aria-the-masterpiece-manga.jpg
+genre: manga
+mediaType: comic
 faq:
-  - question: '『ARIA』は初めて読む人でも世界観に入り込みやすいでしょうか？'
-    answer: 'はい、非常に分かりやすい導入で、誰でもすぐに世界観に馴染めるだろう。主人公の灯里が地球からアクアへやってきたばかりの視点で物語が始まるため、読者も彼女と一緒に新しい惑星の文化やウンディーネの仕事について学ぶことができる。特に複雑な設定を覚える必要はなく、美しい情景描写と温かい人間関係を素直に楽しめば良い。'
-  - question: '物語に起伏が少ないと聞きましたが、途中で飽きないか心配です。'
-    answer: '『ARIA』は日常系の中でも特に穏やかな作風で、劇的な事件や戦闘などはほとんどない。しかし、その分、キャラクターたちの心情の機微や、アクアの美しい風景、そして「ささやかな奇跡」とも呼べる日常の出来事が丁寧に描かれている。心の奥底にじんわりと染み渡るような感動や癒やしを求める人には深く刺さるだろう。刺激的な展開を期待すると物足りなさを感じるかもしれないが、疲れている時やゆっくりと物語の世界に浸りたい時には最適な作品と言える。'
-  - question: '完全版と通常版がありますが、どちらで読むべきですか？'
-    answer: '初めて読む方にも、既に読んだことのある方にも、断然[ARIA完全版 ［ARIA The MASTERPIECE］](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4064246%2Fb132amggd06130%2F&af_id=DMMaria-999&ch=api)をおすすめする。完全版は大判サイズで、天野こずえ先生の緻密な描線やカラーイラストの美しさを存分に味わえるほか、加筆修正や新たな描き下ろし要素も含まれているため、より作品世界を深く堪能できる。DMMブックスなどの電子書籍であれば、紙媒体とは異なり置き場所に困ることもないので、完全版で読むことを検討してみてほしい。'
+- question: 『ARIA』は初めて読む人でも世界観に入り込みやすいでしょうか？
+  answer: はい、非常に分かりやすい導入で、誰でもすぐに世界観に馴染めるだろう。主人公の灯里が地球からアクアへやってきたばかりの視点で物語が始まるため、読者も彼女と一緒に新しい惑星の文化やウンディーネの仕事について学ぶことができる。特に複雑な設定を覚える必要はなく、美しい情景描写と温かい人間関係を素直に楽しめば良い。
+- question: 物語に起伏が少ないと聞きましたが、途中で飽きないか心配です。
+  answer: 『ARIA』は日常系の中でも特に穏やかな作風で、劇的な事件や戦闘などはほとんどない。しかし、その分、キャラクターたちの心情の機微や、アクアの美しい風景、そして「ささやかな奇跡」とも呼べる日常の出来事が丁寧に描かれている。心の奥底にじんわりと染み渡るような感動や癒やしを求める人には深く刺さるだろう。刺激的な展開を期待すると物足りなさを感じるかもしれないが、疲れている時やゆっくりと物語の世界に浸りたい時には最適な作品と言える。
+- question: 完全版と通常版がありますが、どちらで読むべきですか？
+  answer: 初めて読む方にも、既に読んだことのある方にも、断然[ARIA完全版 ［ARIA The MASTERPIECE］](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4064246%2Fb132amggd06130%2F&af_id=DMMaria-999&ch=api)をおすすめする。完全版は大判サイズで、天野こずえ先生の緻密な描線やカラーイラストの美しさを存分に味わえるほか、加筆修正や新たな描き下ろし要素も含まれているため、より作品世界を深く堪能できる。DMMブックスなどの電子書籍であれば、紙媒体とは異なり置き場所に困ることもないので、完全版で読むことを検討してみてほしい。
 sidebarProducts:
-  - title: 'ARIA完全版 ［ARIA The MASTERPIECE］'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4064246%2Fb132amggd06130%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b132amggd06130/b132amggd06130pl.jpg'
-    price: 2200
-    microCopy: '詳細を見る'
-  - title: 'ハヤテのごとく！ 完全版'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4332344%2Fb600zsgk52884%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600zsgk52884/b600zsgk52884pl.jpg'
-    price: 1980
-    microCopy: '詳細を見る'
-  - title: 'ガンニバル 完全版'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6069831%2Fb213cnhbg11904%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b213cnhbg11904/b213cnhbg11904pl.jpg'
-    price: 1100
-    microCopy: '詳細を見る'
+- title: ARIA完全版 ［ARIA The MASTERPIECE］
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4064246%2Fb132amggd06130%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b132amggd06130/b132amggd06130pl.jpg
+  price: 2200
+  microCopy: 詳細を見る
+- title: ハヤテのごとく！ 完全版
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4332344%2Fb600zsgk52884%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600zsgk52884/b600zsgk52884pl.jpg
+  price: 1980
+  microCopy: 詳細を見る
+- title: ガンニバル 完全版
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6069831%2Fb213cnhbg11904%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b213cnhbg11904/b213cnhbg11904pl.jpg
+  price: 1100
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b132amggd06130/b132amggd06130pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600zsgk52884/b600zsgk52884pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b213cnhbg11904/b213cnhbg11904pl.jpg
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

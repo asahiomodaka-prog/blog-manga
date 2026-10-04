@@ -1,35 +1,39 @@
 ---
-title: '初心者のための「モブサイコ100 コミック全巻セット ONE」完全選び方ガイド！失敗しないポイント'
-description: 'モブサイコ100 コミック全巻セット ONEの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
+title: 初心者のための「モブサイコ100 コミック全巻セット ONE」完全選び方ガイド！失敗しないポイント
+description: モブサイコ100 コミック全巻セット ONEの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。
 pubDate: '2026-09-18'
-heroImage: '/images/mob-psycho-100-manga-set-guide.png'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
+genre: manga
+mediaType: comic
 tags:
-  - 'angle:guide'
+- angle:guide
 faq:
-  - question: '『モブサイコ100』のコミック全巻を揃えるのに、いくらくらいかかる？'
-    answer: '『モブサイコ100』は全16巻で完結しています。新刊で購入する場合、1巻あたり550円（税込）として、合計で約8,800円かかります。電子書籍であれば、キャンペーンやセールを利用することで、もう少し安く購入できる場合があります。中古品であれば、状態次第で半額以下になることもありますが、品質にばらつきがあるため注意が必要です。'
-  - question: '全巻セットはどこで買うのが一番お得？'
-    answer: '新品の紙媒体であれば、大手オンライン書店（Amazon、楽天ブックスなど）や全国展開の書店で購入するのが一般的です。電子書籍は、各電子書籍ストア（Kindle、楽天Kobo、DMMブックスなど）で定期的にセールが行われるので、チェックするとお得に購入できることがあります。中古品の場合は、フリマアプリや中古書店（ブックオフなど）を利用することになりますが、状態をよく確認することが重要です。'
-  - question: 'アニメを先に観てからでもコミックを楽しめますか？'
-    answer: 'はい、問題なく楽しめます。アニメは原作の魅力を忠実に再現しており、動きや声が付くことでまた違った感動があります。アニメで作品の世界観やキャラクターを把握してから原作コミックを読むことで、ONE先生の描線やコマ割りの意図、細かな心理描写をより深く味わうことができるでしょう。アニメとコミック、両方の良いところを体験することで、作品への理解がさらに深まります。'
+- question: 『モブサイコ100』のコミック全巻を揃えるのに、いくらくらいかかる？
+  answer: 『モブサイコ100』は全16巻で完結しています。新刊で購入する場合、1巻あたり550円（税込）として、合計で約8,800円かかります。電子書籍であれば、キャンペーンやセールを利用することで、もう少し安く購入できる場合があります。中古品であれば、状態次第で半額以下になることもありますが、品質にばらつきがあるため注意が必要です。
+- question: 全巻セットはどこで買うのが一番お得？
+  answer: 新品の紙媒体であれば、大手オンライン書店（Amazon、楽天ブックスなど）や全国展開の書店で購入するのが一般的です。電子書籍は、各電子書籍ストア（Kindle、楽天Kobo、DMMブックスなど）で定期的にセールが行われるので、チェックするとお得に購入できることがあります。中古品の場合は、フリマアプリや中古書店（ブックオフなど）を利用することになりますが、状態をよく確認することが重要です。
+- question: アニメを先に観てからでもコミックを楽しめますか？
+  answer: はい、問題なく楽しめます。アニメは原作の魅力を忠実に再現しており、動きや声が付くことでまた違った感動があります。アニメで作品の世界観やキャラクターを把握してから原作コミックを読むことで、ONE先生の描線やコマ割りの意図、細かな心理描写をより深く味わうことができるでしょう。アニメとコミック、両方の良いところを体験することで、作品への理解がさらに深まります。
 sidebarProducts:
-  - title: 'モブサイコ100'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dsfnajnwzqsptdgtgohmjdq3w6%26season%3Dtkkvz49dohahzqij1s8560osf&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/mob-psycho-100-manga-set-guide.png'
-    price: 550
-    microCopy: '詳細を見る'
-  - title: 'モブサイコ100'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dsfnajnwzqsptdgtgohmjdq3w6%26season%3D4dwoqzzrc56p9zzahxz26xsnc&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/mob-psycho-100-manga-set-guide.png'
-    price: 550
-    microCopy: '詳細を見る'
-  - title: '舞台『モブサイコ100』'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3D9mdo9jysvjgk13qh8340jtsn0%26season%3Diu114uso99t5b1mco7r44spw4&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/mob-psycho-100-manga-set-guide.png'
-    price: 550
-    microCopy: '詳細を見る'
+- title: モブサイコ100
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dsfnajnwzqsptdgtgohmjdq3w6%26season%3Dtkkvz49dohahzqij1s8560osf&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
+  price: 550
+  microCopy: 詳細を見る
+- title: モブサイコ100
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dsfnajnwzqsptdgtgohmjdq3w6%26season%3D4dwoqzzrc56p9zzahxz26xsnc&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
+  price: 550
+  microCopy: 詳細を見る
+- title: 舞台『モブサイコ100』
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3D9mdo9jysvjgk13qh8340jtsn0%26season%3Diu114uso99t5b1mco7r44spw4&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
+  price: 550
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -40,6 +44,38 @@ sidebarProducts:
 そこで今回は、これから『モブサイコ100』のコミック[全巻セット](https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP)を手に入れたい人に向けて、失敗しない選び方を徹底的にガイドしていく。紙か電子か、新品か中古か、賢い選択のヒントを掴んで、あなたにとって最高の「モブサイコ体験」を手に入れてほしい。
 
 ## 『モブサイコ100』が僕らの心を掴む理由
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg" alt="モブサイコ100" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">モブサイコ100</h4>
+
+<div class="live-price-box" data-product-key="モブサイコ100" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span class="live-stock-badge" style="display: inline-flex; align-items: center; background: #ecfdf5; color: #047857; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 9999px;">🟢 在庫あり（即納対応）</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥550</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A2%25E3%2583%2596%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3100" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A2%E3%83%96%E3%82%B5%E3%82%A4%E3%82%B3100%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A2%25E3%2583%2596%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3100" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dsfnajnwzqsptdgtgohmjdq3w6%26season%3Dtkkvz49dohahzqij1s8560osf&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
+
 
 『モブサイコ100』は、ONE先生の作品らしく、一見するとシンプルな線で描かれたキャラクターたちが、信じられないほどの深みを持つ物語を織りなす。主人公の影山茂夫、通称モブは、桁外れの超能力を持つ中学生だ。
 
@@ -57,6 +93,38 @@ sidebarProducts:
 
 ## 初心者が陥りがちな全巻購入の落とし穴
 
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg" alt="モブサイコ100" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">モブサイコ100</h4>
+
+<div class="live-price-box" data-product-key="モブサイコ100" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span class="live-stock-badge" style="display: inline-flex; align-items: center; background: #ecfdf5; color: #047857; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 9999px;">🟢 在庫あり（即納対応）</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥550</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A2%25E3%2583%2596%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3100" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A2%E3%83%96%E3%82%B5%E3%82%A4%E3%82%B3100%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A2%25E3%2583%2596%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3100" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dsfnajnwzqsptdgtgohmjdq3w6%26season%3D4dwoqzzrc56p9zzahxz26xsnc&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
+
+
 「よし、モブサイコ100を全巻買うぞ！」と意気込んで、すぐに購入に走るのは少し待ってほしい。僕も以前、別の作品で「とりあえず中古でいいか」と手を出したら、日焼けやページ折れがひどくて後悔した経験があるんだ。
 
 せっかく名作と出会うなら、最高の状態で手元に置きたいと思うのが人情だろう。
@@ -66,6 +134,38 @@ sidebarProducts:
 紙媒体で読むか電子書籍で読むか、新品を選ぶか中古を選ぶか、そして限定版や特典付きの価値をどう判断するか。これらの選択を誤ると、後々の読書体験に影響が出てしまうかもしれない。
 
 ## 自分に合った『モブサイコ100』全巻セット選び3つのチェックポイント
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg" alt="モブサイコ100" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">モブサイコ100</h4>
+
+<div class="live-price-box" data-product-key="モブサイコ100" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span class="live-stock-badge" style="display: inline-flex; align-items: center; background: #ecfdf5; color: #047857; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 9999px;">🟢 在庫あり（即納対応）</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥550</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A2%25E3%2583%2596%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3100" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A2%E3%83%96%E3%82%B5%E3%82%A4%E3%82%B3100%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A2%25E3%2583%2596%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3100" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3D9mdo9jysvjgk13qh8340jtsn0%26season%3Diu114uso99t5b1mco7r44spw4&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
+
 
 ### 【チェック1】「手元に残すか、手軽に読むか」紙と電子の賢い選び方
 

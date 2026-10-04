@@ -1,35 +1,39 @@
 ---
-title: '『ROOKIES』DMMTVで熱血青春！夢を追う男たちの魂の物語'
-description: '不器用な男たちが夢を追いかける姿を描いた『ROOKIES』。泥臭い情熱と仲間との絆、そして再生の物語をDMMTVで視聴する魅力を、熱烈なファンが独自の視点で深掘りする。'
+title: 『ROOKIES』DMMTVで熱血青春！夢を追う男たちの魂の物語
+description: 不器用な男たちが夢を追いかける姿を描いた『ROOKIES』。泥臭い情熱と仲間との絆、そして再生の物語をDMMTVで視聴する魅力を、熱烈なファンが独自の視点で深掘りする。
 pubDate: '2026-09-05'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
+genre: manga
+mediaType: comic
 faq:
-  - question: 'DMMTVでROOKIESを視聴するメリットは？'
-    answer: 'DMMプレミアム会員であれば、ROOKIESのTVドラマシリーズ全11話を月額550円（税込）で見放題で楽しめます。他の多くの作品も追加料金なしで視聴できるため、コストパフォーマンスが高い点がメリットです。'
-  - question: 'どんな年代の人にROOKIESはおすすめ？'
-    answer: '学生時代に何かに打ち込んだ経験がある人や、大人になって目標を見失いがちな人に特におすすめです。熱い友情や師弟関係、夢を追いかける感動的な物語は、幅広い年代層の心に響くでしょう。'
-  - question: 'ドラマシリーズと映画、どちらから見るべき？'
-    answer: '基本的にはTVドラマシリーズから視聴することをおすすめします。物語の基礎となるキャラクターたちの出会いや成長の過程が詳しく描かれているため、ドラマシリーズを先に見てから映画版『ROOKIES -卒業-』を視聴すると、より深く作品の世界観に入り込めます。'
+- question: DMMTVでROOKIESを視聴するメリットは？
+  answer: DMMプレミアム会員であれば、ROOKIESのTVドラマシリーズ全11話を月額550円（税込）で見放題で楽しめます。他の多くの作品も追加料金なしで視聴できるため、コストパフォーマンスが高い点がメリットです。
+- question: どんな年代の人にROOKIESはおすすめ？
+  answer: 学生時代に何かに打ち込んだ経験がある人や、大人になって目標を見失いがちな人に特におすすめです。熱い友情や師弟関係、夢を追いかける感動的な物語は、幅広い年代層の心に響くでしょう。
+- question: ドラマシリーズと映画、どちらから見るべき？
+  answer: 基本的にはTVドラマシリーズから視聴することをおすすめします。物語の基礎となるキャラクターたちの出会いや成長の過程が詳しく描かれているため、ドラマシリーズを先に見てから映画版『ROOKIES
+    -卒業-』を視聴すると、より深く作品の世界観に入り込めます。
 sidebarProducts:
-  - title: 'ROOKIES'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F100480%2Fb950xshes18688%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg'
-    price: 220
-    microCopy: '詳細を見る'
-  - title: '映画「ROOKIES－卒業－」'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Da5q7tg4u4c61esin77kmn6x0h%26season%3Da5q7tg4u4c61esin77kmn6x0h&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg'
-    price: 550
-    microCopy: '詳細を見る'
-  - title: 'べしゃる漫画家'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F888901%2Fb950sshes03918%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950sshes03918/b950sshes03918pl.jpg'
-    price: 1540
-    microCopy: '詳細を見る'
+- title: ROOKIES
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F100480%2Fb950xshes18688%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
+  price: 220
+  microCopy: 詳細を見る
+- title: 映画「ROOKIES－卒業－」
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Da5q7tg4u4c61esin77kmn6x0h%26season%3Da5q7tg4u4c61esin77kmn6x0h&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
+  price: 550
+  microCopy: 詳細を見る
+- title: べしゃる漫画家
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F888901%2Fb950sshes03918%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950sshes03918/b950sshes03918pl.jpg
+  price: 1540
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950sshes03918/b950sshes03918pl.jpg
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 何かに打ち込みたいけれど、一歩踏み出せない。そんな悶々とした気持ちを抱えているなら、『ROOKIES』は間違いなく響く作品だろう。泥臭くも真っ直ぐな男たちの成長と、熱い絆を描くこの物語は、僕の心に常に火を灯してくれる。

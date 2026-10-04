@@ -1,35 +1,39 @@
 ---
-title: '『Monster』浦沢直樹が描く人間の深淵と善悪の境界線：漫画好きが本音で語る傑作サスペンス'
-description: '浦沢直樹の傑作漫画『Monster』は、倫理とサスペンスが織りなす読み応えのある物語。天才外科医が追う「怪物」の正体とは？知的好奇心を刺激する核心テーマと読書体験を、愛読者が徹底レビュー。'
+title: 『Monster』浦沢直樹が描く人間の深淵と善悪の境界線：漫画好きが本音で語る傑作サスペンス
+description: 浦沢直樹の傑作漫画『Monster』は、倫理とサスペンスが織りなす読み応えのある物語。天才外科医が追う「怪物」の正体とは？知的好奇心を刺激する核心テーマと読書体験を、愛読者が徹底レビュー。
 pubDate: '2026-09-02'
-heroImage: '/images/monster-urasawa-naoki-review.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: /images/monster-urasawa-naoki-review.jpg
+genre: manga
+mediaType: comic
 faq:
-  - question: 'グロテスクな描写や暴力シーンは多いですか？'
-    answer: '『Monster』はサスペンス・ミステリーなので、死体や暴力的な描写は登場します。しかし、それらは物語のテーマやキャラクターの心理を描写するために必要な範囲で、過度に残酷な表現を目的としたものではありません。'
-  - question: 'ミステリー漫画初心者でも楽しめますか？'
-    answer: 'ミステリー初心者でも十分楽しめます。複雑な伏線は多いですが、物語の軸は主人公テンマの行動と葛藤、そしてヨハンという「怪物」の存在を追うことなので、読み進めるうちに引き込まれていくはずです。 途中で混乱しても、何度も読み返すことで新たな発見がある奥深さがあります。'
-  - question: '物語はきれいに完結しますか？'
-    answer: 'はい、物語は最終巻まできちんと完結します。多くの謎が解き明かされ、主要な登場人物たちの運命も描かれます。読後に達成感と深い余韻が残る、見事な締めくくりです。'
+- question: グロテスクな描写や暴力シーンは多いですか？
+  answer: 『Monster』はサスペンス・ミステリーなので、死体や暴力的な描写は登場します。しかし、それらは物語のテーマやキャラクターの心理を描写するために必要な範囲で、過度に残酷な表現を目的としたものではありません。
+- question: ミステリー漫画初心者でも楽しめますか？
+  answer: ミステリー初心者でも十分楽しめます。複雑な伏線は多いですが、物語の軸は主人公テンマの行動と葛藤、そしてヨハンという「怪物」の存在を追うことなので、読み進めるうちに引き込まれていくはずです。
+    途中で混乱しても、何度も読み返すことで新たな発見がある奥深さがあります。
+- question: 物語はきれいに完結しますか？
+  answer: はい、物語は最終巻まできちんと完結します。多くの謎が解き明かされ、主要な登場人物たちの運命も描かれます。読後に達成感と深い余韻が残る、見事な締めくくりです。
 sidebarProducts:
-  - title: 'MONSTER 完全版 デジタルVer. 別巻 なまえのないかいぶつ'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157739%2Fb600bsgk02714%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02714/b600bsgk02714pl.jpg'
-    price: 550
-    microCopy: '詳細を見る'
-  - title: '完全版 MONSTER 9'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07207164%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07207164/bkt07207164pl.jpg'
-    price: 1571
-    microCopy: '詳細を見る'
-  - title: '完全版 MONSTER 8'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07205372%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07205372/bkt07205372pl.jpg'
-    price: 1571
-    microCopy: '詳細を見る'
+- title: MONSTER 完全版 デジタルVer. 別巻 なまえのないかいぶつ
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157739%2Fb600bsgk02714%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600bsgk02714/b600bsgk02714pl.jpg
+  price: 550
+  microCopy: 詳細を見る
+- title: 完全版 MONSTER 9
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07207164%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07207164/bkt07207164pl.jpg
+  price: 1571
+  microCopy: 詳細を見る
+- title: 完全版 MONSTER 8
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07205372%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07205372/bkt07205372pl.jpg
+  price: 1571
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b600bsgk02714/b600bsgk02714pl.jpg
+- https://pics.dmm.com/mono/book/comic/bkt07207164/bkt07207164pl.jpg
+- https://pics.dmm.com/mono/book/comic/bkt07205372/bkt07205372pl.jpg
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 浦沢直樹の『Monster』は、単なるミステリーやサスペンス漫画ではない。それは、人間の「善悪」や「存在意義」という根源的な問いを突きつける哲学的な物語だ。

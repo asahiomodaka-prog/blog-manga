@@ -1,37 +1,43 @@
 ---
-title: '魂揺さぶる名曲の軌跡！東映スーパーロボット主題歌大全集の深掘り'
-description: '東映スーパーロボット主題歌大全集DVDの真価を徹底解説。半世紀にわたるロボットアニメ史を彩る名曲たちの音源・映像クオリティ、選曲意図、そして時代が凝縮された楽曲の設計思想を深掘りする。'
+title: 魂揺さぶる名曲の軌跡！東映スーパーロボット主題歌大全集の深掘り
+description: 東映スーパーロボット主題歌大全集DVDの真価を徹底解説。半世紀にわたるロボットアニメ史を彩る名曲たちの音源・映像クオリティ、選曲意図、そして時代が凝縮された楽曲の設計思想を深掘りする。
 pubDate: '2026-09-26'
-heroImage: '/images/toei-super-robot-songs-dvd-review.jpg'
-genre: 'manga'
-mediaType: 'anime'
+heroImage: /images/toei-super-robot-songs-dvd-review.jpg
+genre: manga
+mediaType: anime
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: '音源の音質はどの程度ですか？'
-    answer: '本DVDには、コロムビアが保有する当時のマスターテープに近い音源が使用されています。デジタルリマスタリングが施されている楽曲もありますが、半世紀前のオリジナル音源を基にしているため、最新の音楽のようなクリアさや音圧は期待できないかもしれません。 しかし、それは当時の空気感を再現するための「味」として楽しむことができます。'
-  - question: '収録曲はどのような基準で選ばれていますか？'
-    answer: '東映制作のスーパーロボットアニメの代表的な主題歌が厳選されています。各作品のオープニング・エンディングテーマを中心に、作品の世界観を象徴する、記憶に残る名曲たちが多数収録されているのが特徴です。 単に人気曲を並べるだけでなく、時代背景や作品の系譜を考慮した選曲がなされています。'
-  - question: '特典映像は収録されていますか？'
-    answer: '各主題歌には、当時の貴重なオープニング・エンディング映像が収録されています。過去の制作資料や解説映像といった追加の特典映像については、具体的な情報は公開されていませんが、楽曲とセットになった当時の映像を鑑賞できるだけでも、非常に高い資料価値と懐かしさがあります。 [燃えろ 東映スーパーロボット主題歌大全集](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn659cobc6517%2F&afid=DMMaria-999&ch=api)'
+- question: 音源の音質はどの程度ですか？
+  answer: 本DVDには、コロムビアが保有する当時のマスターテープに近い音源が使用されています。デジタルリマスタリングが施されている楽曲もありますが、半世紀前のオリジナル音源を基にしているため、最新の音楽のようなクリアさや音圧は期待できないかもしれません。
+    しかし、それは当時の空気感を再現するための「味」として楽しむことができます。
+- question: 収録曲はどのような基準で選ばれていますか？
+  answer: 東映制作のスーパーロボットアニメの代表的な主題歌が厳選されています。各作品のオープニング・エンディングテーマを中心に、作品の世界観を象徴する、記憶に残る名曲たちが多数収録されているのが特徴です。
+    単に人気曲を並べるだけでなく、時代背景や作品の系譜を考慮した選曲がなされています。
+- question: 特典映像は収録されていますか？
+  answer: 各主題歌には、当時の貴重なオープニング・エンディング映像が収録されています。過去の制作資料や解説映像といった追加の特典映像については、具体的な情報は公開されていませんが、楽曲とセットになった当時の映像を鑑賞できるだけでも、非常に高い資料価値と懐かしさがあります。
+    [燃えろ 東映スーパーロボット主題歌大全集](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn659cobc6517%2F&afid=DMMaria-999&ch=api)
 sidebarProducts:
-  - title: '燃えろ！東映スーパーロボット主題歌大全集'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_659cobc6517%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_659cobc6517/n_659cobc6517pl.jpg'
-    price: 4910
-    microCopy: '詳細を見る'
-  - title: 'TVサイズ！東映アニメーション主題歌集（2）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_123cocx33832s%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33832s/cd_123cocx33832spl.jpg'
-    price: 3300
-    microCopy: '詳細を見る'
-  - title: 'TVサイズ！東映アニメーション主題歌集（1）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_123cocx33831s%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33831s/cd_123cocx33831spl.jpg'
-    price: 3300
-    microCopy: '詳細を見る'
+- title: 燃えろ！東映スーパーロボット主題歌大全集
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_659cobc6517%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/movie/animation/n_659cobc6517/n_659cobc6517pl.jpg
+  price: 4910
+  microCopy: 詳細を見る
+- title: TVサイズ！東映アニメーション主題歌集（2）
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_123cocx33832s%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33832s/cd_123cocx33832spl.jpg
+  price: 3300
+  microCopy: 詳細を見る
+- title: TVサイズ！東映アニメーション主題歌集（1）
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_123cocx33831s%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33831s/cd_123cocx33831spl.jpg
+  price: 3300
+  microCopy: 詳細を見る
+heroImages:
+- https://pics.dmm.com/mono/movie/animation/n_659cobc6517/n_659cobc6517pl.jpg
+- https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33832s/cd_123cocx33832spl.jpg
+- https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33831s/cd_123cocx33831spl.jpg
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 熱い鋼の魂が織りなす東映スーパーロボットの世界は、その主題歌と共に僕たちの記憶に深く刻まれている。この「燃えろ 東映スーパーロボット主題歌大全集」は、単なる懐メロ集ではない。

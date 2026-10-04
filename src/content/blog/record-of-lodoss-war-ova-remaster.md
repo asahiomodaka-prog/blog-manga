@@ -1,30 +1,34 @@
 ---
-title: 'OVA版 ロードス島戦記 デジタルリマスター：蘇る剣と魔法の原点'
-description: '日本ファンタジーの金字塔「ロードス島戦記」OVA版デジタルリマスターを深掘り。色褪せない名作が最新技術でどう蘇ったか、その映像美と作品の持つ普遍的な魅力を解説。'
+title: OVA版 ロードス島戦記 デジタルリマスター：蘇る剣と魔法の原点
+description: 日本ファンタジーの金字塔「ロードス島戦記」OVA版デジタルリマスターを深掘り。色褪せない名作が最新技術でどう蘇ったか、その映像美と作品の持つ普遍的な魅力を解説。
 pubDate: '2026-09-16'
-heroImage: '/images/record-of-lodoss-war-ova-remaster.jpg'
-genre: 'manga'
-mediaType: 'anime'
+heroImage: /images/record-of-lodoss-war-ova-remaster.jpg
+genre: manga
+mediaType: anime
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: 'デジタルリマスター版は、昔のVHS版やDVD版とどう違いますか？'
-    answer: 'デジタルリマスター版は、オリジナルのフィルムネガから高解像度でスキャンし、最新技術で映像のノイズ除去や色彩補正が施されています。これにより、当時の粗かった画質が飛躍的に向上し、より鮮明で美しい映像で作品を鑑賞できます。特に暗部や細かい背景描写のディテールが格段に見やすくなっています。'
-  - question: 'ロードス島戦記を初めて見るのですが、OVA版から入っても楽しめますか？'
-    answer: 'はい、楽しめます。OVA版は全13話で、原作小説「灰色の魔女」編をベースに独立した物語として構成されています。 パーンやディードリットたちの出会いから冒険の始まり、そしてクライマックスまでが凝縮されており、作品の世界観やキャラクターの魅力を十分に理解できます。ここからロードス島戦記の世界へ足を踏み入れるのは、素晴らしい体験になるでしょう。'
-  - question: '価格が少し高く感じますが、購入する価値はありますか？'
-    answer: '11,220円という価格は確かに安価ではありません。しかし、日本のファンタジーアニメの歴史に残る名作を、最高の映像クオリティで手元に置けるという点に価値があります。 デジタルリマスター化には多大な時間とコストがかかっており、その結果として作品本来の映像美が最大限に引き出されています。コレクションとして、また繰り返し見返すことで得られる感動を考慮すれば、十分購入を検討する価値があるでしょう。'
+- question: デジタルリマスター版は、昔のVHS版やDVD版とどう違いますか？
+  answer: デジタルリマスター版は、オリジナルのフィルムネガから高解像度でスキャンし、最新技術で映像のノイズ除去や色彩補正が施されています。これにより、当時の粗かった画質が飛躍的に向上し、より鮮明で美しい映像で作品を鑑賞できます。特に暗部や細かい背景描写のディテールが格段に見やすくなっています。
+- question: ロードス島戦記を初めて見るのですが、OVA版から入っても楽しめますか？
+  answer: はい、楽しめます。OVA版は全13話で、原作小説「灰色の魔女」編をベースに独立した物語として構成されています。 パーンやディードリットたちの出会いから冒険の始まり、そしてクライマックスまでが凝縮されており、作品の世界観やキャラクターの魅力を十分に理解できます。ここからロードス島戦記の世界へ足を踏み入れるのは、素晴らしい体験になるでしょう。
+- question: 価格が少し高く感じますが、購入する価値はありますか？
+  answer: 11,220円という価格は確かに安価ではありません。しかし、日本のファンタジーアニメの歴史に残る名作を、最高の映像クオリティで手元に置けるという点に価値があります。
+    デジタルリマスター化には多大な時間とコストがかかっており、その結果として作品本来の映像美が最大限に引き出されています。コレクションとして、また繰り返し見返すことで得られる感動を考慮すれば、十分購入を検討する価値があるでしょう。
 sidebarProducts:
-  - title: 'OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX スタンダード エディション （ブルーレイディスク）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_747kaxa9829%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_747kaxa9829/n_747kaxa9829pl.jpg'
-    price: 11220
-    microCopy: '詳細を見る'
-  - title: 'OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX （ブルーレイディスク）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_747kaxa9807%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_747kaxa9807/n_747kaxa9807pl.jpg'
-    price: 35530
-    microCopy: '詳細を見る'
+- title: OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX スタンダード エディション （ブルーレイディスク）
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_747kaxa9829%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/movie/animation/n_747kaxa9829/n_747kaxa9829pl.jpg
+  price: 11220
+  microCopy: 詳細を見る
+- title: OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX （ブルーレイディスク）
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_747kaxa9807%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/movie/animation/n_747kaxa9807/n_747kaxa9807pl.jpg
+  price: 35530
+  microCopy: 詳細を見る
+heroImages:
+- https://pics.dmm.com/mono/movie/animation/n_747kaxa9829/n_747kaxa9829pl.jpg
+- https://pics.dmm.com/mono/movie/animation/n_747kaxa9807/n_747kaxa9807pl.jpg
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 

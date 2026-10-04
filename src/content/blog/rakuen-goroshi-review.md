@@ -1,37 +1,40 @@
 ---
-title: '『楽園殺し』はなぜ心を掴む？ 緻密な世界構造と哲学を深掘り'
-description: '『楽園殺し』は、SFとファンタジーが融合した唯一無二の物語。緻密な世界観と哲学的な問いかけが織りなす構造美を深掘りし、その核心的魅力をレビューします。'
+title: 『楽園殺し』はなぜ心を掴む？ 緻密な世界構造と哲学を深掘り
+description: 『楽園殺し』は、SFとファンタジーが融合した唯一無二の物語。緻密な世界観と哲学的な問いかけが織りなす構造美を深掘りし、その核心的魅力をレビューします。
 pubDate: '2026-09-12'
-heroImage: '/images/rakuen-goroshi-review.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: /images/rakuen-goroshi-review.jpg
+genre: manga
+mediaType: comic
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: '『楽園殺し』はどんなジャンルの作品？'
-    answer: 'SFとファンタジーの要素が融合した作品だ。緻密に構築された世界観と、人間の本質に迫る哲学的なテーマが特徴だよ。'
-  - question: 'ストーリーは難しい？ 予備知識は必要？'
-    answer: '複雑な設定が魅力だけど、作中で丁寧に説明されているから予備知識は不要だ。読み進めるうちに世界の全貌が徐々に見えてくる構造になっている。'
-  - question: '試し読みはできる？'
-    answer: 'DMMブックスで試し読みができるから、まずは冒頭を読んで世界観に触れてみるのがおすすめだ。物語の雰囲気や文章を実際に体験できるよ。 [楽園殺し](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&af_id=DMMaria-999&ch=api)'
+- question: 『楽園殺し』はどんなジャンルの作品？
+  answer: SFとファンタジーの要素が融合した作品だ。緻密に構築された世界観と、人間の本質に迫る哲学的なテーマが特徴だよ。
+- question: ストーリーは難しい？ 予備知識は必要？
+  answer: 複雑な設定が魅力だけど、作中で丁寧に説明されているから予備知識は不要だ。読み進めるうちに世界の全貌が徐々に見えてくる構造になっている。
+- question: 試し読みはできる？
+  answer: DMMブックスで試し読みができるから、まずは冒頭を読んで世界観に触れてみるのがおすすめだ。物語の雰囲気や文章を実際に体験できるよ。 [楽園殺し](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&af_id=DMMaria-999&ch=api)
 sidebarProducts:
-  - title: '楽園殺し'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk27878/b600dsgk27878pl.jpg'
-    price: 1001
-    microCopy: '詳細を見る'
-  - title: '貘'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4099936%2Fb600dsgk15966%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk15966/b600dsgk15966pl.jpg'
-    price: 979
-    microCopy: '詳細を見る'
-  - title: '大ダーク 9'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07554651%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07554651/bkt07554651pl.jpg'
-    price: 1100
-    microCopy: '詳細を見る'
+- title: 楽園殺し
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk27878/b600dsgk27878pl.jpg
+  price: 1001
+  microCopy: 詳細を見る
+- title: 貘
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4099936%2Fb600dsgk15966%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk15966/b600dsgk15966pl.jpg
+  price: 979
+  microCopy: 詳細を見る
+- title: 大ダーク 9
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07554651%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07554651/bkt07554651pl.jpg
+  price: 1100
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b600dsgk27878/b600dsgk27878pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600dsgk15966/b600dsgk15966pl.jpg
+- https://pics.dmm.com/mono/book/comic/bkt07554651/bkt07554651pl.jpg
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 『楽園殺し』は、単なるSFファンタジーではない。緻密に練られた世界観と、人間の本質に迫る哲学的な問いかけが融合した、まさに「構造の美」を感じさせる作品だ。物語の骨格から細部に至るまで、思考を刺激する仕掛けが随所に散りばめられている。

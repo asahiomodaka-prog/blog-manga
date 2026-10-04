@@ -1,27 +1,26 @@
 ---
-title: '村田蓮爾画集『futurhythm』の構造美と初期衝動が示す未来'
-description: 'イラストレーター村田蓮爾初の商業画集『futurhythm』を徹底レビュー。緻密なメカと少女が織りなす世界観、構図や色彩の設計思想を深掘りし、彼の初期衝動が現代に与える影響と作品の魅力を解説する。'
+title: 村田蓮爾画集『futurhythm』の構造美と初期衝動が示す未来
+description: イラストレーター村田蓮爾初の商業画集『futurhythm』を徹底レビュー。緻密なメカと少女が織りなす世界観、構図や色彩の設計思想を深掘りし、彼の初期衝動が現代に与える影響と作品の魅力を解説する。
 pubDate: '2026-09-27'
-heroImage: '/images/futurhythm-range-murata-artbook-review.png'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: https://pics.dmm.com/mono/cd/japanese_music/cd_077imps80s/cd_077imps80spl.jpg
+genre: manga
+mediaType: comic
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: '村田蓮爾のどの時期の作品が収録されていますか？'
-    answer: '本画集は村田蓮爾初の商業画集として2003年に発売され、彼の初期の代表作が約120点収録されています。特に『LAST EXILE』関連のイラストが多く含まれており、彼が独自のスタイルを確立する過程の作品群を楽しめます。'
-  - question: '『LAST EXILE』のイラストはどのくらい収録されていますか？'
-    answer: '公式情報では具体的な点数は明記されていませんが、「『LAST EXILE』関連イラスト多数収録」とされており、作品の世界観を形成したキャラクター原案やメカデザインなどが豊富に掲載されています。アニメファンであれば見覚えのあるイラストがきっと見つかるでしょう。'
-  - question: 'デジタルイラストが多いと聞きますが、画集ではどのような表現になっていますか？'
-    answer: '村田蓮爾はデジタル表現を早期から取り入れたイラストレーターですが、この画集に収録されている作品は、デジタル技術を駆使しつつも、アナログ画材のような温かみや奥行きを感じさせる表現が特徴です。紙媒体で見ることで、ディスプレイでは感じられない色彩の深みや印刷の質感を楽しめます。'
+- question: 村田蓮爾のどの時期の作品が収録されていますか？
+  answer: 本画集は村田蓮爾初の商業画集として2003年に発売され、彼の初期の代表作が約120点収録されています。特に『LAST EXILE』関連のイラストが多く含まれており、彼が独自のスタイルを確立する過程の作品群を楽しめます。
+- question: 『LAST EXILE』のイラストはどのくらい収録されていますか？
+  answer: 公式情報では具体的な点数は明記されていませんが、「『LAST EXILE』関連イラスト多数収録」とされており、作品の世界観を形成したキャラクター原案やメカデザインなどが豊富に掲載されています。アニメファンであれば見覚えのあるイラストがきっと見つかるでしょう。
+- question: デジタルイラストが多いと聞きますが、画集ではどのような表現になっていますか？
+  answer: 村田蓮爾はデジタル表現を早期から取り入れたイラストレーターですが、この画集に収録されている作品は、デジタル技術を駆使しつつも、アナログ画材のような温かみや奥行きを感じさせる表現が特徴です。紙媒体で見ることで、ディスプレイでは感じられない色彩の深みや印刷の質感を楽しめます。
 sidebarProducts:
-  - title: 'futurhythm 村田蓮爾画集'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3Dfuturhythm%20%E6%9D%91%E7%94%B0%E8%93%AE%E7%88%BE%E7%94%BB%E9%9B%86&af_id=DMMaria-999'
-    imageUrl: '/images/futurhythm-range-murata-artbook-review.png'
-    price: 0
-    microCopy: '詳細を見る'
+- title: futurhythm 村田蓮爾画集
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3Dfuturhythm%20%E6%9D%91%E7%94%B0%E8%93%AE%E7%88%BE%E7%94%BB%E9%9B%86&af_id=DMMaria-999
+  imageUrl: https://pics.dmm.com/mono/cd/japanese_music/cd_077imps80s/cd_077imps80spl.jpg
+  price: 0
+  microCopy: 詳細を見る
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 村田蓮爾の初期作品を網羅した[画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%2520%25E7%2594%25BB%25E9%259B%2586)『futurhythm』は、緻密なメカと繊細な少女を融合させた独特の世界観に触れたい人にとって、まさに必携の一冊だ。特にアニメ『LAST EXILE』で彼のキャラクター原案に魅了されたなら、その原点にある表現の深さと思考の軌跡を存分に味わえるだろう。
@@ -42,7 +41,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/futurhythm-range-murata-artbook-review.png" alt="futurhythm 村田蓮爾画集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/cd/japanese_music/cd_077imps80s/cd_077imps80spl.jpg" alt="futurhythm 村田蓮爾画集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -89,7 +88,7 @@ sidebarProducts:
 
 そこには、後に「村田蓮爾」というスタイルを確立するに至るまでの、試行錯誤と情熱が凝縮されている。それはまるで、これから飛び立とうとするフライング・シップの整備士が、一つ一つのパーツに魂を込めるような、作り手の真摯な姿勢を感じさせるのだ。
 
-<div style="text-align: center; margin: 28px 0;"><img src="/images/futurhythm-range-murata-artbook-review.png" alt="futurhythm 村田蓮爾画集" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://pics.dmm.com/mono/cd/japanese_music/cd_077imps80s/cd_077imps80spl.jpg" alt="futurhythm 村田蓮爾画集" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## どこか懐かしくも新しすぎる「村田蓮爾イズム」が合わない可能性
 
@@ -166,7 +165,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/futurhythm-range-murata-artbook-review.png" alt="futurhythm 村田蓮爾画集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/cd/japanese_music/cd_077imps80s/cd_077imps80spl.jpg" alt="futurhythm 村田蓮爾画集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

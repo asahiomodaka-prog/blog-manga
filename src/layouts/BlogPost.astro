@@ -13,7 +13,16 @@ type Props = CollectionEntry<'blog'>['data'] & {
 	readingTime?: number;
 };
 
-const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts, faq, rating, headings = [], readingTime } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, heroImages: propHeroImages, genre, sidebarProducts, faq, rating, headings = [], readingTime } = Astro.props;
+
+// マルチカバー画像の抽出・決定ロジック
+const extractedSidebarImages = (sidebarProducts || [])
+	.map(p => p.imageUrl)
+	.filter(url => url && (url.startsWith('http') || (url.endsWith('.jpg') && !url.includes('placeholder'))));
+
+const multiImages = (propHeroImages && propHeroImages.length > 0)
+	? propHeroImages
+	: (extractedSidebarImages.length > 1 ? extractedSidebarImages.slice(0, 4) : (heroImage ? [heroImage] : []));
 
 const defaultProducts = [
 	{
@@ -136,6 +145,110 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 			}
 			.hero-image-main:hover {
 				transform: scale(1.015);
+			}
+
+			/* マルチカバー・アイキャッチ CSS */
+			.hero-multi-wrapper {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 100%;
+				max-width: 720px;
+				gap: 1.25rem;
+				padding: 0.5rem 0;
+			}
+			.hero-book-item {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+				position: relative;
+			}
+			.hero-image-book {
+				max-height: 250px;
+				max-width: 100%;
+				height: auto;
+				object-fit: contain;
+				border-radius: 10px;
+				border: 2px solid #ffffff;
+				box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.18), 0 4px 6px -4px rgba(15, 23, 42, 0.1);
+				transition: transform 0.25s ease, box-shadow 0.25s ease;
+			}
+			.hero-image-book:hover {
+				transform: translateY(-4px) scale(1.02);
+				box-shadow: 0 16px 32px -6px rgba(15, 23, 42, 0.25);
+			}
+			/* VSスタイル */
+			.hero-vs-badge {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 44px;
+				height: 44px;
+				background: linear-gradient(135deg, #ef4444, #b91c1c);
+				color: #ffffff;
+				font-weight: 900;
+				font-size: 0.95rem;
+				border-radius: 50%;
+				box-shadow: 0 4px 14px rgba(239, 68, 68, 0.38);
+				letter-spacing: 0.05em;
+				flex-shrink: 0;
+			}
+			/* 表彰台（ポディウム）スタイル */
+			.hero-podium-wrapper {
+				align-items: flex-end;
+				gap: 1.5rem;
+			}
+			.hero-rank-1 {
+				transform: translateY(-12px);
+				z-index: 2;
+			}
+			.hero-rank-1 .hero-image-book {
+				max-height: 270px;
+				border-width: 3px;
+			}
+			.hero-rank-2 .hero-image-book,
+			.hero-rank-3 .hero-image-book {
+				max-height: 220px;
+			}
+			.hero-rank-badge {
+				font-size: 0.72rem;
+				font-weight: 800;
+				padding: 3px 10px;
+				border-radius: 9999px;
+				margin-bottom: 8px;
+				box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+			}
+			.rank-1 { background: #fef08a; color: #854d0e; border: 1px solid #fde047; }
+			.rank-2 { background: #f1f5f9; color: #334155; border: 1px solid #e2e8f0; }
+			.rank-3 { background: #fed7aa; color: #9a3412; border: 1px solid #fdba74; }
+			/* 4列カタロググリッド */
+			.hero-grid-wrapper {
+				display: grid;
+				grid-template-columns: repeat(4, 1fr);
+				gap: 0.85rem;
+				max-width: 640px;
+			}
+			.hero-grid-item .hero-image-book {
+				max-height: 190px;
+			}
+			.hero-grid-badge {
+				background: #ffffff;
+				color: #475569;
+				font-size: 0.7rem;
+				font-weight: 800;
+				padding: 1px 7px;
+				border-radius: 9999px;
+				margin-bottom: 4px;
+				border: 1px solid #e2e8f0;
+			}
+			@media (max-width: 640px) {
+				.hero-multi-wrapper { gap: 0.6rem; }
+				.hero-image-book { max-height: 160px; }
+				.hero-rank-1 .hero-image-book { max-height: 185px; }
+				.hero-rank-2 .hero-image-book,
+				.hero-rank-3 .hero-image-book { max-height: 150px; }
+				.hero-grid-item .hero-image-book { max-height: 140px; }
 			}
 
 			/* スマート目次（Table of Contents）コンポーネント */
@@ -1343,10 +1456,51 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							</div>
 							<h1>{title}</h1>
 						</div>
-						{heroImage && (
+						{multiImages.length > 0 && (
 							<div class="hero-image-container">
 								<div class="hero-image-frame">
-									<img src={heroImage} alt={title} loading="eager" class="hero-image-main" />
+									{multiImages.length === 1 && (
+										<img src={multiImages[0]} alt={title} loading="eager" class="hero-image-main hero-single" />
+									)}
+									{multiImages.length === 2 && (
+										<div class="hero-multi-wrapper hero-vs-wrapper">
+											<div class="hero-book-item">
+												<img src={multiImages[0]} alt={`${title} 1`} loading="eager" class="hero-image-book" />
+											</div>
+											<div class="hero-vs-badge">
+												<span>VS</span>
+											</div>
+											<div class="hero-book-item">
+												<img src={multiImages[1]} alt={`${title} 2`} loading="eager" class="hero-image-book" />
+											</div>
+										</div>
+									)}
+									{multiImages.length === 3 && (
+										<div class="hero-multi-wrapper hero-podium-wrapper">
+											<div class="hero-book-item hero-rank-2">
+												<span class="hero-rank-badge rank-2">🥈 第2位</span>
+												<img src={multiImages[1]} alt={`${title} 2`} loading="eager" class="hero-image-book" />
+											</div>
+											<div class="hero-book-item hero-rank-1">
+												<span class="hero-rank-badge rank-1">👑 第1位</span>
+												<img src={multiImages[0]} alt={`${title} 1`} loading="eager" class="hero-image-book hero-featured" />
+											</div>
+											<div class="hero-book-item hero-rank-3">
+												<span class="hero-rank-badge rank-3">🥉 第3位</span>
+												<img src={multiImages[2]} alt={`${title} 3`} loading="eager" class="hero-image-book" />
+											</div>
+										</div>
+									)}
+									{multiImages.length >= 4 && (
+										<div class="hero-multi-wrapper hero-grid-wrapper">
+											{multiImages.slice(0, 4).map((imgUrl, idx) => (
+												<div class="hero-book-item hero-grid-item">
+													<span class="hero-grid-badge">#{idx + 1}</span>
+													<img src={imgUrl} alt={`${title} ${idx + 1}`} loading="eager" class="hero-image-book" />
+												</div>
+											))}
+										</div>
+									)}
 								</div>
 							</div>
 						)}

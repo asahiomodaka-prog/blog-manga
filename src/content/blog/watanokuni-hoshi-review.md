@@ -1,35 +1,38 @@
 ---
-title: '『綿の国星』劇場版アニメが描く猫と人間の絆 心温まる不朽の名作を'
-description: '大島弓子原作の劇場版アニメ『綿の国星』。猫の視点から人間社会と愛情を繊細に描いた本作を鑑賞した体験から、その深い魅力と普遍的なテーマを解説。550円で手軽に鑑賞できるコストパフォーマンスにも注目する。'
+title: 『綿の国星』劇場版アニメが描く猫と人間の絆 心温まる不朽の名作を
+description: 大島弓子原作の劇場版アニメ『綿の国星』。猫の視点から人間社会と愛情を繊細に描いた本作を鑑賞した体験から、その深い魅力と普遍的なテーマを解説。550円で手軽に鑑賞できるコストパフォーマンスにも注目する。
 pubDate: '2026-09-08'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk14400/b600dsgk14400pl.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b600dsgk14400/b600dsgk14400pl.jpg
+genre: manga
+mediaType: comic
 faq:
-  - question: '『綿の国星』はどんな人におすすめの作品ですか？'
-    answer: '心温まる感動を求めている人、猫が好きな人、静かで哲学的な物語に触れたい人におすすめです。特に、日々の忙しさの中で心の安らぎを求めている人に深く響く作品です。'
-  - question: 'DMMTVでの視聴以外に、作品を楽しむ方法はありますか？'
-    answer: '原作漫画も非常に有名で、各[電子書籍](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)ストアや書店で入手可能です。アニメ映画とはまた異なる、大島弓子先生の繊細な筆致と物語の世界観を堪能できます。'
-  - question: '古い作品ですが、現代の視聴者にも楽しめますか？'
-    answer: '発表が古い作品ですが、そのテーマは普遍的であり、絵柄や演出にも古さを感じさせない魅力があります。むしろ、現代のアニメーションにはない独特の空気感や表現を楽しむことができるでしょう。'
+- question: 『綿の国星』はどんな人におすすめの作品ですか？
+  answer: 心温まる感動を求めている人、猫が好きな人、静かで哲学的な物語に触れたい人におすすめです。特に、日々の忙しさの中で心の安らぎを求めている人に深く響く作品です。
+- question: DMMTVでの視聴以外に、作品を楽しむ方法はありますか？
+  answer: 原作漫画も非常に有名で、各[電子書籍](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)ストアや書店で入手可能です。アニメ映画とはまた異なる、大島弓子先生の繊細な筆致と物語の世界観を堪能できます。
+- question: 古い作品ですが、現代の視聴者にも楽しめますか？
+  answer: 発表が古い作品ですが、そのテーマは普遍的であり、絵柄や演出にも古さを感じさせない魅力があります。むしろ、現代のアニメーションにはない独特の空気感や表現を楽しむことができるでしょう。
 sidebarProducts:
-  - title: '綿の国星'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F111319%2Fb371bhkss00215%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371bhkss00215/b371bhkss00215pl.jpg'
-    price: 570
-    microCopy: '詳細を見る'
-  - title: 'キャットニップ'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F724887%2Fb600dsgk14400%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk14400/b600dsgk14400pl.jpg'
-    price: 1287
-    microCopy: '詳細を見る'
-  - title: 'ちびねこ絵本'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F576289%2Fb371dhkss02163%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371dhkss02163/b371dhkss02163pl.jpg'
-    price: 1034
-    microCopy: '詳細を見る'
+- title: 綿の国星
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F111319%2Fb371bhkss00215%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b371bhkss00215/b371bhkss00215pl.jpg
+  price: 570
+  microCopy: 詳細を見る
+- title: キャットニップ
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F724887%2Fb600dsgk14400%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk14400/b600dsgk14400pl.jpg
+  price: 1287
+  microCopy: 詳細を見る
+- title: ちびねこ絵本
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F576289%2Fb371dhkss02163%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b371dhkss02163/b371dhkss02163pl.jpg
+  price: 1034
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b371bhkss00215/b371bhkss00215pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600dsgk14400/b600dsgk14400pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b371dhkss02163/b371dhkss02163pl.jpg
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 人間と猫、異なる種族の間に芽生える深い愛情と成長を描いた劇場版アニメ『綿の国星』。この作品は、日々の喧騒から離れて、心温まる物語に浸りたいと願う人にこそ観てほしい。DMMTVで手軽に視聴できる本作は、その繊細な世界観と普遍的なテーマで、観る者の心に静かな感動をもたらすだろう。

@@ -1,30 +1,32 @@
 ---
-title: '地球外少年少女 Collectors BOX：全特典を徹底解析！この決定版は誰向き？'
-description: '「地球外少年少女 Collectors BOX」は、磯光雄監督SFアニメの真髄を最高の映像・音響で体験。21780円でdmmから登場し、作品世界への深い没入と再考察を可能にします。ファン垂涎の決定版、価格以上の価値を提供するコレクターズアイテム。'
+title: 地球外少年少女 Collectors BOX：全特典を徹底解析！この決定版は誰向き？
+description: 「地球外少年少女 Collectors BOX」は、磯光雄監督SFアニメの真髄を最高の映像・音響で体験。21780円でdmmから登場し、作品世界への深い没入と再考察を可能にします。ファン垂涎の決定版、価格以上の価値を提供するコレクターズアイテム。
 pubDate: '2026-08-22'
-heroImage: '/images/the-orbital-children-manga-box.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: /images/the-orbital-children-manga-box.jpg
+genre: manga
+mediaType: comic
 faq:
-  - question: 'コレクターズBOXの価格が高いと感じるのですが、それに見合う価値はありますか？'
-    answer: '21,780円という価格は確かに高額だが、本BOXは単なる本編ディスクだけでなく、豪華な特典ディスク（メイキングやインタビューなど）、設定資料が満載のブックレット、そして美麗な特製パッケージが付属する。作品の世界観を深く理解し、最高の画質と音質で鑑賞するための要素が凝縮されており、ファンにとっては価格以上の満足感と長期的な鑑賞価値を提供するだろう。物理メディアとして作品を「所有する」喜びも大きい。'
-  - question: 'ストリーミング配信でも作品を見られるのですが、あえてBlu-ray BOXを購入するメリットは何ですか？'
-    answer: 'ストリーミング配信は手軽だが、Blu-ray BOXには多くのメリットがある。まず、映像と音質のクオリティが段違いだ。Blu-rayは非圧縮に近い高画質・高音質で、磯監督作品の緻密な作画や音響へのこだわりを最大限に引き出す。また、特典ディスクやブックレットは配信にはない情報源で、作品の制作背景や設定を深く掘り下げることが可能だ。さらに、配信終了のリスクがなく、安定した環境でいつでも鑑賞できる永続性、そして物理的なコレクターズアイテムとして所有する喜びは、ストリーミングでは得られない大きな魅力と言える。'
-  - question: 'コレクターズBOXは場所を取ると聞きましたが、収納やディスプレイで気をつけることはありますか？'
-    answer: 'コレクターズBOXは通常のBlu-rayケースよりも大きめなので、ある程度の収納スペースが必要となる。奥行きと高さのある本棚の一角を確保する、あるいは専用のディスプレイ棚を用意するなどの検討が必要だろう。パッケージデザインが美しいので、見栄えの良い場所にディスプレイするのもおすすめだ。直射日光や湿気はパッケージやディスクの劣化の原因になるため、避けるのが賢明である。定期的にホコリを拭き取るなど、丁寧な手入れをすることで、購入時の状態を長く保ち、コレクションとしての価値を維持できるだろう。'
+- question: コレクターズBOXの価格が高いと感じるのですが、それに見合う価値はありますか？
+  answer: 21,780円という価格は確かに高額だが、本BOXは単なる本編ディスクだけでなく、豪華な特典ディスク（メイキングやインタビューなど）、設定資料が満載のブックレット、そして美麗な特製パッケージが付属する。作品の世界観を深く理解し、最高の画質と音質で鑑賞するための要素が凝縮されており、ファンにとっては価格以上の満足感と長期的な鑑賞価値を提供するだろう。物理メディアとして作品を「所有する」喜びも大きい。
+- question: ストリーミング配信でも作品を見られるのですが、あえてBlu-ray BOXを購入するメリットは何ですか？
+  answer: ストリーミング配信は手軽だが、Blu-ray BOXには多くのメリットがある。まず、映像と音質のクオリティが段違いだ。Blu-rayは非圧縮に近い高画質・高音質で、磯監督作品の緻密な作画や音響へのこだわりを最大限に引き出す。また、特典ディスクやブックレットは配信にはない情報源で、作品の制作背景や設定を深く掘り下げることが可能だ。さらに、配信終了のリスクがなく、安定した環境でいつでも鑑賞できる永続性、そして物理的なコレクターズアイテムとして所有する喜びは、ストリーミングでは得られない大きな魅力と言える。
+- question: コレクターズBOXは場所を取ると聞きましたが、収納やディスプレイで気をつけることはありますか？
+  answer: コレクターズBOXは通常のBlu-rayケースよりも大きめなので、ある程度の収納スペースが必要となる。奥行きと高さのある本棚の一角を確保する、あるいは専用のディスプレイ棚を用意するなどの検討が必要だろう。パッケージデザインが美しいので、見栄えの良い場所にディスプレイするのもおすすめだ。直射日光や湿気はパッケージやディスクの劣化の原因になるため、避けるのが賢明である。定期的にホコリを拭き取るなど、丁寧な手入れをすることで、購入時の状態を長く保ち、コレクションとしての価値を維持できるだろう。
 sidebarProducts:
-  - title: '地球外少年少女 Collectors BOX 前編・後編 特装限定版'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyxa14027%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg'
-    price: 21780
-    microCopy: '詳細を見る'
-  - title: '地球外少年少女 公式設定資料集 磯光雄の世界'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%2F'
-    imageUrl: '/images/the-orbital-children-manga-box.jpg'
-    price: 3850
-    microCopy: '詳細を見る'
+- title: 地球外少年少女 Collectors BOX 前編・後編 特装限定版
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyxa14027%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg
+  price: 21780
+  microCopy: 詳細を見る
+- title: 地球外少年少女 公式設定資料集 磯光雄の世界
+  url: https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%2F
+  imageUrl: /images/the-orbital-children-manga-box.jpg
+  price: 3850
+  microCopy: 詳細を見る
+heroImages:
+- https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg
+- /images/the-orbital-children-manga-box.jpg
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">

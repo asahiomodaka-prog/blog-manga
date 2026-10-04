@@ -1,37 +1,40 @@
 ---
-title: '楳図かずお『洗礼』深掘りレビュー：美貌と恐怖が交錯する人間ドラマの核心'
-description: '楳図かずおの不朽の名作『洗礼』は、ホラーの皮を被った人間ドラマの金字塔だ。美貌への執着が招く狂気と、母娘の愛憎が織りなす普遍的なテーマを深掘りし、その読後の深い余韻を解説する。'
+title: 楳図かずお『洗礼』深掘りレビュー：美貌と恐怖が交錯する人間ドラマの核心
+description: 楳図かずおの不朽の名作『洗礼』は、ホラーの皮を被った人間ドラマの金字塔だ。美貌への執着が招く狂気と、母娘の愛憎が織りなす普遍的なテーマを深掘りし、その読後の深い余韻を解説する。
 pubDate: '2026-09-29'
-heroImage: '/images/umezu-kazuo-senrei-review.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: /images/umezu-kazuo-senrei-review.jpg
+genre: manga
+mediaType: comic
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: 'グロテスクな描写は多いですか？'
-    answer: '直接的なスプラッター描写よりも、心理的・精神的な「歪み」や「不気味さ」で読者を追い詰める表現が多い。苦手な人は注意が必要だが、耐えられないほどの過度な描写はないだろう。'
-  - question: '楳図かずお作品は初めてですが、楽しめますか？'
-    answer: '全1巻で完結しているため、楳図かずお入門としては非常に読みやすい。彼の独特な世界観が凝縮されており、代表作の一つとしてその魅力を堪能できるはずだ。'
-  - question: '紙の書籍と電子書籍、どちらで読むのがおすすめですか？'
-    answer: '紙の質感も魅力だが、電子書籍ならDMMブックスでスマホやタブレットから手軽に読めるため、場所を選ばない。価格も手頃で、すぐに購読できる利便性から、電子書籍版をおすすめする。'
+- question: グロテスクな描写は多いですか？
+  answer: 直接的なスプラッター描写よりも、心理的・精神的な「歪み」や「不気味さ」で読者を追い詰める表現が多い。苦手な人は注意が必要だが、耐えられないほどの過度な描写はないだろう。
+- question: 楳図かずお作品は初めてですが、楽しめますか？
+  answer: 全1巻で完結しているため、楳図かずお入門としては非常に読みやすい。彼の独特な世界観が凝縮されており、代表作の一つとしてその魅力を堪能できるはずだ。
+- question: 紙の書籍と電子書籍、どちらで読むのがおすすめですか？
+  answer: 紙の質感も魅力だが、電子書籍ならDMMブックスでスマホやタブレットから手軽に読めるため、場所を選ばない。価格も手頃で、すぐに購読できる利便性から、電子書籍版をおすすめする。
 sidebarProducts:
-  - title: '洗礼'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F772432%2Fb600tsgk00167%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg'
-    price: 1210
-    microCopy: '詳細を見る'
-  - title: 'マザー'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F714913%2Fb600rsgk04908%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600rsgk04908/b600rsgk04908pl.jpg'
-    price: 539
-    microCopy: '詳細を見る'
-  - title: '洗礼 3'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk308_3078030%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07216441/bkt07216441pl.jpg'
-    price: 1466
-    microCopy: '詳細を見る'
+- title: 洗礼
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F772432%2Fb600tsgk00167%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
+  price: 1210
+  microCopy: 詳細を見る
+- title: マザー
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F714913%2Fb600rsgk04908%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600rsgk04908/b600rsgk04908pl.jpg
+  price: 539
+  microCopy: 詳細を見る
+- title: 洗礼 3
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk308_3078030%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07216441/bkt07216441pl.jpg
+  price: 1466
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b600rsgk04908/b600rsgk04908pl.jpg
+- https://pics.dmm.com/mono/book/comic/bkt07216441/bkt07216441pl.jpg
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 楳図かずおの漫画『洗礼』は、単なるホラー作品とは一線を画す。美貌への異常な執着が引き起こす狂気と、母と娘のねじれた愛憎を描き出した、深遠な人間ドラマの金字塔だ。
@@ -56,7 +59,7 @@ sidebarProducts:
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;"></h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">楳図かずお 洗礼</h4>
 
 <div class="live-price-box" data-product-key="" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
@@ -175,7 +178,7 @@ DMMブックスでは、新規登録時にクーポンが配布されたり、�
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;"></h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">楳図かずお 洗礼</h4>
 
 <div class="live-price-box" data-product-key="" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">

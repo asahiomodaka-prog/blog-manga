@@ -1,35 +1,40 @@
 ---
-title: '手塚治虫『ひょうたん駒子』奇妙な魅力とギャグの原点を探る'
-description: '手塚治虫『ひょうたん駒子』の魅力を深掘り。奇妙なヒロインが巻き起こす騒動と、手塚流ギャグの真髄を解説。漫画初心者も楽しめる読み方ガイド。'
+title: 手塚治虫『ひょうたん駒子』奇妙な魅力とギャグの原点を探る
+description: 手塚治虫『ひょうたん駒子』の魅力を深掘り。奇妙なヒロインが巻き起こす騒動と、手塚流ギャグの真髄を解説。漫画初心者も楽しめる読み方ガイド。
 pubDate: '2026-09-10'
-heroImage: '/images/tezuka-hyotankomako-review.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: /images/tezuka-hyotankomako-review.jpg
+genre: manga
+mediaType: comic
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: '古い漫画だけど、今読んでも楽しめる？'
-    answer: 'はい、楽しめます。現代の洗練されたギャグとは異なる、おおらかでシュールな笑いが魅力です。手塚治虫の独特なセンスや、昭和のレトロな雰囲気を味わいたい人には特におすすめです。'
-  - question: '手塚治虫作品は初めてだけど、この作品から入っても大丈夫？'
-    answer: '問題ありません。『ひょうたん駒子』はギャグ・コメディなので、気軽に読み始められるでしょう。手塚治虫の多岐にわたる作品群の入り口として、その幅広い才能の一端に触れることができます。'
-  - question: 'どんなテーマが隠されている？ただのギャグ漫画？'
-    answer: '単なるギャグ漫画として楽しめるのはもちろんですが、その裏には社会風刺や人間ドラマといった手塚治虫作品共通のテーマが隠されています。異形なヒロインを通じて、多様性や人間関係のあり方について考えさせる深みも持っています。 [ひょうたん駒子 手塚治虫文庫全集](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F598544%2Fb900okds04330%2F&af_id=DMMaria-999&ch=api)'
+- question: 古い漫画だけど、今読んでも楽しめる？
+  answer: はい、楽しめます。現代の洗練されたギャグとは異なる、おおらかでシュールな笑いが魅力です。手塚治虫の独特なセンスや、昭和のレトロな雰囲気を味わいたい人には特におすすめです。
+- question: 手塚治虫作品は初めてだけど、この作品から入っても大丈夫？
+  answer: 問題ありません。『ひょうたん駒子』はギャグ・コメディなので、気軽に読み始められるでしょう。手塚治虫の多岐にわたる作品群の入り口として、その幅広い才能の一端に触れることができます。
+- question: どんなテーマが隠されている？ただのギャグ漫画？
+  answer: 単なるギャグ漫画として楽しめるのはもちろんですが、その裏には社会風刺や人間ドラマといった手塚治虫作品共通のテーマが隠されています。異形なヒロインを通じて、多様性や人間関係のあり方について考えさせる深みも持っています。
+    [ひょうたん駒子 手塚治虫文庫全集](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F598544%2Fb900okds04330%2F&af_id=DMMaria-999&ch=api)
 sidebarProducts:
-  - title: '鳥人大系 手塚治虫文庫全集'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F573618%2Fb900okds01812%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900okds01812/b900okds01812pl.jpg'
-    price: 880
-    microCopy: '詳細を見る'
-  - title: '鳥人大系'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F559908%2Fb606atdkp00131%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b606atdkp00131/b606atdkp00131pl.jpg'
-    price: 330
-    microCopy: '詳細を見る'
-  - title: '人類滅亡後の世界 鳥人大系'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07370549%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07370549/bkt07370549pl.jpg'
-    price: 550
-    microCopy: '詳細を見る'
+- title: 鳥人大系 手塚治虫文庫全集
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F573618%2Fb900okds01812%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900okds01812/b900okds01812pl.jpg
+  price: 880
+  microCopy: 詳細を見る
+- title: 鳥人大系
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F559908%2Fb606atdkp00131%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b606atdkp00131/b606atdkp00131pl.jpg
+  price: 330
+  microCopy: 詳細を見る
+- title: 人類滅亡後の世界 鳥人大系
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07370549%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07370549/bkt07370549pl.jpg
+  price: 550
+  microCopy: 詳細を見る
+heroImages:
+- https://ebook-assets.dmm.com/digital/e-book/b900okds01812/b900okds01812pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b606atdkp00131/b606atdkp00131pl.jpg
+- https://pics.dmm.com/mono/book/comic/bkt07370549/bkt07370549pl.jpg
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 

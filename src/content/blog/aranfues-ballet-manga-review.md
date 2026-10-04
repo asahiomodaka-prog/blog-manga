@@ -1,35 +1,42 @@
 ---
-title: '『愛のアランフェス 5』バレエ漫画の金字塔が描く魂の舞踏と人間ドラマの深層'
-description: '槙村さとるの名作バレエ漫画『愛のアランフェス 5』を徹底レビュー。主人公の葛藤と成長、そして卓越した舞踊描写に隠された作者の意図を深掘りし、その普遍的な魅力を語る。'
+title: 『愛のアランフェス 5』バレエ漫画の金字塔が描く魂の舞踏と人間ドラマの深層
+description: 槙村さとるの名作バレエ漫画『愛のアランフェス 5』を徹底レビュー。主人公の葛藤と成長、そして卓越した舞踊描写に隠された作者の意図を深掘りし、その普遍的な魅力を語る。
 pubDate: '2026-10-03'
-heroImage: '/images/aranfues-ballet-manga-review.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: /images/aranfues-ballet-manga-review.jpg
+genre: manga
+mediaType: comic
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: 'バレエの知識がなくても楽しめるか？'
-    answer: 'はい、十分に楽しめます。バレエ用語や技術的な説明は作中で自然に解説されたり、絵で補足されたりするため、専門知識がなくても物語の本筋を追うことに支障はありません。 むしろ、作品を読み進めるうちにバレエの世界に興味を持つきっかけになるでしょう。'
-  - question: '全巻通して読む価値はあるか？'
-    answer: '強くおすすめします。真生の成長とバレエ人生は長期にわたるため、一巻だけでなく全巻読むことで、彼女の努力の軌跡、ライバルや仲間との関係性の変化、そして最終的な到達点までを深く味わうことができます。 途中で挫折や苦難もありますが、それらを乗り越える真生の姿は、読者に大きな感動と勇気を与えてくれるでしょう。'
-  - question: '真生以外のキャラクターの魅力は？'
-    answer: '真生を取り巻く登場人物たちも非常に魅力的です。ライバルであり友でもある踊り手たち、真生を見守り導く師たち、そして彼女の心を支える家族や恋人など、それぞれのキャラクターが複雑な背景や個性を持ち、物語に深みを与えています。 彼らの存在が、真生の成長をより多角的に描き出している点も、本作の大きな魅力です。'
+- question: バレエの知識がなくても楽しめるか？
+  answer: はい、十分に楽しめます。バレエ用語や技術的な説明は作中で自然に解説されたり、絵で補足されたりするため、専門知識がなくても物語の本筋を追うことに支障はありません。
+    むしろ、作品を読み進めるうちにバレエの世界に興味を持つきっかけになるでしょう。
+- question: 全巻通して読む価値はあるか？
+  answer: 強くおすすめします。真生の成長とバレエ人生は長期にわたるため、一巻だけでなく全巻読むことで、彼女の努力の軌跡、ライバルや仲間との関係性の変化、そして最終的な到達点までを深く味わうことができます。
+    途中で挫折や苦難もありますが、それらを乗り越える真生の姿は、読者に大きな感動と勇気を与えてくれるでしょう。
+- question: 真生以外のキャラクターの魅力は？
+  answer: 真生を取り巻く登場人物たちも非常に魅力的です。ライバルであり友でもある踊り手たち、真生を見守り導く師たち、そして彼女の心を支える家族や恋人など、それぞれのキャラクターが複雑な背景や個性を持ち、物語に深みを与えています。
+    彼らの存在が、真生の成長をより多角的に描き出している点も、本作の大きな魅力です。
 sidebarProducts:
-  - title: '愛のアランフェス 5'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk245_2444741%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07132529/bkt07132529pl.jpg'
-    price: 513
-    microCopy: '詳細を見る'
-  - title: '愛のアランフェス 4'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk243_2422343%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07129682/bkt07129682pl.jpg'
-    price: 513
-    microCopy: '詳細を見る'
-  - title: '愛のアランフェス 3'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk242_2412007%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07127992/bkt07127992pl.jpg'
-    price: 513
-    microCopy: '詳細を見る'
+- title: 愛のアランフェス 5
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk245_2444741%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07132529/bkt07132529pl.jpg
+  price: 513
+  microCopy: 詳細を見る
+- title: 愛のアランフェス 4
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk243_2422343%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07129682/bkt07129682pl.jpg
+  price: 513
+  microCopy: 詳細を見る
+- title: 愛のアランフェス 3
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk242_2412007%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07127992/bkt07127992pl.jpg
+  price: 513
+  microCopy: 詳細を見る
+heroImages:
+- https://pics.dmm.com/mono/book/comic/bkt07132529/bkt07132529pl.jpg
+- https://pics.dmm.com/mono/book/comic/bkt07129682/bkt07129682pl.jpg
+- https://pics.dmm.com/mono/book/comic/bkt07127992/bkt07127992pl.jpg
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
