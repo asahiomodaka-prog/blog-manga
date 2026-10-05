@@ -2,13 +2,15 @@
 title: 追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？
 description: 追放された回復士の少女が、最強職業に転職!? 『冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…』は、DMMブックスで165円で読める、不遇からの逆転ファンタジーです。
 pubDate: '2026-08-02'
-heroImage: '/images/recovering-girl-expelled-party-manga.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/09118168/bkhs3lulheu6gkmx.jpg?_ex=600x600'
 genre: SF・ファンタジー
 sidebarProducts:
-  - title: '冒険者パーティーを追放された回復士の少女を拾って育成したら、まさかの最強職業に転職！？ おまけに彼女の様子が何やらおかしくて…'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4356745%2Fb163cijt224118%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/recovering-girl-expelled-party-manga.jpg'
+  - title: '【中古】 冒険者パーティーを追放された回復士の少女を拾って育成したら、まさかの最強職業に転職!?　おまけに / / [単行本（ソフトカバー）]【メール便送料無料】【最短翌日配達対応】'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qs411.ve2q582c.g00qs411.ve2q6adc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcomicset%2F4758093539%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcomicset%2Fi%2F13789246%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/09118168/bkhs3lulheu6gkmx.jpg?_ex=600x600'
+    price: 1017
     microCopy: '詳細を見る'
+
 mediaType: comic
 faq:
   - question: '全巻セットを一気読みするのにかかる時間とボリューム感は？'
@@ -37,7 +39,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/recovering-girl-expelled-party-manga.jpg" alt="追放回復士の少女 なぜ彼女は最強になり" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/09118168/bkhs3lulheu6gkmx.jpg?_ex=600x600" alt="追放回復士の少女" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -96,7 +98,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/recovering-girl-expelled-party-manga.jpg" alt="追放回復士の少女 なぜ彼女は最強になり" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/09118168/bkhs3lulheu6gkmx.jpg?_ex=600x600" alt="追放回復士の少女" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

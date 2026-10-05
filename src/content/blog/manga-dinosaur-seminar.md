@@ -2,13 +2,15 @@
 title: 「別巻 まんがゼミナール 恐竜ゼミナール」で知る、なぜ巨大生物は忽然と姿を消したのか？
 description: 藤子・F・不二雄『別巻 まんがゼミナール 恐竜ゼミナール』は単なる恐竜解説ではないSF漫画。科学への探求心と生命の倫理的境界線を問う深いメッセージを解説。DMMにて2310円。子供から大人まで、知的好奇心と考察力を刺激する一冊の魅力に迫る。
 pubDate: '2026-07-12'
-heroImage: '/images/manga-dinosaur-seminar.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5599/2000010565599.jpg?_ex=600x600'
 genre: SF・ファンタジー
 sidebarProducts:
-  - title: '別巻 まんがゼミナール 恐竜ゼミナール'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4257529%2Fk747abrks02699%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/manga-dinosaur-seminar.jpg'
+  - title: '別巻 まんがゼミナール／恐竜ゼミナール'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Ffda5eaaab7103761b629a7022a951d88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F20617386%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5599/2000010565599.jpg?_ex=600x600'
+    price: 2310
     microCopy: '詳細を見る'
+
 mediaType: comic
 faq:
   - question: '全巻セットを一気読みするのにかかる時間とボリューム感は？'
@@ -37,7 +39,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/manga-dinosaur-seminar.jpg" alt="別巻 まんがゼミナール 恐竜ゼミナール" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b600asgk05343/b600asgk05343pl.jpg" alt="別巻 まんがゼミナール 恐竜ゼミナール" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -72,7 +74,6 @@ faq:
 1. **迫力のバトル＆ドラマ**: 緊迫感あふれるコマ割りと迫真の描写が完璧に融合。
 2. **キャラクターの成長と信念**: 逆境に立ち向かう主人公たちの姿が熱い勇気を与えてくれる。
 
-
 3. **コレクションとしての価値**: 紙の[全巻セット](https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP)や高画質Blu-ray BOXは、手元に置いておく価値の高い逸品。
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -96,7 +97,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/manga-dinosaur-seminar.jpg" alt="別巻 まんがゼミナール 恐竜ゼミナール" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b600asgk05343/b600asgk05343pl.jpg" alt="別巻 まんがゼミナール 恐竜ゼミナール" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

@@ -2,13 +2,15 @@
 title: カウボーイビバップ POP UP PARADE スパイク・スピーゲル造形レビュー！ビバップの魂が宿る理由
 description: 名作アニメ『カウボーイビバップ』の主人公「スパイク・スピーゲル」がPOP UP PARADEシリーズで登場！飾りやすいサイズと手に取りやすい価格4,895円で蘇る造形美を徹底レビュー。
 pubDate: '2026-07-20'
-heroImage: '/images/cowboy-bebop-pop-up-parade-spike.jpg'
+heroImage: 'https://pics.dmm.com/mono/hobby/c260103533/c260103533pl.jpg'
 genre: SF・ファンタジー
 sidebarProducts:
-  - title: 'POP UP PARADE スパイク・スピーゲル カウボーイビバップ 完成品フィギュア'
+  - title: '【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/cowboy-bebop-pop-up-parade-spike.jpg'
+    imageUrl: 'https://pics.dmm.com/mono/hobby/c260103533/c260103533pl.jpg'
+    price: 4565
     microCopy: '詳細を見る'
+
 mediaType: figure
 faq:
   - question: '全巻セットを一気読みするのにかかる時間とボリューム感は？'
@@ -37,7 +39,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/cowboy-bebop-pop-up-parade-spike.jpg" alt="カウボーイビバップ POP UP PARADE" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/hobby/c260103533/c260103533pl.jpg" alt="カウボーイビバップ POP UP PARADE" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -96,7 +98,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/cowboy-bebop-pop-up-parade-spike.jpg" alt="カウボーイビバップ POP UP PARADE" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/hobby/c260103533/c260103533pl.jpg" alt="カウボーイビバップ POP UP PARADE" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

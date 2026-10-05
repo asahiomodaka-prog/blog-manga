@@ -2,13 +2,15 @@
 title: あの花10years after BOXは買い？音響・映像美と特典の再現度を徹底評価！
 description: 『あの日見た花の名前を僕達はまだ知らない。10years after BOX』がdmmに登場。高画質Blu-ray本編に加え、未公開特典映像や豪華特製パッケージで、10年後の物語を追体験。ファン必見の永久保存版コレクターズアイテムを価格22,770円で手に入れよう。
 pubDate: '2026-08-11'
-heroImage: '/images/anohana-10years-after-box.jpg'
+heroImage: 'https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pl.jpg'
 genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: 'あの日見た花の名前を僕達はまだ知らない。10years after BOX（完全生産限定） （ブルーレイディスク）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx15901%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/anohana-10years-after-box.jpg'
+    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pl.jpg'
+    price: 22770
     microCopy: '詳細を見る'
+
 mediaType: comic
 faq:
   - question: '通常版や配信版と比較して、限定BOXならではの決定的な価値は何ですか？'
@@ -39,7 +41,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/anohana-10years-after-box.jpg" alt="あの花10years after BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pl.jpg" alt="あの花10years after BOX" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -98,7 +100,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/anohana-10years-after-box.jpg" alt="あの花10years after BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx15901/n_666anzx15901pl.jpg" alt="あの花10years after BOX" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

@@ -2,13 +2,15 @@
 title: TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー
 description: TVアニメ「BEATLESS」オリジナルサウンドトラック（DMM通販・3,300円）。作品の壮大なSF世界観とhIEたちの繊細な感情を紡ぐ珠玉の劇伴集。エレクトロニックとオーケストラが融合した楽曲の魅力を徹底解説します。
 pubDate: '2026-07-21'
-heroImage: '/images/beatless-original-soundtrack.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5109/4935228175109.jpg?_ex=600x600'
 genre: SF・ファンタジー
 sidebarProducts:
   - title: 'TVアニメ「BEATLESS」オリジナルサウンドトラック'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_269zmcz12168s%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/beatless-original-soundtrack.jpg'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15402072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19062464%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5109/4935228175109.jpg?_ex=600x600'
+    price: 3300
     microCopy: '詳細を見る'
+
 mediaType: anime
 faq:
   - question: '通常版や配信版と比較して、限定BOXならではの決定的な価値は何ですか？'
@@ -37,7 +39,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/beatless-original-soundtrack.jpg" alt="BEATLESS" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5109/4935228175109.jpg?_ex=600x600" alt="BEATLESS オリジナルサウンドトラック" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -72,7 +74,6 @@ faq:
 1. **迫力のバトル＆ドラマ**: 緊迫感あふれるコマ割りと迫真の描写が完璧に融合。
 2. **キャラクターの成長と信念**: 逆境に立ち向かう主人公たちの姿が熱い勇気を与えてくれる。
 
-
 3. **コレクションとしての価値**: 紙の[全巻セット](https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP)や高画質Blu-ray BOXは、手元に置いておく価値の高い逸品。
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -96,7 +97,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/beatless-original-soundtrack.jpg" alt="BEATLESS" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b824ageko00639/b824ageko00639pl.jpg" alt="BEATLESS" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

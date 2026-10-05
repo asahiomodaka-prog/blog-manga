@@ -2,13 +2,15 @@
 title: 「全滅エンドを死に物狂いで回避した。パーティが病んだ。」が描く、自己犠牲と歪んだ愛情の行方
 description: RPGで全滅エンドを回避した代償は、仲間の「病み」だった。『全滅エンドを死に物狂いで回避した。』は、ハッピーエンドを願う転生者と、彼に歪んだ感情を抱く少女たちのダークファンタジー。価格1078円で、DMM独占の衝撃展開を体験しよう。
 pubDate: '2026-07-21'
-heroImage: '/images/dying-to-avoid-bad-end-manga.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg'
 genre: 不朽の名作・ヒューマン
 sidebarProducts:
   - title: '全滅エンドを死に物狂いで回避した。パーティが病んだ。'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6278813%2Fb000fhftx07640%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/dying-to-avoid-bad-end-manga.jpg'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg'
+    price: 924
     microCopy: '詳細を見る'
+
 mediaType: comic
 faq:
   - question: '全巻セットを一気読みするのにかかる時間とボリューム感は？'
@@ -39,7 +41,7 @@ DMM独占の衝撃展開が待つ。
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/dying-to-avoid-bad-end-manga.jpg" alt="全滅エンドを死に物狂いで回避した。パーティが病んだ。" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg" alt="全滅エンドを死に物狂いで回避した。パーティが病んだ。" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -98,7 +100,7 @@ DMM独占の衝撃展開が待つ。
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/dying-to-avoid-bad-end-manga.jpg" alt="全滅エンドを死に物狂いで回避した。パーティが病んだ。" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b000fhftx07640/b000fhftx07640pl.jpg" alt="全滅エンドを死に物狂いで回避した。パーティが病んだ。" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

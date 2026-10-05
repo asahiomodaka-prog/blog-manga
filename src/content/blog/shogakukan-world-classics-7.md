@@ -2,13 +2,15 @@
 title: 小学館学習まんが世界名作館7。なぜあの結末が胸に刻まれ続けるのか？読後に残る普遍の問い
 description: 小学館学習まんが世界名作館7『ロビンソン・クルーソー』はDMMブックスで配信中。楽天では688円。無人島でのサバイバルを通し、孤独と人間の本質を問う名作。子供だけでなく、大人が今読むべき理由を解説。
 pubDate: '2026-07-05'
-heroImage: '/images/shogakukan-world-classics-7.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0673/im250903622131.jpg?_ex=600x600'
 genre: 不朽の名作・ヒューマン
 sidebarProducts:
-  - title: '小学館学習まんが世界名作館 全巻セット'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt33043443%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/shogakukan-world-classics-7.jpg'
+  - title: '【中古】小学館学習まんが世界名作館 7/小学館（単行本）'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rakq1.ve2q563f.g00rakq1.ve2q6aa9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvaboo%2Fva3074270409u30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvaboo%2Fi%2F17592682%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0673/im250903622131.jpg?_ex=600x600'
+    price: 652
     microCopy: '詳細を見る'
+
 mediaType: comic
 faq:
   - question: '全巻セットを一気読みするのにかかる時間とボリューム感は？'
@@ -37,7 +39,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/shogakukan-world-classics-7.jpg" alt="小学館学習まんが世界名作館7" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0673/im250903622131.jpg?_ex=600x600" alt="小学館学習まんが世界名作館7" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -96,7 +98,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/shogakukan-world-classics-7.jpg" alt="小学館学習まんが世界名作館7" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0673/im250903622131.jpg?_ex=600x600" alt="小学館学習まんが世界名作館7" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

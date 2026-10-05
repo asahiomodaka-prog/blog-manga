@@ -2,7 +2,7 @@
 title: 【1995年9月ジャンプ】SLAM DUNKが牽引した黄金期トップ5徹底解説！BØY・マキバオー・るろ剣・ラッキーマン
 description: 1995年9月初頭の週刊少年ジャンプ掲載順トップ5を徹底解説！スラムダンク、BØY、マキバオー、るろ剣、ラッキーマンの熱狂と魅力を振り返る。
 pubDate: '2026-09-09'
-heroImage: /images/jump-1995-september-top5-manga-review.jpg
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/syncip_0044/m9780491352_ra_s.jpg?_ex=600x600'
 genre: manga
 mediaType: comic
 faq:

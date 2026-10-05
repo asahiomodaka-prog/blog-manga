@@ -2,13 +2,15 @@
 title: BEATLESS 紅霞フィギュアの圧倒的存在感！造形美と再現度を徹底検証
 description: 『BEATLESS 紅霞』フィギュア（DMM販売中・21,429円）。redjuice氏の描く真紅の髪とクリムゾンレッドの瞳、巨大デバイスの緻密なメカ造形を完全立体化。ファン必見のハイクオリティな逸品を徹底レビューします。
 pubDate: '2026-07-29'
-heroImage: '/images/beatless-kouka-figure-review.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cross-one/cabinet/onesell045/cs131b8e888d.jpg?_ex=600x600'
 genre: SF・ファンタジー
 sidebarProducts:
-  - title: 'BEATLESS 紅霞 1/8スケールフィギュア'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dcha_202204945387%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/beatless-kouka-figure-review.jpg'
+  - title: 'BEATLESS 紅霞 1/8スケール 完成品フィギュア'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u2do1.ve2q5027.g00u2do1.ve2q618b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcross-one%2Fcs131b8e888d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcross-one%2Fi%2F10035859%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cross-one/cabinet/onesell045/cs131b8e888d.jpg?_ex=600x600'
+    price: 21429
     microCopy: '詳細を見る'
+
 mediaType: figure
 faq:
   - question: '通常版や配信版と比較して、限定BOXならではの決定的な価値は何ですか？'
@@ -37,7 +39,7 @@ BEATLESS 紅霞フィギュアは、redjuice氏が描く真紅の髪とクリム
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/beatless-kouka-figure-review.jpg" alt="BEATLESS 紅霞フィギュアの圧倒的存在感" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b824ageko00639/b824ageko00639pl.jpg" alt="BEATLESS 紅霞フィギュアの圧倒的存在感" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -72,7 +74,6 @@ BEATLESS 紅霞フィギュアは、redjuice氏が描く真紅の髪とクリム
 1. **迫力のバトル＆ドラマ**: 緊迫感あふれるコマ割りと迫真の描写が完璧に融合。
 2. **キャラクターの成長と信念**: 逆境に立ち向かう主人公たちの姿が熱い勇気を与えてくれる。
 
-
 3. **コレクションとしての価値**: 紙の[全巻セット](https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP)や高画質Blu-ray BOXは、手元に置いておく価値の高い逸品。
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -96,7 +97,7 @@ BEATLESS 紅霞フィギュアは、redjuice氏が描く真紅の髪とクリム
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/beatless-kouka-figure-review.jpg" alt="BEATLESS 紅霞フィギュアの圧倒的存在感" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b824ageko00639/b824ageko00639pl.jpg" alt="BEATLESS 紅霞フィギュアの圧倒的存在感" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

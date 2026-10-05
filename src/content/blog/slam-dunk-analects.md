@@ -2,7 +2,7 @@
 title: 'スラムダンク論語の賢い読み方！あの名言が現代の悩みに効く実用書だった'
 description: '『時代を超える スラムダンク論語』で現代の悩みを解決。スラムダンクと論語を融合し、リーダーシップ、人間関係、自己成長の智慧を学べます。組織運営やキャリアに悩むビジネスパーソンに役立つ一冊。DMMで1650円。'
 pubDate: '2026-09-01'
-heroImage: '/images/slam-dunk-analects.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8936/9784862808936_1_2.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'comic'
 faq:
@@ -13,11 +13,12 @@ faq:
   - question: 'この本は、どのような悩みを持つ人におすすめですか？'
     answer: 'チームや組織のリーダーシップに課題を感じている人、人間関係の構築に悩んでいる人、目標達成へのモチベーションを維持したい人、そして、古典的な教えに興味はあるものの、堅苦しい本は苦手と感じる人に特におすすめです。漫画から深い学びを得たいという知的好奇心旺盛なビジネスパーソンにも最適でしょう。'
 sidebarProducts:
-  - title: 'スラムダンク論語の賢い読み方'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E3%82%B9%E3%83%A9%E3%83%A0%E3%83%80%E3%83%B3%E3%82%AF%E8%AB%96%E8%AA%9E%E3%81%AE%E8%B3%A2%E3%81%84%E8%AA%AD%E3%81%BF%E6%96%B9&af_id=DMMaria-999'
-    imageUrl: '/images/slam-dunk-analects.jpg'
-    price: 1650
+  - title: '時代を超える！スラムダンク論語'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17436230%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20898639%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8936/9784862808936_1_2.jpg?_ex=600x600'
+    price: 1540
     microCopy: '詳細を見る'
+
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -34,7 +35,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/slam-dunk-analects.jpg" alt="スラムダンク論語の賢い読み方" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8936/9784862808936_1_2.jpg?_ex=600x600" alt="スラムダンク論語" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -203,7 +204,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/slam-dunk-analects.jpg" alt="スラムダンク論語の賢い読み方" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8936/9784862808936_1_2.jpg?_ex=600x600" alt="スラムダンク論語" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

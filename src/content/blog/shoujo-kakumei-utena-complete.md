@@ -2,7 +2,7 @@
 title: '「少女革命ウテナ Complete」は“決定版”か？伝説的クオリティの音響を検証'
 description: '「少女革命ウテナ Complete」は傑作アニメの決定版Blu-ray/DVD BOX。高額(34595円)ながら、圧倒的映像美と深遠な物語を最高の品質で体験。何度でも発見がある魅力を徹底解説します。'
 pubDate: '2026-08-21'
-heroImage: '/images/shoujo-kakumei-utena-complete.jpg'
+heroImage: 'https://pics.dmm.com/mono/movie/animation/n_653kixa90766/n_653kixa90766pl.jpg'
 genre: 'manga'
 mediaType: 'anime'
 faq:
@@ -13,11 +13,12 @@ faq:
   - question: '「少女革命ウテナ」は初めて見るのですが、事前知識は必要ですか？'
     answer: '事前知識は一切不要だ。むしろ、まっさらな状態で作品の世界に飛び込むことで、ウテナが持つ独自の演出や哲学的な問いかけを、より新鮮な驚きとともに体験できるだろう。物語は一見難解に感じられるかもしれないが、その象徴的な表現や多層的なテーマは、観れば観るほど深みが増すのがこの作品の魅力だ。Complete BOXであれば、何度も繰り返し視聴し、特典資料で考察を深めることができるため、初心者にとっても最適な入門編となるだろう。'
 sidebarProducts:
-  - title: '少女革命ウテナ Complete'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%B0%91%E5%A5%B3%E9%9D%A9%E5%91%BD%E3%82%A6%E3%83%86%E3%83%8A%20Complete&af_id=DMMaria-999'
-    imageUrl: '/images/shoujo-kakumei-utena-complete.jpg'
+  - title: '少女革命ウテナ Complete Blu-ray BOX （初回限定版 ブルーレイディスク）'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_653kixa90766%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_653kixa90766/n_653kixa90766pl.jpg'
     price: 34595
     microCopy: '詳細を見る'
+
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -46,7 +47,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/shoujo-kakumei-utena-complete.jpg" alt="少女革命ウテナ Complete" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_653kixa90766/n_653kixa90766pl.jpg" alt="少女革命ウテナ Complete" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -160,7 +161,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/shoujo-kakumei-utena-complete.jpg" alt="少女革命ウテナ Complete" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/movie/animation/n_653kixa90766/n_653kixa90766pl.jpg" alt="少女革命ウテナ Complete" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
