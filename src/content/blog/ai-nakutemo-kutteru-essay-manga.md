@@ -2,7 +2,7 @@
 title: 'よしながふみ「愛がなくても喰ってゆけます」独り飯から見つける人生の豊かさ'
 description: 'よしながふみ「愛がなくても喰ってゆけます」は、食への深い洞察とユーモアで満ちた珠玉のエッセイ漫画だ。独り飯から広がる豊かな世界観と日常のささやかな幸せの発見は、日々に疲れたあなたに温かい光を届けるだろう。コスパ最強の食の知恵も満載。'
 pubDate: '2026-09-09'
-heroImage: 'https://pics.dmm.com/mono/book/comic/bkt31523195/bkt31523195pl.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/05608447/bkm2gkpcnqprljpk.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'comic'
 faq:
@@ -15,7 +15,7 @@ faq:
 sidebarProducts:
   - title: '愛がなくても喰ってゆけます。'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk254_2537399%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt31523195/bkt31523195pl.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/05608447/bkm2gkpcnqprljpk.jpg?_ex=600x600'
     price: 968
     microCopy: '詳細を見る'
 ---

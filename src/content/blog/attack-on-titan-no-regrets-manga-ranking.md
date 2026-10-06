@@ -2,7 +2,7 @@
 title: '【2026年最新】進撃の巨人 悔いなき選択 特装版おすすめ人気ランキング3選を徹底比較！'
 description: '進撃の巨人 悔いなき選択 特装版の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-15'
-heroImage: 'https://pics.dmm.com/mono/book/comic/bkt07329912/bkt07329912pl.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'comic'
 tags:
@@ -17,17 +17,17 @@ faq:
 sidebarProducts:
   - title: '特装版 進撃の巨人 悔いなき選択 2'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07329912%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07329912/bkt07329912pl.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600'
     price: 880
     microCopy: '詳細を見る'
   - title: '特装版 進撃の巨人 悔いなき選択 1'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07321424%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07321424/bkt07321424pl.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600'
     price: 880
     microCopy: '詳細を見る'
 heroImages:
-  - 'https://pics.dmm.com/mono/book/comic/bkt07329912/bkt07329912pl.jpg'
-  - 'https://pics.dmm.com/mono/book/comic/bkt07321424/bkt07321424pl.jpg'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600'
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -40,7 +40,7 @@ heroImages:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/book/comic/bkt07329912/bkt07329912pl.jpg" alt="特装版 進撃の巨人 悔いなき選択 2" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600" alt="特装版 進撃の巨人 悔いなき選択 2" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -74,7 +74,7 @@ heroImages:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/book/comic/bkt07321424/bkt07321424pl.jpg" alt="特装版 進撃の巨人 悔いなき選択 1" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600" alt="特装版 進撃の巨人 悔いなき選択 1" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

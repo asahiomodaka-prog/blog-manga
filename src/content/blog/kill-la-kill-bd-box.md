@@ -2,7 +2,7 @@
 title: 'キルラキル Blu-ray BOXは買い？高音質・高画質で作品世界に没入する人へ'
 description: 'キルラキル Blu-ray Disc BOXで、熱血バトルアニメの興奮を最高の映像・音響クオリティで再体験！全話収録のコレクター必携アイテム。ファンが作品を深く堪能できる決定版。DMMで27720円。'
 pubDate: '2026-08-25'
-heroImage: 'https://pics.dmm.com/mono/movie/animation/n_666anzx12651/n_666anzx12651pl.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7106/4534530117106_20.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'anime'
 faq:
@@ -15,7 +15,7 @@ faq:
 sidebarProducts:
   - title: 'キルラキル Blu-ray Disc BOX （完全生産限定版 ブルーレイディスク）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx12651%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_666anzx12651/n_666anzx12651pl.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7106/4534530117106_20.jpg?_ex=600x600'
     price: 27720
     microCopy: '詳細を見る'
 
@@ -39,7 +39,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://pics.dmm.com/mono/movie/animation/n_666anzx12651/n_666anzx12651pl.jpg" alt="キルラキル Blu-ray BOX" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7106/4534530117106_20.jpg?_ex=600x600" alt="キルラキル Blu-ray BOX" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -85,7 +85,7 @@ sidebarProducts:
 
 同価格帯の他のアニメBD BOXと比較しても、これほどまでに充実した内容と、作品へのリスペクトが感じられる作りはそう多くはない。バラで揃える手間と費用を考慮すれば、このBOXは最適な選択肢の一つだと確信する。
 
-<img src="https://al.dmm.com/?lurl=https%3A%2F%2Fpics.dmm.com%2Fmono%2Fmovie%2Fanimation%2Fn_666anzx12651%2Fn_666anzx12651pl.jpg&af_id=DMMaria-999" alt="キルラキル Blu-ray Disc BOX" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7106/4534530117106_20.jpg?_ex=600x600" alt="キルラキル Blu-ray Disc BOX" loading="lazy" decoding="async" />
 
 ## 熱狂と哲学が織りなす『キルラキル』の真髄
 

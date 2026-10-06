@@ -2,7 +2,7 @@
 title: 電脳コイル Blu-ray BOXは買い？音響と映像美のクオリティを本音レビュー
 description: 「電脳コイル Blu-ray BOX」で磯光雄監督の傑作SFアニメを堪能。AR技術が日常に溶け込む近未来世界を、最高峰の映像・音響で体験！緻密な物語と現代に通じる倫理の問いかけが魅力。dmmで16830円。
 pubDate: '2026-08-29'
-heroImage: 'https://pics.dmm.com/mono/movie/animation/n_609bcxa0377/n_609bcxa0377pl.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8393/4934569368393.jpg?_ex=600x600'
 genre: manga
 mediaType: anime
 faq:
@@ -16,7 +16,7 @@ faq:
 sidebarProducts:
 - title: 電脳コイル ビジュアルコレクション 設定資料集
   url: https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%9B%BB%E8%84%B3%E3%82%B3%E3%82%A4%E3%83%AB%20%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%2F
-  imageUrl: /images/denno-coil-bluray-box.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8393/4934569368393.jpg?_ex=600x600
   price: 4180
   microCopy: 詳細を見る
 - title: 電脳コイル Blu-ray Disc Box （ブルーレイディスク）
@@ -24,9 +24,6 @@ sidebarProducts:
   imageUrl: https://pics.dmm.com/mono/movie/animation/n_609bcxa0377/n_609bcxa0377pl.jpg
   price: 34595
   microCopy: 詳細を見る
-heroImages:
-- /images/denno-coil-bluray-box.jpg
-- https://pics.dmm.com/mono/movie/animation/n_609bcxa0377/n_609bcxa0377pl.jpg
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -2,7 +2,7 @@
 title: 藤子不二雄Aと西原理恵子の「人生ことわざ面白‘漫’辞」は、堅苦しいことわざのイメージを覆す唯一無二の書
 description: 藤子不二雄Aと西原理恵子が贈る「人生ことわざ面白‘漫’辞」は、古典のことわざを現代的な視点で漫画化。人生の酸いも甘いも噛み分けた二人の巨匠が、その独自の感性で言葉の深奥を抉り出す。ことわざの固定観念を打ち破りたい人に、ぜひ読んでほしい一冊だ。
 pubDate: '2026-09-14'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600osgk02887/b600osgk02887pl.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/07460193/bkvlkuaffkyvbrrt.jpg?_ex=600x600'
 genre: manga
 mediaType: comic
 tags:
@@ -18,7 +18,7 @@ faq:
 sidebarProducts:
 - title: 藤子不二雄A＆西原理恵子の人生ことわざ面白‘漫’辞
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F781913%2Fb600csgk06944%2F&af_id=DMMaria-999&ch=api
-  imageUrl: /images/fujiko-saihara-kotowaza-manga.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/07460193/bkvlkuaffkyvbrrt.jpg?_ex=600x600
   price: 550
   microCopy: DMMで今すぐ読む
 - title: まんが道
@@ -31,10 +31,6 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600osgk02760/b600osgk02760pl.jpg
   price: 759
   microCopy: DMMで詳細を見る
-heroImages:
-- /images/fujiko-saihara-kotowaza-manga.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b600osgk02887/b600osgk02887pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b600osgk02760/b600osgk02760pl.jpg
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -2,7 +2,7 @@
 title: '伊藤潤二コレクションはホラー漫画の常識をどう覆したか？深淵なる恐怖の構造を読み解く'
 description: '伊藤潤二コレクションは、単なるホラーではない。人間の心理、社会の歪みを映し出す深淵な作品群だ。なぜ彼の漫画はこれほど深く心に刻まれるのか、その構造と魅力を徹底的に深掘りする。'
 pubDate: '2026-10-05'
-heroImage: '/images/ito-junji-collection-horror-analysis.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0789/9784023320789_1_2.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:
