@@ -4,6 +4,8 @@ description: 'グッドスマイルカンパニー製『BEATLESS 紅霞』1/8フ
 pubDate: '2026-07-29'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cross-one/cabinet/onesell045/cs131b8e888d.jpg?_ex=600x600'
 genre: 'ホビー・フィギュア'
+featured: true
+featuredOrder: 3
 mediaType: 'figure'
 tags:
   - 'beatless'

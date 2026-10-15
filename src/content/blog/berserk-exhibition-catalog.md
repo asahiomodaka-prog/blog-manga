@@ -4,6 +4,8 @@ description: '三浦建太郎先生の魂の筆致をA4大判400P超で凝縮し
 pubDate: '2026-08-30'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg'
 genre: 'manga'
+featured: true
+featuredOrder: 1
 mediaType: 'comic'
 tags:
   - 'berserk'

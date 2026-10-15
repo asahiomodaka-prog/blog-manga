@@ -4,6 +4,8 @@ description: 'アニメ史の金字塔『AKIRA』4K ULTRA HD Blu-rayを徹底レ
 pubDate: '2026-09-04'
 heroImage: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
 genre: 'manga'
+featured: true
+featuredOrder: 2
 mediaType: 'anime'
 tags:
   - 'akira'
