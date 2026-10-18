@@ -20,12 +20,12 @@ sidebarProducts:
   microCopy: 詳細を見る
 - title: 地球外少年少女 公式設定資料集 磯光雄の世界
   url: https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%2F
-  imageUrl: /images/the-orbital-children-manga-box.jpg
+  imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg'
   price: 3850
   microCopy: 詳細を見る
 heroImages:
 - https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg
-- /images/the-orbital-children-manga-box.jpg
+- 'https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg'
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 

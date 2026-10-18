@@ -2,7 +2,7 @@
 title: '【2026年最新】CLAMP カードキャプターさくら クリアカード編 全巻おすすめ人気ランキング4選を徹底比較！'
 description: 'CLAMP カードキャプターさくら クリアカード編 全巻の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-08'
-heroImage: '/images/cardcaptor-sakura-clear-card-manga-ranking.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900skds02906/b900skds02906pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:

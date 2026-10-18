@@ -2,7 +2,7 @@
 title: '【2026年最新】緑川ゆき 夏目友人帳 コミック 全巻おすすめ人気ランキング4選を徹底比較！'
 description: '緑川ゆき 夏目友人帳 コミック 全巻の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-15'
-heroImage: '/images/natsume-yuujinchou-manga-ranking.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss08364/b371khkss08364pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 tags:

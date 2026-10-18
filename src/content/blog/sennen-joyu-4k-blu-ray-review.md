@@ -2,7 +2,7 @@
 title: '今敏監督『千年女優』4Kリマスター版Blu-rayを初見で鑑賞！その魅力と注意点'
 description: '今敏監督の傑作アニメ『千年女優』4Kリマスター版Blu-rayの魅力を徹底解説。初見でも深く楽しめる作品のテーマ、映像美、そして購入前に知っておきたいポイントまで、コレクター目線で語ります。'
 pubDate: '2026-10-15'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/auc-rgbdvdstore/cabinet/08574401/imgrc0091032219.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'anime'
 tags:
@@ -14,6 +14,12 @@ faq:
     answer: 'いいえ、決してそんなことはありません。4Kリマスターされた映像は、例えフルHDのテレビや通常のBlu-rayプレイヤーで再生しても、色彩の鮮やかさやディテールの精細さは格段に向上しています。 オリジナルネガから最高の状態でレストアされているため、従来のBlu-ray版よりも確実に高画質で鑑賞できるでしょう。'
   - question: '特典映像にはどのような内容が収録されていますか？'
     answer: '『千年女優 4Kリマスター版』のBlu-rayには、本編87分に加えて特典映像が収録されています。具体的な内容はパッケージ裏面や公式情報で確認できますが、一般的には監督のインタビュー、メイキング、絵コンテなどが含まれることが多いです。 これらの特典映像は、作品の制作背景や監督の意図を深く知る貴重な資料となります。'
+sidebarProducts:
+  - title: '千年女優 今敏監督作品 Blu-ray'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qos61.ve2q5e88.g00qos61.ve2q6a65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-rgbdvdstore%2F10049061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-rgbdvdstore%2Fi%2F10049061%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/auc-rgbdvdstore/cabinet/08574401/imgrc0091032219.jpg?_ex=600x600'
+    price: 5665
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -40,7 +46,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="../../assets/blog-placeholder-3.jpg" alt="TCエンタテインメント 千年女優 4Kリマスター版" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-rgbdvdstore/cabinet/08574401/imgrc0091032219.jpg?_ex=600x600" alt="TCエンタテインメント 千年女優 4Kリマスター版" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -93,7 +99,7 @@ faq:
 
 それは愛かもしれないし、成功、あるいは自己実現かもしれない。千代子の物語は、そんな**私たちの心の奥底にある「求める」という本質**に静かに語りかけてくる。
 
-<div style="text-align: center; margin: 28px 0;"><img src="../../assets/blog-placeholder-3.jpg" alt="TCエンタテインメント 千年女優 4Kリマスター版" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-rgbdvdstore/cabinet/08574401/imgrc0091032219.jpg?_ex=600x600" alt="TCエンタテインメント 千年女優 4Kリマスター版" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## ここだけは知っておきたい！購入前の注意点
 
@@ -176,7 +182,7 @@ faq:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="../../assets/blog-placeholder-3.jpg" alt="TCエンタテインメント 千年女優 4Kリマスター版" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-rgbdvdstore/cabinet/08574401/imgrc0091032219.jpg?_ex=600x600" alt="TCエンタテインメント 千年女優 4Kリマスター版" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

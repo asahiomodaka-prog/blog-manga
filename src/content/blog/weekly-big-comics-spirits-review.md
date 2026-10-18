@@ -2,7 +2,7 @@
 title: '週刊ビッグコミックスピリッツ徹底解剖！旬の漫画と深掘り考察'
 description: '週刊ビッグコミックスピリッツを年間数百冊読むコレクターが、作品の深掘りや作者の意図を解説。最新作から不朽の名作まで、読む価値ある作品の選び方と電子書籍で賢く読む方法を紹介する。'
 pubDate: '2026-10-16'
-heroImage: '/images/weekly-big-comics-spirits-review.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600atgk13478/b600atgk13478pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:

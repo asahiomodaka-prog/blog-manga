@@ -2,7 +2,7 @@
 title: 'HJメカニクス徹底考察：機能美に宿るSFとリアルの融合'
 description: 'ホビージャパン編集部が贈る「HJメカニクス」は、SF作品と現実の宇宙技術の機能美を深掘りする一冊だ。なぜそのデザインなのか、その構造に込められた思想を徹底解説し、読者の知的好奇心を刺激する。'
 pubDate: '2026-10-14'
-heroImage: '/images/hj-mechanics-functional-beauty.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b471abyjp03569/b471abyjp03569pl.jpg'
 genre: 'manga'
 mediaType: 'figure'
 heroImages:

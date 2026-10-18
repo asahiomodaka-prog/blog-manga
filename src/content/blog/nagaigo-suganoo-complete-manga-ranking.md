@@ -2,7 +2,7 @@
 title: '【2026年最新】永井豪 凄ノ王 完全版 全巻おすすめ人気ランキング4選を徹底比較！'
 description: '永井豪 凄ノ王 完全版 全巻の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-07'
-heroImage: '/images/nagaigo-suganoo-complete-manga-ranking.jpg'
+heroImage: 'https://pics.dmm.com/mono/book/comic/bkt34318264/bkt34318264pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:

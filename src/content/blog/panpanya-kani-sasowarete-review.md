@@ -15,7 +15,7 @@ faq:
 sidebarProducts:
   - title: '蟹に誘われて'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt33086038%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: '/images/panpanya-kani-sasowarete-review.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0684/9784592710684_1_2.jpg?_ex=600x600'
     price: 0
     microCopy: '詳細を見る'
 ---

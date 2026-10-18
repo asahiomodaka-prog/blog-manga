@@ -2,7 +2,7 @@
 title: '伊達政宗 4 vs 伊達政宗 3 徹底比較！どっちを選ぶべき？'
 description: '横山光輝 伊達政宗 全巻セットの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-17'
-heroImage: '/images/date-masamune-yokoyama-manga-vs-comparison.jpg'
+heroImage: 'https://pics.dmm.com/mono/book/etc/bkt28362404/bkt28362404pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:

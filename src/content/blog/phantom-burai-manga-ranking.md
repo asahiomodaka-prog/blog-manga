@@ -2,7 +2,7 @@
 title: '【2026年最新】新谷かおる ファントム無頼 文庫版 全巻おすすめ人気ランキング4選を徹底比較！'
 description: '新谷かおる ファントム無頼 文庫版 全巻の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-12'
-heroImage: '/images/phantom-burai-manga-ranking.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b750egrzr06158/b750egrzr06158pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:

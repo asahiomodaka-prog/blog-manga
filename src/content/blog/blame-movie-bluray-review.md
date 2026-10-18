@@ -2,7 +2,7 @@
 title: '劇場版BLAME!初回限定Blu-rayで、弐瓶勉の無機質美学に浸る'
 description: '弐瓶勉原作「BLAME!」劇場版Blu-ray初回限定版を徹底レビュー。映像美、音響、豪華特典が織りなす終末世界への没入感と、コレクターとしての所有欲を満たす価値を深掘りする。'
 pubDate: '2026-10-10'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900mkds03496/b900mkds03496pl.jpg'
 genre: 'manga'
 mediaType: 'anime'
 tags:
@@ -14,6 +14,12 @@ faq:
     answer: '描き下ろし漫画は、劇場版とは異なる視点やエピソードを描いていることが多いです。本編の直接的な続編というよりは、BLAME!の世界観を補完したり、キャラクターの別の一面を描いたりする内容になっていると考えられます。'
   - question: 'Blu-rayの画質や音質はどの程度ですか？'
     answer: '高精細なBlu-ray画質で、弐瓶勉作品特有の緻密な構造物や退廃的な都市のディテールが鮮明に描かれています。音質も高品質で、重力子放射線射出装置の発射音や戦闘音などの迫力を存分に楽しめます。 臨場感を高めるため、良質なヘッドホンや音響機器での視聴をおすすめします。'
+sidebarProducts:
+  - title: '新装版 BLAME！ 弐瓶勉'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F505831%2Fb900mkds03496%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900mkds03496/b900mkds03496pl.jpg'
+    price: 1980
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -36,7 +42,7 @@ BLAME [Blu-ray](/blog/kill-la-kill-bd-box/) KIXA-90769 キングレコード](ht
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="../../assets/blog-placeholder-3.jpg" alt="BLAME Blu-ray KIXA-90769 キングレコード" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b900mkds03496/b900mkds03496pl.jpg" alt="BLAME Blu-ray KIXA-90769 キングレコード" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -89,7 +95,7 @@ BLAME [Blu-ray](/blog/kill-la-kill-bd-box/) KIXA-90769 キングレコード](ht
 
 それは、人間が創造したものが最終的に人間を圧倒し、取り込んでいく過程を示すメタファーとして機能するのだ。
 
-<div style="text-align: center; margin: 28px 0;"><img src="../../assets/blog-placeholder-3.jpg" alt="BLAME Blu-ray KIXA-90769 キングレコード" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://ebook-assets.dmm.com/digital/e-book/b900mkds03496/b900mkds03496pl.jpg" alt="BLAME Blu-ray KIXA-90769 キングレコード" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
@@ -156,7 +162,7 @@ BLAME!劇場版初回限定版Blu-rayのパッケージは、そのデザイン�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="../../assets/blog-placeholder-3.jpg" alt="BLAME Blu-ray KIXA-90769 キングレコード" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b900mkds03496/b900mkds03496pl.jpg" alt="BLAME Blu-ray KIXA-90769 キングレコード" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>

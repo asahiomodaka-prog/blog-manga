@@ -2,7 +2,7 @@
 title: 'MUNTO 時の壁をこえて DVDレビュー：京アニの傑作、その集大成を深く味わう'
 description: '京都アニメーション作品『MUNTO 時の壁をこえて』DVDを徹底レビュー。価格、映像美、ストーリーの深掘り、そしてコレクション価値まで、ファン必見の情報を凝縮してお届けします。'
 pubDate: '2026-10-13'
-heroImage: '/images/munto-tokinokabe-dvd-review.jpg'
+heroImage: 'https://pics.dmm.com/mono/movie/animation/n_627bbba5480/n_627bbba5480pl.jpg'
 genre: 'manga'
 mediaType: 'anime'
 heroImages:

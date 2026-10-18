@@ -2,7 +2,7 @@
 title: '五十嵐大介作品集「ウムヴェルト」異形の世界に潜む思考の深淵'
 description: '五十嵐大介作品集「ウムヴェルト」の魅力を徹底解剖。緻密な描線、深いテーマ、構図の意図から、読者の知的好奇心を刺激する読書体験を深掘り解説。'
 pubDate: '2026-10-11'
-heroImage: '/images/umwelt-igarashi-daisuke-review.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900qkds02196/b900qkds02196pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:

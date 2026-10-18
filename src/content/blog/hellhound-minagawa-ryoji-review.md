@@ -2,7 +2,7 @@
 title: '『ヘルハウンド』皆川亮二が描く心理戦：精密な構図とサスペンスの深層'
 description: '皆川亮二の最新作『ヘルハウンド』は、緻密な作画と伏線が光るミステリー・サスペンス。作者の構図の意図、キャラクターの心理に深く迫り、知的刺激に満ちた読書体験を詳細レビューする。'
 pubDate: '2026-10-09'
-heroImage: '/images/hellhound-minagawa-ryoji-review.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds54317/b900zkds54317pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:

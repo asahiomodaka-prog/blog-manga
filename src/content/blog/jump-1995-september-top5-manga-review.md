@@ -203,9 +203,7 @@ heroImages:
 
 競馬を全く知らない僕のような読者でも、マキバオーのひたむきな努力と成長、そしてライバルたちとのドラマに引き込まれた。予想を裏切る展開と、王道のスポ根要素が奇跡的に融合した作品だ。
 
-</div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -311,3 +309,5 @@ A3: 当時の週刊少年ジャンプ誌面そのものを入手するのは、�
 1995年9月、週刊少年ジャンプは新たな時代へ踏み出した。そして、その道筋を切り開いたのが、今回紹介した5つの作品たちだ。それぞれの作品が持つ唯一無二の魅力が、当時のジャンプを支え、僕らの心を熱くした。
 
 これらの作品は、単なる過去のヒット作ではない。今読んでも色褪せることのない、少年漫画の普遍的な面白さがそこにはある。当時の熱狂を再体験するのも良し、まだ触れたことのない人はこの機会にぜひ、その奥深い世界に飛び込んでみてほしい。
+</div>
+</div>

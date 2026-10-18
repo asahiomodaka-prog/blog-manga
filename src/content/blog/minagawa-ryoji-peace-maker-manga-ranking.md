@@ -2,7 +2,7 @@
 title: '【2026年最新】皆川亮二 PEACE MAKER 全巻セットおすすめ人気ランキング4選を徹底比較！'
 description: '皆川亮二 PEACE MAKER 全巻セットの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-06'
-heroImage: '/images/minagawa-ryoji-peace-maker-manga-ranking.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600zsgk02967/b600zsgk02967pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:
