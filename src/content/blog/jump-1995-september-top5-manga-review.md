@@ -288,7 +288,6 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
 
-
 ### よくある質問
 
 **Q1: これらの作品が掲載されていた当時のジャンプは、どれくらいの人気があったのですか？**

@@ -67,7 +67,6 @@ faq:
 
 ## 大人こそ心に刺さる名作エピソードと単行本・電子での楽しみ方
 
-
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 

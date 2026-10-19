@@ -74,7 +74,6 @@ TVアニメ「キングダム」黒羊丘の激戦、あの興奮をもう一度
 1. **迫力のバトル＆ドラマ**: 緊迫感あふれるコマ割りと迫真の描写が完璧に融合。
 2. **キャラクターの成長と信念**: 逆境に立ち向かう主人公たちの姿が熱い勇気を与えてくれる。
 
-
 3. **コレクションとしての価値**: 紙の[全巻セット](https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP)や高画質Blu-ray BOXは、手元に置いておく価値の高い逸品。
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
