@@ -24,14 +24,14 @@ sidebarProducts:
   price: 691
   microCopy: 詳細を見る
 - title: 魔女 第1集
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk243_2422435%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07129566/bkt07129566pl.jpg
+  url: https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0015024625%2F
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/461/0015024625l.jpg?_ex=600x600
   price: 691
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600psgk02937/b600psgk02937pl.jpg
 - https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5648/2000000125648.jpg?_ex=600x600
-- https://pics.dmm.com/mono/book/comic/bkt07129566/bkt07129566pl.jpg
+- https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/461/0015024625l.jpg?_ex=600x600
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

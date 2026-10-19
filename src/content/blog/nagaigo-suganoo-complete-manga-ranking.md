@@ -2,13 +2,13 @@
 title: '【2026年最新】永井豪 凄ノ王 完全版 全巻おすすめ人気ランキング4選を徹底比較！'
 description: '永井豪 凄ノ王 完全版 全巻の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-07'
-heroImage: 'https://pics.dmm.com/mono/book/comic/bkt34318264/bkt34318264pl.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mottainaihonpo-omatome/cabinet/08418128/bkynlzvgpbz2a3iv.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:
-  - 'https://pics.dmm.com/mono/book/comic/bkt34318264/bkt34318264pl.jpg'
-  - 'https://pics.dmm.com/mono/book/comic/bkt34309494/bkt34309494pl.jpg'
-  - 'https://pics.dmm.com/mono/book/comic/bkt34295422/bkt34295422pl.jpg'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/mottainaihonpo-omatome/cabinet/08418128/bkynlzvgpbz2a3iv.jpg?_ex=600x600'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/08419625/bknvzkgloqzozhes.jpg?_ex=600x600'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/08419625/bki4k8z6a9bkxieu.jpg?_ex=600x600'
 tags:
   - 'angle:ranking'
 faq:
@@ -21,17 +21,17 @@ faq:
 sidebarProducts:
   - title: '凄ノ王 完全初出 4 週刊少年マガジン版'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34318264%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt34318264/bkt34318264pl.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mottainaihonpo-omatome/cabinet/08418128/bkynlzvgpbz2a3iv.jpg?_ex=600x600'
     price: 4950
     microCopy: '詳細を見る'
   - title: '凄ノ王 完全初出 3 週刊少年マガジン版'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34309494%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt34309494/bkt34309494pl.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/08419625/bknvzkgloqzozhes.jpg?_ex=600x600'
     price: 4950
     microCopy: '詳細を見る'
   - title: '凄ノ王 完全初出 2 週刊少年マガジン版'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34295422%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt34295422/bkt34295422pl.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/08419625/bki4k8z6a9bkxieu.jpg?_ex=600x600'
     price: 4950
     microCopy: '詳細を見る'
 ---

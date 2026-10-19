@@ -27,13 +27,13 @@ sidebarProducts:
   microCopy: 詳細を見る
 - title: 洗礼 3
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk308_3078030%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07216441/bkt07216441pl.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8717/2000005678717.jpg?_ex=600x600
   price: 1466
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
 - https://ebook-assets.dmm.com/digital/e-book/b600rsgk04908/b600rsgk04908pl.jpg
-- https://pics.dmm.com/mono/book/comic/bkt07216441/bkt07216441pl.jpg
+- https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8717/2000005678717.jpg?_ex=600x600
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

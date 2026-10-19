@@ -8,7 +8,7 @@ mediaType: 'comic'
 heroImages:
   - 'https://ebook-assets.dmm.com/digital/e-book/b900skds02906/b900skds02906pl.jpg'
   - 'https://ebook-assets.dmm.com/digital/e-book/b900rkds04190/b900rkds04190pl.jpg'
-  - 'https://pics.dmm.com/mono/book/comic/bkt07524024/bkt07524024pl.jpg'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/syncip_0064/m9360439903_01.jpg?_ex=600x600'
 tags:
   - 'angle:ranking'
 faq:
@@ -31,7 +31,7 @@ sidebarProducts:
     microCopy: '詳細を見る'
   - title: 'カードキャプターさくら クリアカード編16'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07524024%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07524024/bkt07524024pl.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/syncip_0064/m9360439903_01.jpg?_ex=600x600'
     price: 605
     microCopy: '詳細を見る'
 ---

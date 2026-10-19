@@ -27,13 +27,13 @@ sidebarProducts:
   microCopy: 詳細を見る
 - title: つらつらわらじ 備前熊田家参勤絵巻 5
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07295393%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07295393/bkt07295393pl.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/ccc81/0011407206.jpg?_ex=600x600
   price: 723
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b900ukds03376/b900ukds03376pl.jpg
 - https://ebook-assets.dmm.com/digital/e-book/b900lkds02599/b900lkds02599pl.jpg
-- https://pics.dmm.com/mono/book/comic/bkt07295393/bkt07295393pl.jpg
+- https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/ccc81/0011407206.jpg?_ex=600x600
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

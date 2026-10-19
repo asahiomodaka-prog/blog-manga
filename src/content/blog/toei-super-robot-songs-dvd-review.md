@@ -25,18 +25,18 @@ sidebarProducts:
   microCopy: 詳細を見る
 - title: TVサイズ！東映アニメーション主題歌集（2）
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_123cocx33832s%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33832s/cd_123cocx33832spl.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/431/0017063771l.jpg?_ex=600x600
   price: 3300
   microCopy: 詳細を見る
 - title: TVサイズ！東映アニメーション主題歌集（1）
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_123cocx33831s%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33831s/cd_123cocx33831spl.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4565/4988001754565.jpg?_ex=600x600
   price: 3300
   microCopy: 詳細を見る
 heroImages:
 - https://pics.dmm.com/mono/movie/animation/n_659cobc6517/n_659cobc6517pl.jpg
-- https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33832s/cd_123cocx33832spl.jpg
-- https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33831s/cd_123cocx33831spl.jpg
+- https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/431/0017063771l.jpg?_ex=600x600
+- https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4565/4988001754565.jpg?_ex=600x600
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

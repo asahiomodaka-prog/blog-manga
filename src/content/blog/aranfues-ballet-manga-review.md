@@ -25,18 +25,18 @@ sidebarProducts:
   microCopy: 詳細を見る
 - title: 愛のアランフェス 4
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk243_2422343%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07129682/bkt07129682pl.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0067/im250302302090.jpg?_ex=600x600
   price: 513
   microCopy: 詳細を見る
 - title: 愛のアランフェス 3
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk242_2412007%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07127992/bkt07127992pl.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1904/0011389930l.jpg?_ex=600x600
   price: 513
   microCopy: 詳細を見る
 heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4441/2000002144441.jpg?_ex=600x600
-- https://pics.dmm.com/mono/book/comic/bkt07129682/bkt07129682pl.jpg
-- https://pics.dmm.com/mono/book/comic/bkt07127992/bkt07127992pl.jpg
+- https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0067/im250302302090.jpg?_ex=600x600
+- https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1904/0011389930l.jpg?_ex=600x600
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

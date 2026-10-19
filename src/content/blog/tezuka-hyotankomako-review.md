@@ -28,13 +28,13 @@ sidebarProducts:
   microCopy: 詳細を見る
 - title: 人類滅亡後の世界 鳥人大系
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07370549%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07370549/bkt07370549pl.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/lamaree/cabinet/shohin/tezuka/12463163/1.jpg?_ex=600x600
   price: 550
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b900okds01812/b900okds01812pl.jpg
 - https://ebook-assets.dmm.com/digital/e-book/b606atdkp00131/b606atdkp00131pl.jpg
-- https://pics.dmm.com/mono/book/comic/bkt07370549/bkt07370549pl.jpg
+- https://thumbnail.image.rakuten.co.jp/@0_mall/lamaree/cabinet/shohin/tezuka/12463163/1.jpg?_ex=600x600
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -21,18 +21,18 @@ sidebarProducts:
   microCopy: 詳細を見る
 - title: 完全版 MONSTER 9
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07207164%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07207164/bkt07207164pl.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1740/8800000017l.jpg?_ex=600x600
   price: 1571
   microCopy: 詳細を見る
 - title: 完全版 MONSTER 8
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07205372%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07205372/bkt07205372pl.jpg
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/04/00017/0010141430.jpg?_ex=600x600
   price: 1571
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600bsgk02714/b600bsgk02714pl.jpg
-- https://pics.dmm.com/mono/book/comic/bkt07207164/bkt07207164pl.jpg
-- https://pics.dmm.com/mono/book/comic/bkt07205372/bkt07205372pl.jpg
+- https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1740/8800000017l.jpg?_ex=600x600
+- https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/04/00017/0010141430.jpg?_ex=600x600
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
