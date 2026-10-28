@@ -23,12 +23,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-壮大な夢と、地に足の着いた現実が交錯する人間ドラマに惹かれる読者にとって、『宇宙兄弟』[全巻セット](https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP)は、まさに「大人のための青春物語」だ。この作品の最大の魅力は、宇宙飛行士という超人的な目標に対し、等身大のキャラクターたちが苦悩し、葛藤しながらも一歩ずつ前進していく、徹底したリアリティと緻密な心理描写にある。
+壮大な夢と、地に足の着いた現実が交錯する人間ドラマに惹かれる読者にとって、『宇宙兄弟』全巻セットは、まさに「大人のための青春物語」だ。この作品の最大の魅力は、宇宙飛行士という超人的な目標に対し、等身大のキャラクターたちが苦悩し、葛藤しながらも一歩ずつ前進していく、徹底したリアリティと緻密な心理描写にある。
 
 単なる宇宙冒険譚ではなく、挫折と再生を繰り返す兄弟の絆と、彼らを支える人々との交流が、読者の心に深く響く。全巻を一気に読み通すことで、長期連載ならではのキャラクターの成長や伏線回収のカタルシスを存分に味わえるのが、全巻セットの醍醐味だろう。
 
 宇宙兄弟 全巻セット 小山宙哉 講談社
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -59,7 +58,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 挫折と再起を繰り返す、宇宙飛行士への道のり
 

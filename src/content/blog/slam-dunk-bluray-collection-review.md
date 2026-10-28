@@ -28,8 +28,7 @@ faq:
 
 単なる再販ではない。これは、あの感動と興奮を最高峰のクオリティで再体験するための、ファン待望の決定版と言える。
 
-[東映ビデオ スラムダンク Blu-ray Collection 全5巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%2520TV%25E7%2589%2588%2520Blu-ray%2520%25E5%2585%25A8%25E5%25B7%25BB)
-
+東映ビデオ スラムダンク Blu-ray Collection 全5巻セット
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -60,7 +59,6 @@ faq:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 青春の情熱が息吹く！スラムダンクBlu-rayで体感する興奮の瞬間
 
@@ -186,4 +184,4 @@ A3: このコレクションは、**スラムダンクの世界観を最高画�
 
 特に、過去のVHSやDVDで視聴していた方にとっては、HDリマスターによる鮮やかな映像体験は感動的でしょう。物理メディアをコレクションとして大切にしたい方、世代を超えて作品を語り継ぎたい方には、価格以上の価値をもたらしてくれるはずです。
 
-[東映ビデオ スラムダンク Blu-ray Collection 全5巻セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%2520TV%25E7%2589%2588%2520Blu-ray%2520%25E5%2585%25A8%25E5%25B7%25BB)
+東映ビデオ スラムダンク Blu-ray Collection 全5巻セット

@@ -24,12 +24,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-手塚治虫原作、りんたろう監督、[大友克洋](/blog/akira-4k-bluray-review/)コンセプトワークによるSFアニメ映画『メトロポリス』は、観たことがなくてもその名を知る人は多いだろう。この伝説的傑作が4K ULTRA HD [Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K%2520Blu-ray)としてリリースされた。
+手塚治虫原作、りんたろう監督、大友克洋コンセプトワークによるSFアニメ映画『メトロポリス』は、観たことがなくてもその名を知る人は多いだろう。この伝説的傑作が4K ULTRA HD Blu-rayとしてリリースされた。
 
 高精細な映像と音響で、人間とロボットが織りなす壮大な物語が鮮やかに蘇る。
 
 僕自身、何度も観てきた作品だが、今回の4Kリマスター版は想像を遥かに超える体験をもたらした。初めて観る人はもちろん、過去に観た人にも新たな発見がある。これは単なる高画質化ではない。作品の持つ魂そのものを現代に呼び起こす、紛れもない決定版だ。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -61,10 +60,9 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 古典SFアニメが4Kで蘇る衝撃体験
 
-『メトロポリス』は2001年に公開された作品だが、その映像美は今なお色褪せない。今回の4K ULTRA HD [Blu-ray](/blog/denno-coil-bluray-box/)は、まさにその映像表現の極致を追求したものだ。
+『メトロポリス』は2001年に公開された作品だが、その映像美は今なお色褪せない。今回の4K ULTRA HD Blu-rayは、まさにその映像表現の極致を追求したものだ。
 
 巨大な未来都市の描写、緻密なメカニック、そしてキャラクターたちの繊細な動き。これら全てが高精細な4K解像度で再構築されている。
 
@@ -76,7 +74,7 @@ sidebarProducts:
 
 りんたろう監督が描いたサイレント映画的な演出や、大友克洋のコンセプトワークによる巨大都市の有機的な構造が、これまで以上に鑑賞者の眼前に迫る。一枚の絵画のような深みと奥行きが、4Kによってさらに強化された印象だ。
 
-この没入感は、従来の[Blu-ray](/blog/kill-la-kill-bd-box/)やDVDでは味わえなかった体験だと言い切れる。
+この没入感は、従来のBlu-rayやDVDでは味わえなかった体験だと言い切れる。
 
 ## 普遍的な問いを投げかける物語の深層
 
@@ -90,7 +88,7 @@ sidebarProducts:
 
 この奇跡的なコラボレーションが、未来の社会構造やAIとの共存、そして人間のエゴという重いテーマを、観る者にストレートに投げかけてくるのだ。
 
-[メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AD%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B9%25204K)
+メトロポリス 4K ULTRA HD Blu-ray & Blu-ray Disc
 
 ## 最高の視聴環境を整えるまでのちょっとした壁
 

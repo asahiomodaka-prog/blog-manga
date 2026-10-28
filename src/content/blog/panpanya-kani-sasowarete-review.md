@@ -26,8 +26,7 @@ panpanya作品『蟹に誘われて』は、一見すると穏やかな日常の
 
 この一冊は、panpanya氏の魅力を知る上で非常にコストパフォーマンスが高い。独特の作風が凝縮されており、読み手の想像力を刺激する仕掛けが随所に散りばめられている。
 
-[蟹に誘われて](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt33086038%2F&af_id=DMMaria-999&ch=api)
-
+蟹に誘われて
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -58,7 +57,6 @@ panpanya作品『蟹に誘われて』は、一見すると穏やかな日常の
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 『蟹に誘われて』：日常を侵食する異質さが光るpanpanyaの魅力
 

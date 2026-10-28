@@ -2,7 +2,7 @@
 title: 『綿の国星』劇場版アニメが描く猫と人間の絆 心温まる不朽の名作を
 description: 大島弓子原作の劇場版アニメ『綿の国星』。猫の視点から人間社会と愛情を繊細に描いた本作を鑑賞した体験から、その深い魅力と普遍的なテーマを解説。550円で手軽に鑑賞できるコストパフォーマンスにも注目する。
 pubDate: '2026-09-08'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk14400/b600dsgk14400pl.jpg'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b600dsgk14400/b600dsgk14400pl.jpg
 genre: manga
 mediaType: comic
 faq:
@@ -18,20 +18,8 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b371bhkss00215/b371bhkss00215pl.jpg
   price: 570
   microCopy: 詳細を見る
-- title: キャットニップ
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F724887%2Fb600dsgk14400%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk14400/b600dsgk14400pl.jpg
-  price: 1287
-  microCopy: 詳細を見る
-- title: ちびねこ絵本
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F576289%2Fb371dhkss02163%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b371dhkss02163/b371dhkss02163pl.jpg
-  price: 1034
-  microCopy: 詳細を見る
 heroImages:
-- https://ebook-assets.dmm.com/digital/e-book/b371bhkss00215/b371bhkss00215pl.jpg
 - https://ebook-assets.dmm.com/digital/e-book/b600dsgk14400/b600dsgk14400pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b371dhkss02163/b371dhkss02163pl.jpg
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -39,7 +27,6 @@ heroImages:
 人間と猫、異なる種族の間に芽生える深い愛情と成長を描いた劇場版アニメ『綿の国星』。この作品は、日々の喧騒から離れて、心温まる物語に浸りたいと願う人にこそ観てほしい。DMMTVで手軽に視聴できる本作は、その繊細な世界観と普遍的なテーマで、観る者の心に静かな感動をもたらすだろう。
 
 私自身、この作品をDMMTVで視聴し、その純粋な魅力に改めて気づかされた。観終わった後には、きっと優しい気持ちに包まれるはずだ。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -71,7 +58,6 @@ heroImages:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 猫の目から見た人間世界：『綿の国星』の普遍的な魅力
 
 『綿の国星』は、漫画家・大島弓子の同名傑作を原作とした劇場版アニメだ。主人公は、捨て猫でありながら「いつか人間になれる」と信じる、純粋で好奇心旺盛な子猫のチビ猫。彼女が人間の青年・須和野時夫のもとで暮らし始め、さまざまな感情を経験していく物語である。
@@ -80,7 +66,7 @@ heroImages:
 
 DMMTVでは、この感動的な作品をわずか550円で視聴できる。古き良きアニメーションの良さに触れながら、現代社会にも通じる普遍的なテーマを再認識できる貴重な機会になるだろう。
 
-[綿の国星](https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dqbht5kaa66mekz7yd834hi84r%26season%3Dqbht5kaa66mekz7yd834hi84r&af_id=DMMaria-999&ch=api)
+綿の国星
 
 ## 世代を超えて心揺さぶるストーリーとテーマ
 

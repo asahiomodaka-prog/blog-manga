@@ -2,7 +2,7 @@
 title: 『楽園殺し』はなぜ心を掴む？ 緻密な世界構造と哲学を深掘り
 description: 『楽園殺し』は、SFとファンタジーが融合した唯一無二の物語。緻密な世界観と哲学的な問いかけが織りなす構造美を深掘りし、その核心的魅力をレビューします。
 pubDate: '2026-09-12'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600dsgk27878/b600dsgk27878pl.jpg'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b600dsgk27878/b600dsgk27878pl.jpg
 genre: manga
 mediaType: comic
 tags:
@@ -20,20 +20,8 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk27878/b600dsgk27878pl.jpg
   price: 1001
   microCopy: 詳細を見る
-- title: 貘
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4099936%2Fb600dsgk15966%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk15966/b600dsgk15966pl.jpg
-  price: 979
-  microCopy: 詳細を見る
-- title: 大ダーク 9
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07554651%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://pics.dmm.com/mono/book/comic/bkt07554651/bkt07554651pl.jpg
-  price: 1100
-  microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600dsgk27878/b600dsgk27878pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b600dsgk15966/b600dsgk15966pl.jpg
-- https://pics.dmm.com/mono/book/comic/bkt07554651/bkt07554651pl.jpg
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -41,7 +29,6 @@ heroImages:
 『楽園殺し』は、単なるSFファンタジーではない。緻密に練られた世界観と、人間の本質に迫る哲学的な問いかけが融合した、まさに「構造の美」を感じさせる作品だ。物語の骨格から細部に至るまで、思考を刺激する仕掛けが随所に散りばめられている。
 
 僕のような、物語の整合性や伏線の回収にこだわりを持つ読者には、ぜひ一度読んでほしい。この作品は、表面的な面白さだけでなく、その裏側に隠された深いテーマを考察する喜びを与えてくれる。作り込まれた世界で知的好奇心を満たしたい、そんなあなたにうってつけの一冊だ。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -73,7 +60,6 @@ heroImages:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 閉鎖された「楽園」で解き明かす物語の構造美
 
 『楽園殺し』は、呂暇郁夫先生が紡ぎ出し、ろるあ先生が彩るSFファンタジー作品だ。DMMブックスの文芸・ラノベフロアで配信されている。物語の舞台は、外界から隔絶された「楽園」と呼ばれる場所。
@@ -90,7 +76,7 @@ heroImages:
 
 特に印象的なのは、物語の節目で提示される情報の出し方だ。まるでパズルのピースが少しずつ嵌まっていくように、世界の真実が徐々に明らかになっていく。この情報開示のタイミングと構成が絶妙で、読者の考察心を掻き立てる。物語全体の「構造」が、読者の体験をデザインしているかのようだ。
 
-[楽園殺し](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&af_id=DMMaria-999&ch=api)
+楽園殺し
 
 👉 DMM TVで30日間無料体験してみる
 
@@ -104,4 +90,4 @@ heroImages:
 
 ## 賢く読破するための購読ガイド
 
-『楽園殺し』は現在、DMMブックスで配信されている。[電子書籍](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)の利点は、いつでもどこでも手軽に読み始められることだ。
+『楽園殺し』は現在、DMMブックスで配信されている。電子書籍の利点は、いつでもどこでも手軽に読み始められることだ。

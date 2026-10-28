@@ -1,39 +1,27 @@
 ---
-title: '五十嵐大介作品集「ウムヴェルト」異形の世界に潜む思考の深淵'
-description: '五十嵐大介作品集「ウムヴェルト」の魅力を徹底解剖。緻密な描線、深いテーマ、構図の意図から、読者の知的好奇心を刺激する読書体験を深掘り解説。'
+title: 五十嵐大介作品集「ウムヴェルト」異形の世界に潜む思考の深淵
+description: 五十嵐大介作品集「ウムヴェルト」の魅力を徹底解剖。緻密な描線、深いテーマ、構図の意図から、読者の知的好奇心を刺激する読書体験を深掘り解説。
 pubDate: '2026-10-11'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900qkds02196/b900qkds02196pl.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b900qkds02196/b900qkds02196pl.jpg
+genre: manga
+mediaType: comic
 heroImages:
-  - 'https://ebook-assets.dmm.com/digital/e-book/b900qkds02196/b900qkds02196pl.jpg'
-  - 'https://ebook-assets.dmm.com/digital/e-book/b900lkds04078/b900lkds04078pl.jpg'
-  - 'https://pics.dmm.com/mono/movie/foreign/n_1058tced4714/n_1058tced4714pl.jpg'
+- https://ebook-assets.dmm.com/digital/e-book/b900qkds02196/b900qkds02196pl.jpg
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: '五十嵐大介の作品は初めてだが、ついていけるか？'
-    answer: '彼の作品は絵柄も世界観も非常に独特なので、まずはDMMブックスの試し読みで数ページ読んでみることをおすすめする。そこで感覚的に「面白い」と感じられれば、きっと深く楽しめるだろう。'
-  - question: '「ウムヴェルト」は短編集とあるが、収録作はそれぞれ繋がっているのか？'
-    answer: '各短編は独立した物語だが、人間と自然、異質なものとの共生、生命の変容といった、五十嵐大介作品に通底する普遍的なテーマで繋がっている。それぞれ異なる視点から同じような問いを投げかけてくるだろう。'
-  - question: '読み終わった後、どんな感情になることが多い？'
-    answer: '明確なハッピーエンドや答えが示されることは少ない。むしろ、世界の奥深さや生命の不可思議さについて深く考えさせられ、静かな興奮と、世界に対する新たな視点を得られるような読後感が残ることが多い。'
+- question: 五十嵐大介の作品は初めてだが、ついていけるか？
+  answer: 彼の作品は絵柄も世界観も非常に独特なので、まずはDMMブックスの試し読みで数ページ読んでみることをおすすめする。そこで感覚的に「面白い」と感じられれば、きっと深く楽しめるだろう。
+- question: 「ウムヴェルト」は短編集とあるが、収録作はそれぞれ繋がっているのか？
+  answer: 各短編は独立した物語だが、人間と自然、異質なものとの共生、生命の変容といった、五十嵐大介作品に通底する普遍的なテーマで繋がっている。それぞれ異なる視点から同じような問いを投げかけてくるだろう。
+- question: 読み終わった後、どんな感情になることが多い？
+  answer: 明確なハッピーエンドや答えが示されることは少ない。むしろ、世界の奥深さや生命の不可思議さについて深く考えさせられ、静かな興奮と、世界に対する新たな視点を得られるような読後感が残ることが多い。
 sidebarProducts:
-  - title: 'ウムヴェルト 五十嵐大介作品集'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F717839%2Fb900qkds02196%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900qkds02196/b900qkds02196pl.jpg'
-    price: 792
-    microCopy: '詳細を見る'
-  - title: 'リトル・フォレスト'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102461%2Fb900lkds04078%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900lkds04078/b900lkds04078pl.jpg'
-    price: 1045
-    microCopy: '詳細を見る'
-  - title: 'リトル・フォレスト 春夏秋冬'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_1058tced4714%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/foreign/n_1058tced4714/n_1058tced4714pl.jpg'
-    price: 4012
-    microCopy: '詳細を見る'
+- title: ウムヴェルト 五十嵐大介作品集
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F717839%2Fb900qkds02196%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900qkds02196/b900qkds02196pl.jpg
+  price: 792
+  microCopy: 詳細を見る
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -42,8 +30,7 @@ sidebarProducts:
 
 既成概念にとらわれず、**思考の深淵に踏み込みたい読者**にこそ強くおすすめしたい一冊だ。緻密な描線が織りなす独特な世界観に触れれば、日常の風景すら違って見えるようになるかもしれない。
 
-[ウムヴェルト 五十嵐大介作品集](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F717839%2Fb900qkds02196%2F&af_id=DMMaria-999&ch=api)
-
+ウムヴェルト 五十嵐大介作品集
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -74,7 +61,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 作者の描線とコマ割りの思考が深掘りする物語
 
@@ -118,7 +104,7 @@ sidebarProducts:
 
 ## 紙か電子か？五十嵐大介作品を味わい尽くす媒体選び
 
-五十嵐大介の作品は、その緻密な描線と独特なコマ割りから、媒体選びも重要になる。ここでは、紙の単行本と[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)のメリット・デメリットを比較してみた。
+五十嵐大介の作品は、その緻密な描線と独特なコマ割りから、媒体選びも重要になる。ここでは、紙の単行本と電子書籍のメリット・デメリットを比較してみた。
 
 | 媒体タイプ | メリット | デメリット |
 | :--------- | :------------------------------------------- | :------------------------------------------------------- |
@@ -161,7 +147,7 @@ DMMブックスでは、しばしば漫画のセールが開催されること�
 
 現実世界を歩く中で、ふと彼の描いた異形の風景や生命の営みを思い出し、**日常の見え方が変わるような読後感**は、他の作品ではなかなか味わえないものだ。
 
-[ウムヴェルト 五十嵐大介作品集](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F717839%2Fb900qkds02196%2F&af_id=DMMaria-999&ch=api)
+ウムヴェルト 五十嵐大介作品集
 
 ### よくある質問
 

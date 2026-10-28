@@ -26,10 +26,9 @@ sidebarProducts:
 
 僕は年間数百冊の漫画や関連書籍を読み漁る、生粋のホビーコレクターだ。中でもアニメ『機動戦士ガンダム』は僕の人生の一部と言っても過言ではない。
 
-その創造の深淵に触れることができると聞き、迷わず手に入れたのが[KADOKAWA 機動戦士ガンダム 記録全集](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%2598%25E9%258C%25B2%25E5%2585%25A8%25E9%259B%2586%2520%25E5%25BE%25A9%25E5%2588%25BB%25E7%2589%2588%2520%25E5%2585%25A85%25E5%25B7%25BB)だ。
+その創造の深淵に触れることができると聞き、迷わず手に入れたのがKADOKAWA 機動戦士ガンダム 記録全集だ。
 
 この全集は、初代ガンダムがどのように生まれ、形作られていったかを克明に記録した資料集である。アニメーションの制作過程や、その背景にあるクリエイターたちの思考に興味がある人には、まさに「教科書」と呼べる一冊となるだろう。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -61,10 +60,9 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## ガンダムの創造現場へ誘う、深淵なる記録集
 
-この[KADOKAWA 機動戦士ガンダム 記録全集](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%2598%25E9%258C%25B2%25E5%2585%25A8%25E9%259B%2586%2520%25E5%25BE%25A9%25E5%2588%25B6%25E7%2589%2588%2520%25E5%2585%25A85%25E5%25B7%25BB)は、まさにアニメ制作の裏側を丸ごと詰め込んだ宝箱だ。設定画、原画、絵コンテ、キャラクターやメカニックのデザイン画まで、膨大な資料が復刻されている。
+このKADOKAWA 機動戦士ガンダム 記録全集は、まさにアニメ制作の裏側を丸ごと詰め込んだ宝箱だ。設定画、原画、絵コンテ、キャラクターやメカニックのデザイン画まで、膨大な資料が復刻されている。
 
 ページをめくるたびに、あの名シーンやキャラクターたちが、どのように生み出されたのかを追体験できる。
 

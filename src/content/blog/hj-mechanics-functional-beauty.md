@@ -42,8 +42,7 @@ sidebarProducts:
 
 この書籍は、SF作品に登場するメカニックの裏側にある技術的考察や、現実の宇宙開発で培われた機能美の真髄を知りたい人に強く刺さるだろう。僕のようなホビーコレクターにとって、**創作物の背景にあるロジックを深掘りできる、まさに知的刺激の宝庫**だ。
 
-[HJメカニクス](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F826563%2Fb471abyjp03569%2F&af_id=DMMaria-999&ch=api)
-
+HJメカニクス
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -74,7 +73,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## なぜこのデザインなのか？メカニックの機能と美の設計思考を読み解く
 
@@ -120,7 +118,7 @@ sidebarProducts:
 
 ## 紙と電子、用途で選ぶ「HJメカニクス」の読み方
 
-「HJメカニクス」を読む媒体を選ぶ際、それぞれのメリット・デメリットを比較してみた。僕自身は[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)版をDMMブックスで利用しているが、紙媒体にもそれぞれの良さがある。
+「HJメカニクス」を読む媒体を選ぶ際、それぞれのメリット・デメリットを比較してみた。僕自身は電子書籍版をDMMブックスで利用しているが、紙媒体にもそれぞれの良さがある。
 
 | 項目         | 電子書籍（DMMブックス）               | 紙の書籍                              |
 | :----------- | :------------------------------------ | :------------------------------------ |
@@ -150,7 +148,7 @@ sidebarProducts:
 
 すると、**そのデザインの背景にある思想や技術的理由**が見えてきて、作品をより多角的に楽しめるようになる。僕のSF作品に対する見方が、この一冊で大きく変わったと感じている。
 
-[HJメカニクス](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F826563%2Fb471abyjp03569%2F&af_id=DMMaria-999&ch=api)
+HJメカニクス
 
 ## スペック表と僕が感じた「HJメカニクス」の奥深さ
 

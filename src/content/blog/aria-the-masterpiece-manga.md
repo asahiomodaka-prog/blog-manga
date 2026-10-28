@@ -2,7 +2,7 @@
 title: ARIA完全版、なぜ心が浄化される？日常に疲れたあなたへ贈る決定版
 description: 日常に安らぎを。漫画『ARIA完全版 ［ARIA The MASTERPIECE］』は、水の惑星でウンディーネを目指す少女たちの穏やかな日常を描き、深い感動と心の充足を与えます。DMMで2200円。現代社会の喧騒に疲れた心を癒し、人生を見つめ直すきっかけを求める大人に。
 pubDate: '2026-08-27'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b132amggd06130/b132amggd06130pl.jpg'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b132amggd06130/b132amggd06130pl.jpg
 genre: manga
 mediaType: comic
 faq:
@@ -18,24 +18,11 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b132amggd06130/b132amggd06130pl.jpg
   price: 2200
   microCopy: 詳細を見る
-- title: ハヤテのごとく！ 完全版
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4332344%2Fb600zsgk52884%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600zsgk52884/b600zsgk52884pl.jpg
-  price: 1980
-  microCopy: 詳細を見る
-- title: ガンニバル 完全版
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6069831%2Fb213cnhbg11904%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b213cnhbg11904/b213cnhbg11904pl.jpg
-  price: 1100
-  microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b132amggd06130/b132amggd06130pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b600zsgk52884/b600zsgk52884pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b213cnhbg11904/b213cnhbg11904pl.jpg
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -67,14 +54,13 @@ heroImages:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 日常を彩る“ささやかな奇跡”──漫画『ARIA』が贈る、心洗われる水の惑星の物語
 
 日々の喧騒に追われ、心が少し疲れていないだろうか。忙しない現代社会で忘れがちな心の安らぎや、人生を見つめ直すきっかけを求めているなら、漫画『ARIA』がその答えとなるだろう。
 
 水の惑星アクア、美しい未来都市ネオ・ヴェネツィアを舞台に、水の案内人「ウンディーネ」を目指す少女たちの日常を描いたこの作品は、読者に穏やかな感動と深い心の充足をもたらす。複雑な人間関係や刺激的な展開を期待する人には物足りないかもしれないが、詩的な描写と温かい交流に触れたい、大人になった今だからこそ感じる心の安らぎを求める人には、まさに読むべき一作だ。
 
-[ARIA完全版 ［ARIA The MASTERPIECE］](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4064246%2Fb132amggd06130%2F&af_id=DMMaria-999&ch=api)
+ARIA完全版 ［ARIA The MASTERPIECE］
 
 ## アクアを巡る穏やかな旅路：物語の舞台とプロローグ
 
@@ -166,7 +152,7 @@ heroImages:
 
 ## 『ARIA』をお得に楽しむためのガイド：完全版の魅力とDMMブックス活用術
 
-『ARIA』の世界に足を踏み入れるなら、ぜひ[ARIA完全版 ［ARIA The MASTERPIECE］](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4064246%2Fb132amggd06130%2F&af_id=DMMaria-999&ch=api)を選ぶことを強く勧めたい。この完全版は、通常のコミックスよりも大判サイズで制作されており、天野こずえ先生が描く繊細な描線や、水彩画のように美しいカラーイラストの魅力を最大限に堪能できる。
+『ARIA』の世界に足を踏み入れるなら、ぜひARIA完全版 ［ARIA The MASTERPIECE］を選ぶことを強く勧めたい。この完全版は、通常のコミックスよりも大判サイズで制作されており、天野こずえ先生が描く繊細な描線や、水彩画のように美しいカラーイラストの魅力を最大限に堪能できる。
 
 特に、カラーページが通常版よりも多く収録されており、その細かな色彩のニュアンスや、光の表現の豊かさは、見ているだけで心が満たされるほどの美しさだ。通常版を読んだことがある人も、完全版で改めてページをめくると、まるで新しい発見があるかのような感動を覚えるだろう。
 

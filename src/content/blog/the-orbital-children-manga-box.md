@@ -30,7 +30,6 @@ heroImages:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -61,14 +60,13 @@ heroImages:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 宇宙への夢とテクノロジーが詰まった「地球外少年少女 Collectors BOX」が提供する体験価値
 
 磯光雄監督が手掛けたSFアニメーション「地球外少年少女」は、緻密な世界観と深いテーマで多くのSFファンを魅了した。この「地球外少年少女 Collectors BOX」は、単なる映像作品のパッケージではない。
 
 作品世界への深い没入、最高の映像・音響体験、そして物語が問いかける本質的なテーマへの再考察を可能にする、ファン垂涎のコレクターズアイテムだ。作品を最高のクオリティで所有し、その真髄を深く味わいたいと願うアニメファンにとって、本作のコレクターズBOXは、価格以上の価値を提供する決定版となるだろう。
 
-[地球外少年少女 Collectors BOX](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyxa14027%2F&af_id=DMMaria-999&ch=api)
+地球外少年少女 Collectors BOX
 
 ## 映像と音響で味わう磯光雄ワールド：コレクターズBOXの仕様とこだわり
 

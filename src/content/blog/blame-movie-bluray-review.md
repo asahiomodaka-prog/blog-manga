@@ -24,12 +24,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-弐瓶勉作品の退廃的で硬質な世界観を愛する僕にとって、劇場アニメ「BLAME!」の映像化はまさに待望だった。特にこの初回限定版[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray)（KIXA-90769）は、単なる本編ディスクに留まらない。
+弐瓶勉作品の退廃的で硬質な世界観を愛する僕にとって、劇場アニメ「BLAME!」の映像化はまさに待望だった。特にこの初回限定版Blu-ray（KIXA-90769）は、単なる本編ディスクに留まらない。
 
 高精細な映像と圧倒的な音響、そして豪華な封入特典が、あの無限に広がる巨大都市の深淵へと僕を再び誘い込む、ファン垂涎のコレクターズアイテムだ。
 
-BLAME [Blu-ray](/blog/kill-la-kill-bd-box/) KIXA-90769 キングレコード](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBLAME%2520%25E5%258A%2587%25E5%25A0%25B4%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E5%2588%259D%25E5%259B%259E%25E5%259B%259B%25E5%25AE%259A%25E7%2589%2588%2520Blu-ray)
-
+BLAME Blu-ray KIXA-90769 キングレコード](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBLAME%2520%25E5%258A%2587%25E5%25A0%25B4%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E5%2588%259D%25E5%259B%259E%25E5%259B%259B%25E5%25AE%259A%25E7%2589%2588%2520Blu-ray)
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -60,7 +59,6 @@ BLAME [Blu-ray](/blog/kill-la-kill-bd-box/) KIXA-90769 キングレコード](ht
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## スクリーンに映し出された巨大都市の音と光
 
@@ -129,7 +127,7 @@ BLAME!劇場版初回限定版Blu-rayのパッケージは、そのデザイン�
 
 これは、作品の世界観をあらゆる角度から堪能し、自分のコレクションとして大切にしたいと願う人に向けて作られたパッケージだ。弐瓶勉作品特有の無機質で圧倒的なスケール、そして哲学的な問いかけに魅力を感じるなら、このBlu-rayはあなたのSFコレクションの中心を飾る一品になるだろう。
 
-[BLAME Blu-ray KIXA-90769 キングレコード](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBLAME%2520%25E5%258A%2587%25E5%25A0%25B4%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E5%2588%259D%25E5%259B%259B%25E5%25AE%259A%25E7%2589%2588%2520Blu-ray)
+BLAME Blu-ray KIXA-90769 キングレコード
 
 ### よくある質問
 

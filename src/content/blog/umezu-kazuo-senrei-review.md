@@ -2,7 +2,7 @@
 title: 楳図かずお『洗礼』深掘りレビュー：美貌と恐怖が交錯する人間ドラマの核心
 description: 楳図かずおの不朽の名作『洗礼』は、ホラーの皮を被った人間ドラマの金字塔だ。美貌への執着が招く狂気と、母娘の愛憎が織りなす普遍的なテーマを深掘りし、その読後の深い余韻を解説する。
 pubDate: '2026-09-29'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
 genre: manga
 mediaType: comic
 tags:
@@ -20,30 +20,17 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
   price: 1210
   microCopy: 詳細を見る
-- title: マザー
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F714913%2Fb600rsgk04908%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600rsgk04908/b600rsgk04908pl.jpg
-  price: 539
-  microCopy: 詳細を見る
-- title: 洗礼 3
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk308_3078030%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8717/2000005678717.jpg?_ex=600x600
-  price: 1466
-  microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b600rsgk04908/b600rsgk04908pl.jpg
-- https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8717/2000005678717.jpg?_ex=600x600
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 楳図かずおの漫画『洗礼』は、単なるホラー作品とは一線を画す。美貌への異常な執着が引き起こす狂気と、母と娘のねじれた愛憎を描き出した、深遠な人間ドラマの金字塔だ。
 
-読者に強烈な心理的衝撃を与え、深い考察を促すこの作品は、人間の本質に迫る物語を求める人にこそ読んでもらいたい。全1巻で完結しているため非常に読みやすく、[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)サービスDMMブックスなら、たった1,210円でこの濃厚な読書体験が手に入る。
+読者に強烈な心理的衝撃を与え、深い考察を促すこの作品は、人間の本質に迫る物語を求める人にこそ読んでもらいたい。全1巻で完結しているため非常に読みやすく、電子書籍サービスDMMブックスなら、たった1,210円でこの濃厚な読書体験が手に入る。
 
-[洗礼](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F772432%2Fb600tsgk00167%2F&af_id=DMMaria-999&ch=api)
-
+洗礼
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -74,7 +61,6 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## ページをめくる指が止まらない恐怖の演出術
 

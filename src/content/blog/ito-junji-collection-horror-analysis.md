@@ -1,47 +1,36 @@
 ---
-title: '伊藤潤二コレクションはホラー漫画の常識をどう覆したか？深淵なる恐怖の構造を読み解く'
-description: '伊藤潤二コレクションは、単なるホラーではない。人間の心理、社会の歪みを映し出す深淵な作品群だ。なぜ彼の漫画はこれほど深く心に刻まれるのか、その構造と魅力を徹底的に深掘りする。'
+title: 伊藤潤二コレクションはホラー漫画の常識をどう覆したか？深淵なる恐怖の構造を読み解く
+description: 伊藤潤二コレクションは、単なるホラーではない。人間の心理、社会の歪みを映し出す深淵な作品群だ。なぜ彼の漫画はこれほど深く心に刻まれるのか、その構造と魅力を徹底的に深掘りする。
 pubDate: '2026-10-05'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0789/9784023320789_1_2.jpg?_ex=600x600'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0789/9784023320789_1_2.jpg?_ex=600x600
+genre: manga
+mediaType: comic
 heroImages:
-  - 'https://ebook-assets.dmm.com/digital/e-book/b478amosn02808/b478amosn02808pl.jpg'
-  - 'https://ebook-assets.dmm.com/digital/e-book/b600ssgk04915/b600ssgk04915pl.jpg'
-  - 'https://pics.dmm.com/mono/movie/animation/n_666ansx3758/n_666ansx3758pl.jpg'
+- https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0789/9784023320789_1_2.jpg?_ex=600x600
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: '伊藤潤二作品はどこから読み始めるのがおすすめですか？'
-    answer: 'まずは代表作である『富江』シリーズや『うずまき』がとっつきやすいだろう。これらは彼の作風を象徴する作品だ。 DMMブックスで配信されている「伊藤潤二コレクション」は短編集なので、色々なテイストの作品を少しずつ試したいなら、ここから入るのも良い選択肢だ。'
-  - question: 'グロテスクな描写が苦手なのですが、それでも楽しめますか？'
-    answer: '彼の作品には、視覚的に刺激の強いグロテスクな描写や人体変形が含まれる。しかし、恐怖の本質は心理的な不快感や不条理性にあり、絵だけが全てではない。 とはいえ、血の描写なども頻繁に出てくるため、そうした表現が極端に苦手な場合は、注意が必要だ。'
-  - question: 'DMMブックスの電子書籍で読むメリットは何ですか？'
-    answer: 'DMMブックスの電子書籍は、物理的な収納スペースを必要とせず、スマートフォンやタブレットがあればいつでもどこでも手軽に読めるのが大きなメリットだ。特に、キャンペーンやセールを利用すれば、1冊110円というお手頃価格で、紙媒体よりもお得に購入できる場合が多い。 試し読みができる作品も多数あるため、購入前に内容を確認することも可能だ。'
+- question: 伊藤潤二作品はどこから読み始めるのがおすすめですか？
+  answer: まずは代表作である『富江』シリーズや『うずまき』がとっつきやすいだろう。これらは彼の作風を象徴する作品だ。 DMMブックスで配信されている「伊藤潤二コレクション」は短編集なので、色々なテイストの作品を少しずつ試したいなら、ここから入るのも良い選択肢だ。
+- question: グロテスクな描写が苦手なのですが、それでも楽しめますか？
+  answer: 彼の作品には、視覚的に刺激の強いグロテスクな描写や人体変形が含まれる。しかし、恐怖の本質は心理的な不快感や不条理性にあり、絵だけが全てではない。
+    とはいえ、血の描写なども頻繁に出てくるため、そうした表現が極端に苦手な場合は、注意が必要だ。
+- question: DMMブックスの電子書籍で読むメリットは何ですか？
+  answer: DMMブックスの電子書籍は、物理的な収納スペースを必要とせず、スマートフォンやタブレットがあればいつでもどこでも手軽に読めるのが大きなメリットだ。特に、キャンペーンやセールを利用すれば、1冊110円というお手頃価格で、紙媒体よりもお得に購入できる場合が多い。
+    試し読みができる作品も多数あるため、購入前に内容を確認することも可能だ。
 sidebarProducts:
-  - title: '伊藤潤二コレクション（単話）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F781408%2Fb478amosn02808%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b478amosn02808/b478amosn02808pl.jpg'
-    price: 110
-    microCopy: '詳細を見る'
-  - title: 'ギョ'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F770532%2Fb600ssgk04915%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600ssgk04915/b600ssgk04915pl.jpg'
-    price: 759
-    microCopy: '詳細を見る'
-  - title: 'アニメ文庫 ギョ （ブルーレイディスク）'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666ansx3758%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_666ansx3758/n_666ansx3758pl.jpg'
-    price: 5742
-    microCopy: '詳細を見る'
+- title: 伊藤潤二コレクション（単話）
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F781408%2Fb478amosn02808%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b478amosn02808/b478amosn02808pl.jpg
+  price: 110
+  microCopy: 詳細を見る
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 日常に潜む底知れない恐怖。その感覚をこれほどまでに鮮烈に、そして独創的に描き出す漫画家は伊藤潤二氏以外にいないだろう。彼の作品は、単なる怪談やグロテスクな表現に留まらず、人間の心理の深淵や社会の歪みを映し出す。
 
-[伊藤潤二コレクション](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F781408%2Fb478amosn02808%2F&af_id=DMMaria-999&ch=api)は、そうした彼の異色作群を凝縮した宝箱だ。既存のホラー表現に物足りなさを感じている人、あるいは芸術的な側面から恐怖という感情を深掘りしたい人には、まさにうってつけのコレクションと言える。
-
+伊藤潤二コレクションは、そうした彼の異色作群を凝縮した宝箱だ。既存のホラー表現に物足りなさを感じている人、あるいは芸術的な側面から恐怖という感情を深掘りしたい人には、まさにうってつけのコレクションと言える。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -72,7 +61,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 視覚と心理を揺さぶる伊藤潤二の作劇術：恐怖の構造を読み解く
 
@@ -120,7 +108,7 @@ sidebarProducts:
 
 これらの作品は、ホラーの奥深さを知りたい人、漫画表現の限界に挑戦したい人、そして日常に非日常の刺激を求める人にとって、かけがえのない体験となるだろう。例えば、通勤電車の中でスマホで読む際、普段見慣れた風景が、作品の狂気に侵食されるような独特の没入感を味わえる。
 
-DMMブックスのような[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)であれば、暗い部屋で一人、周囲を気にせず物語の深淵に没頭できるのは大きなメリットだ。
+DMMブックスのような電子書籍であれば、暗い部屋で一人、周囲を気にせず物語の深淵に没頭できるのは大きなメリットだ。
 
 | 項目 | 詳細 |
 | :--- | :--- |
@@ -132,7 +120,7 @@ DMMブックスのような[電子書籍](https://af.moshimo.com/af/c/click?a_id
 
 ## DMMブックスで深淵に触れる：お得な購読ガイドと初期費用シミュレーション
 
-[伊藤潤二コレクション](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F781408%2Fb478amosn02808%2F&af_id=DMMaria-999&ch=api)はDMMブックスで配信されており、価格はなんと1冊110円という驚きの設定だ。これは、彼の作品世界に気軽に触れる絶好の機会だろう。
+伊藤潤二コレクションはDMMブックスで配信されており、価格はなんと1冊110円という驚きの設定だ。これは、彼の作品世界に気軽に触れる絶好の機会だろう。
 
 例えば、「伊藤潤二コレクション」は様々な短編が収録されているため、複数の巻数を揃えても、紙媒体で買うよりも遥かに初期費用を抑えられる。
 

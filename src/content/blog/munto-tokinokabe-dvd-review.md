@@ -40,8 +40,7 @@ sidebarProducts:
 
 手元に置いて繰り返し鑑賞する価値のある一本だと断言できる。
 
-[MUNTO 時の壁をこえて](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_627bbba5480%2F&af_id=DMMaria-999&ch=api)
-
+MUNTO 時の壁をこえて
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -73,7 +72,6 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 異世界の色彩と心象風景が織りなす映像美
 本作がDVDとして提供する映像は、単なるアニメーションではない。それは**監督・堀川功氏の深い思考**と、京都アニメーションのこだわりが凝縮された「時空を超えた絵画」と表現できる。異世界「魔導世界」の壮麗な色彩と現実世界のモノクロームな対比は、**物語の根幹にあるテーマ**を視覚的に強調しているんだ。
 
@@ -104,7 +102,7 @@ sidebarProducts:
 👉 DMM TVで30日間無料体験してみる
 
 ## DVD、Blu-ray、配信：見るならどれがいい？メディア形式比較
-「MUNTO 時の壁をこえて」の鑑賞方法には、DVD（本商品）、[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray)、そして一部での配信サービスがある。それぞれに特徴があり、**何を選ぶかは視聴環境や重視する点**によって変わるんだ。
+「MUNTO 時の壁をこえて」の鑑賞方法には、DVD（本商品）、Blu-ray、そして一部での配信サービスがある。それぞれに特徴があり、**何を選ぶかは視聴環境や重視する点**によって変わるんだ。
 
 本商品はDVDだが、2012年にはBlu-ray版もリリースされている。画質や音質を最優先するならBlu-rayだが、DVDには手軽さや汎用性というメリットがある。僕がDVDを選んだのは、当時持っていたプレイヤーで気軽に鑑賞したかったからだ。
 
@@ -153,7 +151,7 @@ sidebarProducts:
 
 一時的な配信とは異なり、手元に実物を置くことで得られる**安心感と所有欲**は、コレクターにとっては何物にも代えがたいものがある。もしあなたが「MUNTO」シリーズのファンで、物語の真の結末を最高の形で手元に置いておきたいと考えるなら、このDVDは極めて**コストパフォーマンスの高い選択肢**となるだろう。
 
-[MUNTO 時の壁をこえて](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_627bbba5480%2F&af_id=DMMaria-999&ch=api)
+MUNTO 時の壁をこえて
 
 ### よくある質問
 **Q1: TVシリーズを見ていなくても楽しめますか？**

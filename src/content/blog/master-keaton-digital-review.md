@@ -45,10 +45,9 @@ sidebarProducts:
 歴史や世界の文化、人間の心理に深く踏み込んだ物語を求めている人に、心からおすすめしたい一作だ。
 
  
-異色の探偵、登場。[コミック](/blog/natsume-yuujinchou-manga-ranking/)界の至宝、完全版で再発掘！！
+異色の探偵、登場。コミック界の至宝、完全版で再発掘！！
  
 ※この作品は2011年〜2012年にカラー完全再録</p>
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -79,7 +78,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## キートンの知性で危機を乗り越える痛快さ：緻密なサスペンスの深層
 『MASTERキートン』の魅力は、主人公・平賀＝キートン・太一が、**圧倒的な知識と経験**を武器に難事件を解決していく過程にある。彼は考古学者、保険調査員、そして元SAS（英国特殊空挺部隊）のサバイバル教官という異色の経歴を持つ。この多面的な背景が、各エピソードに唯一無二の深みを与えている。
@@ -114,10 +112,10 @@ sidebarProducts:
 
 浦沢直樹の絵柄は非常に個性的で、独特の陰影や表情が物語の重厚感を高めている一方で、**好みが分かれる**点でもある。さらに、一話完結形式ではあるものの、ドナウ文明発掘というキートンの夢は物語全体の背景にあり、スピーディーな展開や明確な目標達成を求める読者には、物語の推進力が緩やかに感じられるかもしれない。
 
-[MASTERキートン 完全版 デジタルVer](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4185491%2Fb600bsgk08254%2F&af_id=DMMaria-999&ch=api)
+MASTERキートン 完全版 デジタルVer
 
 ## 紙か電子か？ 『MASTERキートン』のベストな読み方
-『MASTERキートン』は、紙の単行本、そして今回紹介するデジタル版（[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)）で楽しめる。それぞれの媒体には一長一短があるので、自分の読書スタイルに合わせて選ぶのが賢い方法だ。
+『MASTERキートン』は、紙の単行本、そして今回紹介するデジタル版（電子書籍）で楽しめる。それぞれの媒体には一長一短があるので、自分の読書スタイルに合わせて選ぶのが賢い方法だ。
 
 【表の見方のポイント】
 特に「携帯性・保管性」と「情報量」の項目に注目して、どの媒体が自分のライフスタイルに合っているか判断してほしい。
@@ -182,4 +180,4 @@ A3: 基本的に**1話完結形式**なので、各エピソードは独立性�
 
 デジタル版であれば、**全12巻をデバイス一つで持ち運べる**ため、通勤中や移動中の隙間時間でも、キートンの知的な冒険に没頭できる。この作品が、読者の日常に**知的な刺激と深い感動**をもたらすことは間違いないだろう。一生モノの教養漫画として、じっくりと味わい尽くしてほしい。
 
-[MASTERキートン 完全版 デジタルVer](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4185491%2Fb600bsgk08254%2F&af_id=DMMaria-999&ch=api)
+MASTERキートン 完全版 デジタルVer

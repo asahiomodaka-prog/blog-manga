@@ -2,7 +2,7 @@
 title: 藤子不二雄Aと西原理恵子の「人生ことわざ面白‘漫’辞」は、堅苦しいことわざのイメージを覆す唯一無二の書
 description: 藤子不二雄Aと西原理恵子が贈る「人生ことわざ面白‘漫’辞」は、古典のことわざを現代的な視点で漫画化。人生の酸いも甘いも噛み分けた二人の巨匠が、その独自の感性で言葉の深奥を抉り出す。ことわざの固定観念を打ち破りたい人に、ぜひ読んでほしい一冊だ。
 pubDate: '2026-09-14'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/07460193/bkvlkuaffkyvbrrt.jpg?_ex=600x600'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/07460193/bkvlkuaffkyvbrrt.jpg?_ex=600x600
 genre: manga
 mediaType: comic
 tags:
@@ -21,26 +21,15 @@ sidebarProducts:
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/07460193/bkvlkuaffkyvbrrt.jpg?_ex=600x600
   price: 550
   microCopy: DMMで今すぐ読む
-- title: まんが道
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102248%2Fb600osgk02887%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600osgk02887/b600osgk02887pl.jpg
-  price: 528
-  microCopy: DMMで詳細を見る
-- title: 「愛…しりそめし頃に…」
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F656513%2Fb600osgk02760%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600osgk02760/b600osgk02760pl.jpg
-  price: 759
-  microCopy: DMMで詳細を見る
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 ことわざって、なんだか堅苦しい。学校の授業やビジネス書で真面目に解説されても、なかなか頭に入ってこない。でも、もしそれが「漫画」になったらどうだろう？しかも、あの藤子不二雄A先生と西原理恵子先生のタッグで。
 
-[藤子不二雄A＆西原理恵子の人生ことわざ面白‘漫’辞](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F781913%2Fb600csgk06944%2F&af_id=DMMaria-999&ch=api)は、そんな常識を覆す一冊だ。堅苦しいはずのことわざが、二人の巨匠の筆にかかると、途端に生き生きとした人間ドラマに変わる。
+藤子不二雄A＆西原理恵子の人生ことわざ面白‘漫’辞は、そんな常識を覆す一冊だ。堅苦しいはずのことわざが、二人の巨匠の筆にかかると、途端に生き生きとした人間ドラマに変わる。
 
 人生の酸いも甘いも知る大人にこそ響く、深い知恵とユーモアが詰まっている。古典の言葉に現代的な視点と笑いを求める人に、最高の読書体験を提供するだろう。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -71,7 +60,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## ふたりの巨匠が描く、ことわざの新たな解釈
 
@@ -117,11 +105,11 @@ sidebarProducts:
 
 特定の哲学や価値観を押し付けるものではなく、読者自身がことわざの意味を考えるきっかけを与えてくれる。
 
-[藤子不二雄A＆西原理恵子の人生ことわざ面白‘漫’辞](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F781913%2Fb600csgk06944%2F&af_id=DMMaria-999&ch=api)は、そうした「面白さ」を理解できる人にこそ、真価を発揮する一冊だ。
+藤子不二雄A＆西原理恵子の人生ことわざ面白‘漫’辞は、そうした「面白さ」を理解できる人にこそ、真価を発揮する一冊だ。
 
 ## お得に手軽にことわざを楽しむ読書ガイド
 
-この作品は、全1巻完結の[電子書籍](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)としてDMMブックスで販売されている。そのため、全巻を揃えるという概念がなく、1冊購入すればすぐに読み始められるのが嬉しい。
+この作品は、全1巻完結の電子書籍としてDMMブックスで販売されている。そのため、全巻を揃えるという概念がなく、1冊購入すればすぐに読み始められるのが嬉しい。
 
 価格は1,100円だ。
 

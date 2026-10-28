@@ -1,49 +1,36 @@
 ---
-title: '『ヘルハウンド』皆川亮二が描く心理戦：精密な構図とサスペンスの深層'
-description: '皆川亮二の最新作『ヘルハウンド』は、緻密な作画と伏線が光るミステリー・サスペンス。作者の構図の意図、キャラクターの心理に深く迫り、知的刺激に満ちた読書体験を詳細レビューする。'
+title: 『ヘルハウンド』皆川亮二が描く心理戦：精密な構図とサスペンスの深層
+description: 皆川亮二の最新作『ヘルハウンド』は、緻密な作画と伏線が光るミステリー・サスペンス。作者の構図の意図、キャラクターの心理に深く迫り、知的刺激に満ちた読書体験を詳細レビューする。
 pubDate: '2026-10-09'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds54317/b900zkds54317pl.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b900zkds54317/b900zkds54317pl.jpg
+genre: manga
+mediaType: comic
 heroImages:
-  - 'https://ebook-assets.dmm.com/digital/e-book/b900zkds54317/b900zkds54317pl.jpg'
-  - 'https://ebook-assets.dmm.com/digital/e-book/b600csgk01469/b600csgk01469pl.jpg'
-  - 'https://ebook-assets.dmm.com/digital/e-book/b600zsgk02967/b600zsgk02967pl.jpg'
+- https://ebook-assets.dmm.com/digital/e-book/b900zkds54317/b900zkds54317pl.jpg
 tags:
-  - 'angle:review'
+- angle:review
 faq:
-  - question: '『ヘルハウンド』は完結していますか？'
-    answer: '現在（2024年6月時点）はコミックス第2巻までが発売されており、第3巻が予約受付中です。物語はまだ完結しておらず、今後の展開が期待されます。'
-  - question: '皆川亮二先生の作品を読んだことがなくても楽しめますか？'
-    answer: 'はい、問題なく楽しめます。過去作との直接的な繋がりはないため、『ヘルハウンド』から読み始めても物語の世界にスムーズに入り込めます。 ただし、皆川先生特有の緻密な描写と骨太なストーリーは、人によっては慣れるまで時間がかかるかもしれません。'
-  - question: '物語はどのくらいのペースで進みますか？'
-    answer: 'ミステリー・サスペンスのジャンルであるため、序盤は謎が提示され、じわじわと伏線が張られていく展開です。キャラクターの心情描写も深く掘り下げられるため、スピーディーな展開を期待するよりは、じっくりと物語の深淵を味わうタイプの人におすすめです。'
+- question: 『ヘルハウンド』は完結していますか？
+  answer: 現在（2024年6月時点）はコミックス第2巻までが発売されており、第3巻が予約受付中です。物語はまだ完結しておらず、今後の展開が期待されます。
+- question: 皆川亮二先生の作品を読んだことがなくても楽しめますか？
+  answer: はい、問題なく楽しめます。過去作との直接的な繋がりはないため、『ヘルハウンド』から読み始めても物語の世界にスムーズに入り込めます。 ただし、皆川先生特有の緻密な描写と骨太なストーリーは、人によっては慣れるまで時間がかかるかもしれません。
+- question: 物語はどのくらいのペースで進みますか？
+  answer: ミステリー・サスペンスのジャンルであるため、序盤は謎が提示され、じわじわと伏線が張られていく展開です。キャラクターの心情描写も深く掘り下げられるため、スピーディーな展開を期待するよりは、じっくりと物語の深淵を味わうタイプの人におすすめです。
 sidebarProducts:
-  - title: 'ヘルハウンド'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4253158%2Fb900zkds54317%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900zkds54317/b900zkds54317pl.jpg'
-    price: 979
-    microCopy: '詳細を見る'
-  - title: 'D‐LIVE（ドライブ）！！'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F100194%2Fb600csgk01469%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600csgk01469/b600csgk01469pl.jpg'
-    price: 583
-    microCopy: '詳細を見る'
-  - title: '転送者 皆川亮二短編集'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4071103%2Fb600zsgk02967%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600zsgk02967/b600zsgk02967pl.jpg'
-    price: 770
-    microCopy: '詳細を見る'
+- title: ヘルハウンド
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4253158%2Fb900zkds54317%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900zkds54317/b900zkds54317pl.jpg
+  price: 979
+  microCopy: 詳細を見る
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-[皆川亮二](/blog/minagawa-ryoji-peace-maker-manga-ranking/)先生の新作『ヘルハウンド』は、単なるミステリー・サスペンス漫画ではない。それは、練り上げられた構成と息をのむような心理戦が特徴の、まさに「読むドラマ」だ。
+皆川亮二先生の新作『ヘルハウンド』は、単なるミステリー・サスペンス漫画ではない。それは、練り上げられた構成と息をのむような心理戦が特徴の、まさに「読むドラマ」だ。
 
 複雑な人間関係と予測不能な展開に心を奪われたい読者、緻密な作画に宿る作者の意図を深掘りしたい漫画ファンにこそ、この作品を手に取ってみてほしい。
 
-[ヘルハウンド](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4253158%2Fb900zkds54317%2F&af_id=DMMaria-999&ch=api)
-
+ヘルハウンド
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -74,7 +61,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 緻密な作画が誘う、張り詰めた心理の迷宮
 
@@ -131,7 +117,7 @@ sidebarProducts:
 
 例えば、既刊2巻を揃える場合、総額は979円×2冊で**1,958円**となる。これは、単行本の価格としては標準的な水準だ。
 
-[電子書籍](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D)なので、購入後すぐに読み始められる手軽さも魅力である。
+電子書籍なので、購入後すぐに読み始められる手軽さも魅力である。
 
 | 項目 | 詳細 |
 | :--- | :--- |
@@ -147,7 +133,7 @@ sidebarProducts:
 
 物語の緻密な描写と張り詰めた心理戦は、読者の知的好奇心を存分に刺激し、現実世界の問題を異なる視点から捉え直すきっかけを与えてくれるだろう。日々の喧騒から離れ、じっくりと物語の世界に浸りたい。
 
-そんな知的探求心を持つあなたにとって、[ヘルハウンド](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4253158%2Fb900zkds54317%2F&af_id=DMMaria-999&ch=api)は、きっと忘れがたい読書体験となるはずだ。
+そんな知的探求心を持つあなたにとって、ヘルハウンドは、きっと忘れがたい読書体験となるはずだ。
 
 ### よくある質問
 

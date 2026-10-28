@@ -43,8 +43,7 @@ sidebarProducts:
 
 僕自身、漫画コレクターとして年間数百冊の漫画を読み漁るが、この切り絵セレクションは、作品への理解と愛情をさらに深めてくれる、唯一無二のホビーアイテムだと断言する。伊藤潤二のファンであれば、間違いなく知的好奇心を刺激される一冊だ。
 
-[伊藤潤二×garden切り絵セレクション](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34850319%2F&af_id=DMMaria-999&ch=api)
-
+伊藤潤二×garden切り絵セレクション
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -75,7 +74,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 伊藤潤二作品の「美と恐怖」を自らの手で切り取る、その耽美な体験
 
@@ -150,7 +148,7 @@ sidebarProducts:
 | :--- | :--- |
 | 価格 | 1,870円 |
 | サービス | 通販 |
-| フロア | 本・[コミック](/blog/natsume-yuujinchou-manga-ranking/) |
+| フロア | 本・コミック |
 | is_hobby | True |
 | メーカー/出版社 | 朝日新聞出版 |
 
@@ -162,7 +160,7 @@ sidebarProducts:
 
 この本は、伊藤潤二作品の熱烈なファンはもちろん、何か新しい集中できる趣味を探している人にもおすすめだ。自分の手で作品を創り上げる喜びは、きっと日々の生活に静かな刺激と達成感をもたらしてくれるだろう。
 
-[伊藤潤二×garden切り絵セレクション](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34850319%2F&af_id=DMMaria-999&ch=api)
+伊藤潤二×garden切り絵セレクション
 
 ### よくある質問
 **Q1: 切り絵初心者ですが、本当に作れるか不安です。**

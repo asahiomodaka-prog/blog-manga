@@ -2,7 +2,7 @@
 title: 『ROOKIES』DMMTVで熱血青春！夢を追う男たちの魂の物語
 description: 不器用な男たちが夢を追いかける姿を描いた『ROOKIES』。泥臭い情熱と仲間との絆、そして再生の物語をDMMTVで視聴する魅力を、熱烈なファンが独自の視点で深掘りする。
 pubDate: '2026-09-05'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
 genre: manga
 mediaType: comic
 faq:
@@ -19,20 +19,8 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
   price: 220
   microCopy: 詳細を見る
-- title: 映画「ROOKIES－卒業－」
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Da5q7tg4u4c61esin77kmn6x0h%26season%3Da5q7tg4u4c61esin77kmn6x0h&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
-  price: 550
-  microCopy: 詳細を見る
-- title: べしゃる漫画家
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F888901%2Fb950sshes03918%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950sshes03918/b950sshes03918pl.jpg
-  price: 1540
-  microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b950xshes18688/b950xshes18688pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b950sshes03918/b950sshes03918pl.jpg
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -40,7 +28,6 @@ heroImages:
 何かに打ち込みたいけれど、一歩踏み出せない。そんな悶々とした気持ちを抱えているなら、『ROOKIES』は間違いなく響く作品だろう。泥臭くも真っ直ぐな男たちの成長と、熱い絆を描くこの物語は、僕の心に常に火を灯してくれる。
 
 DMMTVで手軽に視聴できるROOKIESは、忘れかけていた情熱を思い出させてくれる。不器用な生徒たちが夢を追い、再生していく姿は、僕たちに明日への希望を与えてくれるはずだ。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -72,7 +59,6 @@ DMMTVで手軽に視聴できるROOKIESは、忘れかけていた情熱を思�
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 不良たちの再生と絆が生む奇跡の物語
 
 『ROOKIES』は森田まさのり先生が描いた、高校野球を舞台にした熱血青春漫画を原作とするTVドラマシリーズだ。主人公は元不良で熱血漢の教師、川藤幸一。彼が赴任したのは、問題児ばかりが集まる二子玉川学園高校（通称ニコガク）の野球部だった。
@@ -83,7 +69,7 @@ DMMTVで手軽に視聴できるROOKIESは、忘れかけていた情熱を思�
 
 野球を通して彼らが友情を育み、人間として成長していく過程が、この作品の最大の魅力だ。
 
-[ROOKIES](https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Djefahbw666nfu8b8wpkqynhu1%26season%3Dnpjypv40rst288u857fn8dcdu&af_id=DMMaria-999&ch=api)
+ROOKIES
 
 ## 魂を揺さぶる言葉と名シーンの力
 

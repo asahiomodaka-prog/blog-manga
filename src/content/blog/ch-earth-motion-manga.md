@@ -29,8 +29,7 @@ sidebarProducts:
 
 作品への深い敬意と愛を持つファンにとって、これほど所有欲を掻き立てられるコレクションは稀有な存在となる。
 
-[チ 地球の運動について 全巻セット](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34685830%2F&af_id=DMMaria-999&ch=api)
-
+チ 地球の運動について 全巻セット
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -61,7 +60,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 思想と真理を宿す装丁の美しさ
 

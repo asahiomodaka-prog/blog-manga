@@ -42,8 +42,7 @@ heroImages:
 
 全巻揃えて一気に読破したい気持ちはよくわかるが、僕自身の経験から言わせてもらうと、衝動買いで後悔するケースも少なくない。
 
-そこで今回は、これから『モブサイコ100』のコミック[全巻セット](https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP)を手に入れたい人に向けて、失敗しない選び方を徹底的にガイドしていく。紙か電子か、新品か中古か、賢い選択のヒントを掴んで、あなたにとって最高の「モブサイコ体験」を手に入れてほしい。
-
+そこで今回は、これから『モブサイコ100』のコミック全巻セットを手に入れたい人に向けて、失敗しない選び方を徹底的にガイドしていく。紙か電子か、新品か中古か、賢い選択のヒントを掴んで、あなたにとって最高の「モブサイコ体験」を手に入れてほしい。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -74,7 +73,6 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 『モブサイコ100』が僕らの心を掴む理由
 

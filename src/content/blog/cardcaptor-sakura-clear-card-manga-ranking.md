@@ -51,7 +51,6 @@ sidebarProducts:
 
 ---
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -82,7 +81,6 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 【ランキング第1位】カードキャプターさくら クリアカード編（電子書籍・全16巻完結）
 
 ### 圧倒的な利便性と画面拡大で堪能するCLAMPの至高の描線
@@ -103,8 +101,6 @@ sidebarProducts:
 | **全巻総額** | 約10,500円（※クーポン・ポイント還元で実質5,000円台も可） |
 | **配信形式** | デジタル書籍（DMMブックス、Kindle、楽天Kobo等） |
 | **おすすめ対象** | スマホやタブレットでいつでも読みたい方、収納場所を気にせずお得に揃えたい方 |
-
-👉 [DMMブックスで『カードキャプターさくら クリアカード編』の配信ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F689915%2Fb900bkds65226%2F&af_id=DMMaria-999&ch=api)
 
 ---
 
@@ -128,8 +124,6 @@ sidebarProducts:
 | **全巻総額** | 定価: 10,516円（税込） |
 | **出版社** | 講談社 |
 | **おすすめ対象** | 本棚に美しくコレクションしたい方、紙の手触りと装丁の美しさを愛する方 |
-
-👉 [Amazonで『カードキャプターさくら クリアカード編』紙単行本をチェックする](https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589%2520%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E7%25B7%25A8)
 
 ---
 
@@ -179,8 +173,6 @@ sidebarProducts:
 | **定価** | 710円（税込） |
 | **レーベル** | 講談社KK文庫 |
 | **おすすめ対象** | アニメやコミックの情景・心理描写を活字で深く味わいたい方、小説好きな読者 |
-
-👉 [DMMブックスで『小説 アニメ カードキャプターさくら』をチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F794387%2Fb900skds02906%2F&af_id=DMMaria-999&ch=api)
 
 ---
 

@@ -36,7 +36,6 @@ sidebarProducts:
 
 そんな疑問を抱く方に向けて、本書を長年愛読してきたファン目線から、**通常単行本との圧倒的な解像度の違い、収録ボリューム、そして一生モノの家宝として手元に置くべき理由**を忖度なしでレビューします。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -66,7 +65,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## なぜ『大ベルセルク展 公式図録』はファンの魂を抉る永久保存版なのか？
 

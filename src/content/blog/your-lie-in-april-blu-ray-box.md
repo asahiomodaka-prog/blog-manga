@@ -25,7 +25,6 @@ sidebarProducts:
 
 『四月は君の嘘』の感動を、最高の映像と音響で再体験したいと考えるなら、「四月は君の嘘 Blu-ray Disc BOX」がその期待に応えるだろう。単なる映像作品のコレクションに留まらず、作品世界への深い没入を可能にする本商品は、物語を愛し、高品位なクオリティで繰り返し楽しみたいファンにとって、価値ある選択肢となる。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -56,7 +55,6 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 青春のきらめきを閉じ込めた珠玉のボックス
 
 「四月は君の嘘 Blu-ray Disc BOX」を手に取った時、まず目を奪われるのはその美しいパッケージデザインだ。作品の世界観を凝縮した描き下ろしイラストは、有馬公生と宮園かをりの織りなす青春のきらめきと切なさを静かに物語っている。
@@ -80,7 +78,7 @@ Blu-ray Disc BOXのために丁寧にリマスターされた映像は、TV放�
 
 映像と音響がこれほどの高品位で収録されているからこそ、『四月は君の嘘』という作品が持つ情感、切なさ、そして希望のメッセージが、より深く心に響くのだ。ただアニメを鑑賞するというよりも、作品世界そのものに没入し、登場人物たちの葛藤や成長、そして音楽への情熱を肌で感じられる、そんな特別な体験がここにはある。
 
-[四月は君の嘘 Blu-ray Disc BOX](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx13641%2F&af_id=DMMaria-999&ch=api)
+四月は君の嘘 Blu-ray Disc BOX
 
 ## 音楽と青春が交錯する物語の核心を再び
 

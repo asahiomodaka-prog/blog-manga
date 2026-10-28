@@ -44,7 +44,6 @@ sidebarProducts:
 
 ---
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -74,7 +73,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 第1位：永井豪の創造の源泉を紐解く『凄ノ王画集 伝説の行方』
 
@@ -110,8 +108,6 @@ sidebarProducts:
 | 著者/作者 | 永井豪 |
 | メーカー/出版社 | 復刊ドットコム |
 
-👉 [凄ノ王画集 伝説の行方 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34332304%2F&af_id=DMMaria-999&ch=api)
-
 ## 第2位：連載当時の熱狂を体感『凄ノ王 完全初出 4 週刊少年マガジン版』
 
 この「完全初出 週刊少年マガジン版」は、『凄ノ王』をリアルタイムで追いかけた読者の記憶を呼び覚ます、あるいは当時の熱狂を追体験できる貴重なシリーズだ。第4巻は、物語が佳境に入り、クライマックスへと向かう重要な局面が描かれているはずだ。
@@ -145,8 +141,6 @@ sidebarProducts:
 | 著者/作者 | 永井豪, ダイナミックプロ |
 | メーカー/出版社 | 復刊ドットコム |
 
-👉 [凄ノ王 完全初出 4 週刊少年マガジン版 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34318264%2F&af_id=DMMaria-999&ch=api)
-
 ## 第3位：物語中盤の核心に迫る『凄ノ王 完全初出 3 週刊少年マガジン版』
 
 『凄ノ王 完全初出 3 週刊少年マガジン版』は、物語の中盤における重要な転換点や、キャラクターの心理描写が深掘りされる巻に当たるだろう。永井豪作品の特徴である、圧倒的なスケール感と哲学的な問いかけが、このあたりから一層色濃く現れてくるはずだ。
@@ -178,8 +172,6 @@ sidebarProducts:
 | 著者/作者 | 永井豪, ダイナミックプロ |
 | メーカー/出版社 | 復刊ドットコム |
 
-👉 [凄ノ王 完全初出 3 週刊少年マガジン版 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34309494%2F&af_id=DMMaria-999&ch=api)
-
 ## 第4位：物語の幕開けを彩る『凄ノ王 完全初出 2 週刊少年マガジン版』
 
 『凄ノ王 完全初出 2 週刊少年マガジン版』は、物語が本格的に動き出す序盤の展開を収録している巻だろう。第1巻がないため、物語の導入部分は把握しきれないが、永井豪が『凄ノ王』で描きたかった世界観や登場人物たちの関係性が、このあたりから明確になってくるはずだ。
@@ -210,8 +202,6 @@ sidebarProducts:
 | is_hobby | True |
 | 著者/作者 | 永井豪, ダイナミックプロ |
 | メーカー/出版社 | 復刊ドットコム |
-
-👉 [凄ノ王 完全初出 2 週刊少年マガジン版 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34295422%2F&af_id=DMMaria-999&ch=api)
 
 ---
 

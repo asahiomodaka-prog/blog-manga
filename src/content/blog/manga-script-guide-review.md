@@ -2,7 +2,7 @@
 title: 漫画の「面白さ」を深掘りする脚本術！220円で得られる思考の羅針盤
 description: 漫画の脚本術を深掘りする「マンガ学部の脚本概論」を徹底レビュー。なぜその物語が読者の心に響くのか、その根源的なロジックと設計思想を解説。他の指南書では得られない、作者さそうあきらの深い洞察を紹介。
 pubDate: '2026-10-02'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b350dftdb07551/b350dftdb07551pl.jpg'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b350dftdb07551/b350dftdb07551pl.jpg
 genre: manga
 mediaType: comic
 tags:
@@ -20,20 +20,8 @@ sidebarProducts:
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350dftdb07551/b350dftdb07551pl.jpg
   price: 220
   microCopy: 詳細を見る
-- title: バリ島物語 〜神秘の島の王国、その壮麗なる愛と死〜
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F666022%2Fb350dftdb01877%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350dftdb01877/b350dftdb01877pl.jpg
-  price: 880
-  microCopy: 詳細を見る
-- title: バリ島物語 〜神秘の島の王国、その壮麗なる愛と死〜（単話）
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F613374%2Fb350dftdb01162%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b350dftdb01162/b350dftdb01162pl.jpg
-  price: 110
-  microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b350dftdb07551/b350dftdb07551pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b350dftdb01877/b350dftdb01877pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b350dftdb01162/b350dftdb01162pl.jpg
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -42,8 +30,7 @@ heroImages:
 
 読者の心を掴む「物語の設計図」を、根源的な視点から解き明かす思考の羅針盤だ。ストーリーの面白さがどこから生まれるのか、その本質を深く知りたいと願う創作者にとって、これは間違いなく必読の一冊だと僕は思う。
 
-[漫画家を志すすべての人へ マンガ学部の脚本概論](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F941082%2Fb350dftdb07551%2F&af_id=DMMaria-999&ch=api)
-
+漫画家を志すすべての人へ マンガ学部の脚本概論
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -74,7 +61,6 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 「面白さ」をロジックで解き明かす、実践的ストーリー構築術
 

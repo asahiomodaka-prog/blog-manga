@@ -27,14 +27,13 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-「劇場版 空の境界」は、何度見返しても発見がある稀有な作品だ。この[劇場版 空の境界 Blu-ray Disc Box Standard Edition](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%25A9%25BA%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%2520Blu-ray%2520BOX)は、その珠玉の物語を最高画質で堪能できる決定版と言える。
+「劇場版 空の境界」は、何度見返しても発見がある稀有な作品だ。この劇場版 空の境界 Blu-ray Disc Box Standard Editionは、その珠玉の物語を最高画質で堪能できる決定版と言える。
 
 全七章、終章、エピローグの全てが収められており、単に映像を所有するだけでなく、作品世界を深く理解するための最高のツールになる。
 
-長期的な視点で見れば、この[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%25A9%25BA%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%2520Blu-ray) Boxは非常にコストパフォーマンスが高い。一度手に入れれば、いつでも好きな時にufotableが織りなす圧倒的な映像美と奈須きのこ氏の緻密なストーリーを心ゆくまで味わえるのだ。
+長期的な視点で見れば、このBlu-ray Boxは非常にコストパフォーマンスが高い。一度手に入れれば、いつでも好きな時にufotableが織りなす圧倒的な映像美と奈須きのこ氏の緻密なストーリーを心ゆくまで味わえるのだ。
 
 デジタル配信が主流の時代でも、物理メディアが持つ普遍的な価値を再認識させてくれる存在だ。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -66,7 +65,6 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## ufotableの美学が光るパッケージ：コレクション欲を刺激するデザイン
 
 このBlu-ray Boxの最大の魅力の一つは、ufotable描き下ろしイラストデジパックと三方背BOX仕様にある。単なる収納ケースではなく、作品へのリスペクトと愛が詰まったアートピースとして成立している。
@@ -95,7 +93,7 @@ ufotableの制作陣は、奈須氏の文章が持つ独特の雰囲気や言葉
 
 ## 手間とコスト：物理メディア所有のリアリティ
 
-この[劇場版 空の境界 Blu-ray Disc Box Standard Edition](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%25A9%25BA%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%2520Blu-ray%2520Box%2520Standard%2520Edition)の価格は27,500円（税込）であり、気軽に手が出せる金額ではない。これはデジタル配信サービスの月額料金と比べると、初期費用としてまとまった出費になる。
+この劇場版 空の境界 Blu-ray Disc Box Standard Editionの価格は27,500円（税込）であり、気軽に手が出せる金額ではない。これはデジタル配信サービスの月額料金と比べると、初期費用としてまとまった出費になる。
 
 しかし、この価格は全七章、終章、エピローグ、さらに特典CDも含む約10時間に及ぶ映像コンテンツと、高品質なパッケージデザインへの投資と考えるべきだ。
 

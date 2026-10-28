@@ -24,12 +24,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-村田蓮爾の初期作品を網羅した[画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%2520%25E7%2594%25BB%25E9%259B%2586)『futurhythm』は、緻密なメカと繊細な少女を融合させた独特の世界観に触れたい人にとって、まさに必携の一冊だ。特にアニメ『LAST EXILE』で彼のキャラクター原案に魅了されたなら、その原点にある表現の深さと思考の軌跡を存分に味わえるだろう。
+村田蓮爾の初期作品を網羅した画集『futurhythm』は、緻密なメカと繊細な少女を融合させた独特の世界観に触れたい人にとって、まさに必携の一冊だ。特にアニメ『LAST EXILE』で彼のキャラクター原案に魅了されたなら、その原点にある表現の深さと思考の軌跡を存分に味わえるだろう。
 
 単なるイラスト集ではなく、一枚の絵に込められた設計思想と未来への視点を感じ取りたい、そんな知的探究心を持つ読者に強く響く作品だ。
 
-[futurhythm 村田蓮爾画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%259D%2591%25E7%2594%25B0%25E8%2593%25AE%25E7%2588%25BE%25E7%2594%25BB%25E9%259B%2586%2520futurhythm)
-
+futurhythm 村田蓮爾画集
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -61,7 +60,6 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 一枚絵に凝縮された物語――構図と視線誘導の設計思想
 
 村田蓮爾作品の最大の魅力は、一枚のイラストに圧倒的な情報量と物語性を詰め込む構図の巧みさにある。彼の絵を初めて見た時、僕はその精密さにどこから見ればいいのか戸惑った。
@@ -76,7 +74,7 @@ sidebarProducts:
 
 この画集は、村田蓮爾の初期代表作約120点を収録しており、彼の根底にある表現への探求心と、後の作品へと繋がる萌芽が色濃く現れている。彼の描くメカは単なる道具ではなく、少女たちの意志や夢を乗せた、まさに分身のような存在だ。
 
-例えば、少女がメカにもたれかかり遠くを見つめる構図からは、過酷な環境を生き抜く彼女たちの孤独や、それでも[諦めない](/blog/space-brothers-manga-set/)強い意志が伝わってくる。
+例えば、少女がメカにもたれかかり遠くを見つめる構図からは、過酷な環境を生き抜く彼女たちの孤独や、それでも諦めない強い意志が伝わってくる。
 
 僕が特に心惹かれるのは、初期作品特有の荒削りながらも熱量に満ちた表現だ。完成された技巧だけでなく、試行錯誤の痕跡や、表現への純粋な衝動がダイレクトに伝わる。
 

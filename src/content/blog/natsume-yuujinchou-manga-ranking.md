@@ -49,7 +49,6 @@ sidebarProducts:
 
 ---
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -80,7 +79,6 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 第1位: 緑川ゆき先生の原点がここに！ DMMブックス『夏目友人帳』コミック1巻
 
 DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは**原作コミックから始めるのが圧倒的におすすめ**だ。緑川ゆき先生の柔らかな描線と、一コマ一コマに込められた静かな情感は、アニメとはまた異なる深い味わいがある。
@@ -103,8 +101,6 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは**
 | 著者/作者 | 緑川ゆき |
 | ジャンル | ファンタジー, アニメ化 |
 
-👉 [夏目友人帳 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102691%2Fb371khkss08364%2F&af_id=DMMaria-999&ch=api)
-
 ---
 
 ## 第2位: 動き出す感動と癒やし！ DMMTV『夏目友人帳』アニメ シーズン1（仮称）
@@ -125,8 +121,6 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは**
 | サービス | DMMTV |
 | フロア | DMMTV |
 
-👉 [夏目友人帳 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Djnmwvusf1r7rjkfe60wa2uegd%26season%3Dszy4xzc1sx8s9art7wwh7wax0&af_id=DMMaria-999&ch=api)
-
 ---
 
 ## 第3位: 物語が深まる感動 DMMTV『夏目友人帳』アニメ シーズン2（仮称）
@@ -146,8 +140,6 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは**
 | 価格 | 550円 |
 | サービス | DMMTV |
 | フロア | DMMTV |
-
-👉 [夏目友人帳 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Djnmwvusf1r7rjkfe60wa2uegd%26season%3Dovaz7veqtfqwbrimut7wd14af&af_id=DMMaria-999&ch=api)
 
 ---
 
@@ -170,8 +162,6 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは**
 | 価格 | 550円 |
 | サービス | DMMTV |
 | フロア | DMMTV |
-
-👉 [夏目友人帳 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Djnmwvusf1r7rjkfe60wa2uegd%26season%3Dopdm6gqwshtcr73iu1rsypjuk&af_id=DMMaria-999&ch=api)
 
 ---
 

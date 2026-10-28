@@ -43,8 +43,7 @@ heroImages:
 
 現代の洗練されたギャグ漫画に慣れた読者にとって、手塚治虫が描いた昭和のギャグは新鮮な驚きとなるだろう。漫画の歴史を深く知りたい人や、手塚治虫の多岐にわたる才能に触れたい人には、特におすすめしたい作品だ。
 
-[ひょうたん駒子 手塚治虫文庫全集](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F598544%2Fb900okds04330%2F&af_id=DMMaria-999&ch=api)
-
+ひょうたん駒子 手塚治虫文庫全集
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -75,7 +74,6 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 異形なヒロインが織りなす昭和のギャグワールド
 

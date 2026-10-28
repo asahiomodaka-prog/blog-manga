@@ -23,7 +23,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -54,7 +53,6 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 不朽の名作と古典の融合：現代を生き抜くための智慧
 
 現代社会は複雑で、日々の仕事や人間関係で多くの悩みを抱える人は少なくない。そんな時、ビジネス書を読んでも頭に入ってこない、もっと心に響く言葉が欲しいと感じることはないだろうか。
@@ -63,7 +61,7 @@ sidebarProducts:
 
 特に、組織運営やチームビルディングに課題を感じているビジネスパーソンや、自身のキャリアに迷いを感じている若手層には、その構造的な分析が深く刺さるはずだ。
 
-[時代を超える スラムダンク論語](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4297619%2Fs284asnph00157%2F&af_id=DMMaria-999&ch=api)
+時代を超える スラムダンク論語
 
 ## 『スラムダンク論語』が紐解く人間成長の普遍的構造
 
@@ -176,7 +174,7 @@ sidebarProducts:
 
 自己啓発書として、何度も読み返すことで新たな発見があるタイプの本なので、電子書籍として手元に置いておくことは非常に実用的な選択だ。
 
-[時代を超える スラムダンク論語](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4297619%2Fs284asnph00157%2F&af_id=DMMaria-999&ch=api)
+時代を超える スラムダンク論語
 
 ## 古典とエンタメから得られる、あなただけの教訓
 

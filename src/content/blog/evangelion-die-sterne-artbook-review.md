@@ -24,14 +24,13 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-新世紀エヴァンゲリオン[画集](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%2520%25E7%2594%25BB%25E9%259B%2586)DIE STERNEは、単なるイラストの羅列ではない。これは、庵野秀明監督が紡ぎ出した普遍的な人間ドラマの、視覚的な資料集と呼ぶべき作品だ。
+新世紀エヴァンゲリオン画集DIE STERNEは、単なるイラストの羅列ではない。これは、庵野秀明監督が紡ぎ出した普遍的な人間ドラマの、視覚的な資料集と呼ぶべき作品だ。
 
 アニメーションという表現媒体を通して、登場人物たちの葛藤や成長、そして作品が提示する深遠な問いを再体験するための、まさに決定版である。
 
 エヴァの世界観に深く没入したい人、アニメーション制作の裏側にある意図を知りたい人には、この画集は間違いなく知的な刺激を与えてくれる。
 
-[新世紀エヴァンゲリオン画集DIE STERNE](https://hb.afl.rakuten.co.jp/hgc/g00qtaz1.ve2q5c76.g00qtaz1.ve2q6da9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhmvjapan%2F2582184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhmvjapan%2Fi%2F29137019%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad9b)
-
+新世紀エヴァンゲリオン画集DIE STERNE
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -62,7 +61,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## キャラクターの視線と物語る色彩：アニメ作画の真髄に迫る
 

@@ -45,7 +45,6 @@ heroImages:
 
 各作品の「顔」たる主題歌が、なぜこれほどまでに胸を熱くするのか、その秘密と制作者の深いこだわりが凝縮された、まさに決定版と言える一枚だ。往年のファンはもちろん、ロボットアニメの系譜に触れたい若い世代にも、このDVDは強烈な体験を約束するだろう。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -76,7 +75,6 @@ heroImages:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 世代を超えて響くメロディの秘密
 
 この大全集の真価は、その選曲と音源のクオリティに集約されている。コロムビアという老舗メーカーが手がけることで、当時のマスターテープに近い音質が再現されているのだ。単なる寄せ集めではなく、各楽曲が持つ「作品の顔」としての役割を最大限に引き出す、確固たる選曲思想を感じる。
@@ -87,7 +85,7 @@ heroImages:
 
 それぞれの楽曲には、当時の貴重なオープニング・エンディング映像が収められており、楽曲と映像が一体となって蘇る体験は格別だ。過去の音源をデジタル化する際のノイズ除去や、音圧調整といった「見えない編集」に、制作者の深いこだわりを感じる。
 
-[燃えろ 東映スーパーロボット主題歌大全集](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_659cobc6517%2F&af_id=DMMaria-999&ch=api)
+燃えろ 東映スーパーロボット主題歌大全集
 
 ## 主題歌が紡ぐ物語と時代精神
 

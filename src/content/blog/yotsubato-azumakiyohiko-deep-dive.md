@@ -28,8 +28,7 @@ sidebarProducts:
 
 この作品は、作者あずまきよひこ氏の緻密な計算に裏打ちされた表現技法が光る、まさに漫画表現の教科書のような存在と言える。
 
-多くの電子書籍サービスで気軽に読めるが、DMMブックスなら現在、 [よつばと](https://al.dmm.com/?lurl=https%3A%2F%2Fwww%2Edmm%2Ecom%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt32972737%2F&af_id=DMMaria-999&ch=api) の電子書籍全15巻セットが2,200円という破格の価格で手に入る。この機会に、ぜひ一度その世界に触れてみてほしい。
-
+多くの電子書籍サービスで気軽に読めるが、DMMブックスなら現在、 よつばと の電子書籍全15巻セットが2,200円という破格の価格で手に入る。この機会に、ぜひ一度その世界に触れてみてほしい。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -60,7 +59,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## あずまきよひこの描線と構図が織りなす空気感
 
@@ -94,7 +92,7 @@ sidebarProducts:
 
 ## 電子書籍で読み続ける上での留意点
 
-今回、DMMブックスで [よつばと](https://al.dmm.com/?lurl=https%3A%2F%2Fwww%2Edmm%2Ecom%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt32972737%2F&af_id=DMMaria-999&ch=api) の電子書籍全15巻セットが2,200円という価格は、非常に魅力的だ。単行本1冊あたりの価格が約700円前後と考えると、全巻揃えるには1万円以上かかるため、この電子書籍セットは大幅なコスト削減になる。
+今回、DMMブックスで よつばと の電子書籍全15巻セットが2,200円という価格は、非常に魅力的だ。単行本1冊あたりの価格が約700円前後と考えると、全巻揃えるには1万円以上かかるため、この電子書籍セットは大幅なコスト削減になる。
 
 僕自身も以前は紙の単行本で集めていたが、保管場所の確保が難しくなり、途中から電子書籍に移行した経験がある。
 

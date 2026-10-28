@@ -24,16 +24,15 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-今敏監督の傑作『千年女優』が4Kリマスター版[Blu-ray](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520Blu-ray)として蘇った。このTCエンタテインメントから発売された一枚は、単なる高画質化ではない。
+今敏監督の傑作『千年女優』が4Kリマスター版Blu-rayとして蘇った。このTCエンタテインメントから発売された一枚は、単なる高画質化ではない。
 
 作品の持つ幻想的な世界観と深いテーマを、現代の技術で最大限に引き出すための再構築だ。僕が初めて観た時、映像と物語の洪水に思考が追いつかず、すぐに2回目を再生したことを鮮明に覚えている。
 
-この[Blu-ray](/blog/kill-la-kill-bd-box/)は、今敏作品をこれから体験する初心者にとって、最高の入り口となるだろう。既にファンの方々には、**あの圧倒的な映像美と感動を再び、そしてより鮮やかに体験できるコレクターズアイテム**として、自信を持っておすすめしたい。
+このBlu-rayは、今敏作品をこれから体験する初心者にとって、最高の入り口となるだろう。既にファンの方々には、**あの圧倒的な映像美と感動を再び、そしてより鮮やかに体験できるコレクターズアイテム**として、自信を持っておすすめしたい。
 
 複雑に絡み合う現実と虚構の物語が、4Kリマスターによってさらに深く心に響くはずだ。
 
-[TCエンタテインメント 千年女優 4Kリマスター版](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258D%2583%25E5%25B9%25B4%25E5%25A5%25B3%25E5%2584%25AA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%2520Blu-ray)
-
+TCエンタテインメント 千年女優 4Kリマスター版
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -64,7 +63,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 4Kリマスターで蘇る映像美の真髄
 
@@ -149,7 +147,7 @@ sidebarProducts:
 
 高精細な映像で、圧倒的な映像美と、何度観ても色褪せない感動的な物語を再体験できるだろう。
 
-[TCエンタテインメント 千年女優 4Kリマスター版](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258D%2583%25E5%25B9%25B4%25E5%25A5%25B3%25E5%2584%25AA%25204K%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%2520Blu-ray)
+TCエンタテインメント 千年女優 4Kリマスター版
 
 ### よくある質問
 

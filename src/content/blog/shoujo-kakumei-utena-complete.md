@@ -31,8 +31,7 @@ sidebarProducts:
 
 本記事では、その映像・音響の品質から、作品が持つテーマ性、そして物理メディアとして手元に置く価値まで、漫画・ホビー専門エディターとしての視点から詳しく掘り下げていく。
 
-[少女革命ウテナ Complete](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_653kixa90766%2F&af_id=DMMaria-999&ch=api)
-
+少女革命ウテナ Complete
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,7 +62,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 映像体験を革新するコンプリートBOXのこだわり
 

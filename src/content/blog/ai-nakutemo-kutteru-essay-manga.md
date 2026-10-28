@@ -22,7 +22,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -53,10 +52,9 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 毎日の食卓が楽しくなる、よしながふみ流エッセイの魅力
 
-毎日の食事、特に一人で食べる「独り飯」にマンネリを感じていないだろうか。僕は、よしながふみ先生の『[愛がなくても喰ってゆけます](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F540799%2Fb202aoota00479%2F&af_id=DMMaria-999&ch=api)』を読んで、食に対する固定観念が大きく変わった。
+毎日の食事、特に一人で食べる「独り飯」にマンネリを感じていないだろうか。僕は、よしながふみ先生の『愛がなくても喰ってゆけます』を読んで、食に対する固定観念が大きく変わった。
 
 本作は単なるレシピ紹介にとどまらず、日々の食卓から思わずクスッと笑えるリアルな知恵と発見が詰まった、珠玉のエッセイ漫画です。
 
@@ -64,7 +62,7 @@ sidebarProducts:
 
 ## 食への愛情とユーモアが溢れる、作者自身の食卓
 
-『[愛がなくても喰ってゆけます](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F540799%2Fb202aoota00479%2F&af_id=DMMaria-999&ch=api)』は、DMMブックスのコミックフロアで提供されている、よしながふみ先生によるルポ・エッセイ・自叙伝にして料理・グルメ・レシピの要素を併せ持つ稀有な作品だ。他の作品でも人間の内面を深く描くことで定評のある先生が、自身の食生活を赤裸々に綴っている。
+『愛がなくても喰ってゆけます』は、DMMブックスのコミックフロアで提供されている、よしながふみ先生によるルポ・エッセイ・自叙伝にして料理・グルメ・レシピの要素を併せ持つ稀有な作品だ。他の作品でも人間の内面を深く描くことで定評のある先生が、自身の食生活を赤裸々に綴っている。
 
 冷蔵庫の残り物で作る質素な一品から、旬の食材を存分に楽しむ贅沢な食卓まで、その内容は多岐にわたる。料理の工程が丁寧に描かれ、先生自身の思考や食への愛情がひしひしと伝わってくるのが魅力だ。
 

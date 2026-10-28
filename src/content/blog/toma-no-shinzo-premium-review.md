@@ -27,14 +27,13 @@ heroImages:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-萩尾望都の不朽の名作『トーマの心臓』。その連載開始から半世紀近く経った今、新たに『トーマの心臓 プレミアムエディション』として小学館から[復刊](https://px.a8.net/svt/ejp?a8mat=4B8BWQ+5E3BZM+37DC+5ZMCH)された。
+萩尾望都の不朽の名作『トーマの心臓』。その連載開始から半世紀近く経った今、新たに『トーマの心臓 プレミアムエディション』として小学館から復刊された。
 
 これは単なる復刻版ではない。作品の持つ深遠なテーマ性や、登場人物たちの繊細な心の機微を、物質的な形として最大限に引き出すための、出版社と作者による渾身の一冊だ。
 
 このプレミアムエディションは、長年のファンはもちろん、まだこの傑作に触れていない読者にも、萩尾望都が築き上げた世界観を深く体験させてくれるだろう。
 
-[トーマの心臓 プレミアムエディション](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34434836%2F&af_id=DMMaria-999&ch=api)
-
+トーマの心臓 プレミアムエディション
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -65,7 +64,6 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 手のひらに宿る芸術性：装丁が語る「トーマの心臓」の世界
 プレミアムエディションの最大の魅力は、その装丁の美しさとこだわりにある。手に取った瞬間に感じるのは、単行本としての「重み」だ。僕が初めてこの本を手に取った時、その厚みとずっしりとした重量感に正直、少し戸惑った。しかし、この物理的な重さこそが、作品が内包する魂の叫びや少年たちの背負う「罪」の重みを、読み手に直感的に伝えているのだとすぐに気づいた。

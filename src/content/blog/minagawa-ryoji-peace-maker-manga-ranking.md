@@ -1,39 +1,33 @@
 ---
-title: '【2026年最新】皆川亮二 PEACE MAKER 全巻セットおすすめ人気ランキング4選を徹底比較！'
-description: '皆川亮二 PEACE MAKER 全巻セットの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
+title: 【2026年最新】皆川亮二 PEACE MAKER 全巻セットおすすめ人気ランキング4選を徹底比較！
+description: 皆川亮二 PEACE MAKER 全巻セットの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。
 pubDate: '2026-10-06'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600zsgk02967/b600zsgk02967pl.jpg'
-genre: 'manga'
-mediaType: 'comic'
+heroImage: https://ebook-assets.dmm.com/digital/e-book/b950nshes02447/b950nshes02447pl.jpg
+genre: manga
+mediaType: comic
 heroImages:
-  - 'https://ebook-assets.dmm.com/digital/e-book/b600zsgk02967/b600zsgk02967pl.jpg'
-  - 'https://ebook-assets.dmm.com/digital/e-book/b950nshes04261/b950nshes04261pl.jpg'
-  - 'https://ebook-assets.dmm.com/digital/e-book/b950nshes02447/b950nshes02447pl.jpg'
+- https://ebook-assets.dmm.com/digital/e-book/b950nshes02447/b950nshes02447pl.jpg
+- https://ebook-assets.dmm.com/digital/e-book/b950nshes04261/b950nshes04261pl.jpg
 tags:
-  - 'angle:ranking'
+- angle:ranking
 faq:
-  - question: '『PEACE MAKER』は完結していますか？'
-    answer: 'はい、『PEACE MAKER』は全17巻で完結しています。物語はしっかりと最後まで描き切られているので、安心して読み進められます。'
-  - question: '『PEACE MAKER ―BLACK WING―』は漫画ですか？'
-    answer: 'いいえ、『PEACE MAKER ―BLACK WING―』はノベライズ作品で、小説形式です。皆川亮二先生と岡村直宏先生による共著で、原作漫画とは異なる視点から物語が語られ、キャラクターの心理描写に深く踏み込んでいます。'
-  - question: '皆川亮二先生の作品は、どれから読み始めるのがおすすめですか？'
-    answer: 'アクションとSF、骨太な人間ドラマが好きなら、やはり代表作の『PEACE MAKER』や『ARMS』から入るのが定番です。短編集『転送者』は、作者の幅広い作風を気軽に試せる良い入り口になるでしょう。読者の好みに合わせて選んでみてください。'
+- question: 『PEACE MAKER』は完結していますか？
+  answer: はい、『PEACE MAKER』は全17巻で完結しています。物語はしっかりと最後まで描き切られているので、安心して読み進められます。
+- question: 『PEACE MAKER ―BLACK WING―』は漫画ですか？
+  answer: いいえ、『PEACE MAKER ―BLACK WING―』はノベライズ作品で、小説形式です。皆川亮二先生と岡村直宏先生による共著で、原作漫画とは異なる視点から物語が語られ、キャラクターの心理描写に深く踏み込んでいます。
+- question: 皆川亮二先生の作品は、どれから読み始めるのがおすすめですか？
+  answer: アクションとSF、骨太な人間ドラマが好きなら、やはり代表作の『PEACE MAKER』や『ARMS』から入るのが定番です。短編集『転送者』は、作者の幅広い作風を気軽に試せる良い入り口になるでしょう。読者の好みに合わせて選んでみてください。
 sidebarProducts:
-  - title: '転送者 皆川亮二短編集'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4071103%2Fb600zsgk02967%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600zsgk02967/b600zsgk02967pl.jpg'
-    price: 770
-    microCopy: '詳細を見る'
-  - title: 'PEACE MAKER ―BLACK WING―'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F685757%2Fb950nshes04261%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950nshes04261/b950nshes04261pl.jpg'
-    price: 733
-    microCopy: '詳細を見る'
-  - title: 'PEACE MAKER'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F106084%2Fb950nshes02447%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950nshes02447/b950nshes02447pl.jpg'
-    price: 770
-    microCopy: '詳細を見る'
+- title: PEACE MAKER
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F106084%2Fb950nshes02447%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950nshes02447/b950nshes02447pl.jpg
+  price: 770
+  microCopy: 詳細を見る
+- title: PEACE MAKER ―BLACK WING―
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F685757%2Fb950nshes04261%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950nshes04261/b950nshes04261pl.jpg
+  price: 733
+  microCopy: 詳細を見る
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -44,15 +38,14 @@ sidebarProducts:
 
 彼の描線一つ一つに宿る熱量を、ぜひ感じてほしい。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/b600zsgk02967/b600zsgk02967pl.jpg" alt="転送者 皆川亮二短編集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b950nshes02447/b950nshes02447pl.jpg" alt="PEACE MAKER" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">転送者 皆川亮二短編集</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">PEACE MAKER</h4>
 
 <div class="live-price-box" data-product-key="転送者-皆川亮二短編集" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
@@ -74,7 +67,6 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 第1位: PEACE MAKER
 
@@ -99,8 +91,6 @@ sidebarProducts:
 | 著者/作者 | 皆川亮二 |
 | ジャンル | バトル・アクション |
 
-👉 [PEACE MAKER の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F106084%2Fb950nshes02447%2F&af_id=DMMaria-999&ch=api)
-
 ## 第2位: PEACE MAKER ―BLACK WING―
 
 本編を読み終え、さらに『PEACE MAKER』の世界を深掘りしたいなら、このノベライズ作品が非常に有効だ。『PEACE MAKER ―BLACK WING―』は、原作漫画とは異なる視点から物語を補完し、キャラクターたちの内面や背景に深く踏み込むことができる。
@@ -122,11 +112,9 @@ sidebarProducts:
 | 著者/作者 | 皆川亮二, 岡村直宏 |
 | ジャンル | ノベライズ |
 
-👉 [PEACE MAKER ―BLACK WING― の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F685757%2Fb950nshes04261%2F&af_id=DMMaria-999&ch=api)
+## 第3位: PEACE MAKER
 
-## 第3位: 転送者 皆川亮二短編集
-
-『PEACE MAKER』の世界観から少し離れるが、皆川亮二先生の作家としてのルーツや幅広い才能を知る上で、『転送者 皆川亮二短編集』は非常に価値のある一冊だ。彼の連載作品では見られないような、実験的で多様なテーマの短編が収録されている。
+『PEACE MAKER』の世界観から少し離れるが、皆川亮二先生の作家としてのルーツや幅広い才能を知る上で、『PEACE MAKER』は非常に価値のある一冊だ。彼の連載作品では見られないような、実験的で多様なテーマの短編が収録されている。
 
 この短編集を読むことで、『PEACE MAKER』や『ARMS』といった長編作品に見られる、緻密なメカニック描写やダイナミックなアクション、そして人間ドラマの原点となるような表現の萌芽を見つけられるだろう。様々な題材に挑戦した若き日の皆川亮二先生の初期衝動が凝縮されており、彼の作画スタイルや構図の変遷を感じ取れるのも面白い。
 
@@ -144,8 +132,6 @@ sidebarProducts:
 | フロア | コミック |
 | 著者/作者 | 皆川亮二 |
 | ジャンル | オムニバス・短編集 |
-
-👉 [転送者 皆川亮二短編集 の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4071103%2Fb600zsgk02967%2F&af_id=DMMaria-999&ch=api)
 
 ## 第4位: 海王ダンテ
 
@@ -169,8 +155,6 @@ sidebarProducts:
 | フロア | コミック |
 | 著者/作者 | 皆川亮二, 泉福朗 |
 | ジャンル | 歴史・時代劇・戦記 |
-
-👉 [海王ダンテ の販売ページをチェックする](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F658105%2Fb600asgk02745%2F&af_id=DMMaria-999&ch=api)
 
 ## まとめ
 
