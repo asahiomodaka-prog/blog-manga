@@ -44,14 +44,6 @@ heroImages:
 
 [漫画家を志すすべての人へ マンガ学部の脚本概論](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F941082%2Fb350dftdb07551%2F&af_id=DMMaria-999&ch=api)
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #2563eb; border-radius: 10px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #1e40af; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #1e3a8a; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>作品の魅力</strong>: 『漫画家を志すすべての人へ マンガ学部の脚本概論』ならではの引き込まれるストーリー展開と、心に残るキャラクター描写。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 没入感のある名作を一気読みしたい方や、じっくり手元に揃えて読み返したいファン。</li>
-<li><strong>お得な楽しみ方</strong>: 電子書籍ストアの無料試し読みや初回割引クーポンを活用した賢い購読がおすすめ。</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -64,15 +56,15 @@ heroImages:
 
 <div class="live-price-box" data-product-key="漫画家を志すすべての人へ-マンガ学部の脚本概論" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span class="live-stock-badge" style="display: inline-flex; align-items: center; background: #ecfdf5; color: #047857; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 9999px;">🟢 在庫あり（即納対応）</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最安値をチェック</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥220</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25BC%25AB%25E7%2594%25BB%25E5%25AE%25B6%25E3%2582%2592%25E5%25BF%2597%25E3%2581%2599%25E3%2581%2599%25E3%2581%25B9%25E3%2581%25A6%25E3%2581%25AE%25E4%25BA%25BA%25E3%2581%25B8%2520%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E5%25AD%25A6%25E9%2583%25A8%25E3%2581%25AE%25E8%2584%259A%25E6%259C%25AC%25E6%25A6%2582%25E8%25AB%2596" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%BC%AB%E7%94%BB%E5%AE%B6%E3%82%92%E5%BF%97%E3%81%99%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E4%BA%BA%E3%81%B8%20%E3%83%9E%E3%83%B3%E3%82%AC%E5%AD%A6%E9%83%A8%E3%81%AE%E8%84%9A%E6%9C%AC%E6%A6%82%E8%AB%96%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F941082%2Fb350dftdb07551%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25BC%25AB%25E7%2594%25BB%25E5%25AE%25B6%25E3%2582%2592%25E5%25BF%2597%25E3%2581%2599%25E3%2581%2599%25E3%2581%25B9%25E3%2581%25A6%25E3%2581%25AE%25E4%25BA%25BA%25E3%2581%25B8%2520%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E5%25AD%25A6%25E9%2583%25A8%25E3%2581%25AE%25E8%2584%259A%25E6%259C%25AC%25E6%25A6%2582%25E8%25AB%2596" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F941082%2Fb350dftdb07551%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
@@ -82,6 +74,7 @@ heroImages:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
+
 
 ## 「面白さ」をロジックで解き明かす、実践的ストーリー構築術
 
@@ -93,25 +86,13 @@ heroImages:
 
 単に「面白いセリフを書け」ではなく、「読者がそう感じるメカニズム」を解体し、再構築する思考プロセスを学べるのだ。キャラクターの行動原理を心理学的な側面から考察する記述も多く、深みのある人物造形を目指す上で、非常に示唆に富んでいる。
 
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bfdbfe; border-radius: 14px; background: linear-gradient(135deg, #eff6ff, #dbeafe); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #1e40af; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #1e40af; line-height: 1.4;">📺 アニメ化作品も30日間無料で見放題！</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【DMM TV / 公式30日間無料体験】</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">話題の新作アニメから懐かしの名作まで5,000本以上が見放題！さらに今なら登録ですぐに使えるDMMポイント500ptプレゼント中。</p>
-<div style="text-align: center;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2F&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #2563eb, #1d4ed8); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 DMM TVで30日間無料体験してみる
-</a>
-</div>
-</div>
 
 ## 読者の心を掴む「物語の骨格」をどう組み立てるか
 
 僕自身、過去に漫画のプロットを考えた際、物語の山場を単調に描いてしまい、読者から「盛り上がりに欠ける」という評価を受けた経験がある。当時は単に演出が足りないと思っていたが、この本を読んで、そもそも物語の「骨格」そのものの設計に問題があったと気づかされた。
 
 普遍的な人間ドラマのテーマを作品に落とし込む方法、そして名シーンが生まれるための「必然性」や「カタルシス」の設計思想が、本書では具体的に語られている。
-
-<img src="https://ebook-assets.dmm.com/digital/e-book/b350dftdb07551/b350dftdb07551pl.jpg" alt="漫画家を志すすべての人へ マンガ学部の脚本概論" loading="lazy" decoding="async" />
 
 特に印象的だったのは、物語における「間」の重要性に関する考察だ。セリフや行動で埋め尽くすのではなく、読者に考えさせる空白、感情を揺さぶる沈黙が、いかに物語を豊かにするかを教えてくれる。
 

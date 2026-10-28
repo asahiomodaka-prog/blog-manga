@@ -28,6 +28,38 @@ sidebarProducts:
 
 このディスクは、作品に込められた圧倒的な熱量と、細部に宿る魂を再発見させてくれる決定版だ。かつて劇場で、またはVHSやLD、DVD、そして旧版[Blu-ray](/blog/denno-coil-bluray-box/)でこの作品に触れたすべての人に、新たな視点と深い感動をもたらすだろう。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa16/n_609bcqa16pl.jpg" alt="王立宇宙軍 オネアミスの翼 4K Blu-ray" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">王立宇宙軍 オネアミスの翼 4K Blu-ray</h4>
+
+<div class="live-price-box" data-product-key="王立宇宙軍-オネアミスの翼-4k-blu-ray" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥11,968</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%258E%258B%25E7%25AB%258B%25E5%25AE%2587%25E5%25AE%2599%25E8%25BB%258D%2520%25E3%2582%25AA%25E3%2583%258D%25E3%2582%25A2%25E3%2583%259F%25E3%2582%25B9%25E3%2581%25AE%25E7%25BF%25BC%25204K%2520Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa16%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%258E%258B%25E7%25AB%258B%25E5%25AE%2587%25E5%25AE%2599%25E8%25BB%258D%2520%25E3%2582%25AA%25E3%2583%258D%25E3%2582%25A2%25E3%2583%259F%25E3%2582%25B9%25E3%2581%25AE%25E7%25BF%25BC%25204K%2520Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa16%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
+
 ## 圧倒的な4K映像が描く、作品世界の深み
 『王立宇宙軍 オネアミスの翼』の4K Ultra HD [Blu-ray](/blog/kill-la-kill-bd-box/)は、ただ高精細になっただけではない。オリジナルネガからの4KスキャンとHDR（ハイダイナミックレンジ）リマスターによって、作品の持つ深遠な世界観が劇的に息を吹き返している。特に、空の広がりや宇宙の闇、そしてオネアミス王国独特の建築物やメカニックのディテールは、従来のディスクでは捉えきれなかった情報量で迫ってくる。
 
@@ -43,8 +75,6 @@ sidebarProducts:
 これらすべてが、当時の若手クリエイターたちのほとばしる情熱と圧倒的な画力で描かれている。特に、庵野秀明氏が絵コンテを担当したロケット打ち上げシークエンスは、爆発的なエネルギーと人類の希望、そしてそれを支える無数の人々の汗と涙が凝縮された名シーンだ。
 
 この4Kリマスター版でそのシーンを観ると、まるで当時の劇場にいるかのような臨場感で、その迫力に息をのむことになる。
-
-<img src="https://pics.dmm.com/mono/movie/animation/n_609bcqa16/n_609bcqa16pl.jpg" alt="王立宇宙軍 オネアミスの翼" loading="lazy" decoding="async" />
 
 ## 投資に見合うか？ 4K環境と価格への割り切り
 この[王立宇宙軍 オネアミスの翼](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa16%2F&af_id=DMMaria-999&ch=api)の購入を検討する際、まず向き合うべきは価格と再生環境の問題だろう。価格は11,968円と、一般的なアニメBlu-rayと比較すると決して安価ではない。さらに、この4K Ultra HD Blu-rayの真価を体験するには、4K対応のテレビと4K Ultra HD Blu-rayプレーヤーが必須となる。

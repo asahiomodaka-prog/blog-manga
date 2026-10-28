@@ -41,17 +41,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-<div class="summary-box" style="margin: 24px 0; padding: 20px; background: #fdf2f8; border-left: 4px solid #db2777; border-radius: 6px; font-size: 0.95rem; line-height: 1.7;">
-<p style="margin: 0 0 10px 0; font-weight: bold; color: #be185d; font-size: 1.05rem;">🌸 30秒でわかる『クリアカード編』選び方と結論</p>
-<ul style="margin: 0; padding-left: 20px;">
-<li><strong>第1位: 電子書籍版（全16巻）</strong> - 収納スペースゼロでいつでもどこでも読める。DMMブックスのポイント還元や割引クーポンで実質半額近くで揃えられる最強のコスパ。</li>
-<li><strong>第2位: 紙の単行本・全巻セット</strong> - CLAMP先生の繊細なトーンワークと美しい装丁を手元に残す喜び。本棚に並べたときの圧倒的なコレクション性。</li>
-<li><strong>第3位: 単行本特装版（限定グッズ付き）</strong> - 描き下ろしさくらカードやBIGアクスタ、ドラマCD同梱。ファン垂涎の絶版リスクの高いお宝アイテム。</li>
-<li><strong>第4位: アニメノベライズ小説版</strong> - 有沢ゆう希氏の丁寧な文体でキャラクターたちの心の声や繊細な機微を文字で補完。</li>
-<li><strong>編集部の結論</strong>: すぐに全巻読みたいなら**DMMブックスの電子書籍版**、装丁美に浸りたいコレクターは**紙の特装版・全巻セット**の指名買いがベストです。</li>
-</ul>
-</div>
-
 1996年の連載開始から四半世紀を超えて愛され続ける少女漫画の金字塔、CLAMPの『カードキャプターさくら』。その正統続編として2016年から『なかよし』で連載され、2023年末に**全16巻で堂々完結を迎えたのが『クリアカード編』**だ。
 
 中学生になった木之本桜と李小狼のピュアな恋路、透明になってしまったさくらカードの謎、そして転校生・詩之本秋穂と執事ユナ・D・海渡が抱える切ない宿命。大人になった当時のファンから新規読者まで、世代を超えて再び熱狂を巻き起こした。
@@ -61,6 +50,38 @@ sidebarProducts:
 本記事では、『クリアカード編』の各メディア（電子書籍・紙の通常版・特装版・小説版）を徹底比較し、後悔しないおすすめ人気ランキングと全巻お得なロードマップを完全ガイドする。
 
 ---
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://ebook-assets.dmm.com/digital/e-book/b900skds02906/b900skds02906pl.jpg" alt="小説 アニメ カードキャプターさくら" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">小説 アニメ カードキャプターさくら</h4>
+
+<div class="live-price-box" data-product-key="小説-アニメ-カードキャプターさくら" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥710</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E8%25AA%25AC%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F794387%2Fb900skds02906%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B0%258F%25E8%25AA%25AC%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F794387%2Fb900skds02906%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
 
 ## 【ランキング第1位】カードキャプターさくら クリアカード編（電子書籍・全16巻完結）
 
