@@ -22,15 +22,13 @@ sidebarProducts:
     microCopy: '詳細を見る'
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 新世紀エヴァンゲリオン画集DIE STERNEは、単なるイラストの羅列ではない。これは、庵野秀明監督が紡ぎ出した普遍的な人間ドラマの、視覚的な資料集と呼ぶべき作品だ。
 
 アニメーションという表現媒体を通して、登場人物たちの葛藤や成長、そして作品が提示する深遠な問いを再体験するための、まさに決定版である。
 
 エヴァの世界観に深く没入したい人、アニメーション制作の裏側にある意図を知りたい人には、この画集は間違いなく知的な刺激を与えてくれる。
-
-新世紀エヴァンゲリオン画集DIE STERNE
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -75,8 +73,6 @@ sidebarProducts:
 特に、初期の雑誌掲載イラストでは、未だ見ぬ物語への期待感を煽るような、少しばかり明るめのトーンが用いられている。しかし物語が進むにつれて、キャラクターの表情は深くなり、色彩もどこか陰鬱さを帯びていく。
 
 これは、作品全体のテーマである「自我との対峙」や「世界の残酷さ」を、視覚的に表現する設計思想が貫かれている証拠だろう。
-
-👉 DMM TVで30日間無料体験してみる
 
 ## 葛藤と成長を刻む線：アニメ版エヴァの核心テーマを読み解く
 

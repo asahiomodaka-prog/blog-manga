@@ -24,13 +24,11 @@ heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 楳図かずおの漫画『洗礼』は、単なるホラー作品とは一線を画す。美貌への異常な執着が引き起こす狂気と、母と娘のねじれた愛憎を描き出した、深遠な人間ドラマの金字塔だ。
 
 読者に強烈な心理的衝撃を与え、深い考察を促すこの作品は、人間の本質に迫る物語を求める人にこそ読んでもらいたい。全1巻で完結しているため非常に読みやすく、電子書籍サービスDMMブックスなら、たった1,210円でこの濃厚な読書体験が手に入る。
-
-洗礼
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -73,8 +71,6 @@ heroImages:
 初めて『洗礼』を読んだ時、楳図かずお特有の「ギャー！」という擬音や、デフォルメされた絵柄に最初は少し戸惑いを感じた。しかし読み進めるうちに、それが単なるホラー表現ではなく、キャラクターが極限状態に陥った時の感情を、読者の脳内に直接叩き込むための最適解だと気づいた。
 
 この独特の画風こそが、言葉だけでは伝えきれない恐怖と不安を視覚的に表現するメカニズムだ。
-
-👉 DMM TVで30日間無料体験してみる
 
 ## 美貌の呪いと母娘の深い闇
 

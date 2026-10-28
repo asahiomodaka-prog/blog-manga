@@ -34,7 +34,7 @@ heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/461/0015024625l.jpg?_ex=600x600
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -84,15 +84,15 @@ heroImages:
 
 #### メリット
 
-*   **五感を刺激する読書体験**: 紙の質感やインクの匂い、ページをめくる音が作品への没入感を高める。
-*   **コレクションとしての価値**: 本棚に並べた時の見栄えは格別で、美術品としての所有欲を満たす。
-*   **長期的な保存性**: 電子書籍サービスに依存せず、半永久的に手元に置いておける。
+*   <strong>五感を刺激する読書体験</strong>: 紙の質感やインクの匂い、ページをめくる音が作品への没入感を高める。
+*   <strong>コレクションとしての価値</strong>: 本棚に並べた時の見栄えは格別で、美術品としての所有欲を満たす。
+*   <strong>長期的な保存性</strong>: 電子書籍サービスに依存せず、半永久的に手元に置いておける。
 
 #### デメリット
 
-*   **保管場所が必要**: 全2巻とはいえ、物理的なスペースを確保する必要がある。
-*   **持ち運びの不便さ**: 電子書籍に比べて、外出先で気軽に読むのは難しい。
-*   **初期費用**: 電子書籍の割引セールなどに比べると、定価での購入となるため、多少割高に感じるかもしれない。
+*   <strong>保管場所が必要</strong>: 全2巻とはいえ、物理的なスペースを確保する必要がある。
+*   <strong>持ち運びの不便さ</strong>: 電子書籍に比べて、外出先で気軽に読むのは難しい。
+*   <strong>初期費用</strong>: 電子書籍の割引セールなどに比べると、定価での購入となるため、多少割高に感じるかもしれない。
 
 #### 対策
 

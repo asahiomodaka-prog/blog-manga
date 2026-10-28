@@ -24,7 +24,7 @@ heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600fsgk02808/b600fsgk02808pl.jpg
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 『Gu-Guガンモ』。このタイトルを聞いて、あのちょっととぼけた鳥のキャラクターを思い浮かべる人は多いだろう。
 

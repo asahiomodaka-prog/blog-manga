@@ -14,7 +14,7 @@ sidebarProducts:
 mediaType: figure
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 朝、コーヒーを淹れながら、ふとデスクの片隅に目をやる。
 窓から差し込む柔らかな光を受けて佇むその姿は、僕の日常に小さな、けれど確かな輝きを与えてくれる。
@@ -33,7 +33,6 @@ mediaType: figure
 彼が持つ、静かな魅力を感じ取れるだろう。
 
 彼の詳細については、こちらで確認できる。
-POP UP PARADE 二階堂ヒロ
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -218,8 +217,8 @@ DMMブックスのような電子書籍ストアなら、試し読み機能も�
 
 ### よくある質問（FAQ）：『POP UP PARADE 二階堂ヒロ L size 魔法少女ノ魔女裁判』
 
-**Q1. 「エメラルド編集部へようこそ：『世界一初恋』が紡ぐ大人の恋模様」で触れられている本作ならではの魅力は何ですか？**
+<strong>Q1. 「エメラルド編集部へようこそ：『世界一初恋』が紡ぐ大人の恋模様」で触れられている本作ならではの魅力は何ですか？</strong>
 A1. 『POP UP PARADE 二階堂ヒロ L size 魔法少女ノ魔女裁判』（参考価格：8329円前後）は、作品世界への没入感を高める造形・音響・パッケージ仕様にこだわって制作されており、ファンが手元に置いて繰り返し堪能できるコレクターズアイテムとして高い満足度を備えています。
 
-**Q2. 購入前に確認しておくべき仕様や保管上のポイントはありますか？**
+<strong>Q2. 購入前に確認しておくべき仕様や保管上のポイントはありますか？</strong>
 A2. 初回特典やブックレット等の付属有無、および対応メディア規格（Blu-ray/DVD/CD・サイズ等）を各ショップの商品ページで確認し、直射日光や高温多湿を避けて保管することで長く美しい状態を保てます。

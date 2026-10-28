@@ -22,7 +22,7 @@ heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b132amggd06130/b132amggd06130pl.jpg
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -59,8 +59,6 @@ heroImages:
 日々の喧騒に追われ、心が少し疲れていないだろうか。忙しない現代社会で忘れがちな心の安らぎや、人生を見つめ直すきっかけを求めているなら、漫画『ARIA』がその答えとなるだろう。
 
 水の惑星アクア、美しい未来都市ネオ・ヴェネツィアを舞台に、水の案内人「ウンディーネ」を目指す少女たちの日常を描いたこの作品は、読者に穏やかな感動と深い心の充足をもたらす。複雑な人間関係や刺激的な展開を期待する人には物足りないかもしれないが、詩的な描写と温かい交流に触れたい、大人になった今だからこそ感じる心の安らぎを求める人には、まさに読むべき一作だ。
-
-ARIA完全版 ［ARIA The MASTERPIECE］
 
 ## アクアを巡る穏やかな旅路：物語の舞台とプロローグ
 
@@ -103,8 +101,6 @@ ARIA完全版 ［ARIA The MASTERPIECE］
 この作品が描くのは、ただ美しいだけの世界ではない。変化を受け入れつつも、決して失ってはいけない大切なものが何なのかを、静かに問いかけてくる哲学的な一面も持ち合わせている。
 
 私はこの作品を読むたびに、現代社会で忘れかけていた大切な心の在り方を思い出させられる。それは、ただ美しい絵と物語に没頭するだけでなく、自己の内面と向き合う貴重な時間を与えてくれる、非常に深遠な体験だ。
-
-👉 DMM TVで30日間無料体験してみる
 
 ## 心を揺さぶる人間関係と光り輝く言葉の数々
 

@@ -14,10 +14,7 @@ sidebarProducts:
 mediaType: comic
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
-
-:::note
-:::
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -120,8 +117,8 @@ mediaType: comic
 
 ### よくある質問（FAQ）：『傾国のカルマ（単話）』
 
-**Q1. 「運命に抗う女王の魂：激動の12世紀イングランドを描く『傾国のカルマ』」の視点から見て、初見の読者でも楽しめますか？**
+<strong>Q1. 「運命に抗う女王の魂：激動の12世紀イングランドを描く『傾国のカルマ』」の視点から見て、初見の読者でも楽しめますか？</strong>
 A1. はい。『傾国のカルマ（単話）』（参考価格：100円前後）は導入から世界観と人物描写が丁寧に描かれており、予備知識がなくても物語の核心に自然と引き込まれる構成になっています。
 
-**Q2. 『傾国のカルマ（単話）』は紙の単行本・愛蔵版と電子書籍（Kindle・DMMブックス）のどちらがおすすめですか？**
+<strong>Q2. 『傾国のカルマ（単話）』は紙の単行本・愛蔵版と電子書籍（Kindle・DMMブックス）のどちらがおすすめですか？</strong>
 A2. 見開き演出や装丁を手元に残したい方には紙の単行本・完全版が適しており、スマホやタブレットで場所を選ばず一気読みしたい方には即時配信でポイント還元も活用できる電子書籍版が便利です。

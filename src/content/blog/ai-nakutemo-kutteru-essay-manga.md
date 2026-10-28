@@ -20,7 +20,7 @@ sidebarProducts:
     microCopy: '詳細を見る'
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -81,8 +81,6 @@ sidebarProducts:
 作中では、食材の旬を意識したシンプルな調理法が多く、素材本来の味を楽しむ先生の姿勢が伝わってくる。これは、外食や加工食品に頼りがちな僕らの食生活を見直す、良いきっかけを与えてくれる。
 
 特別な「愛」がなくても、日々の「食」に真摯に向き合うことで、心豊かな生活は築ける。そんな温かいメッセージが、この一冊には詰まっているのだ。
-
-👉 DMM TVで30日間無料体験してみる
 
 ## 読者の作品の魅力と、購入前の検討ポイント
 

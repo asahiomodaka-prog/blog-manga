@@ -37,22 +37,19 @@ const defaultProducts = [
 	{
 		title: 'マンガで世界名作 名探偵シャーロック・ホームズ',
 		url: 'https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fc6a58d7acedd376698538e15b5206cff%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F24974575%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
-		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=128x128',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4696/2000017724696.jpg?_ex=600x600',
 		price: 1320
 	},
 	{
 		title: '齋藤孝のドラえもん読み解きクイズ 2 国語力を伸ばす （ドラえもんのドリル・プリント・ムック）',
 		url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F4352251%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F12033400%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
-		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0928/9784092530928_1_4.jpg?_ex=128x128',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0928/9784092530928_1_4.jpg?_ex=600x600',
 		price: 770
 	}
 ];
 
 const rawProducts = sidebarProducts && sidebarProducts.length > 0
-	? [
-			...sidebarProducts,
-			...defaultProducts.slice(sidebarProducts.length)
-		].slice(0, 3)
+	? sidebarProducts.slice(0, 3)
 	: defaultProducts;
 
 // 各商品に imageUrl が未指定の場合は heroImage または defaultProducts でフォールバック
@@ -88,7 +85,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 
 <html lang="ja">
 	<head>
-		<BaseHead title={title} description={description} pubDate={pubDate} updatedDate={updatedDate} faq={faq} rating={rating} products={products} />
+		<BaseHead title={title} description={description} heroImage={heroImage} pubDate={pubDate} updatedDate={updatedDate} faq={faq} rating={rating} products={products} />
 		<style>
 			main {
 				width: 100%;
@@ -1697,9 +1694,9 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						</div>
 
 						<!-- 広告2: 汎用アフィリエイトプレースホルダー -->
+						{products && products.length > 1 && (
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{products && products.length > 1 && (
 								<div class="sidebar-product-card">
 									{products[1].imageUrl && (
 										<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
@@ -1718,13 +1715,13 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 										{products[1].microCopy || '詳細を見る'}
 									</a>
 								</div>
-							)}
 						</div>
+						)}
 
 						<!-- 広告3: 最下部追従広告 -->
+						{products && products.length > 2 && (
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{products && products.length > 2 && (
 								<div class="sidebar-product-card">
 									{products[2].imageUrl && (
 										<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
@@ -1743,8 +1740,8 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 										{products[2].microCopy || '詳細を見る'}
 									</a>
 								</div>
-							)}
 						</div>
+						)}
 						</div>
 					</div>
 				</aside>

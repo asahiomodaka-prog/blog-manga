@@ -37,13 +37,11 @@ heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/lamaree/cabinet/shohin/tezuka/12463163/1.jpg?_ex=600x600
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 手塚治虫の作品は数あれど、「ギャグ」という切り口でその真髄に触れるなら、『ひょうたん駒子』は外せない。この作品は、奇妙なヒロインが巻き起こす騒動を通して、手塚治虫の初期のギャグセンスと実験精神を垣間見せる一冊だ。
 
 現代の洗練されたギャグ漫画に慣れた読者にとって、手塚治虫が描いた昭和のギャグは新鮮な驚きとなるだろう。漫画の歴史を深く知りたい人や、手塚治虫の多岐にわたる才能に触れたい人には、特におすすめしたい作品だ。
-
-ひょうたん駒子 手塚治虫文庫全集
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -90,8 +88,6 @@ heroImages:
 見た目が異なることで受ける偏見や、それでも真っ直ぐに生きる駒子の姿は、多様性を受け入れることの重要性を静かに訴えかけてくる。彼女が巻き起こす騒動の裏には、どこか人間らしい哀愁や、他者とのコミュニケーションの難しさが隠されている。
 
 奇妙な顔の少女が、周囲の人々の心を少しずつ変えていくプロセスは、ギャグの中に確かな温かさを宿している。手塚治虫は、単なる笑いだけでなく、その奥に人間とは何か、社会とは何かという問いを忍ばせるのが本当にうまい。
-
-👉 DMM TVで30日間無料体験してみる
 
 ## 読者の本音と、作品が響く層
 

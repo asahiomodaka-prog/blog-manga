@@ -14,7 +14,7 @@ sidebarProducts:
 mediaType: anime
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -114,14 +114,12 @@ mediaType: anime
 
 あの夏の日々を、最高のクオリティで。
 
-あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX
-
 ## 『あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX （完全生産限定版 ブルーレイディスク）』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX （完全生産限定版 ブルーレイディスク）』
 
-**Q1. 「『あの日見た花の名前を僕達はまだ知らない。』Blu-ray BOX：色褪せぬ青春の輝きを最高の品質で」で触れられている本作ならではの魅力は何ですか？**
+<strong>Q1. 「『あの日見た花の名前を僕達はまだ知らない。』Blu-ray BOX：色褪せぬ青春の輝きを最高の品質で」で触れられている本作ならではの魅力は何ですか？</strong>
 A1. 『あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX （完全生産限定版 ブルーレイディスク）』（参考価格：25245円前後）は、作品世界への没入感を高める造形・音響・パッケージ仕様にこだわって制作されており、ファンが手元に置いて繰り返し堪能できるコレクターズアイテムとして高い満足度を備えています。
 
-**Q2. 購入前に確認しておくべき仕様や保管上のポイントはありますか？**
+<strong>Q2. 購入前に確認しておくべき仕様や保管上のポイントはありますか？</strong>
 A2. 初回特典やブックレット等の付属有無、および対応メディア規格（Blu-ray/DVD/CD・サイズ等）を各ショップの商品ページで確認し、直射日光や高温多湿を避けて保管することで長く美しい状態を保てます。

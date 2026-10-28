@@ -36,7 +36,7 @@ heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/ccc81/0011407206.jpg?_ex=600x600
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -82,15 +82,11 @@ heroImages:
 
 既存のファンにとってはたまらない贈り物であり、初めて作品に触れる人にもオノ・ナツメワールドの入り口として最適だろう。僕はこの静かで落ち着いた絵柄から、登場人物たちの内面がより鮮やかに想像できると感じている。
 
-つらつらわらじ 特別編
-
 ## 人間模様と時代背景にみる、普遍的なテーマ
 
 『つらつらわらじ 特別編』の魅力は、時代劇という舞台設定の中にも、現代に通じる普遍的な人間ドラマが描かれている点にある。武士や市井の人々の何気ない日常の中に、喜びや悲しみ、葛藤が丁寧に織り込まれているのだ。彼らの言葉にならない感情が、行間から僕の心に語りかけてくるようだった。
 
 僕が特に印象深かったのは、登場人物たちの関係性の奥行きだ。多くを語らずとも、互いを思いやる気持ちや、諦め、そして希望がそこにはある。オノ・ナツメさんの描く「間」の表現は、読者に思考の余白を与えてくれる。派手なセリフがなくとも、登場人物の人生や背景を感じ取れる。
-
-👉 DMM TVで30日間無料体験してみる
 
 ## 作品の魅力と、おすすめな人・検討前の留意点
 

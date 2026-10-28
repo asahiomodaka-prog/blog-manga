@@ -22,13 +22,11 @@ sidebarProducts:
   microCopy: 詳細を見る
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 村田蓮爾の初期作品を網羅した画集『futurhythm』は、緻密なメカと繊細な少女を融合させた独特の世界観に触れたい人にとって、まさに必携の一冊だ。特にアニメ『LAST EXILE』で彼のキャラクター原案に魅了されたなら、その原点にある表現の深さと思考の軌跡を存分に味わえるだろう。
 
 単なるイラスト集ではなく、一枚の絵に込められた設計思想と未来への視点を感じ取りたい、そんな知的探究心を持つ読者に強く響く作品だ。
-
-futurhythm 村田蓮爾画集
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">

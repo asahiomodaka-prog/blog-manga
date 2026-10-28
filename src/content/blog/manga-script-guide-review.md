@@ -24,13 +24,11 @@ heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b350dftdb07551/b350dftdb07551pl.jpg
 ---
 
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+> 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 漫画家を目指すなら、あるいは自分の物語をもっと深くしたいなら、この一冊は避けて通れないだろう。「漫画家を志すすべての人へ マンガ学部の脚本概論」は、単なるハウツー本ではない。
 
 読者の心を掴む「物語の設計図」を、根源的な視点から解き明かす思考の羅針盤だ。ストーリーの面白さがどこから生まれるのか、その本質を深く知りたいと願う創作者にとって、これは間違いなく必読の一冊だと僕は思う。
-
-漫画家を志すすべての人へ マンガ学部の脚本概論
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -71,8 +69,6 @@ heroImages:
 なぜこのコマでキャラの表情をアップにするのか、なぜこのセリフの後に空白のコマを置くのか。そうした演出意図の根底にある脚本の設計思想まで踏み込む深掘りは、他の多くの入門書には見られない。
 
 単に「面白いセリフを書け」ではなく、「読者がそう感じるメカニズム」を解体し、再構築する思考プロセスを学べるのだ。キャラクターの行動原理を心理学的な側面から考察する記述も多く、深みのある人物造形を目指す上で、非常に示唆に富んでいる。
-
-👉 DMM TVで30日間無料体験してみる
 
 ## 読者の心を掴む「物語の骨格」をどう組み立てるか
 
