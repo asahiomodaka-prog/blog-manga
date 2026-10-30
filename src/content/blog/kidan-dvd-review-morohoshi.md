@@ -28,10 +28,10 @@ sidebarProducts:
     imageUrl: 'https://pics.dmm.com/mono/movie/japanese/n_605gnbd1144/n_605gnbd1144pl.jpg'
     price: 4808
     microCopy: '詳細を見る'
-  - title: '「奇談」オリジナル・サウンドトラック'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_419ddcz1208s%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/cd/sound_track/cd_419ddcz1208s/cd_419ddcz1208spl.jpg'
-    price: 2409
+  - title: '奇談 DVD 通常版'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A5%87%E8%AB%87%20%E8%AB%B8%E6%98%9F%E5%A4%A7%E4%BA%8C%E9%83%8E%20DVD%2F'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/823/0017148840l.jpg?_ex=600x600'
+    price: 1222
     microCopy: '詳細を見る'
 ---
 

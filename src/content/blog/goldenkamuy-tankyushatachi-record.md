@@ -22,7 +22,7 @@ sidebarProducts:
     microCopy: '詳細を見る'
   - title: 'ゴールデンカムイ公式ファンブック 探究者たちの記録'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07459111%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://pics.dmm.com/mono/book/comic/bkt07459111/bkt07459111pl.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7320/9784088917320_1_2.jpg?_ex=600x600'
     price: 990
     microCopy: '詳細を見る'
 ---
